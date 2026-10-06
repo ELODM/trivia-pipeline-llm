@@ -1,0 +1,181 @@
+model,prompt_version,question,type,difficulty,correct_answer,raw_response,ai_answer,ai_correct,parsable,chosen_position,response_time,first_option
+llama-3.2-1b-instruct,v1_open,What is the capital of Greenland?,multiple,medium,Nuuk,Nuuk,Nuuk,True,True,,1.893,False
+llama-3.2-1b-instruct,v1_open,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,1992,1992,True,True,,1.744,False
+llama-3.2-1b-instruct,v1_open,What is the largest planet in the Solar System?,multiple,easy,Jupiter,Jupiter,Jupiter,True,True,,1.582,False
+llama-3.2-1b-instruct,v1_open,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,False,False,True,True,,1.847,False
+llama-3.2-1b-instruct,v1_open,The shape of the Earth is a perfect sphere.,boolean,easy,False,False,False,True,True,,1.57,False
+llama-3.2-1b-instruct,v1_open,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,Montreal Canadiens,Montreal Canadiens,False,True,,1.689,False
+llama-3.2-1b-instruct,v1_open,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,True,True,True,True,,1.593,False
+llama-3.2-1b-instruct,v1_open,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003",2003,2003,True,True,,1.677,False
+llama-3.2-1b-instruct,v1_open,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,3/4.,3/4.,False,True,,1.864,False
+llama-3.2-1b-instruct,v1_open,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,1-2,1-2,False,True,,1.835,False
+llama-3.2-1b-instruct,v1_open,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,The Prince,The Prince,True,True,,1.871,False
+llama-3.2-1b-instruct,v1_open,Which of these bones is hardest to break?,multiple,easy,Femur,2,2,False,True,,1.547,False
+llama-3.2-1b-instruct,v1_open,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,1. Mr. Darcy,1. Mr. Darcy,False,True,,2.055,False
+llama-3.2-1b-instruct,v1_open,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,1. Ossia,1. Ossia,False,True,,1.963,False
+llama-3.2-1b-instruct,v1_open,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,4,4,True,True,,1.554,False
+llama-3.2-1b-instruct,v1_open,What is the most commonly used noun in the English language?,multiple,hard,Time,1. The.,1. The.,False,True,,1.862,False
+llama-3.2-1b-instruct,v1_open,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,1. Dragon Balls,1. Dragon Balls,False,True,,1.929,False
+llama-3.2-1b-instruct,v1_open,Which data structure does FILO apply to?,multiple,hard,Stack,2 Stack,2 Stack,True,True,,1.715,False
+llama-3.2-1b-instruct,v1_open,What do sailors call the right side of a boat?,multiple,easy,Starboard,Port,Port,False,True,,1.564,False
+llama-3.2-1b-instruct,v1_open,What year did Australia become a federation?,multiple,medium,1901,1901,1901,True,True,,1.637,False
+llama-3.2-1b-instruct,v2_mcq_letter,What is the capital of Greenland?,multiple,medium,Nuuk,A,Nuuk,True,True,0.0,3.732,True
+llama-3.2-1b-instruct,v2_mcq_letter,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,A,1990,False,True,0.0,2.246,True
+llama-3.2-1b-instruct,v2_mcq_letter,What is the largest planet in the Solar System?,multiple,easy,Jupiter,A,Jupiter,True,True,0.0,1.835,True
+llama-3.2-1b-instruct,v2_mcq_letter,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,A,False,True,True,0.0,1.839,True
+llama-3.2-1b-instruct,v2_mcq_letter,The shape of the Earth is a perfect sphere.,boolean,easy,False,A,True,False,True,0.0,1.589,True
+llama-3.2-1b-instruct,v2_mcq_letter,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,A,Chicago Blackhawks,False,True,0.0,1.865,True
+llama-3.2-1b-instruct,v2_mcq_letter,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,A,False,False,True,0.0,1.859,True
+llama-3.2-1b-instruct,v2_mcq_letter,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003",C,"December 1, 2003",False,True,2.0,3.436,False
+llama-3.2-1b-instruct,v2_mcq_letter,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,A,3/4,False,True,0.0,1.9,True
+llama-3.2-1b-instruct,v2_mcq_letter,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,A,DMC,True,True,0.0,1.858,True
+llama-3.2-1b-instruct,v2_mcq_letter,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,D,The Prince,True,True,3.0,1.916,False
+llama-3.2-1b-instruct,v2_mcq_letter,Which of these bones is hardest to break?,multiple,easy,Femur,A,Humerus,False,True,0.0,1.884,True
+llama-3.2-1b-instruct,v2_mcq_letter,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,A,Larry,False,True,0.0,1.879,True
+llama-3.2-1b-instruct,v2_mcq_letter,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,A,Constellation ,False,True,0.0,1.91,True
+llama-3.2-1b-instruct,v2_mcq_letter,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,A,5,False,True,0.0,1.873,True
+llama-3.2-1b-instruct,v2_mcq_letter,What is the most commonly used noun in the English language?,multiple,hard,Time,A,Water,False,True,0.0,1.886,True
+llama-3.2-1b-instruct,v2_mcq_letter,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,A,Dragon Balls,False,True,0.0,1.909,True
+llama-3.2-1b-instruct,v2_mcq_letter,Which data structure does FILO apply to?,multiple,hard,Stack,A,Queue,False,True,0.0,1.879,True
+llama-3.2-1b-instruct,v2_mcq_letter,What do sailors call the right side of a boat?,multiple,easy,Starboard,A,Port,False,True,0.0,1.893,True
+llama-3.2-1b-instruct,v2_mcq_letter,What year did Australia become a federation?,multiple,medium,1901,A,1911,False,True,0.0,1.889,True
+llama-3.2-1b-instruct,v3_mcq_text,What is the capital of Greenland?,multiple,medium,Nuuk,Nuuk,Nuuk,True,True,0.0,2.036,True
+llama-3.2-1b-instruct,v3_mcq_text,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,1992.,1992,True,True,1.0,2.115,False
+llama-3.2-1b-instruct,v3_mcq_text,What is the largest planet in the Solar System?,multiple,easy,Jupiter,1. Jupiter,Jupiter,True,True,0.0,1.856,True
+llama-3.2-1b-instruct,v3_mcq_text,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,True,True,False,True,1.0,1.889,False
+llama-3.2-1b-instruct,v3_mcq_text,The shape of the Earth is a perfect sphere.,boolean,easy,False,True,True,False,True,0.0,1.625,True
+llama-3.2-1b-instruct,v3_mcq_text,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,1. Chicago Blackhawks,Chicago Blackhawks,False,True,0.0,2.181,True
+llama-3.2-1b-instruct,v3_mcq_text,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,True,True,True,True,1.0,1.844,False
+llama-3.2-1b-instruct,v3_mcq_text,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003","December 1, 2003.","December 1, 2003",False,True,2.0,2.667,False
+llama-3.2-1b-instruct,v3_mcq_text,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,4/4,4/4,False,True,2.0,2.105,False
+llama-3.2-1b-instruct,v3_mcq_text,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,Triangle,Triangle,False,True,2.0,1.88,False
+llama-3.2-1b-instruct,v3_mcq_text,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,Will to Power.,Will to Power,False,True,2.0,2.251,False
+llama-3.2-1b-instruct,v3_mcq_text,Which of these bones is hardest to break?,multiple,easy,Femur,Femur,Femur,True,True,2.0,2.15,False
+llama-3.2-1b-instruct,v3_mcq_text,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,The Flower Man.,The Flower Man,True,True,3.0,2.223,False
+llama-3.2-1b-instruct,v3_mcq_text,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,Lighthouse,Lighthouse,True,True,2.0,2.036,False
+llama-3.2-1b-instruct,v3_mcq_text,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,2,2,False,True,3.0,1.94,False
+llama-3.2-1b-instruct,v3_mcq_text,What is the most commonly used noun in the English language?,multiple,hard,Time,A,,False,False,,1.903,False
+llama-3.2-1b-instruct,v3_mcq_text,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,Sacred Stones.,Sacred Stones,False,True,2.0,2.148,False
+llama-3.2-1b-instruct,v3_mcq_text,Which data structure does FILO apply to?,multiple,hard,Stack,Heap,Heap,False,True,2.0,1.666,False
+llama-3.2-1b-instruct,v3_mcq_text,What do sailors call the right side of a boat?,multiple,easy,Starboard,Starboard,Starboard,True,True,1.0,1.997,False
+llama-3.2-1b-instruct,v3_mcq_text,What year did Australia become a federation?,multiple,medium,1901,1901,1901,True,True,2.0,2.021,False
+qwen2.5-1.5b-instruct,v1_open,What is the capital of Greenland?,multiple,medium,Nuuk,Nuuk,Nuuk,True,True,,2.861,False
+qwen2.5-1.5b-instruct,v1_open,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,1997,1997,False,True,,2.707,False
+qwen2.5-1.5b-instruct,v1_open,What is the largest planet in the Solar System?,multiple,easy,Jupiter,Jupiter,Jupiter,True,True,,2.367,False
+qwen2.5-1.5b-instruct,v1_open,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,True,True,False,True,,2.755,False
+qwen2.5-1.5b-instruct,v1_open,The shape of the Earth is a perfect sphere.,boolean,easy,False,False,False,True,True,,2.27,False
+qwen2.5-1.5b-instruct,v1_open,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,Chicago Blackhawks,Chicago Blackhawks,False,True,,2.38,False
+qwen2.5-1.5b-instruct,v1_open,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,True,True,True,True,,2.308,False
+qwen2.5-1.5b-instruct,v1_open,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003",2003,2003,True,True,,2.686,False
+qwen2.5-1.5b-instruct,v1_open,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,2/2,2/2,True,True,,2.526,False
+qwen2.5-1.5b-instruct,v1_open,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,Channel 12,Channel 12,False,True,,2.61,False
+qwen2.5-1.5b-instruct,v1_open,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,The Prince,The Prince,True,True,,2.761,False
+qwen2.5-1.5b-instruct,v1_open,Which of these bones is hardest to break?,multiple,easy,Femur,Bone in the wrist,Bone in the wrist,False,True,,2.581,False
+qwen2.5-1.5b-instruct,v1_open,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,The Shadowbringer,The Shadowbringer,False,True,,2.645,False
+qwen2.5-1.5b-instruct,v1_open,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,Stickers,Stickers,False,True,,2.364,False
+qwen2.5-1.5b-instruct,v1_open,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,7,7,False,True,,2.208,False
+qwen2.5-1.5b-instruct,v1_open,What is the most commonly used noun in the English language?,multiple,hard,Time,A,A,False,True,,2.263,False
+qwen2.5-1.5b-instruct,v1_open,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,Shikon shards,Shikon shards,False,True,,2.537,False
+qwen2.5-1.5b-instruct,v1_open,Which data structure does FILO apply to?,multiple,hard,Stack,Stack,Stack,True,True,,2.246,False
+qwen2.5-1.5b-instruct,v1_open,What do sailors call the right side of a boat?,multiple,easy,Starboard,Port,Port,False,True,,2.236,False
+qwen2.5-1.5b-instruct,v1_open,What year did Australia become a federation?,multiple,medium,1901,1901,1901,True,True,,2.6,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,What is the capital of Greenland?,multiple,medium,Nuuk,A,Nuuk,True,True,0.0,4.972,True
+qwen2.5-1.5b-instruct,v2_mcq_letter,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,B,1992,True,True,1.0,2.688,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,What is the largest planet in the Solar System?,multiple,easy,Jupiter,A,Jupiter,True,True,0.0,2.619,True
+qwen2.5-1.5b-instruct,v2_mcq_letter,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,B,True,False,True,1.0,2.633,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,The shape of the Earth is a perfect sphere.,boolean,easy,False,B,False,True,True,1.0,2.256,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,A,Chicago Blackhawks,False,True,0.0,2.658,True
+qwen2.5-1.5b-instruct,v2_mcq_letter,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,B,True,True,True,1.0,2.704,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003",A,"October 29, 2003",True,True,0.0,4.953,True
+qwen2.5-1.5b-instruct,v2_mcq_letter,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,A,3/4,False,True,0.0,2.637,True
+qwen2.5-1.5b-instruct,v2_mcq_letter,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,A,DMC,True,True,0.0,2.649,True
+qwen2.5-1.5b-instruct,v2_mcq_letter,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,D. The Prince,The Prince,True,True,3.0,3.106,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,Which of these bones is hardest to break?,multiple,easy,Femur,D,Cranium,False,True,3.0,2.642,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,B,The Shadow Demon,False,True,1.0,2.644,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,D. Trackers,Trackers,False,True,3.0,3.023,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,B,4,True,True,1.0,2.657,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,What is the most commonly used noun in the English language?,multiple,hard,Time,D. Home,Home,False,True,3.0,2.914,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,B,Jewel Shards,True,True,1.0,2.688,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,Which data structure does FILO apply to?,multiple,hard,Stack,D. Stack,Stack,True,True,3.0,2.915,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,What do sailors call the right side of a boat?,multiple,easy,Starboard,B,Starboard,True,True,1.0,2.665,False
+qwen2.5-1.5b-instruct,v2_mcq_letter,What year did Australia become a federation?,multiple,medium,1901,C,1901,True,True,2.0,2.721,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What is the capital of Greenland?,multiple,medium,Nuuk,Nuuk,Nuuk,True,True,0.0,2.841,True
+qwen2.5-1.5b-instruct,v3_mcq_text,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,1992,1992,True,True,1.0,3.052,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What is the largest planet in the Solar System?,multiple,easy,Jupiter,Jupiter,Jupiter,True,True,0.0,2.442,True
+qwen2.5-1.5b-instruct,v3_mcq_text,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,True,True,False,True,1.0,2.688,False
+qwen2.5-1.5b-instruct,v3_mcq_text,The shape of the Earth is a perfect sphere.,boolean,easy,False,False,False,True,True,1.0,2.263,False
+qwen2.5-1.5b-instruct,v3_mcq_text,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,Chicago Blackhawks,Chicago Blackhawks,False,True,0.0,2.791,True
+qwen2.5-1.5b-instruct,v3_mcq_text,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,True,True,True,True,1.0,2.654,False
+qwen2.5-1.5b-instruct,v3_mcq_text,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003","December 1, 2003","December 1, 2003",False,True,2.0,6.083,False
+qwen2.5-1.5b-instruct,v3_mcq_text,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,4/4,4/4,False,True,2.0,2.971,False
+qwen2.5-1.5b-instruct,v3_mcq_text,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,Noise,Noise,False,True,3.0,2.677,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,The Prince,The Prince,True,True,3.0,2.903,False
+qwen2.5-1.5b-instruct,v3_mcq_text,Which of these bones is hardest to break?,multiple,easy,Femur,Cranium,Cranium,False,True,3.0,2.92,False
+qwen2.5-1.5b-instruct,v3_mcq_text,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,The Shadow Demon,The Shadow Demon,False,True,1.0,2.915,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,Lighthouse,Lighthouse,True,True,2.0,2.776,False
+qwen2.5-1.5b-instruct,v3_mcq_text,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,4,4,True,True,1.0,2.66,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What is the most commonly used noun in the English language?,multiple,hard,Time,Man,Man,False,True,2.0,2.668,False
+qwen2.5-1.5b-instruct,v3_mcq_text,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,Jewel Shards,Jewel Shards,True,True,1.0,3.217,False
+qwen2.5-1.5b-instruct,v3_mcq_text,Which data structure does FILO apply to?,multiple,hard,Stack,Stack,Stack,True,True,3.0,2.282,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What do sailors call the right side of a boat?,multiple,easy,Starboard,Starboard,Starboard,True,True,1.0,2.794,False
+qwen2.5-1.5b-instruct,v3_mcq_text,What year did Australia become a federation?,multiple,medium,1901,1901,1901,True,True,2.0,3.07,False
+qwen3.5-2b,v1_open,What is the capital of Greenland?,multiple,medium,Nuuk,Nuuk,Nuuk,True,True,,5.668,False
+qwen3.5-2b,v1_open,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,1992,1992,True,True,,8.297,False
+qwen3.5-2b,v1_open,What is the largest planet in the Solar System?,multiple,easy,Jupiter,Jupiter,Jupiter,True,True,,5.358,False
+qwen3.5-2b,v1_open,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,False,False,True,True,,5.739,False
+qwen3.5-2b,v1_open,The shape of the Earth is a perfect sphere.,boolean,easy,False,False,False,True,True,,6.055,False
+qwen3.5-2b,v1_open,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,Pittsburgh Penguins,Pittsburgh Penguins,False,True,,8.547,False
+qwen3.5-2b,v1_open,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,True,True,True,True,,5.339,False
+qwen3.5-2b,v1_open,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003",2003,2003,True,True,,5.916,False
+qwen3.5-2b,v1_open,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,6/8,6/8,False,True,,5.297,False
+qwen3.5-2b,v1_open,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,Voice Channel 1,Voice Channel 1,False,True,,8.051,False
+qwen3.5-2b,v1_open,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,The Prince,The Prince,True,True,,8.19,False
+qwen3.5-2b,v1_open,Which of these bones is hardest to break?,multiple,easy,Femur,Tibia,Tibia,False,True,,5.925,False
+qwen3.5-2b,v1_open,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,The Bracken,The Bracken,False,True,,7.856,False
+qwen3.5-2b,v1_open,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,HTC Vive Base Station Tracker,HTC Vive Base Station Tracker,False,True,,8.651,False
+qwen3.5-2b,v1_open,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,12,12,False,True,,7.532,False
+qwen3.5-2b,v1_open,What is the most commonly used noun in the English language?,multiple,hard,Time,person,person,False,True,,5.051,False
+qwen3.5-2b,v1_open,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,Soul gems,Soul gems,False,True,,9.395,False
+qwen3.5-2b,v1_open,Which data structure does FILO apply to?,multiple,hard,Stack,Stack,Stack,True,True,,8.693,False
+qwen3.5-2b,v1_open,What do sailors call the right side of a boat?,multiple,easy,Starboard,Port,Port,False,True,,6.307,False
+qwen3.5-2b,v1_open,What year did Australia become a federation?,multiple,medium,1901,1901,1901,True,True,,9.088,False
+qwen3.5-2b,v2_mcq_letter,What is the capital of Greenland?,multiple,medium,Nuuk,A,Nuuk,True,True,0.0,8.523,True
+qwen3.5-2b,v2_mcq_letter,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,B,1992,True,True,1.0,7.697,False
+qwen3.5-2b,v2_mcq_letter,What is the largest planet in the Solar System?,multiple,easy,Jupiter,A,Jupiter,True,True,0.0,7.409,True
+qwen3.5-2b,v2_mcq_letter,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,B,True,False,True,1.0,7.488,False
+qwen3.5-2b,v2_mcq_letter,The shape of the Earth is a perfect sphere.,boolean,easy,False,B,False,True,True,1.0,7.606,False
+qwen3.5-2b,v2_mcq_letter,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,D,Montreal Canadians,True,True,3.0,7.679,False
+qwen3.5-2b,v2_mcq_letter,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,B,True,True,True,1.0,7.407,False
+qwen3.5-2b,v2_mcq_letter,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003",A,"October 29, 2003",True,True,0.0,7.56,True
+qwen3.5-2b,v2_mcq_letter,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,B,6/8,False,True,1.0,7.583,False
+qwen3.5-2b,v2_mcq_letter,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,D,Noise,False,True,3.0,7.396,False
+qwen3.5-2b,v2_mcq_letter,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,D,The Prince,True,True,3.0,7.536,False
+qwen3.5-2b,v2_mcq_letter,Which of these bones is hardest to break?,multiple,easy,Femur,D,Cranium,False,True,3.0,7.7,False
+qwen3.5-2b,v2_mcq_letter,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,D,The Flower Man,True,True,3.0,7.991,False
+qwen3.5-2b,v2_mcq_letter,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,C,Lighthouse,True,True,2.0,7.803,False
+qwen3.5-2b,v2_mcq_letter,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,C,18,False,True,2.0,10.453,False
+qwen3.5-2b,v2_mcq_letter,What is the most commonly used noun in the English language?,multiple,hard,Time,C,Man,False,True,2.0,7.936,False
+qwen3.5-2b,v2_mcq_letter,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,B,Jewel Shards,True,True,1.0,7.8,False
+qwen3.5-2b,v2_mcq_letter,Which data structure does FILO apply to?,multiple,hard,Stack,D,Stack,True,True,3.0,7.755,False
+qwen3.5-2b,v2_mcq_letter,What do sailors call the right side of a boat?,multiple,easy,Starboard,B,Starboard,True,True,1.0,7.901,False
+qwen3.5-2b,v2_mcq_letter,What year did Australia become a federation?,multiple,medium,1901,C,1901,True,True,2.0,8.182,False
+qwen3.5-2b,v3_mcq_text,What is the capital of Greenland?,multiple,medium,Nuuk,Nuuk,Nuuk,True,True,0.0,8.102,True
+qwen3.5-2b,v3_mcq_text,"What year did ""Bishoujo Senshi Sailor Moon"" air in Japan?",multiple,medium,1992,1992,1992,True,True,1.0,8.213,False
+qwen3.5-2b,v3_mcq_text,What is the largest planet in the Solar System?,multiple,easy,Jupiter,Jupiter,Jupiter,True,True,0.0,7.847,True
+qwen3.5-2b,v3_mcq_text,"In the Canadian province of Alberta, the city of Calgary is located further north than the city of Edmonton.",boolean,hard,False,True,True,False,True,1.0,7.524,False
+qwen3.5-2b,v3_mcq_text,The shape of the Earth is a perfect sphere.,boolean,easy,False,False,False,True,True,1.0,5.081,False
+qwen3.5-2b,v3_mcq_text,Which team has won the most Stanley Cups in the NHL?,multiple,easy,Montreal Canadians,Detroit Red Wings,Detroit Red Wings,False,True,1.0,7.877,False
+qwen3.5-2b,v3_mcq_text,Nutcracker Suite was one of the musical pieces featured in Disney's 1940's film Fantasia.,boolean,medium,True,True,True,True,True,1.0,7.952,False
+qwen3.5-2b,v3_mcq_text,When was the first Call of Duty title released?,multiple,hard,"October 29, 2003","November 14, 2002","November 14, 2002",False,True,3.0,9.608,False
+qwen3.5-2b,v3_mcq_text,Which time signature is commonly known as “Cut Time?”,multiple,medium,2/2,6/8,6/8,False,True,1.0,8.146,False
+qwen3.5-2b,v3_mcq_text,One of the Nintendo Entertainment System voice channels supports playback of sound samples. Which one?,multiple,medium,DMC,Dmc,DMC,True,True,0.0,7.778,True
+qwen3.5-2b,v3_mcq_text,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,multiple,hard,The Prince,The Prince,The Prince,True,True,3.0,7.82,False
+qwen3.5-2b,v3_mcq_text,Which of these bones is hardest to break?,multiple,easy,Femur,Femur,Femur,True,True,2.0,8.298,False
+qwen3.5-2b,v3_mcq_text,The Bracken from Lethal Company is also known as:,multiple,hard,The Flower Man,The Phantom,The Phantom,False,True,2.0,7.723,False
+qwen3.5-2b,v3_mcq_text,What are the base station trackers used for the HTC Vive called?,multiple,medium,Lighthouse,Lighthouse,Lighthouse,True,True,2.0,7.698,False
+qwen3.5-2b,v3_mcq_text,How many members are in the Japanese rock band SCANDAL?,multiple,medium,4,2,2,False,True,3.0,7.498,False
+qwen3.5-2b,v3_mcq_text,What is the most commonly used noun in the English language?,multiple,hard,Time,Man,Man,False,True,2.0,7.472,False
+qwen3.5-2b,v3_mcq_text,"In ""Inuyasha"", what are the heros are looking to collect?",multiple,easy,Jewel Shards,Jewel Shards,Jewel Shards,True,True,1.0,8.029,False
+qwen3.5-2b,v3_mcq_text,Which data structure does FILO apply to?,multiple,hard,Stack,Stack,Stack,True,True,3.0,7.448,False
+qwen3.5-2b,v3_mcq_text,What do sailors call the right side of a boat?,multiple,easy,Starboard,Starboard,Starboard,True,True,1.0,7.845,False
+qwen3.5-2b,v3_mcq_text,What year did Australia become a federation?,multiple,medium,1901,1901,1901,True,True,2.0,8.264,False
