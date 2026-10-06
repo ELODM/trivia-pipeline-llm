@@ -1,0 +1,10 @@
+requests
+pandas
+pyarrow
+duckdb
+dbt-duckdb
+ollama
+streamlit
+plotly
+tqdm
+python-dotenv

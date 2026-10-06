@@ -1,4 +1,15 @@
-# Byte-compiled / optimized / DLL files
+
+# dbt
+target/
+logs/
+dbt_packages/
+
+# Environnement local
+.env
+
+# Divers
+.DS_Store
+.ipynb_checkpoints/# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
 *$py.class
