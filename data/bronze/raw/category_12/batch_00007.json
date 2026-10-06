@@ -1,0 +1,602 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:59:12.821202+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20David%20Bowie%27s%20real%20surname%3F",
+        "correct_answer": "Jones",
+        "incorrect_answers": [
+          "Johnson",
+          "Edwards",
+          "Carter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "A%20Caixa%20Malacacheta%20is%20what%20kind%20of%20musical%20instrument%20which%20is%20commonly%20used%20in%20Latin%20American%20music%3F",
+        "correct_answer": "Snare%20Drum",
+        "incorrect_answers": [
+          "Cow%20Bell",
+          "Bass%20Drum",
+          "Maraca"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20event%20inspired%20The%20Cranberries%20song%20%22Zombie%22%20%3F",
+        "correct_answer": "The%20Warrington%20Bombings",
+        "incorrect_answers": [
+          "September%2011%20Attacks",
+          "The%20Manchester%20Arena%20Bombing",
+          "The%20July%207th%20bombings"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Where%20did%20the%20British%20Boy%20Band%20%22Bros%22%20come%20from%3F",
+        "correct_answer": "Camberley",
+        "incorrect_answers": [
+          "Guildford",
+          "Aldershot",
+          "Bagshot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20American%20family%20band%20had%20a%201986%20top%2010%20hit%20with%20the%20song%20%27Crush%20On%20You%27%3F",
+        "correct_answer": "The%20Jets",
+        "incorrect_answers": [
+          "DeBarge",
+          "The%20Jacksons",
+          "The%20Cover%20Girls"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20primary%20lyricist%20for%20Canadian%20progressive%20rock%20band%20Rush%3F",
+        "correct_answer": "Neil%20Peart",
+        "incorrect_answers": [
+          "Geddy%20Lee",
+          "Alex%20Lifeson",
+          "John%20Rutsey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20music%20publication%20is%20often%20abbreviated%20to%20NME%3F",
+        "correct_answer": "New%20Musical%20Express",
+        "incorrect_answers": [
+          "New%20Metro%20Entertainment",
+          "Next%20Musical%20Enterprise",
+          "North%20Manchester%20Express"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20August%201964%2C%20who%20introduced%20the%20Beatles%20to%20cannabis%3F",
+        "correct_answer": "Bob%20Dylan",
+        "incorrect_answers": [
+          "Jim%20Morrison",
+          "Brian%20Epstein",
+          "Jerry%20Garcia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20recorded%20the%201975%20album%20%27Captain%20Fantastic%20and%20the%20Brown%20Dirt%20Cowboy%27%3F",
+        "correct_answer": "Elton%20John",
+        "incorrect_answers": [
+          "John%20Denver",
+          "Billy%20Joel",
+          "Joe%20Cocker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20the%20song%20%E2%80%9CThe%20Ultimate%20Showdown%20of%20Ultimate%20Destiny%2C%E2%80%9D%20who%20is%20the%20only%20one%20to%20survive%20the%20battle%3F",
+        "correct_answer": "Mr.%20Rogers",
+        "incorrect_answers": [
+          "Batman",
+          "Chuck%20Norris",
+          "Godzilla"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20considered%20a%20woodwind%20instrument%3F",
+        "correct_answer": "Trombone",
+        "incorrect_answers": [
+          "Oboe",
+          "Clarinet",
+          "Bassoon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20did%20Radiohead%20release%20their%20album%20%22OK%20Computer%22%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1995",
+          "2000",
+          "1993"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20British%20term%20for%20a%2064th%20note%3F",
+        "correct_answer": "Hemidemisemiquaver",
+        "incorrect_answers": [
+          "Semihemidemisemiquaver",
+          "Semiquaver",
+          "Demisemiquaver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20letters%20in%20the%20name%20of%20the%20band%20%22TWRP%22%20stand%20for%20what%3F",
+        "correct_answer": "Tupperware%20Remix%20Party",
+        "incorrect_answers": [
+          "Totally%20Wicked%20Robot%20Performers",
+          "Team%20Wild%20and%20the%20Radio%20Pirates",
+          "Taiwan%20Roleplay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20real%20name%20of%20Canadian%20electronic%20music%20producer%20deadmau5%3F",
+        "correct_answer": "Joel%20Zimmerman",
+        "incorrect_answers": [
+          "Sonny%20Moore",
+          "Adam%20Richard%20Wiles",
+          "Thomas%20Wesley%20Pentz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20sung%20the%20opening%20theme%20song%20to%20the%201995%20James%20Bond%20film%20%27Goldeneye%27%3F",
+        "correct_answer": "Tina%20Turner",
+        "incorrect_answers": [
+          "Shirley%20Bassey",
+          "Sheryl%20Crow",
+          "Madonna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Toronto%20landmark%20was%20featured%20on%20the%20cover%20art%20of%20Canadian%20rapper%20Drake%27s%202016%20album%20%22Views%22%3F",
+        "correct_answer": "CN%20Tower",
+        "incorrect_answers": [
+          "Allan%20Gardens",
+          "Union%20Station",
+          "Prince%20of%20Wales%20Theatre"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Neutral%20Milk%20Hotel%22%20is%20a%20real%20band.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20bands%20is%20the%20oldest%3F",
+        "correct_answer": "Pink%20Floyd",
+        "incorrect_answers": [
+          "AC%2FDC",
+          "Metallica",
+          "Red%20Hot%20Chili%20Peppers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20novelty%20band%20was%20best%20known%20for%20their%20UK%20chart%20hits%20%22Combine%20Harvester%22%20and%20%22I%20Am%20a%20Cider%20Drinker%22%20in%201976%3F",
+        "correct_answer": "The%20Wurzels",
+        "incorrect_answers": [
+          "Goldie%20Lookin%20Chain",
+          "Bonzo%20Dog%20Doo-Dah%20Band",
+          "The%20Firm"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "A%20Saxophone%20is%20a%20brass%20instrument.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20first%20Jazz%20Musician%20to%20win%20the%20Pulitzer%20Prize%20for%20Music",
+        "correct_answer": "Wynton%20Marsalis",
+        "incorrect_answers": [
+          "Michael%20Brecker",
+          "Herbie%20Hancock",
+          "Joe%20Henderson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20founder%20and%20leader%20of%20industrial%20rock%20band%2C%20%27Nine%20Inch%20Nails%27%3F",
+        "correct_answer": "Trent%20Reznor",
+        "incorrect_answers": [
+          "Marilyn%20Manson",
+          "Robin%20Finck",
+          "Josh%20Homme"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20Green%20Day%3F",
+        "correct_answer": "Billie%20Joe%20Armstrong",
+        "incorrect_answers": [
+          "Mike%20Dirnt",
+          "Sean%20Hughes",
+          "Tr%C3%A9%20Cool"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20song%20includes%20the%20words%20%22Numa%20Numa%22%20which%20was%20subject%20to%20a%20Viral%20Video%20in%202004%3F",
+        "correct_answer": "Dragostea%20Din%20Tei",
+        "incorrect_answers": [
+          "Despacito",
+          "Gangnam%20Style",
+          "Asereje"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20the%20band%20Coldplay%3F",
+        "correct_answer": "Chris%20Martin",
+        "incorrect_answers": [
+          "Chris%20Isaak",
+          "Chris%20Wallace",
+          "Chris%20Connelly"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Musical%20artist%2C%20Future%2C%20collaborated%20with%20Kendrick%20Lamar%20for%20the%20song%3A%20%22Mask%20Off%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20album%20did%20The%20Lumineers%20release%20in%202016%3F",
+        "correct_answer": "Cleopatra",
+        "incorrect_answers": [
+          "Winter",
+          "The%20Lumineers",
+          "Tracks%20From%20The%20Attic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Britney%20Spears%27%20debut%20single%3F",
+        "correct_answer": "...Baby%20One%20More%20Time",
+        "incorrect_answers": [
+          "Oops%21...%20I%20Did%20It%20Again",
+          "%28You%20Drive%20Me%29%20Crazy",
+          "Toxic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%201970%27s%20American%20ballad%20referred%20to%20the%201959%20plane%20crash%20as%20the%20%22the%20day%20the%20music%20died%22%3F",
+        "correct_answer": "American%20Pie",
+        "incorrect_answers": [
+          "Kentucky%20Rain",
+          "I%20Will%20Always%20Love%20You",
+          "Rock%20%27n%27%20Roll%20Suicide"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20relationship%20between%20the%20band%20members%20of%20American%20rock%20band%20King%20of%20Leon%3F",
+        "correct_answer": "Brothers%20%26%20cousins",
+        "incorrect_answers": [
+          "Childhood%20friends",
+          "Former%20classmates",
+          "Fraternity%20house%20members"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20artist%20or%20group%20did%20John%20Lennon%20consider%20%22son%28s%29%20of%20the%20Beatles%22%3F",
+        "correct_answer": "Jeff%20Lynne%27s%20Electric%20Light%20Orchestra",
+        "incorrect_answers": [
+          "The%20Rolling%20Stones",
+          "Pink%20Floyd",
+          "The%20Who"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Rage%20Against%20the%20Machine%27s%20debut%20album%3F",
+        "correct_answer": "Rage%20Against%20the%20Machine",
+        "incorrect_answers": [
+          "Evil%20Empire",
+          "Bombtrack",
+          "The%20Battle%20Of%20Los%20Angeles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20music%20artists%20did%20NOT%20perform%20in%20the%20Live%20Aid%20concert%20in%20Wembley%20Stadium%2C%20London%20in%201985%3F",
+        "correct_answer": "The%20Rolling%20Stones",
+        "incorrect_answers": [
+          "Queen",
+          "Elton%20John",
+          "David%20Bowie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20M83%20was%20featured%20in%20Grand%20Theft%20Auto%20V%27s%20radio%3F",
+        "correct_answer": "Midnight%20City",
+        "incorrect_answers": [
+          "Outro",
+          "Reunion",
+          "Wait"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22The%20Day%20the%20Music%20Died%22%20was%20a%20tragic%20plane%20crash%20that%20killed%20three%20musicians%20in%20which%20decade%3F",
+        "correct_answer": "50%27s",
+        "incorrect_answers": [
+          "60%27s",
+          "70%27s",
+          "40%27s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Bj%C3%B6rk%27s%20%22Unison%22%20contains%20a%20sample%20of%20which%20Oval%20song%3F",
+        "correct_answer": "Aero%20Deck",
+        "incorrect_answers": [
+          "Textuell",
+          "Panorama",
+          "Do%20While"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20singer%20Billie%20Holiday%20was%20also%20known%20as%20%22Lady%20Day%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20name%20of%20the%20hip%20hop%20group%20Kanye%20West%20was%20a%20member%20of%20in%20the%20late%2090s%3F",
+        "correct_answer": "The%20Go-Getters",
+        "incorrect_answers": [
+          "The%20Jumpers",
+          "The%20Kickstarters",
+          "The%20Beat-Busters"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20from%20American%20Idiot%3A%20The%20Musical%20was%20a%20previously%20unreleased%20Green%20Day%20song%3F",
+        "correct_answer": "When%20It%27s%20Time",
+        "incorrect_answers": [
+          "Are%20We%20The%20Waiting",
+          "Before%20The%20Lobotomy",
+          "Favorite%20Son"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Grande%20Valse%22%20is%20a%20phrase%20from%20the%20song%20%22Gran%20Vals%22.%20What%20is%20that%20song%20segment%20known%20as%3F",
+        "correct_answer": "Nokia%20Tune",
+        "incorrect_answers": [
+          "Hello%20Moto%20%5BMotorola%20Ringtone%5D",
+          "Droid%20Ringtone",
+          "Microsoft%20Ringtone"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20country%20song%20%20%E2%80%9CA%20Boy%20Named%20Sue%E2%80%9D%20was%20written%20by%20Shel%20Silverstein.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "A%20classic%201976%20song%20by%20Blue%20Oyster%20Cult%20features%20the%20advice%20%E2%80%9CDon%E2%80%99t%20Fear%20The%E2%80%9D%20what%3F",
+        "correct_answer": "Reaper",
+        "incorrect_answers": [
+          "Dark",
+          "Silence",
+          "Clowns"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20sang%20backup%20vocals%20on%20Rockwell%27s%20hit%201984%20single%20%27Somebody%27s%20Watching%20Me%27%3F",
+        "correct_answer": "Michael%20Jackson",
+        "incorrect_answers": [
+          "Paul%20McCartney",
+          "Elton%20John",
+          "Prince"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20sings%20the%20rap%20song%20%22Secret%20Wars%20Part%201%22%3F",
+        "correct_answer": "The%20Last%20Emperor",
+        "incorrect_answers": [
+          "MC%20Frontalot",
+          "Busdriver",
+          "Masta%20Killa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Sleepyhead%22%20is%20the%20debut%20single%20from%20which%20Electronic%20band%3F",
+        "correct_answer": "Passion%20Pit",
+        "incorrect_answers": [
+          "The%20Chemical%20Brothers",
+          "LadyTron",
+          "Kraftwerk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20a%201969%20top%205%20hit%20with%20the%20song%2C%20%20%27A%20Boy%20Named%20Sue%27%3F",
+        "correct_answer": "Johnny%20Cash",
+        "incorrect_answers": [
+          "Bob%20Dylan",
+          "Willie%20Nelson",
+          "Kris%20Kristofferson"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Daft%20Punk%20originated%20in%20France.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20previously%20recorded%20by%20Elvis%20Presley%20was%20covered%20by%20UB40%20with%20a%20reggae%20beat%3F",
+        "correct_answer": "Can%27t%20Help%20Falling%20in%20Love",
+        "incorrect_answers": [
+          "Jailhouse%20Rock",
+          "In%20the%20Ghetto",
+          "Wooden%20Heart"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20Death%20Grips%20Front%20Man%2C%20MC%20Ride%3F",
+        "correct_answer": "Stefan%20Burnett",
+        "incorrect_answers": [
+          "Zach%20Hill",
+          "Andy%20Morin",
+          "Stanley%20Burrell"
+        ]
+      }
+    ]
+  }
+}

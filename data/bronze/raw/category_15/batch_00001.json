@@ -1,0 +1,600 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:04.615302+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Warframe%2C%20what%20Mastery%20Rank%20do%20you%20need%20to%20have%20to%20build%20the%20Tigris%20Prime%3F",
+        "correct_answer": "13",
+        "incorrect_answers": [
+          "6",
+          "18",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20beginning%20of%20the%20game%20%22Sonic%20Adventure%22%2C%20what%20color%20Chaos%20Emerald%20does%20Tails%20own%3F",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+          "Red",
+          "Green",
+          "Blue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20video%20game%20series%20have%20NOT%20had%20a%20promotional%20item%20appear%20in%20Team%20Fortress%202%3F",
+        "correct_answer": "Half-Life",
+        "incorrect_answers": [
+          "Quake",
+          "The%20Binding%20of%20Isaac",
+          "Fallout"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "During%20the%20events%20of%20Half-Life%3A%20Opposing%20Force%2C%20what%20is%20the%20age%20of%20Adrian%20Shephard%2C%20the%20protagonist%3F",
+        "correct_answer": "22",
+        "incorrect_answers": [
+          "23",
+          "21",
+          "24"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20original%20Spyro%20game%20who%20is%20the%20first%20villain%3F",
+        "correct_answer": "Gnasty%20Gnorc",
+        "incorrect_answers": [
+          "Ripto",
+          "Sorceress",
+          "Cynder"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20%22Antichamber%22%20released%3F",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+          "2012",
+          "2014",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Animal%20Crossing%20series%2C%20which%20flower%20is%20erroneously%20called%20the%20%22Jacob%27s%20Ladder%22%3F",
+        "correct_answer": "Lily%20of%20the%20Valley",
+        "incorrect_answers": [
+          "Hydrangea",
+          "Harebell",
+          "Yarrow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Mario%20%26%20Sonic%20at%20the%20Olympic%20Games%22%2C%20characters%20are%20split%20into%20how%20many%20types%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "6",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Blinky%2C%20Pinky%2C%20Inky%20and%20Clyde%20are%20characters%20from%20which%20classic%20video%20game%3F",
+        "correct_answer": "Pac-Man",
+        "incorrect_answers": [
+          "Gauntlet",
+          "Space%20Invaders",
+          "Street%20Fighter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20weapon%20classes%20DO%20NOT%20appear%20in%20the%20first%20Monster%20Hunter%20game%3F",
+        "correct_answer": "Bow%20",
+        "incorrect_answers": [
+          "Hammer",
+          "Heavy%20Bowgun",
+          "Light%20Bowgun"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22A%20Hat%20in%20Time%22%2C%20what%20must%20Hat%20Kid%20collect%20to%20finish%20a%20level",
+        "correct_answer": "A%20time%20piece",
+        "incorrect_answers": [
+          "A%20heart%20fragment",
+          "A%20relic%20fragment",
+          "A%20hat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "According%20to%20Toby%20Fox%2C%20what%20was%20the%20method%20to%20creating%20the%20initial%20tune%20for%20Megalovania%3F",
+        "correct_answer": "Singing%20into%20a%20Microphone",
+        "incorrect_answers": [
+          "Playing%20a%20Piano",
+          "Using%20a%20Composer%20Software",
+          "Listened%20to%20birds%20at%20the%20park"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Danganronpa%20Another%20Episode%3A%20Ultra%20Despair%20Girls%20is%20set%20after%20which%20Danganronpa%20game%3F",
+        "correct_answer": "Danganronpa%3A%20Trigger%20Happy%20Havoc",
+        "incorrect_answers": [
+          "Danganronpa%202%3A%20Goodbye%20Despair",
+          "Danganronpa%20V3%3A%20Killing%20Harmony",
+          "Danganronpa%203%3A%20The%20End%20of%20Hope%27s%20Peak%20High%20School"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Before%20Super%20Smash%20Bros.%20contained%20Nintendo%20characters%2C%20what%20was%20it%20known%20as%20internally%3F",
+        "correct_answer": "Dragon%20King%3A%20The%20Fighting%20Game",
+        "incorrect_answers": [
+          "Contest%20of%20Champions",
+          "Smash%20and%20Pummel",
+          "Fighter%20of%20the%20Ages%3A%20Conquest"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Heroes%20of%20the%20Storm%2C%20the%20Cursed%20Hollow%20map%20gimmick%20requires%20players%20to%20kill%20the%20undead%20to%20curse%20the%20enemy%20team.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20player%20class%20in%20Team%20Fortress%202%3F",
+        "correct_answer": "Healer",
+        "incorrect_answers": [
+          "Demoman",
+          "Pyro",
+          "Spy"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20ultimate%20phrase%20used%20by%20Pharah%20from%20Overwatch%20is%3A%20%22Justice%20rains%20from%20above%21%22",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20%22Origins%22%2C%20how%20many%20steps%20are%20there%20to%20upgrade%20a%20Staff%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "7",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Starbound%22%2C%20according%20to%20the%20asset%20files%2C%20the%20description%20of%20the%20%22Erchius%20Ghost%22%20is%20the%20same%20as%20which%20other%20assets%3F",
+        "correct_answer": "Spookit",
+        "incorrect_answers": [
+          "Petricub",
+          "Trictus",
+          "Pyromantle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20CS%3AGO%20eSports%20team%20won%20the%20major%20event%20ESL%20One%20Cologne%202016%3F",
+        "correct_answer": "SK%20Gaming",
+        "incorrect_answers": [
+          "Team%20Liquid",
+          "Fnatic",
+          "Virtus.pro"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20PlayStation%20was%20originally%20a%20joint%20project%20between%20Sega%20and%20Sony%20that%20was%20a%20Sega%20Genesis%20with%20a%20disc%20drive.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Super%20Mario%20Bros.%2C%20who%20informs%20Mario%20that%20the%20princess%20is%20in%20another%20castle%3F",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+          "Luigi",
+          "Yoshi",
+          "Bowser"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Kingdom%20Heart%20series%20who%20provides%20the%20english%20voice%20for%20Master%20Eraqus%3F",
+        "correct_answer": "Mark%20Hamill",
+        "incorrect_answers": [
+          "Jason%20Dohring",
+          "Jesse%20McCartney",
+          "Haley%20Joel%20Osment"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20largest%20planet%20in%20Kerbal%20Space%20Program%3F",
+        "correct_answer": "Jool",
+        "incorrect_answers": [
+          "Eeloo",
+          "Kerbol",
+          "Minmus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20is%20the%20mascot%20of%20the%20video%20game%20company%20SEGA%3F",
+        "correct_answer": "Sonic%20the%20Hedgehog",
+        "incorrect_answers": [
+          "Dynamite%20Headdy",
+          "Alex%20Kidd",
+          "Opa-Opa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Undertale%2C%20what%27s%20the%20prize%20for%20answering%20correctly%3F",
+        "correct_answer": "More%20questions",
+        "incorrect_answers": [
+          "New%20car",
+          "Mercy",
+          "Money"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Sonic%20Forces%2C%20which%20of%20the%20following%20was%20not%20from%20a%20previous%20game%3F",
+        "correct_answer": "Infinite",
+        "incorrect_answers": [
+          "Metal%20Sonic",
+          "Zavoc",
+          "Chaos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20the%20following%20titles%20by%20Valve%20is%20not%20based%20on%20a%20Community%20Mod%3F",
+        "correct_answer": "Ricochet",
+        "incorrect_answers": [
+          "Day%20of%20Defeat",
+          "Counter-Strike",
+          "Alien%20Swarm"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Subnautica%22%2C%20which%20feature%20was%20removed%20due%20to%20performance%20issues%20in%202016%3F",
+        "correct_answer": "Terraforming",
+        "incorrect_answers": [
+          "Building",
+          "Crafting",
+          "Multiplayer"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Resident%20Evil%204%2C%20the%20Chicago%20Typewriter%20has%20infinite%20ammo.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20Super%20Mario%20game%20ever%20released%20in%20North%20America%20for%20the%203DS%3F",
+        "correct_answer": "Super%20Mario%203D%20Land",
+        "incorrect_answers": [
+          "Super%20Mario%20Maker",
+          "New%20Super%20Mario%20Bros.%202",
+          "Mario%20Kart%207"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20%22Day%20of%20Defeat%22%20series%20of%20games%20take%20place%20during%20which%20war%3F",
+        "correct_answer": "World%20War%20II",
+        "incorrect_answers": [
+          "World%20War%20I",
+          "Vietnam%20War",
+          "Iraq%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20games%20has%20the%20most%20playable%20characters%3F",
+        "correct_answer": "Timesplitters%3A%20Future%20Perfect",
+        "incorrect_answers": [
+          "Mortal%20Kombat%3A%20Armageddon",
+          "Marvel%20Vs.%20Capcom%202",
+          "Dragon%20Ball%20Z%3A%20Budokai%20Tenkaichi%203"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Video%20Game%2C%20Half-life%2C%20what%20type%20of%20US%20military%20force%20starts%20clearing%20out%20the%20Black%20Mesa%20Research%20Facility%3F",
+        "correct_answer": "The%20HECU",
+        "incorrect_answers": [
+          "Navy%20Seals",
+          "The%20Combine",
+          "The%20Marines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20wasn%27t%20a%20villian%20in%20Club%20Penguin%3F",
+        "correct_answer": "The%20Director",
+        "incorrect_answers": [
+          "Herbert%20P.%20Bear",
+          "Tusk",
+          "Ultimate%20Proto-Bot%2010000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20playable%20character%20race%20in%20the%20video%20game%20%22Starbound%22%3F",
+        "correct_answer": "Fenerox",
+        "incorrect_answers": [
+          "Floran",
+          "Novakid",
+          "Hylotl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20The%20Elder%20Scrolls%20V%3A%20Skyrim%2C%20who%20is%20the%20jester%20in%20the%20dark%20brotherhood%3F",
+        "correct_answer": "Cicero",
+        "incorrect_answers": [
+          "Lucien%20Lachance",
+          "Archimedes",
+          "Astrid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20voices%20the%20infamous%20Citadel%20Station%20A.I%20known%20as%20S.H.O.D.A.N%2C%20in%20the%20System%20Shock%20games%3F",
+        "correct_answer": "Terri%20Brosius",
+        "incorrect_answers": [
+          "%20Jennifer%20Hale",
+          "Jenn%20Taylor",
+          "Lori%20Alan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20the%20name%20of%20a%20team%20leader%20in%20Pok%C3%A9mon%20GO%3F",
+        "correct_answer": "Leif",
+        "incorrect_answers": [
+          "Blanche",
+          "Spark",
+          "Candela"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Doki%20Doki%20Literature%20Club%20was%20developed%20in%20Japan.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Donkey%20Kong%20was%20originally%20set%20to%20be%20a%20Popeye%20arcade%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20world%27s%20first%20video%20game%20console%3F",
+        "correct_answer": "Magnavox%20Odyssey",
+        "incorrect_answers": [
+          "Coleco%20Telstar",
+          "Nintendo%20Color%20TV%20Game",
+          "Atari%202600"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Gordon%20Freeman%20is%20said%20to%20have%20burnt%20and%20destroyed%20what%20food%20in%20the%20break%20room%20microwave%3F",
+        "correct_answer": "Casserole",
+        "incorrect_answers": [
+          "Sub%20Sandwich",
+          "Chicken%20Soup",
+          "Pepperoni%20Pizza"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Minecraft%22%20was%20released%20from%20beta%20in%202011%20during%20a%20convention%20held%20in%20which%20city%3F",
+        "correct_answer": "Las%20Vegas",
+        "incorrect_answers": [
+          "Paris",
+          "Bellevue",
+          "London"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20completing%20which%20map%27s%20main%20easter%20egg%20will%20reward%20you%20with%20the%20achievement%2C%20%22High%20Maintenance%22%3F",
+        "correct_answer": "Die%20Rise",
+        "incorrect_answers": [
+          "Mob%20Of%20The%20Dead",
+          "Origins",
+          "Ascension"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20country%27s%20version%20of%20Half-Life%20are%20the%20HECU%20Marines%20replaced%20with%20robots%3F",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+          "Japan",
+          "China",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20Hearthstone%20released%3F",
+        "correct_answer": "2014",
+        "incorrect_answers": [
+          "2011",
+          "2013",
+          "2012"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20first%20PlayStation%20console%20was%20released%20in%20the%20USA%20on%20December%203rd%2C%201994.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20game%20did%20the%20Konami%20Code%20make%20its%20first%20appearance%3F",
+        "correct_answer": "Gradius",
+        "incorrect_answers": [
+          "Contra",
+          "Castlevania",
+          "Dance%20Dance%20Revolution"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "TF2%3A%20What%20code%20does%20Soldier%20put%20into%20the%20door%20keypad%20in%20%22Meet%20the%20Spy%22%3F",
+        "correct_answer": "1111",
+        "incorrect_answers": [
+          "1432",
+          "1337",
+          "No%20code"
+        ]
+      }
+    ]
+  }
+}

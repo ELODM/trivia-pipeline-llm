@@ -1,0 +1,358 @@
+{
+  "category_id": 29,
+  "fetched_at": "2026-10-06T10:08:26.140396+00:00",
+  "request": {
+    "amount": 29,
+    "category": 29,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20%22Archie%22%20comics%2C%20who%20was%20Jughead%27s%20first%20girlfriend%3F",
+        "correct_answer": "Joani",
+        "incorrect_answers": [
+          "Ethel",
+          "Debbi",
+          "Margret"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20real%20name%20of%20the%20%22Master%20Of%20Magnetism%22%20Magneto%3F",
+        "correct_answer": "Max%20Eisenhardt",
+        "incorrect_answers": [
+          "Charles%20Xavier",
+          "Pietro%20Maximoff",
+          "Johann%20Schmidt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20%22Sonic%20the%20Hedgehog%22%20comic%2C%20who%20was%20the%20creator%20of%20Roboticizer%3F%20",
+        "correct_answer": "Professor%20Charles%20the%20Hedgehog",
+        "incorrect_answers": [
+          "Julian%20Robotnik",
+          "Ivo%20Robotnik",
+          "Snively%20Robotnik"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20are%20the%20Three%20Virtues%20of%20Bionicle%3F",
+        "correct_answer": "Unity%2C%20Duty%2C%20Destiny",
+        "incorrect_answers": [
+          "Build%2C%20Play%2C%20Change",
+          "Work%2C%20Play%2C%20Live",
+          "Forge%2C%20Build%2C%20Fight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20was%20the%20name%20of%20the%20first%20Robin%20in%20the%20Batman%20comics%3F",
+        "correct_answer": "Dick%20Grayson",
+        "incorrect_answers": [
+          "Bruce%20Wayne",
+          "Jason%20Todd",
+          "Tim%20Drake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20of%20the%20following%20rings%20from%20the%20DC%20Comics%27%20%22Lantern%20Corps%22%20are%20classified%20as%20Parasitic%3F",
+        "correct_answer": "Indigo%20%28Compassion%29",
+        "incorrect_answers": [
+          "Green%20%28Willpower%29",
+          "White%20%28Life%29",
+          "Yellow%20%28Fear%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20of%20the%20following%20superheros%20did%20Wonder%20Woman%20NOT%20have%20a%20love%20interest%20in%3F",
+        "correct_answer": "Green%20Arrow",
+        "incorrect_answers": [
+          "Superman",
+          "Batman",
+          "Steve%20Trevor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20real%20full%20name%20of%20Captain%20America%3F",
+        "correct_answer": "Steven%20Grant%20Rogers%20",
+        "incorrect_answers": [
+          "Steven%20John%20Rogers",
+          "Steven%20Peggy%20Rogers",
+          "Steven%20William%20Rogers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20name%20of%20the%20comic%20about%20a%20young%20boy%2C%20and%20a%20tiger%20who%20is%20actually%20a%20stuffed%20animal%3F",
+        "correct_answer": "Calvin%20and%20Hobbes",
+        "incorrect_answers": [
+          "Winnie%20the%20Pooh",
+          "Albert%20and%20Pogo",
+          "Peanuts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Better%20known%20by%20his%20nickname%20Logan%2C%20what%20is%20Wolverine%27s%20birth%20name%3F",
+        "correct_answer": "James%20Howlett",
+        "incorrect_answers": [
+          "Logan%20Wolf",
+          "Thomas%20Wilde",
+          "John%20Savage"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20DC%20Comics%202016%20reboot%2C%20Rebirth%2C%20which%20speedster%20escaped%20from%20the%20Speed%20Force%20after%20he%20had%20been%20erased%20from%20existance%3F",
+        "correct_answer": "Wally%20West",
+        "incorrect_answers": [
+          "Johnny%20Quick",
+          "Jay%20Garrick",
+          "Eobard%20Thawne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Pre-Super%20Genesis%20universe%20of%20%22Sonic%20the%20Hedgehog%22%20comic%2C%20what%20was%20the%20name%20of%20%20Sally%20Acorn%27s%20brother%3F",
+        "correct_answer": "Elias%20Acorn",
+        "incorrect_answers": [
+          "Maximillian%20Acorn",
+          "Alexis%20Acorn",
+          "Frederick%20Acorn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20Marvel%20comic%20%22The%20Superior%20Spider-Man%22%2C%20Peter%20Parker%27s%20body%20is%20taken%20over%20by%20which%20character%3F",
+        "correct_answer": "Otto%20Octavius%20",
+        "incorrect_answers": [
+          "Norman%20Osborn",
+          "Mary%20Jane",
+          "Eddie%20Brock%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20was%20the%20first%20American%20Vampire%20%28Scott%20Snyder%27s%20American%20Vampire%29%3F",
+        "correct_answer": "Skinner%20Sweet",
+        "incorrect_answers": [
+          "Hattie%20Hargrove",
+          "Pearl%20Jones",
+          "James%20%22Jim%22%20Book"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20one%20of%20these%20superhero%20teams%20appears%20in%20the%20Invincible%20comics%3F",
+        "correct_answer": "Guardians%20of%20the%20Globe",
+        "incorrect_answers": [
+          "Avengers",
+          "Justice%20League",
+          "Teenage%20Mutant%20Ninja%20Turtles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20was%20the%20inspiration%20for%20Cuthbert%20Calculus%20in%20the%20Tintin%20series%3F",
+        "correct_answer": "Auguste%20Picard",
+        "incorrect_answers": [
+          "Jacques%20Piccard",
+          "Will%20Morris",
+          "J.%20Cecil%20Maby"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Deadpool%27s%20identity%20is%20Slade%20Wilson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20issue%20of%20the%20%22Sonic%20the%20Hedgehog%22%20comic%20did%20Scourge%20the%20Hedgehog%20make%20his%20first%20appearance%3F",
+        "correct_answer": "Sonic%20the%20Hedgehog%20%2311",
+        "incorrect_answers": [
+          "Sonic%20Universe%20%2332",
+          "Sonic%20the%20Hedgehog%20%23161",
+          "Sonic%20the%20Hedgehog%20%2347"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20created%20Ultron%20of%20Earth-616%3F",
+        "correct_answer": "Henry%20Pym",
+        "incorrect_answers": [
+          "Amadeus%20Cho",
+          "Tony%20Stark",
+          "Reed%20Richards"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Marvel%20comics%2C%20which%20of%20the%20following%20is%20not%20one%20of%20the%20infinity%20stones%3F",
+        "correct_answer": "Energy",
+        "incorrect_answers": [
+          "Time",
+          "Power",
+          "Soul"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%27s%20the%20name%20of%20Batman%27s%20parents%3F",
+        "correct_answer": "Thomas%20%26%20Martha",
+        "incorrect_answers": [
+          "Joey%20%26%20Jackie",
+          "Jason%20%26%20Sarah",
+          "Todd%20%26%20Mira"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Bionicle%2C%20who%20was%20formerly%20a%20Av-Matoran%20and%20is%20now%20the%20Toa%20of%20Light%3F",
+        "correct_answer": "Takua",
+        "incorrect_answers": [
+          "Jaller",
+          "Vakama",
+          "Tahu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "When%20Batman%20trolls%20the%20online%20chat%20rooms%2C%20what%20alias%20does%20he%20use%3F",
+        "correct_answer": "JonDoe297",
+        "incorrect_answers": [
+          "iAmBatman",
+          "BWayne13",
+          "BW1129"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%27s%20the%20weakness%20of%20american%20vampires%20%28Scott%20Snyder%27s%20American%20Vampire%29%3F",
+        "correct_answer": "Gold",
+        "incorrect_answers": [
+          "Sunlight",
+          "Wood",
+          "Silver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20otherworldly%20land%20does%20Thor%20come%20from%3F",
+        "correct_answer": "Asgard",
+        "incorrect_answers": [
+          "Midgard",
+          "Jotunheim",
+          "Sovengarde"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "The%20X-Men%27s%20Storm%20and%20Nightcrawler%20were%20originally%20planned%20to%20be%20characters%20in%20DC%20Comics%27%20Legion%20of%20Super-Heroes.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "When%20was%20Marvel%20Comics%20founded%3F",
+        "correct_answer": "1939",
+        "incorrect_answers": [
+          "1932",
+          "1951",
+          "1936"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Black%20Hammer%2C%20what%20dimension%20does%20Colonel%20Weird%20travel%20through%3F",
+        "correct_answer": "Para-Zone",
+        "incorrect_answers": [
+          "Hyperspace",
+          "Mirror%20Universe",
+          "Phantom%20Zone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20what%20year%20did%20the%20first%20%22The%20Walking%20Dead%22%20comic%20come%20out%3F",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+          "2001",
+          "2006",
+          "1999"
+        ]
+      }
+    ]
+  }
+}

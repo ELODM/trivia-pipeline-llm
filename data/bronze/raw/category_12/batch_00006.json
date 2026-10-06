@@ -1,0 +1,606 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:59:07.387909+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20M83%20album%20is%20the%20song%20%22Midnight%20City%22%20featured%20in%3F",
+        "correct_answer": "Hurry%20Up%2C%20We%27re%20Dreaming",
+        "incorrect_answers": [
+          "Saturdays%20%3D%20Youth",
+          "Before%20the%20Dawn%20Heals%20Us",
+          "Junk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20artist%20collaborated%20with%20American%20DJ%20Dillon%20Francis%20to%20release%20the%20song%202016%20%22Need%20You%22%3F",
+        "correct_answer": "NGHTMRE",
+        "incorrect_answers": [
+          "LOUDPVCK",
+          "KRNE",
+          "DVBBS"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20the%202016%20studio%20album%20by%20the%20French%20electronic%20music%20duo%20Justice%3F",
+        "correct_answer": "Woman",
+        "incorrect_answers": [
+          "Randy",
+          "Safe%20and%20Sound",
+          "Pleasure"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20rapper%20Drake%27s%20real%20name%3F",
+        "correct_answer": "Aubrey%20Graham",
+        "incorrect_answers": [
+          "Shaun%20Carter",
+          "Dwayne%20Carter",
+          "Andre%20Young"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20singer%20for%20Fall%20Out%20Boy%3F",
+        "correct_answer": "Patrick%20Stump",
+        "incorrect_answers": [
+          "Brendon%20Urie",
+          "Pete%20Wentz",
+          "Gary%20Lee%20Weinrib"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20band%20%22Panic%21%20At%20the%20Disco%22%20has%20released%204%20albums%20total",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20albums%20is%20a%20Wu-Tang%20Clan%20album%3F",
+        "correct_answer": "Iron%20Flag",
+        "incorrect_answers": [
+          "Perfect%20Hair",
+          "The%20Low%20End%20Theory",
+          "Licensed%20to%20Ill"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20co-creator%20of%20Gorillaz%2C%20Damon%20Albarn%2C%20is%20also%20the%20lead%20singer%20of%20what%20band%3F",
+        "correct_answer": "Blur",
+        "incorrect_answers": [
+          "Oasis",
+          "Radiohead",
+          "Queens%20of%20the%20Stone%20Age"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20member%20of%20the%20British%20pop%20group%20%22The%20Spice%20Girls%22%20was%20known%20as%20Ginger%20Spice%3F",
+        "correct_answer": "Geri%20Halliwell",
+        "incorrect_answers": [
+          "Melanie%20Brown",
+          "Emma%20Bunton",
+          "Victoria%20Beckham"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20did%20the%20rapper%20Eazy-E%20die%3F",
+        "correct_answer": "March%2026%2C%201995",
+        "incorrect_answers": [
+          "July%2011%2C%201992",
+          "February%2014%2C%201993",
+          "October%2021%2C%201994"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20was%20NOT%20released%20in%20the%2090s%3F",
+        "correct_answer": "%22I%20Want%20It%20All%22%20by%20Queen",
+        "incorrect_answers": [
+          "%22Vogue%22%20by%20Madonna",
+          "%22Can%27t%20Stop%20This%20Thing%20We%20Started%22%20by%20Bryan%20Adams",
+          "%22King%20of%20Wishful%20Thinking%22%20by%20Go%20West"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20what%20year%20was%20the%20smash%20hit%20song%20%22Scatman%27s%20World%22%20released%3F",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+          "1996",
+          "1994",
+          "1993"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20a%201976%20hit%20with%20the%20song%20%27You%20Make%20Me%20Feel%20Like%20Dancing%27%3F",
+        "correct_answer": "Leo%20Sayer",
+        "incorrect_answers": [
+          "Elton%20John",
+          "Billy%20Joel",
+          "Andy%20Gibb"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20lead%20singer%20and%20frontman%20of%20rock%20band%20R.E.M%3F",
+        "correct_answer": "Michael%20Stipe",
+        "incorrect_answers": [
+          "Chris%20Martin",
+          "Thom%20Yorke",
+          "George%20Michael"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20the%20Smashing%20Pumpkins%3F",
+        "correct_answer": "Billy%20Corgan",
+        "incorrect_answers": [
+          "Brett%20Scallions",
+          "Eddie%20Vedder",
+          "Chino%20Moreno"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20rapper%20had%20an%20album%20that%20went%20double%20platinum%20with%20no%20features%3F",
+        "correct_answer": "J.%20Cole",
+        "incorrect_answers": [
+          "Kendrick%20Lamar",
+          "Drake",
+          "Big%20Sean"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20English%20guitarist%20has%20the%20nickname%20%22Slowhand%22%3F",
+        "correct_answer": "Eric%20Clapton",
+        "incorrect_answers": [
+          "Mark%20Knopfler",
+          "Jeff%20Beck",
+          "Jimmy%20Page"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20best%20selling%20album%20of%20all%20time%20from%201976%20to%202018%3F",
+        "correct_answer": "Thriller",
+        "incorrect_answers": [
+          "Back%20in%20Black",
+          "Abbey%20Road",
+          "The%20Dark%20Side%20of%20the%20Moon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20members%20are%20in%20the%20Japanese%20rock%20band%20SCANDAL%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "5",
+          "2",
+          "18"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20is%20NOT%20included%20in%20the%20Suicide%20Squad%20OST%3F",
+        "correct_answer": "Skies%20on%20Fire%20-%20AC%2FDC",
+        "incorrect_answers": [
+          "Heathens%20-%20Twenty%20One%20Pilots",
+          "Without%20Me%20-%20Eminem",
+          "Fortunate%20Son%20-%20Creedence%20Clearwater%20Revival"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Ringo%20Starr%20of%20The%20Beatles%20mainly%20played%20what%20instrument%3F",
+        "correct_answer": "Drums",
+        "incorrect_answers": [
+          "Bass",
+          "Guitar",
+          "Piano"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "A%20piccolo%20is%20a%20smaller%20version%20of%20what%20instrument%3F",
+        "correct_answer": "Flute",
+        "incorrect_answers": [
+          "Trumpet",
+          "Harp",
+          "Violin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20heavy%20metal%20band%20Black%20Sabbath%20hail%20from%20which%20English%20city%3F",
+        "correct_answer": "Birmingham",
+        "incorrect_answers": [
+          "Manchester",
+          "London",
+          "Newcastle-Upon-Tyne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20is%20NOT%20in%20The%20Beatles%27%20album%20%22Sgt.%20Pepper%27s%20Lonely%20Hearts%20Club%20Band%22%3F",
+        "correct_answer": "Strawberry%20Fields%20Forever",
+        "incorrect_answers": [
+          "Getting%20Better",
+          "Fixing%20a%20Hole",
+          "Lucy%20in%20the%20Sky%20with%20Diamonds"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Rapper%20Snoop%20Dogg%27s%20real%20name%20is%20%27Cordozar%20Calvin%20Broadus%2C%20Jr.%27.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "John%20Williams%20composed%20the%20music%20for%20%22Star%20Wars%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20Foo%20Fighters%3F",
+        "correct_answer": "Dave%20Grohl",
+        "incorrect_answers": [
+          "Dave%20Mustaine",
+          "James%20Hetfield",
+          "Little%20Red%20Riding%20Hood"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20French%20artist%2Fband%20is%20known%20for%20playing%20on%20the%20midi%20instrument%20%22Launchpad%22%3F",
+        "correct_answer": "Madeon",
+        "incorrect_answers": [
+          "Daft%20Punk%20",
+          "Disclosure",
+          "David%20Guetta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20title%20of%20Sakamoto%20Kyu%27s%20song%20%22Ue%20o%20Muite%20Arukou%22%20%28I%20Look%20Up%20As%20I%20Walk%29%20changed%20to%20in%20the%20United%20States%3F",
+        "correct_answer": "Sukiyaki",
+        "incorrect_answers": [
+          "Takoyaki",
+          "Sushi",
+          "Oden"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20vocalist%20and%20frontman%20of%20rock%20band%20%22Guns%20N%27%20Roses%22%3F",
+        "correct_answer": "Axl%20Rose",
+        "incorrect_answers": [
+          "Kurt%20Cobain",
+          "Slash",
+          "Bono"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20band%20STRFKR%20was%20also%20briefly%20known%20as%20Pyramiddd.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Of%20which%2090s%20boy%20band%20was%20Justin%20Timberlake%20a%20member%3F",
+        "correct_answer": "%2ANSYNC",
+        "incorrect_answers": [
+          "Backstreet%20Boys",
+          "Westlife",
+          "Boyzone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "EDM%20record%20label%20Monstercat%20is%20based%20in%20which%20country%3F",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+          "United%20States",
+          "Australia",
+          "United%20Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Doctor%20Jones%22%2C%20%22Turn%20Back%20Time%22%20and%20%22Barbie%20Girl%22%20were%20UK%20number%20ones%20for%20which%20Eurodance%20group%3F",
+        "correct_answer": "Aqua",
+        "incorrect_answers": [
+          "Vengaboys",
+          "Eiffel%2065",
+          "Sash%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20musical%20instrument%20is%20nicknamed%20%27the%20clown%20of%20the%20orchestra%27%3F",
+        "correct_answer": "Bassoon",
+        "incorrect_answers": [
+          "Piccolo",
+          "Tuba",
+          "Flute"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Whose%20albums%20included%20%22Back%20in%20Black%22%20and%20%22Ballbreaker%22%3F",
+        "correct_answer": "AC%2FDC",
+        "incorrect_answers": [
+          "Iron%20Maiden",
+          "Black%20Sabbath",
+          "Metallica"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20a%20song%20by%20Pegboard%20Nerds%3F",
+        "correct_answer": "WiFi%20Tears",
+        "incorrect_answers": [
+          "Swamp%20Thing",
+          "Emoji",
+          "BAMF"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20Michael%20Jackson%27s%20albums%20sold%20the%20most%20copies%3F",
+        "correct_answer": "Thriller",
+        "incorrect_answers": [
+          "Dangerous",
+          "Bad",
+          "Off%20the%20Wall"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20Daft%20Punk%27s%20debut%20single%3F",
+        "correct_answer": "The%20New%20Wave",
+        "incorrect_answers": [
+          "Da%20Funk",
+          "Discovery",
+          "Around%20the%20World"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Death%20Grips%20album%20is%20the%20only%20one%20to%20feature%20a%20band%20member%3F",
+        "correct_answer": "No%20Love%20Deep%20Web",
+        "incorrect_answers": [
+          "Bottomless%20Pit",
+          "The%20Money%20Store",
+          "The%20Powers%20That%20B"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Manchester%20nightclub%20was%20considered%20central%20to%20the%20%27Madchester%27%20music%20scene%20in%20the%20late%2080%27s%3F",
+        "correct_answer": "The%20Ha%C3%A7ienda",
+        "incorrect_answers": [
+          "The%20Warehouse%20Project",
+          "LIV",
+          "The%20Liar%27s%20Club"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Grand%20Theft%20Autumn%2FWhere%20Is%20Your%20Boy%20is%20a%20song%20by%20which%20band%3F",
+        "correct_answer": "Fall%20Out%20Boy",
+        "incorrect_answers": [
+          "Panic%21%20At%20The%20Disco",
+          "Paramore",
+          "Blink-182"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Irish%20musician%20Hozier%20released%20a%20music%20track%20in%202013%20titled%2C%20%22Take%20Me%20to%20______%22",
+        "correct_answer": "Church",
+        "incorrect_answers": [
+          "Mosque",
+          "Synagogue",
+          "Temple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20a%201973%20hit%20with%20the%20song%20%27Hocus%20Pocus%27%3F",
+        "correct_answer": "Focus",
+        "incorrect_answers": [
+          "Pilot",
+          "Rush",
+          "AC%2FDC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%202015%2C%20David%20Hasselhof%20released%20a%20single%20called...",
+        "correct_answer": "True%20Survivor",
+        "incorrect_answers": [
+          "True%20Fighter",
+          "Real%20Kung-Fury",
+          "Real%20Warrior"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Typically%2C%20how%20many%20keys%20are%20on%20a%20piano%3F",
+        "correct_answer": "88",
+        "incorrect_answers": [
+          "24",
+          "12",
+          "96"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20alternative%20rock%20band%20released%20the%20critically-acclaimed%20album%20%22OK%20Computer%22%3F",
+        "correct_answer": "Radiohead",
+        "incorrect_answers": [
+          "R.E.M.",
+          "Nirvana",
+          "Coldplay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20name%20of%20the%20Wu-Tang%20Clan%20album%20Martin%20Shkreli%20bought%20for%20%242%20million%20dollars%3F",
+        "correct_answer": "Once%20Upon%20a%20Time%20in%20Shaolin",
+        "incorrect_answers": [
+          "A%20Better%20Tomorrow",
+          "8%20Diagrams",
+          "The%20Saga%20Continues"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20group%20performs%20the%20song%20%22Crash%20into%20Me%22%3F",
+        "correct_answer": "Dave%20Matthews%20Band",
+        "incorrect_answers": [
+          "Phish",
+          "The%20Grateful%20Dead",
+          "Destiny%27s%20Child"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20was%20released%20in%201996%3F",
+        "correct_answer": "The%20Smashing%20Pumpkins%20-%20%221979%22",
+        "incorrect_answers": [
+          "Prince%20-%20%221999%22",
+          "James%20Blunt%20-%20%221973%22",
+          "David%20Bowie%20-%20%221984%22"
+        ]
+      }
+    ]
+  }
+}

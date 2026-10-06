@@ -1,0 +1,396 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:55.353614+00:00",
+  "request": {
+    "amount": 33,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20highest%20mountain%20in%20the%20world%3F",
+        "correct_answer": "Mt.%20Everest",
+        "incorrect_answers": [
+          "Mount%20Godwin%20Austen",
+          "Kangchenjunga",
+          "Annapurna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where%20is%20the%20fast%20food%20chain%20%22Panda%20Express%22%20headquartered%3F",
+        "correct_answer": "Rosemead%2C%20California",
+        "incorrect_answers": [
+          "Sacramento%2C%20California",
+          "Fresno%2C%20California",
+          "San%20Diego%2C%20California"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20city%20of%20Slovenia%3F",
+        "correct_answer": "Ljubljana",
+        "incorrect_answers": [
+          "Maribor",
+          "Velenje",
+          "Trbovlje"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "When%20does%20Finland%20celebrate%20their%20independence%20day%3F",
+        "correct_answer": "December%206th",
+        "incorrect_answers": [
+          "January%202nd",
+          "November%2012th",
+          "February%208th"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20city%20of%20New%20Zealand%3F",
+        "correct_answer": "Wellington",
+        "incorrect_answers": [
+          "Auckland",
+          "Christchurch",
+          "Melbourne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20peninsula%20containing%20Spain%20and%20Portugal%3F",
+        "correct_answer": "Iberian%20Peninsula",
+        "incorrect_answers": [
+          "European%20Peninsula",
+          "Peloponnesian%20Peninsula",
+          "Scandinavian%20Peninsula"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20the%20smallest%20by%20population%3F",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+          "Slovakia",
+          "Finland",
+          "Hong%20Kong"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20island%20in%20the%20Canary%20Islands%20was%20the%20scene%20of%20one%20of%20the%20worst%20air%20disasters%20in%20history%20with%20the%20collision%20of%20two%20jumbo%20jets%3F",
+        "correct_answer": "Tenerife",
+        "incorrect_answers": [
+          "Fuerteventura",
+          "Gran%20Canaria",
+          "Maui"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20towns%20of%20Brugelette%2C%20Arlon%20and%20Ath%20are%20located%20in%20which%20country%3F",
+        "correct_answer": "Belgium",
+        "incorrect_answers": [
+          "Andorra",
+          "France",
+          "Luxembourg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In%20which%20country%20is%20located%20the%20municipality%20of%20Arteijo%3F",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+          "Morocco",
+          "France",
+          "Belgium"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Is%20Tartu%20the%20capital%20of%20Estonia%3F",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "San%20Marino%20is%20the%20only%20country%20completely%20surrounded%20by%20another%20country.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20surface%20area%20of%20Russia%20is%20slightly%20larger%20than%20that%20of%20the%20dwarf%20planet%20Pluto.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20cities%20is%20the%20capital%20of%20Latvia%3F",
+        "correct_answer": "Riga",
+        "incorrect_answers": [
+          "Minsk",
+          "Tallinn",
+          "Vilnius"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20flag%20of%20South%20Africa%20features%207%20colours.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20Capital%20of%20the%20United%20States%3F",
+        "correct_answer": "Washington%2C%20D.C.",
+        "incorrect_answers": [
+          "Los%20Angelas%2C%20CA",
+          "New%20York%20City%2C%20NY",
+          "Houston%2C%20TX"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20name%20was%20historically%20used%20for%20the%20Turkish%20city%20currently%20known%20as%20Istanbul%3F",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+          "H%C3%BCdavendigar",
+          "S%C3%B6%C4%9F%C3%BCt",
+          "Adrianople"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20European%20city%20is%20known%20as%20the%20%22City%20of%20Light%22%3F",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+          "Rome",
+          "London",
+          "Madrid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20non-continental%20island%20in%20the%20world%3F",
+        "correct_answer": "Greenland",
+        "incorrect_answers": [
+          "New%20Guinea",
+          "Borneo",
+          "Madagascar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20Borough%20is%20the%20farthest%20in%20the%20north%20of%20New%20York%20City%3F",
+        "correct_answer": "Bronx",
+        "incorrect_answers": [
+          "Queens",
+          "Brooklyn",
+          "Manhattan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland%20is%20covered%20with%20grass%20and%20Iceland%20covered%20with%20ice.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "St.%20Louis%20is%20the%20capital%20of%20the%20US%20State%20Missouri.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20Gambia%20is%20a%20nation%20found%20on%20which%20continent%3F",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+          "Asia",
+          "South%20America",
+          "Europe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20stretch%20of%20water%20connects%20the%20Atlantic%20Ocean%20to%20the%20Mediterranean%20Sea%3F",
+        "correct_answer": "Strait%20of%20Gibraltar",
+        "incorrect_answers": [
+          "Gibraltar%20Way",
+          "Spanish%20Straits",
+          "Channelle%20de%20Tangiers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Bridgetown%20is%20the%20capital%20of%20which%20island%20country%20in%20the%20Carribean%3F",
+        "correct_answer": "Barbados",
+        "incorrect_answers": [
+          "Cuba",
+          "Jamaica%E2%80%8E",
+          "Dominica"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20African%20countries%20displays%20a%20gun%20on%20their%20flag%3F",
+        "correct_answer": "Mozambique",
+        "incorrect_answers": [
+          "Uganda",
+          "Ethiopia",
+          "Nigeria"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20country%27s%20capitals%20starts%20with%20the%20letter%20B%3F",
+        "correct_answer": "Lebanon",
+        "incorrect_answers": [
+          "Jordan",
+          "Kuwait",
+          "Qatar"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Japan%20has%20left-hand%20side%20traffic.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20%22doubly%20landlocked%22%20%28surrounded%20entirely%20by%20one%20or%20more%20landlocked%20countries%29%3F",
+        "correct_answer": "Uzbekistan",
+        "incorrect_answers": [
+          "Switzerland",
+          "Bolivia",
+          "Ethiopia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In%20what%20part%20of%20Wales%20will%20you%20find%20the%20village%20Llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogoch%3F",
+        "correct_answer": "Anglesey",
+        "incorrect_answers": [
+          "Pembrokeshire",
+          "Wrexham",
+          "Bridgend"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Eritrea%2C%20which%20became%20the%20182nd%20member%20of%20the%20UN%20in%201993%2C%20is%20in%20the%20continent%20of%3F",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+          "Europe",
+          "Asia",
+          "South%20America"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Bangladesh%3F",
+        "correct_answer": "Dhaka",
+        "incorrect_answers": [
+          "Khulna",
+          "London",
+          "Lahore"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20Suez%20Canal%20is%20located%20in%20which%20African%20country%3F",
+        "correct_answer": "Egypt",
+        "incorrect_answers": [
+          "Libya",
+          "Ghana",
+          "Nigeria"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:56:46.553222+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Why%20is%20the%20night%20sky%20dark%3F%20",
+        "correct_answer": "The%20universe%20is%20finite%20in%20age%20and%20size",
+        "incorrect_answers": [
+          "Dust%20clouds%20absorb%20light%20",
+          "Redshift%20doesn%27t%20let%20us%20see%20distant%20stars%20",
+          "Quantum%20mechanics"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20third%20country%20to%20have%20a%20McDonald%27s%20restaurant%3F",
+        "correct_answer": "Costa%20Rica",
+        "incorrect_answers": [
+          "Japan",
+          "France",
+          "Australia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20card%20games%20revolves%20around%20numbers%20and%20basic%20math%3F",
+        "correct_answer": "Uno",
+        "incorrect_answers": [
+          "Go%20Fish",
+          "Twister",
+          "Munchkin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Electronic%20music%20producer%20Kygo%27s%20popularity%20skyrocketed%20after%20a%20certain%20remix.%20Which%20song%20did%20he%20remix%3F",
+        "correct_answer": "Ed%20Sheeran%20-%20I%20See%20Fire",
+        "incorrect_answers": [
+          "Marvin%20Gaye%20-%20Sexual%20Healing",
+          "Coldplay%20-%20Midnight",
+          "a-ha%20-%20Take%20On%20Me"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20letters%20are%20in%20the%20English%20alphabet%3F",
+        "correct_answer": "26",
+        "incorrect_answers": [
+          "30",
+          "17",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20carbonated%20soft%20drinks%20were%20introduced%20first%3F",
+        "correct_answer": "Dr.%20Pepper",
+        "incorrect_answers": [
+          "Coca-Cola",
+          "Sprite",
+          "Mountain%20Dew"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20General%20Mills%20Corporation%27s%20monster%20cereals%20was%20the%20last%20to%20be%20released%20in%20the%201970%27s%3F",
+        "correct_answer": "Fruit%20Brute",
+        "incorrect_answers": [
+          "Count%20Chocula",
+          "Franken%20Berry",
+          "Boo-Berry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20Cynophobia%20the%20fear%20of%3F",
+        "correct_answer": "Dogs",
+        "incorrect_answers": [
+          "Birds",
+          "Flying",
+          "Germs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20the%20Dutch%20call%20their%20language%3F",
+        "correct_answer": "Nederlands",
+        "incorrect_answers": [
+          "Dansk",
+          "Deutsch",
+          "Hollander"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20three%20astronauts%20of%20the%20Apollo%2011%20spaceflight%20did%20NOT%20walk%20on%20the%20moon%3F",
+        "correct_answer": "Michael%20Collins",
+        "incorrect_answers": [
+          "Buzz%20Aldrin",
+          "Neil%20Armstrong",
+          "None%20of%20them"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20cities%20does%20NOT%20have%20a%20United%20States%20Minting%20location%3F",
+        "correct_answer": "St.%20Louis%2C%20MO",
+        "incorrect_answers": [
+          "San%20Fransisco%2C%20CA",
+          "Philidelphia%2C%20PA",
+          "West%20Point%2C%20NY"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20country%2C%20not%20including%20Japan%2C%20has%20the%20most%20people%20of%20Japanese%20descent%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "China",
+          "South%20Korea",
+          "United%20States%20of%20America"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20architect%20known%20as%20Le%20Corbusier%20was%20an%20important%20figure%20in%20what%20style%20of%20architecture%3F",
+        "correct_answer": "Modernism",
+        "incorrect_answers": [
+          "Neoclassical",
+          "Baroque",
+          "Gothic%20Revival"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "On%20average%2C%20Americans%20consume%20100%20pounds%20of%20what%20per%20second%3F",
+        "correct_answer": "Chocolate",
+        "incorrect_answers": [
+          "Potatoes",
+          "Donuts",
+          "Cocaine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20most-visited%20website%20out%20of%20these%20options%3F",
+        "correct_answer": "Google",
+        "incorrect_answers": [
+          "YouTube",
+          "Facebook",
+          "Wikipedia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20slogan%20did%20the%20fast%20food%20company%2C%20McDonald%27s%2C%20use%20before%20their%20%22I%27m%20Lovin%27%20It%22%20slogan%3F",
+        "correct_answer": "We%20Love%20to%20See%20You%20Smile",
+        "incorrect_answers": [
+          "Why%20Pay%20More%21%3F",
+          "Have%20It%20Your%20Way",
+          "Making%20People%20Happy%20Through%20Food"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20buried%20remains%20of%20which%20English%20explorer%20of%20Australia%20were%20found%20in%20London%20%20in%20January%202019%3F%20",
+        "correct_answer": "Matthew%20Flinders",
+        "incorrect_answers": [
+          "William%20Bourke",
+          "Abel%20Tasman",
+          "Dirk%20Hartog"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20airline%20was%20the%20owner%20of%20the%20plane%20that%20crashed%20off%20the%20coast%20of%20Nova%20Scotia%20in%201998%3F",
+        "correct_answer": "Swiss%20Air",
+        "incorrect_answers": [
+          "Air%20France",
+          "British%20Airways",
+          "TWA"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Is%20Luxembourgish%20a%20real%20language%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20the%20fictional%20SCP%20universe%20what%20%E2%80%9CObject%20Class%E2%80%9D%20is%20given%20to%20SCP%E2%80%99s%20that%20cannot%20be%20contained.",
+        "correct_answer": "Apollyon",
+        "incorrect_answers": [
+          "Thaumiel",
+          "Keter-Thaumiel",
+          "Esoteric%2FNarrative%20Classes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20real%20haggis%20made%20of%3F",
+        "correct_answer": "Sheep%27s%20Heart%2C%20Liver%20and%20Lungs",
+        "incorrect_answers": [
+          "Sheep%27s%20Heart%2C%20Kidneys%20and%20Lungs",
+          "Sheep%27s%20Liver%2C%20Kidneys%20and%20Eyes",
+          "Whole%20Sheep"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20is%20not%20an%20Ivy%20League%20University%3F",
+        "correct_answer": "Stanford",
+        "incorrect_answers": [
+          "University%20of%20Pennsylvania",
+          "Harvard",
+          "Princeton"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20Original%20Jack-o-Lanterns%20were%20actually%20hollowed%20out%20turnips.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Haggis%20is%20traditionally%20ate%20on%20Burns%20Night.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20New%20York%20Subway%20is%20the%20oldest%20underground%20in%20the%20world.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20furlongs%20are%20there%20in%20a%20mile%3F",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+          "Two",
+          "Four",
+          "Six"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20type%20of%20dog%20is%20%27Handsome%20Dan%27%2C%20the%20mascot%20of%20Yale%20University%3F",
+        "correct_answer": "Bulldog",
+        "incorrect_answers": [
+          "Yorkshire%20Terrier",
+          "Boxer",
+          "Pug"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20character%20was%20once%20considered%20to%20be%20the%2027th%20letter%20of%20the%20alphabet%3F",
+        "correct_answer": "Ampersand",
+        "incorrect_answers": [
+          "Interrobang",
+          "Tilde",
+          "Pilcrow"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20vapor%20produced%20by%20e-cigarettes%20is%20actually%20water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Trypophobia%20is%20the%20fear%20of%20",
+        "correct_answer": "groups%20of%20holes",
+        "incorrect_answers": [
+          "swimming%20in%20deep%20water",
+          "public%20speaking",
+          "eating%20too%20much"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20correctly%20describes%20Japanese%20word%20order%3F",
+        "correct_answer": "Subject%20Object%20Verb",
+        "incorrect_answers": [
+          "Subject%20Verb%20Object",
+          "Verb%20Subject%20Object",
+          "Verb%20Object%20Subject"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20the%20letters%20in%20the%20GMT%20time%20zone%20stand%20for%3F",
+        "correct_answer": "Greenwich%20Mean%20Time",
+        "incorrect_answers": [
+          "Global%20Meridian%20Time",
+          "General%20Median%20Time",
+          "Glasgow%20Man%20Time"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20NASA%E2%80%99s%20most%20famous%20space%20telescope%3F",
+        "correct_answer": "Hubble%20Space%20Telescope",
+        "incorrect_answers": [
+          "Big%20Eye",
+          "Death%20Star",
+          "Millenium%20Falcon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Vietnam%27s%20national%20flag%20is%20a%20red%20star%20in%20front%20of%20a%20yellow%20background.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20currency%20used%20in%20Ethiopia%3F",
+        "correct_answer": "Birr",
+        "incorrect_answers": [
+          "Dirham",
+          "U.S.%20Dollar",
+          "Rand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20American%20manufactured%20submachine%20gun%20was%20informally%20known%20by%20the%20American%20soldiers%20that%20used%20it%20as%20%22Grease%20Gun%22%3F",
+        "correct_answer": "M3",
+        "incorrect_answers": [
+          "Colt%209mm",
+          "Thompson",
+          "MAC-10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20term%20%22scientist%22%20was%20coined%20in%20which%20year%3F",
+        "correct_answer": "1833",
+        "incorrect_answers": [
+          "1933",
+          "1942",
+          "1796"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Popcorn%20was%20invented%20in%201871%20by%20Frederick%20W.%20Rueckheim%20in%20the%20USA%20where%20he%20sold%20the%20snack%20on%20the%20streets%20of%20Chicago.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20likeness%20of%20which%20president%20is%20featured%20on%20the%20rare%20%242%20bill%20of%20USA%20currency%3F",
+        "correct_answer": "Thomas%20Jefferson",
+        "incorrect_answers": [
+          "Martin%20Van%20Buren",
+          "Ulysses%20Grant",
+          "John%20Quincy%20Adams"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20currency%20of%20India%20and%20Pakistan%20as%20well%20as%20a%20few%20other%20Asian%20countries%3F",
+        "correct_answer": "Rupee",
+        "incorrect_answers": [
+          "Riyal",
+          "Peso",
+          "Dinar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20linguistics%2C%20which%20of%20the%20following%20is%20not%20one%20of%20the%20Gricean%20Maxims%20under%20the%20Cooperative%20Principal%3F",
+        "correct_answer": "Length",
+        "incorrect_answers": [
+          "Quality",
+          "Relation",
+          "Manner"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20romanized%20Russian%20word%20for%20%22winter%22%3F",
+        "correct_answer": "Zima",
+        "incorrect_answers": [
+          "Leto",
+          "Vesna",
+          "Osen%27"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20French%20word%20for%20%22glass%22%20is%20%22glace%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "%22Typewriter%22%20is%20the%20longest%20word%20that%20can%20be%20typed%20using%20only%20the%20first%20row%20on%20a%20QWERTY%20keyboard.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Xanthophobia%20is%20the%20fear%20of%20what%20color%3F",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+          "Blue",
+          "Red",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Out%20of%20these%20four%20buildings%2C%20which%20one%20is%20the%20tallest%2C%20with%20a%20height%20of%202%2C717%20ft%20%28828%20m%29%3F",
+        "correct_answer": "Burj%20Khalifa%2C%20United%20Arab%20Emirates",
+        "incorrect_answers": [
+          "Shanghai%20Tower%2C%20China",
+          "Lotte%20World%20Tower%2C%20South%20Korea",
+          "Ping%20An%20Finance%20Centre%2C%20China"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Dihydrogen%20Monoxide%20was%20banned%20due%20to%20health%20risks%20after%20being%20discovered%20in%201983%20inside%20swimming%20pools%20and%20drinking%20water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Of%20the%20following%20months%2C%20which%20has%20the%20most%20amount%20of%20days%3F",
+        "correct_answer": "December",
+        "incorrect_answers": [
+          "April",
+          "September",
+          "November%20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20sum%20of%20all%20the%20numbers%20on%20a%20roulette%20wheel%20is%20666.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Rolex%20is%20a%20company%20that%20specializes%20in%20what%20type%20of%20product%3F",
+        "correct_answer": "Watches",
+        "incorrect_answers": [
+          "Cars",
+          "Computers",
+          "Sports%20equipment"
+        ]
+      }
+    ]
+  }
+}

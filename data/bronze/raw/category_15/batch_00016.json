@@ -1,0 +1,596 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:39.077483+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Pac-Man%20was%20invented%20by%20the%20designer%20Toru%20Iwatani%20while%20he%20was%20eating%20pizza.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20the%20Final%20Fantasy%20series%20developed%20by%20Square%20Enix%3F",
+        "correct_answer": "Hironobu%20Sakaguchi",
+        "incorrect_answers": [
+          "Yuji%20Horii",
+          "Akira%20Toriyama",
+          "Tetsuya%20Nomura"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20Joel%27s%20daughter%20in%20the%20game%2C%20%22The%20Last%20of%20Us%22%3F%20",
+        "correct_answer": "Sarah",
+        "incorrect_answers": [
+          "Ellie",
+          "Tess",
+          "Marlene"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20day%20in%20%22Papers%2C%20Please%22%20does%20the%20man%20in%20red%20appear%3F",
+        "correct_answer": "Day%2023",
+        "incorrect_answers": [
+          "Day%2020",
+          "Day%2017",
+          "Day%2015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Kingdom%20Hearts%20series%2C%20which%20is%20not%20an%20optional%20boss%20you%20can%20fight%3F",
+        "correct_answer": "Master%20Yen%20Sid",
+        "incorrect_answers": [
+          "Sephiroth",
+          "Julius",
+          "Kurt%20Zisa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20protagonist%20of%20Dead%20Space%3F",
+        "correct_answer": "Isaac%20Clarke",
+        "incorrect_answers": [
+          "Commander%20Shepard",
+          "Gordon%20Freeman",
+          "Master%20Chief"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20a%20class%20in%20the%20game%20%22Hearthstone%22%3F",
+        "correct_answer": "Priest",
+        "incorrect_answers": [
+          "Sage",
+          "Cleric",
+          "Monk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Pokemon%2C%20the%20ability%20Wonder%20Guard%20is%20exclusive%20to%20which%20Pokemon%3F%20",
+        "correct_answer": "Shedinja%20",
+        "incorrect_answers": [
+          "Sableye",
+          "Spiritomb",
+          "Silvally%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20stars%20in%20Brutal%20Legend%3F",
+        "correct_answer": "Jack%20Black",
+        "incorrect_answers": [
+          "Kanye%20West",
+          "Lemmy",
+          "Ozzy%20Osbourne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Animal%20Crossing%20game%20was%20for%20the%20Nintendo%20Wii%3F",
+        "correct_answer": "Animal%20Crossing%3A%20City%20Folk",
+        "incorrect_answers": [
+          "Animal%20Crossing%3A%20New%20Leaf",
+          "Animal%20Crossing%3A%20Wild%20World",
+          "Animal%20Crossing%3A%20Population%20Growing%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20weapons%20in%20%22Counter-Strike%3A%20Global%20Offensive%22%20does%20not%20have%20a%20right-click%20function%3F",
+        "correct_answer": "XM1014",
+        "incorrect_answers": [
+          "SG553",
+          "R8%20Revolver",
+          "USP-S"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20lore%20of%20the%20PAYDAY%20series%2C%20which%20criminal%20was%20arrested%20and%20then%20latered%20rescued%20by%20the%20PAYDAY%20gang%3F",
+        "correct_answer": "Hoxton",
+        "incorrect_answers": [
+          "Dallas",
+          "Wolf",
+          "Chains"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20default%20name%20of%20the%20Vampire%20character%20in%20%22Shining%20Soul%202%22.",
+        "correct_answer": "Bloodstar",
+        "incorrect_answers": [
+          "Sachs",
+          "Dracuul",
+          "Alucard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20PlayStation%20game%20to%20require%20the%20use%20of%20the%20DualShock%20controller%3F",
+        "correct_answer": "Ape%20Escape",
+        "incorrect_answers": [
+          "Metal%20Gear",
+          "Tekken%20",
+          "Tomba%202%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20full%20name%20of%20the%20protagonist%20from%20the%20indie%20adventure%20game%20%22Night%20in%20the%20Woods%22%3F",
+        "correct_answer": "Margaret%20Borowski",
+        "incorrect_answers": [
+          "Marlena%20Woborski",
+          "Milena%20Catharina",
+          "Katia%20Managan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20real%20Pok%C3%A9mon%3F",
+        "correct_answer": "Luminid",
+        "incorrect_answers": [
+          "Dragalge",
+          "Mandibuzz",
+          "Araquanid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20common%2C%20gun-toting%20enemies%20of%20the%20%22Oddworld%22%20video%20game%20series%3F",
+        "correct_answer": "Sligs",
+        "incorrect_answers": [
+          "Scrabs",
+          "Slogs",
+          "Glukkons"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Mother%203%2C%22%20the%20bird%20on%20the%20Ultimate%20Chimera%27s%20head%20is%20there%20only%20for%20decoration.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20video%20game%20did%20Michael%20Fassbender%20star%3F",
+        "correct_answer": "Fable%203",
+        "incorrect_answers": [
+          "Call%20of%20Duty%3A%20Modern%20Warfare",
+          "Assassin%27s%20Creed%203",
+          "Red%20Dead%20Redemption"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "One%20of%20the%20early%20prototypes%20of%20the%20Sega%20Dreamcast%20controller%20resembled%20which%20of%20the%20following%3F",
+        "correct_answer": "Television%20Remote",
+        "incorrect_answers": [
+          "Tablet",
+          "Hairdryer",
+          "Flip%20Phone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Before%20it%27s%20redesign%20of%20the%20company%20logo%20in%20the%20year%202000%2C%20which%203D%20shape%20is%20NOT%20represented%20in%20the%20Electronic%20Arts%20logo%3F",
+        "correct_answer": "Cylinder",
+        "incorrect_answers": [
+          "Pyramid",
+          "Cube",
+          "Sphere"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Monster%20Hunter%20Series%2C%20G-Rank%20is%20the%20highest%20possible%20prestige%20a%20Hunter%20can%20recieve.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Pok%C3%A9mon%2C%20Arbok%20evolves%20into%20Seviper.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Nintendo%27s%20Virtual%20Boy%20released%3F",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+          "1989",
+          "1997",
+          "1992"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20virus%20in%20%22Metal%20Gear%20Solid%201%22%3F",
+        "correct_answer": "FOXDIE",
+        "incorrect_answers": [
+          "FOXENGINE",
+          "FOXALIVE",
+          "FOXKILL"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20was%20Tetris%20created%20by%3F",
+        "correct_answer": "Alexey%20Pajitnov",
+        "incorrect_answers": [
+          "Toru%20Iwatani",
+          "Allan%20Alcorn",
+          "William%20Higinbotham"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20was%20the%20first%20video%20game%20to%20be%20produced%20by%20development%20company%20Rare%3F",
+        "correct_answer": "Slalom",
+        "incorrect_answers": [
+          "R.C.%20Pro-Am",
+          "Donkey%20Kong%20Country",
+          "Battletoads"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Super%20Mario%2064%22%2C%20collecting%20100%20coins%20on%20a%20level%20will%20give%20you%20a%201-UP.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Need%20for%20Speed%20III%3A%20Hot%20Pursuit%22%2C%20what%20is%20the%20name%20of%20the%20fictional%20car%3F",
+        "correct_answer": "El%20Ni%C3%B1o",
+        "incorrect_answers": [
+          "R%C3%A1pido",
+          "%C3%81gil",
+          "La%20Ni%C3%B1a"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Fortnite%20was%20originally%20intended%20to%20be%20a%20horror%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Half-Life%20franchise%2C%20what%20is%20the%20real%20name%20of%20the%20%22gravity%20gun%22%3F",
+        "correct_answer": "Zero-Point%20Energy%20Field%20Manipulator",
+        "incorrect_answers": [
+          "Universal%20Gravity%20Manipulation%20Device",
+          "Isaac%20Newton%27s%20Theory%20Disprover",
+          "Quantum%20Energy%20Displacement%20Modifier"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%202014%20Pokemon%20VGC%20Finals%2C%20which%20Pokemon%20was%20famous%20for%20bringing%20the%20winner%20to%20victory%3F",
+        "correct_answer": "Pachirisu",
+        "incorrect_answers": [
+          "Garchomp",
+          "Lapras",
+          "Primal%20Groudon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Each%20piece%20in%20Tetris%20is%20called%20a%20tetris.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20rules%20of%20the%20Danganronpa%20franchise%2C%20it%20states%20that%20a%20nighttime%20curfew%20for%20certain%20areas%20occurs%20between%2012am%20and%208am.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20Solid%20Snake%27s%20real%20name%3F",
+        "correct_answer": "David",
+        "incorrect_answers": [
+          "Solid%20Snake",
+          "John",
+          "Huey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20game%20under%20the%20Worms%20series%3F",
+        "correct_answer": "Major%20Malfunction",
+        "incorrect_answers": [
+          "Crazy%20Golf",
+          "Clan%20Wars",
+          "Ultimate%20Mayhem"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20WarioWare%3A%20Smooth%20Moves%2C%20which%20one%20of%20these%20is%20NOT%20a%20Form%3F",
+        "correct_answer": "The%20Hotshot",
+        "incorrect_answers": [
+          "The%20Discard",
+          "The%20Elephant",
+          "The%20Mohawk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20villain%20of%20the%20Crash%20Bandicoot%20series%3F",
+        "correct_answer": "Dr.%20Neo%20Cortex",
+        "incorrect_answers": [
+          "Dr.%20Evo-Cortex",
+          "Dr.%20Cortox",
+          "Sir%20Cartex"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20first%20game%20of%20the%20Sly%20Cooper%20franchise%2C%20what%20family%20heirloom%20did%20Sly%20Cooper%20want%20to%20steal%20back%3F",
+        "correct_answer": "Thievius%20Raccoonus",
+        "incorrect_answers": [
+          "Raccoon%20Training%20101",
+          "The%20Art%20of%20Sneak",
+          "Raccoonus%20Teachus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Super%20Smash%20Bros.%20series%2C%20which%20character%20was%20the%20first%20one%20to%20return%20to%20the%20series%20after%20being%20absent%20from%20a%20previous%20game%3F",
+        "correct_answer": "Dr.%20Mario",
+        "incorrect_answers": [
+          "Mewtwo",
+          "Lucas",
+          "Roy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20alien%20species%20introduced%20in%20Shadow%20the%20Hedgehog%20%282005%29%3F",
+        "correct_answer": "Black%20Arms",
+        "incorrect_answers": [
+          "The%20Swarm",
+          "Black%20Hive",
+          "The%20Eclipse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20partners%20can%20you%20obtain%20in%20Paper%20Mario%3A%20The%20Thousand-Year%20Door%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "6",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20career%20mode%20of%20%22Need%20for%20Speed%3A%20Underground%202%22%2C%20the%20first%20car%20the%20player%20can%20drive%20is%20the%20BMW%20M3%20GTR.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20victim%20mentioned%20in%20the%20second%20KG-8%20incident%2C%20in%20Ace%20attorney%20Investigations%2C%20Case%204%3F",
+        "correct_answer": "Deid%20Mann",
+        "incorrect_answers": [
+          "Frank%20Sahwit",
+          "Shey%20De%20Killer",
+          "Raymond%20Shields"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20operation%20in%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20introduced%20the%20%22Skyscraper%22%20map%3F",
+        "correct_answer": "Red%20Crow",
+        "incorrect_answers": [
+          "Velvet%20Shell",
+          "Skull%20Rain",
+          "Dust%20Line"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20the%20pump%20%22F.L.U.D.D.%22%20Mario%20uses%20in%20Super%20Mario%20Sunshine%3F",
+        "correct_answer": "Elvin%20Gadd",
+        "incorrect_answers": [
+          "Robert%20Fludd",
+          "Nirona",
+          "Crygor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20Chaos%20Emeralds%20can%20you%20collect%20in%20the%20first%20Sonic%20The%20Hedgehog%3F",
+        "correct_answer": "Six",
+        "incorrect_answers": [
+          "Seven",
+          "Five",
+          "Eight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20item%20required%20to%20summon%20the%20boss%20Duke%20Fishron%20in%20the%20game%20Terraria%3F",
+        "correct_answer": "Truffle%20Worm",
+        "incorrect_answers": [
+          "Suspicious%20Looking%20Fish",
+          "King%20Grasshopper",
+          "Slug"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20Overwatch%2C%20which%20playable%20character%20is%20infamous%20for%20saying%20%22It%27s%20high%20noon.%22%3F",
+        "correct_answer": "McCree",
+        "incorrect_answers": [
+          "Hanzo",
+          "Pharah",
+          "Soldier%3A%2076"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Minecraft%2C%20which%20two%20items%20must%20be%20combined%20to%20craft%20a%20torch%3F",
+        "correct_answer": "Stick%20and%20Coal",
+        "incorrect_answers": [
+          "Stick%20and%20Fire",
+          "Wood%20and%20Coal",
+          "Wood%20and%20Fire"
+        ]
+      }
+    ]
+  }
+}

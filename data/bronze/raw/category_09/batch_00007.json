@@ -1,0 +1,590 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:57:12.762793+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20Pong%20released%3F",
+        "correct_answer": "November%2029%2C%201972",
+        "incorrect_answers": [
+          "March%2029%2C%202017",
+          "November%2029%2C%201970",
+          "December%2014%2C%201974"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20first%20ever%20London%20Underground%20line%20to%20be%20built%3F",
+        "correct_answer": "Metropolitan%20Line",
+        "incorrect_answers": [
+          "Circle%20Line",
+          "Bakerloo%20Line",
+          "Victoria%20Line"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "March%2010th%20is%20also%20known%20as%20Mar10%20Day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20word%20represents%20the%20letter%20%27T%27%20in%20the%20NATO%20phonetic%20alphabet%3F",
+        "correct_answer": "Tango",
+        "incorrect_answers": [
+          "Target",
+          "Taxi",
+          "Turkey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Bob%20and%20Mike%20Bryan%20were%20well%20known%20brothers%20in%20which%20sport%3F",
+        "correct_answer": "Tennis",
+        "incorrect_answers": [
+          "Basketball",
+          "Football",
+          "Baseball"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20DC%20comics%20where%20does%20the%20Green%20Arrow%20%28Oliver%20Queen%29%20live%3F",
+        "correct_answer": "Star%20City",
+        "incorrect_answers": [
+          "Central%20City",
+          "Gotham%20City",
+          "Metropolis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Roughly%20how%20many%20ingested%20apple%20seeds%20would%20it%20take%20to%20receive%20a%20fatal%20dose%20of%20cyanide%3F",
+        "correct_answer": "200",
+        "incorrect_answers": [
+          "20",
+          "2%2C000",
+          "20%2C000"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Furby%20was%20released%20in%201998.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "%22Santa%20Claus%22%20is%20a%20variety%20of%20melon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20the%20origin%20of%20the%20quote%20%22What%20doesn%27t%20kill%20you%20makes%20you%20stronger%22%3F",
+        "correct_answer": "Friedrich%20Nietzsche",
+        "incorrect_answers": [
+          "%20G.%20Gordon%20Liddy",
+          "Kelly%20Clarkson",
+          "Christopher%20Hitchens"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Earl%20Grey%20tea%20is%20black%20tea%20flavoured%20with%20what%3F",
+        "correct_answer": "Bergamot%20oil",
+        "incorrect_answers": [
+          "Lavender",
+          "Vanilla",
+          "Honey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20American%20singers%20and%20songwriters%20won%20a%20Nobel%20Prize%20in%20Literature%3F",
+        "correct_answer": "Bob%20Dylan",
+        "incorrect_answers": [
+          "Buddy%20Holly",
+          "Johnny%20Cash",
+          "Alice%20Cooper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20which%20country%20was%20the%201992%20Summer%20Olympics%20Games%20held%3F",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+          "Russia",
+          "Korea",
+          "USA"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Stagecoach%20owned%20%22South%20West%20Trains%22%20before%20losing%20the%20rights%20to%20FirstGroup%20and%20MTR%20in%20March%20of%202017.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20a%20%22dakimakura%22%3F",
+        "correct_answer": "A%20body%20pillow",
+        "incorrect_answers": [
+          "A%20Chinese%20meal%2C%20essentially%20composed%20of%20fish",
+          "A%20yoga%20posture",
+          "A%20word%20used%20to%20describe%20two%20people%20who%20truly%20love%20each%20other"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20the%20author%20of%20Jurassic%20Park%3F",
+        "correct_answer": "Michael%20Crichton",
+        "incorrect_answers": [
+          "Peter%20Benchley",
+          "Chuck%20Paluhniuk",
+          "Irvine%20Welsh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20one%20is%20%22envious%22%2C%20they%20are%20said%20to%20be%20what%20color%3F",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20company%20developed%20the%20vocaloid%20Hatsune%20Miku%3F",
+        "correct_answer": "Crypton%20Future%20Media",
+        "incorrect_answers": [
+          "Sega",
+          "Sony",
+          "Yamaha%20Corporation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20year%20was%20the%20first%20Apple%20iPod%20introduced%3F",
+        "correct_answer": "2001",
+        "incorrect_answers": [
+          "2000",
+          "1999",
+          "1998"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20a%20standard%20Gregorian%20calendar%2C%20how%20many%20months%20begin%20with%20the%20letter%20%27J%27%3F",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+          "Four",
+          "Five",
+          "Two"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20nation%20produces%20roughly%2040%25%20of%20the%20world%E2%80%99s%20vanilla%3F",
+        "correct_answer": "Madagascar",
+        "incorrect_answers": [
+          "Indonesia",
+          "China",
+          "Mexico"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20romanized%20Japanese%20word%20for%20%22university%22%3F",
+        "correct_answer": "Daigaku",
+        "incorrect_answers": [
+          "Toshokan",
+          "Jimusho",
+          "Shokudou"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Out%20of%20these%20four%20buildings%2C%20which%20one%20is%20the%20tallest%2C%20with%20a%20height%20of%201%2C250%20ft%20%28381%20m%29%3F",
+        "correct_answer": "Empire%20State%20Building%2C%20United%20States",
+        "incorrect_answers": [
+          "Bank%20of%20China%20Tower%2C%20Hong%20Kong",
+          "Federation%20Tower%2C%20Russia",
+          "Gevora%20Hotal%2C%20United%20Arab%20Emirates"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "%22Ananas%22%20is%20mostly%20used%20as%20the%20word%20for%20Pineapple%20in%20other%20languages.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20%20British%20Monarchs%20never%20appeared%20on%20a%20circulated%20pound%20sterling%20coin%3F",
+        "correct_answer": "Edward%20VIII",
+        "incorrect_answers": [
+          "Victoria",
+          "George%20VI",
+          "Charles%20II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20was%20the%201st%20President%20of%20Mexico%3F",
+        "correct_answer": "Guadalupe%20Victoria",
+        "incorrect_answers": [
+          "Benito%20Ju%C3%A1rez",
+          "Miguel%20Hidalgo%20Y%20Costilla",
+          "Vicente%20Guerrero"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Gumbo%20is%20a%20stew%20that%20originated%20in%20Louisiana.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20the%20F%20stand%20for%20in%20the%20FBI%3F",
+        "correct_answer": "Federal",
+        "incorrect_answers": [
+          "Foreign",
+          "Formal",
+          "First"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20country%20drives%20on%20the%20left%20side%20of%20the%20road%3F",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+          "Germany",
+          "Russia",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20Cuba%27s%20official%2C%20most%20widely%20spoken%20language%3F",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+          "Portuguese",
+          "French",
+          "Italian"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "You%20are%20allowed%20to%20sell%20your%20soul%20on%20eBay.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Nephelococcygia%20is%20the%20practice%20of%20doing%20what%3F",
+        "correct_answer": "Finding%20shapes%20in%20clouds",
+        "incorrect_answers": [
+          "Sleeping%20with%20your%20eyes%20open",
+          "Breaking%20glass%20with%20your%20voice",
+          "Swimming%20in%20freezing%20water"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20architecture%2C%20a%20%22pecklesteiner%22%20is%20a%20set%20of%20doors%20that%20overlap%20each%20other%20when%20closed%2C%20and%20can%20be%20locked%20through%20a%20single%20keyhole.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "French%20is%20an%20official%20language%20in%20Canada.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20fingers%20does%20a%20single%20human%20hand%20have%3F",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+          "Five",
+          "Ten",
+          "Eight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Macintosh%20has%20named%20six%20of%20its%20operating%20systems%20after%20big%20cats.%20What%20big%20cat%20did%20Macintosh%20name%20their%202007%20release%20after%3F%20",
+        "correct_answer": "Leopard",
+        "incorrect_answers": [
+          "Tiger",
+          "Panther",
+          "Puma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20the%20English%20language%2C%20what%20is%20the%20name%20of%20the%20%22%26%22%20character%3F",
+        "correct_answer": "Ampersand",
+        "incorrect_answers": [
+          "Eightslash",
+          "And%20Sign",
+          "Obelus%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20one%20of%20these%20is%20not%20a%20typical%20European%20sword%20design%3F",
+        "correct_answer": "Scimitar",
+        "incorrect_answers": [
+          "Falchion",
+          "Ulfberht",
+          "Flamberge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20Latin%20phrase%20roughly%20translates%20to%20%22seize%20the%20day%22%3F",
+        "correct_answer": "Carpe%20diem",
+        "incorrect_answers": [
+          "Memento%20mori",
+          "Plus%20ultra",
+          "Sic%20semper%20tyrannis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20the%20%22G%22%20mean%20in%20%22G-Man%22%3F",
+        "correct_answer": "Government",
+        "incorrect_answers": [
+          "Going",
+          "Ghost",
+          "Geronimo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20iconic%20Disneyland%20attraction%20was%20closed%20in%202017%20to%20be%20remodeled%20as%20a%20%22Guardians%20of%20the%20Galaxy%22%20themed%20ride%3F",
+        "correct_answer": "Twilight%20Zone%20Tower%20of%20Terror",
+        "incorrect_answers": [
+          "The%20Haunted%20Mansion",
+          "Pirates%20of%20the%20Caribbean",
+          "Peter%20Pan%27s%20Flight"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Coca-Cola%27s%20original%20colour%20was%20green.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20unit%20of%20currency%20in%20Laos%3F",
+        "correct_answer": "Kip",
+        "incorrect_answers": [
+          "Ruble",
+          "Konra",
+          "Dollar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20Italian%20automobile%20manufacturer%20gained%20majority%20control%20of%20U.S.%20automobile%20manufacturer%20Chrysler%20in%202011%3F",
+        "correct_answer": "Fiat",
+        "incorrect_answers": [
+          "Maserati",
+          "Alfa%20Romeo",
+          "Ferrari"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20are%20the%20three%20starter%20Pokemon%20available%20in%20Pokemon%20Black%20and%20White%3F",
+        "correct_answer": "Snivy%2C%20Tepig%2C%20Oshawott",
+        "incorrect_answers": [
+          "Snivy%2C%20Fennekin%2C%20Froakie",
+          "Chespin%2C%20Tepig%2C%20Froakie",
+          "Chespin%2C%20Fennekin%2C%20Oshawott"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "If%20a%20person%27s%20hair%20is%20described%20as%20%27Titian%27%2C%20what%20colour%20is%20it%3F",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+          "Blonde",
+          "Brunette",
+          "Black"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20commercial%20UK%20channel%20ITV%20stands%20for%20%22International%20Television%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20played%20General%20Aladeen%20in%20The%20Dictator%3F",
+        "correct_answer": "Sacha%20Baron%20Cohen",
+        "incorrect_answers": [
+          "Johnny%20Depp",
+          "James%20Franco",
+          "Leonardo%20Dicaprio"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20musician%20has%20collaborated%20with%20American%20producer%20Porter%20Robinson%20and%20released%20the%202016%20song%20%22Shelter%22%3F",
+        "correct_answer": "Madeon",
+        "incorrect_answers": [
+          "Mat%20Zo",
+          "deadmau5",
+          "Zedd"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Ping-Pong%20originated%20in%20England",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

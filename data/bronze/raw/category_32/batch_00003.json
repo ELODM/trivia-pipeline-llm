@@ -1,0 +1,110 @@
+{
+  "category_id": 32,
+  "fetched_at": "2026-10-06T10:09:29.448833+00:00",
+  "request": {
+    "amount": 8,
+    "category": 32,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20cartoon%20family%20lives%20in%2031%20Spooner%20Street%2C%20Quahog%2C%20Rhode%20Island%20USA%3F",
+        "correct_answer": "The%20Griffins",
+        "incorrect_answers": [
+          "The%20Simpsons",
+          "The%20Jetsons",
+          "The%20Hills"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20cartoon%20girlfriends%20of%20popular%20characters%20first%20appeared%20before%20their%20boyfriends%3F",
+        "correct_answer": "Olive%20Oyl",
+        "incorrect_answers": [
+          "Minnie%20Mouse",
+          "Lola%20Bunny",
+          "Daisy%20Duck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20Sanrio%20character%20was%20introduced%20in%201996%3F",
+        "correct_answer": "Pompompurin",
+        "incorrect_answers": [
+          "My%20Melody",
+          "Badtz-Maru",
+          "Kerropi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20cartoon%20family%20lives%20in%20742%20Evergreen%20Terrace%2C%20Springfield%20USA%3F",
+        "correct_answer": "The%20Simpsons",
+        "incorrect_answers": [
+          "The%20Hills",
+          "The%20Flintstones",
+          "The%20Griffins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Townsend%20Coleman%20provided%20the%20voice%20for%20which%20turtle%20in%20the%20original%201987%20series%20of%20%22Teenage%20Mutant%20Ninja%20Turtles%22%3F",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+          "Leonardo",
+          "Donatello",
+          "Raphael"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20Everest%27s%20favorite%20food%20in%20the%20Nickelodeon%2FNick%20Jr.%20series%20%22PAW%20Patrol%22%3F",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+          "Chicken",
+          "Steak",
+          "Caribou"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20is%20the%20only%20voice%20actor%20to%20have%20a%20speaking%20part%20in%20all%20of%20the%20Disney%20Pixar%20feature%20films%3F%20",
+        "correct_answer": "John%20Ratzenberger",
+        "incorrect_answers": [
+          "Tom%20Hanks",
+          "Dave%20Foley",
+          "Geoffrey%20Rush"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20The%20Simpsons%2C%20which%20war%20did%20Seymour%20Skinner%20serve%20in%20the%20USA%20Army%20as%20a%20Green%20Beret%3F",
+        "correct_answer": "Vietnam%20War",
+        "incorrect_answers": [
+          "World%20War%202",
+          "World%20War%201",
+          "Cold%20War"
+        ]
+      }
+    ]
+  }
+}

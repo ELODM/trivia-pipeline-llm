@@ -1,0 +1,602 @@
+{
+  "category_id": 32,
+  "fetched_at": "2026-10-06T10:09:18.900537+00:00",
+  "request": {
+    "amount": 50,
+    "category": 32,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20Scooby-Doo%27s%20real%20name%3F",
+        "correct_answer": "Scoobert",
+        "incorrect_answers": [
+          "Scooter",
+          "Scrappy",
+          "Shooby"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20show%20%22Steven%20Universe%22%2C%20who%20are%20the%20main%20two%20employees%20of%20The%20Big%20Donut%3F",
+        "correct_answer": "Sadie%20and%20Lars",
+        "incorrect_answers": [
+          "Steven%20and%20James",
+          "Erik%20and%20Julie",
+          "Bob%20and%20May"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22SpongeBob%20SquarePants%22%2C%20what%20is%20the%20name%20of%20Sandy%20Cheek%27s%20place%20of%20residence%3F",
+        "correct_answer": "Sandy%27s%20Treedome",
+        "incorrect_answers": [
+          "%22The%20Dome%22",
+          "Sandy%27s%20Bubble",
+          "Auquatic%20Reseach%20Centre"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20Flintstones%20character%3F",
+        "correct_answer": "Lord%20Rockingham%20IX",
+        "incorrect_answers": [
+          "Rockhead%20Slate",
+          "The%20Great%20Gazoo",
+          "Barney%20Rubble"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20was%20the%20release%20date%20of%20the%20first%20episode%20of%20%22The%20Powerpuff%20Girls%22%3F",
+        "correct_answer": "November%2018%2C%201998",
+        "incorrect_answers": [
+          "June%2025%2C%201999",
+          "July%2028%2C%202000",
+          "April%2014%2C%202001"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20web-comic%20Homestuck%2C%20what%20is%20the%20name%20of%20the%20game%20the%204%20kids%20play%3F",
+        "correct_answer": "Sburb",
+        "incorrect_answers": [
+          "Homesick",
+          "Husslie",
+          "Hiveswap"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Wendy%20O.%20Koopa%20appeared%20in%20the%20Super%20Mario%20DIC%20Cartoons%2C%20but%20what%20was%20she%20known%20as%3F",
+        "correct_answer": "Kootie%20Pie",
+        "incorrect_answers": [
+          "Sweetie%20Pie",
+          "Wendy%20Pie",
+          "Honey%20Pie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20was%20the%20name%20of%20Jonny%27s%20pet%20dog%20in%20The%20Adventures%20of%20Jonny%20Quest%3F",
+        "correct_answer": "Bandit",
+        "incorrect_answers": [
+          "Lucky",
+          "Rocky",
+          "Max"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20ability%20does%20Princess%20Sofia%20the%20First%20have%20from%20her%20amulet%20that%20allows%20her%20to%20breathe%20underwater%3F",
+        "correct_answer": "Mermaid%20Transformation",
+        "incorrect_answers": [
+          "Artificial%20Gills",
+          "Bubble%20Head",
+          "Bubble%20Shield"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20cartoons%20had%20a%20character%20named%20Heinz%20Doofenshmirtz%3F",
+        "correct_answer": "Phineas%20%26%20Ferb",
+        "incorrect_answers": [
+          "Ren%20%26%20Stimpy",
+          "Ben%2010",
+          "Batman%3A%20The%20Animated%20Series"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20animated%20internet%20character%20is%20known%20to%20answer%20emails%20with%20his%20boxing%20gloves%3F",
+        "correct_answer": "Strong%20Bad",
+        "incorrect_answers": [
+          "Strong%20Sad",
+          "Strong%20Mad",
+          "Strong%20Glad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20voiced%20the%20Genie%20in%20Disney%27s%20%22Aladdin%22%3F",
+        "correct_answer": "Robin%20Williams",
+        "incorrect_answers": [
+          "Billy%20Crystal",
+          "Adam%20Sandler",
+          "Jim%20Carrey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20is%20not%20a%20real%20character%20in%20the%20cartoon%20series%20My%20Little%20Pony%3A%20Friendship%20is%20Magic%3F",
+        "correct_answer": "Rose%20Marene",
+        "incorrect_answers": [
+          "Pinkie%20Pie",
+          "Maud%20Pie",
+          "Rainbow%20Dash"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22Avatar%3A%20The%20Last%20Airbender%22%20and%20%22The%20Legend%20of%20Korra%22%2C%20Lavabending%20is%20a%20specialized%20bending%20technique%20of%20Firebending.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20TV%20show%20%22Rick%20and%20Morty%22%2C%20Rick%20uses%20the%20catchphrase%20%22Wubba%20Lubba%20Dub%20Dub%22%2C%20which%20means%20what%20in%20Birdperson%3F",
+        "correct_answer": "I%20am%20in%20great%20pain%2C%20please%20help%20me.",
+        "incorrect_answers": [
+          "I%20pray%20that%20my%20life%20ends%20soon.",
+          "Lets%20get%20this%20party%20started%21",
+          "I%20am%20suffering%2C%20please%20help%20me."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20South%20Park%2C%20what%20is%20Stan%27s%20surname%3F",
+        "correct_answer": "Marsh",
+        "incorrect_answers": [
+          "Stotch",
+          "Broflovski",
+          "Tweak"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Nutcracker%20Suite%20was%20one%20of%20the%20musical%20pieces%20featured%20in%20Disney%27s%201940%27s%20film%20Fantasia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Benny%2C%20Brain%2C%20Fancy-Fancy%2C%20Spook%20and%20Choo-Choo%20were%20known%20associates%20of%20what%20Hanna%20Barbera%20cartoon%20character%3F",
+        "correct_answer": "Top%20Cat",
+        "incorrect_answers": [
+          "Yogi%20Bear",
+          "Snagglepuss",
+          "Scooby-Doo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Night%20on%20Bald%20Mountain%20was%20one%20of%20the%20musical%20pieces%20featured%20in%20Disney%27s%201940%27s%20film%20Fantasia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20was%20Maggie%20Simpson%27s%20first%20canonical%20word%2C%20not%20including%20the%20Tracey%20Ullman%20shorts%3F",
+        "correct_answer": "Daddy.",
+        "incorrect_answers": [
+          "Sequel%3F",
+          "Ja%21",
+          "Rusty%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20is%20Winnie%20the%20Pooh%27s%20gloomy%20donkey%20friend%3F",
+        "correct_answer": "Eeyore",
+        "incorrect_answers": [
+          "Piglet",
+          "Tigger",
+          "Kanga"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Bill%20Cipher%20in%20the%20show%20%22Gravity%20Falls%22%20is%20the%20good%20guy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%201993%20Disney%20animated%20series%20%22Bonkers%22%2C%20what%20is%20the%20name%20of%20Bonker%27s%20second%20partner%3F",
+        "correct_answer": "Miranda%20Wright",
+        "incorrect_answers": [
+          "Dick%20Tracy",
+          "Eddie%20Valiant",
+          "Dr.%20Ludwig%20von%20Drake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20lost%20in%20Hawaiian%20and%20is%20also%20the%20name%20of%20a%20little%20girl%20in%20a%202002%20film%20which%20features%20a%20alien%20named%20%22Stitch%22%3F",
+        "correct_answer": "Lilo",
+        "incorrect_answers": [
+          "Lolo",
+          "Lucy",
+          "Lulu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%201969%20Cartoon%20show%20%22Dastardly%20and%20Muttley%20in%20Their%20Flying%20Machines%22%2C%20which%20were%20NOT%20one%20of%20the%20lyrics%20in%20the%20opening%20theme%3F",
+        "correct_answer": "Stab%20him",
+        "incorrect_answers": [
+          "Nab%20him",
+          "Jab%20him",
+          "Tab%20him"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20one%20of%20these%20cartoon%20characters%20is%20NOT%20voiced%20by%20Rob%20Paulsen%3F",
+        "correct_answer": "Max%20Tennyson%20%28Ben%2010%29",
+        "incorrect_answers": [
+          "Carl%20Wheezer%20%28Jimmy%20Neutron%29",
+          "Yakko%20Warner%20%28Animaniacs%29",
+          "The%20Mask%20%28The%20Mask%2C%20TV%20Series%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "How%20many%20episodes%20were%20in%20season%20five%20of%20Samurai%20Jack%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "12",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20is%20NOT%20a%20Disney%20cartoon%20character%3F",
+        "correct_answer": "Daffy%20Duck",
+        "incorrect_answers": [
+          "Donald%20Duck",
+          "Daisy%20Duck",
+          "Scrooge%20McDuck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20%22Toy%20Story%22%20character%20was%20voiced%20by%20Don%20Rickles%3F",
+        "correct_answer": "Mr.%20Potato%20Head",
+        "incorrect_answers": [
+          "Slinky%20Dog",
+          "Hamm",
+          "Rex"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Blue%20Danube%20was%20one%20of%20the%20musical%20pieces%20featured%20in%20Disney%27s%201940%27s%20film%20Fantasia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20Hanna-Barbera%20cartoon%20character%20travelled%20with%20a%20canine%20companion%20named%20Beegle%20Beagle%3F",
+        "correct_answer": "Grape%20Ape",
+        "incorrect_answers": [
+          "Boss%20Gator",
+          "Wally%20Gator",
+          "Yogi%20Bear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22My%20Little%20Pony%3A%20Friendship%20is%20Magic%22%2C%20which%20of%20these%20ponies%20represents%20the%20quality%20of%20honesty%3F",
+        "correct_answer": "Applejack",
+        "incorrect_answers": [
+          "Twilight%20Sparkle",
+          "Pinkie%20Pie",
+          "Rarity"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20is%20the%20%22dumb%20blonde%22%20character%20in%20Nickelodeon%27s%20%22The%20Loud%20House%22%3F",
+        "correct_answer": "Leni",
+        "incorrect_answers": [
+          "Luan",
+          "Luna",
+          "Lincoln"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Adam%20West%20was%20the%20mayor%20of%20which%20cartoon%20town%3F",
+        "correct_answer": "Quahog",
+        "incorrect_answers": [
+          "Springfield",
+          "South%20Park",
+          "Langley%20Falls"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20was%20the%20first%20Disney%20movie%20to%20use%20CGI%3F",
+        "correct_answer": "The%20Black%20Cauldron",
+        "incorrect_answers": [
+          "Tron",
+          "Toy%20Story",
+          "Fantasia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20Pixar%20film%2C%20%22Toy%20Story%22%20what%20was%20the%20name%20of%20the%20child%20who%20owned%20the%20toys%3F",
+        "correct_answer": "Andy",
+        "incorrect_answers": [
+          "Edward",
+          "Danny",
+          "Matt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22The%20Amazing%20World%20of%20Gumball%22%2C%20who%20is%20the%20principal%20of%20Elmore%20Junior%20High%3F",
+        "correct_answer": "Principal%20Brown",
+        "incorrect_answers": [
+          "Principal%20Small",
+          "Principal%20Brawn",
+          "Principal%20Simeon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20animated%20series%20RWBY%2C%20what%20is%20the%20name%20of%20the%20weapon%20used%20by%20Weiss%20Schnee%3F",
+        "correct_answer": "Myrtenaster",
+        "incorrect_answers": [
+          "Gambol%20Shroud",
+          "Crescent%20Rose",
+          "Ember%20Celica"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22Rick%20and%20Morty%22%2C%20from%20which%20dimension%20do%20Rick%20and%20Morty%20originate%20from%3F",
+        "correct_answer": "C-137",
+        "incorrect_answers": [
+          "J1977",
+          "C-136",
+          "C500-a"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Bugs%20Bunny%2C%20Tony%20the%20Tiger%2C%20and%20other%20bipedal%20animal%20characters%20are%20known%20as%20what%20type%20of%20character%3F",
+        "correct_answer": "Anthropomorphic",
+        "incorrect_answers": [
+          "Anthropolegic%20",
+          "Anthrologic",
+          "Anthrogenetic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Snagglepuss%20was%20part%20of%20the%20Yogi%20Yahooies%20in%20the%201977%20show%20Scooby%27s%20All-Star%20Laff-a-Lympics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20created%20the%20Cartoon%20Network%20series%20%22Adventure%20Time%22%3F",
+        "correct_answer": "Pendleton%20Ward",
+        "incorrect_answers": [
+          "J.%20G.%20Quintel",
+          "Ben%20Bocquelet",
+          "Rebecca%20Sugar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20is%20NOT%20a%20catchphrase%20used%20by%20Rick%20Sanchez%20in%20the%20TV%20show%20%22Rick%20and%20Morty%22%3F",
+        "correct_answer": "Slam%20dunk%2C%20nothing%20but%20net%21",
+        "incorrect_answers": [
+          "Hit%20the%20sack%2C%20Jack%21",
+          "Rikki-Tikki-Tavi%2C%20biatch%21",
+          "Wubba-lubba-dub-dub%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20Scooby%20Doo%27s%20full%20name%3F",
+        "correct_answer": "Scoobert%20Doo",
+        "incorrect_answers": [
+          "Scooter%20Doo",
+          "Scooby%20Dooby%20Doo",
+          "Scoobity%20Doo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22Gravity%20Falls%22%2C%20how%20much%20does%20Waddles%20weigh%20when%20Mable%20wins%20him%20in%20%22The%20Time%20Traveler%27s%20Pig%22%3F",
+        "correct_answer": "15%20pounds",
+        "incorrect_answers": [
+          "20%20pounds",
+          "10%20pounds",
+          "30%20pounds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20was%20the%20number%20on%20Gerald%27s%20shirt%20in%20%22Hey%20Arnold%21%22%3F",
+        "correct_answer": "33",
+        "incorrect_answers": [
+          "88",
+          "38",
+          "83"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20cartoon%20character%2C%20Andy%20Capp%2C%20known%20as%20in%20Germany%3F",
+        "correct_answer": "Willi%20Wakker",
+        "incorrect_answers": [
+          "Dick%20Tingeler",
+          "Helmut%20Schmacker",
+          "Rod%20Tapper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22Gravity%20Falls%22%2C%20the%20character%20Bill%20Cipher%20remarks%20that%20%22the%20universe%20is%20what%3F%22",
+        "correct_answer": "A%20hologram%20",
+        "incorrect_answers": [
+          "An%20illusion%20",
+          "A%20simulation",
+          "Corrupting"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20name%20of%20Ruby%20Rose%27s%20weapon%20from%20RWBY%3F",
+        "correct_answer": "Crescent%20Rose",
+        "incorrect_answers": [
+          "Thorned%20Rosebud",
+          "Magnhild",
+          "Crooked%20Scythe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20%22Star%20Wars%22%20universe%2C%20what%20species%20is%20Grand%20Admiral%20Thrawn%3F",
+        "correct_answer": "Chiss",
+        "incorrect_answers": [
+          "Gungans",
+          "Pantorans",
+          "Twi%27lek"
+        ]
+      }
+    ]
+  }
+}

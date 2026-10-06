@@ -1,0 +1,608 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:02:15.543396+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Half-Life%2C%20which%20enemy%20is%20showcased%20as%20the%20final%20boss%3F",
+        "correct_answer": "The%20Nihilanth",
+        "incorrect_answers": [
+          "Dr.%20Wallace%20Breen",
+          "G-Man",
+          "The%20Gonarch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20protagonist%20in%20Dead%20Rising%20%282006%29%3F",
+        "correct_answer": "Frank%20West",
+        "incorrect_answers": [
+          "Chuck%20Greene",
+          "John%20North",
+          "Jason%20Grey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20%27D%27%20in%20the%20term%20%22D-Mail%22%20from%20the%20game%20%22Steins%3B%20Gate%22%20is%20short%20for%20what%3F",
+        "correct_answer": "DeLorean",
+        "incorrect_answers": [
+          "Deep",
+          "Demo",
+          "Dev"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20power%20does%20Max%20Caulfield%20from%20%22Life%20is%20Strange%22%20have%3F",
+        "correct_answer": "Rewinding%20Time",
+        "incorrect_answers": [
+          "Invisibility",
+          "Telepathy",
+          "Super%20Strength"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Grand%20Theft%20Auto%20V%2C%20what%20was%20Michael%20De%20Santa%27s%20former%20surname%3F",
+        "correct_answer": "Townley",
+        "incorrect_answers": [
+          "De%20Santos",
+          "Watson",
+          "Simpson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20in%20the%20%22Monster%20Hunter%22%20series%20introduced%20the%20%22Insect%20Glaive%22%20weapon%3F",
+        "correct_answer": "Monster%20Hunter%204",
+        "incorrect_answers": [
+          "Monster%20Hunter%20Freedom",
+          "Monster%20Hunter%20Stories",
+          "Monster%20Hunter%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20video%20game%20company%20developed%20the%202019%20game%20Rage%202%3F",
+        "correct_answer": "Avalanche%20Studios",
+        "incorrect_answers": [
+          "Bethesda%20Game%20Studios",
+          "Infinity%20Ward",
+          "Gearbox%20Software"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20characters%20were%20considered%20for%20inclusion%20in%20Super%20Smash%20Bros.%20Melee%3F",
+        "correct_answer": "Lucas",
+        "incorrect_answers": [
+          "Mega%20Man",
+          "Meta%20Knight",
+          "Diddy%20Kong"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20German%20city%20does%20the%20map%20%22Clubhouse%22%20in%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20take%20place%20in%3F",
+        "correct_answer": "Hannover",
+        "incorrect_answers": [
+          "Berlin",
+          "Hamburg",
+          "Munich"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20year%20was%20the%20game%20%22Overwatch%22%20revealed%3F",
+        "correct_answer": "2014",
+        "incorrect_answers": [
+          "2015",
+          "2011",
+          "2008"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Amazon%20acquired%20Twitch%20in%20August%202014%20for%20%24970%20million%20dollars.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Ana%20was%20added%20as%20a%20new%20hero%20for%20the%20game%20Overwatch%20on%20July%2019th%2C%202016.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20not%20a%20default%20game%20mode%20in%20Counter-Strike%20%282000%29%3F",
+        "correct_answer": "Arms%20Race",
+        "incorrect_answers": [
+          "Hostage%20Rescue",
+          "Bomb%20Defusal",
+          "Assassination"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20football%20video%20game%20series%20%22Pro%20Evolution%20Soccer%22%20is%20developed%20by%20which%20company%3F",
+        "correct_answer": "Konami",
+        "incorrect_answers": [
+          "Square%20Enix",
+          "Electronic%20Arts",
+          "THQ"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Nuclear%20Throne%2C%20what%20organization%20chases%20the%20player%20character%20throughout%20the%20game%3F",
+        "correct_answer": "The%20I.D.P.D",
+        "incorrect_answers": [
+          "The%20Fishmen",
+          "The%20Bandits",
+          "The%20Y.V.G.G"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20only%20Generation%20III%20Pokemon%20whose%20name%20begins%20with%20the%20letter%20I%3F",
+        "correct_answer": "Illumise",
+        "incorrect_answers": [
+          "Infernape",
+          "Ivysaur",
+          "Igglybuff"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Halo%22%2C%20what%20is%20the%20name%20of%20the%20planet%20which%20Installation%2004%20orbits%3F",
+        "correct_answer": "Threshold",
+        "incorrect_answers": [
+          "Substance",
+          "Sanghelios",
+          "Te"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20made%20Garry%27s%20Mod%3F",
+        "correct_answer": "Garry%20Newman",
+        "incorrect_answers": [
+          "Randy%20Newman",
+          "Facepunch%20Studios",
+          "Gabe%20Newell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22S.T.A.L.K.E.R.%22%20series%2C%20which%20of%20these%20items%20can%27t%20be%20used%20to%20lower%20the%20player%27s%20accumulated%20radiation%3F",
+        "correct_answer": "Radioprotectant",
+        "incorrect_answers": [
+          "Anti-rad",
+          "Medkit",
+          "Vodka"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20final%20boss%20in%20Turok%3A%20Dinosaur%20Hunter%3F",
+        "correct_answer": "The%20Campaigner",
+        "incorrect_answers": [
+          "The%20Primagen",
+          "Oblivion",
+          "Lord%20Tyrannus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20Game%20released%20using%20the%20Build%20Engine%3F",
+        "correct_answer": "Witchaven",
+        "incorrect_answers": [
+          "DOOM",
+          "Duke%20Nukem%203D",
+          "William%20Shatner%27s%20Tekwar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20was%20considered%2C%20but%20ultimately%20not%20included%2C%20for%20Super%20Smash%20Bros.%20Melee%3F",
+        "correct_answer": "James%20Bond",
+        "incorrect_answers": [
+          "Diddy%20Kong",
+          "Mega%20Man",
+          "Wave%20Racer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Pok%C3%A9mon%20Conquest%2C%20how%20many%20kingdoms%20make%20up%20the%20region%20of%20Ransei%3F",
+        "correct_answer": "17",
+        "incorrect_answers": [
+          "18",
+          "15",
+          "16"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22The%20Binding%20of%20Isaac%22%2C%20what%20is%20the%20name%20of%20the%20final%20boss%20that%20you%20fight%20in%20The%20Void%3F",
+        "correct_answer": "Delirium",
+        "incorrect_answers": [
+          "Mega%20Satan",
+          "Hush",
+          "The%20Lamb"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20the%20game%20%22FTL%3A%20Faster%20Than%20Light%22%20released%3F",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2014",
+          "2013",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20genre%20is%20the%20Touhou%20Project%20associated%20with%3F",
+        "correct_answer": "Shoot%20%27em%20up%20%28bullet-hell%29%20%26%20Fighting",
+        "incorrect_answers": [
+          "Turn-Based%20Strategy",
+          "MMORPG",
+          "Building%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20creator%20of%20the%20Touhou%20Project%20series%20is%3A",
+        "correct_answer": "ZUN",
+        "incorrect_answers": [
+          "SUN",
+          "RUN",
+          "PUN"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20%22Luigi%27s%20Mansion%203%22%20released%3F",
+        "correct_answer": "October%2031st%2C%202019",
+        "incorrect_answers": [
+          "January%2013th%2C%202019",
+          "September%206th%2C%202018",
+          "October%201st%2C%202019"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20name%20does%20the%20little%20headcrab%20in%20%22Half%20Life%202%22%20have%3F",
+        "correct_answer": "Lamarr",
+        "incorrect_answers": [
+          "Jumperr",
+          "Drett",
+          "Jerry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22A%20Hat%20In%20Time%22%20who%20is%20the%20final%20boss%3F",
+        "correct_answer": "Mustache%20Girl",
+        "incorrect_answers": [
+          "Snatcher",
+          "Conductor",
+          "Mafia%20Boss"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20member%20of%20the%20Velvet%20Room%20is%20not%20a%20playable%20character%20in%20Persona%204%20Arena%20Ultimax%3F",
+        "correct_answer": "Theodore",
+        "incorrect_answers": [
+          "Elizabeth",
+          "Margaret",
+          "Marie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20times%20do%20you%20fight%20Gilgamesh%20in%20%22Final%20Fantasy%205%22%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "4",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20football%20player%20is%20featured%20on%20the%20international%20cover%20version%20of%20the%20video%20game%20FIFA%2016%3F",
+        "correct_answer": "Lionel%20Messi",
+        "incorrect_answers": [
+          "Cristiano%20Ronaldo",
+          "Wayne%20Rooney",
+          "David%20Beckham"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20ARPG%20%22Path%20of%20Exile%2C%22%20what%20is%20the%20highest%20amount%20of%20sockets%20that%20an%20item%20can%20have%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "5",
+          "4",
+          "8"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20location%20does%20Dark%20Sun%20Gwyndolin%20reside%20in%20%22Dark%20Souls%22%3F",
+        "correct_answer": "Anor%20Londo",
+        "incorrect_answers": [
+          "Firelink%20Shrine",
+          "Blighttown",
+          "Kiln%20of%20the%20first%20flame"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Portal%2C%20what%20color%20is%20the%20Intelligence%20Core%3F",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+          "Purple",
+          "Red",
+          "Orange"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Halo%202%22%2C%20what%20is%20the%20name%20of%20the%20monitor%20of%20Installation%2005%3F",
+        "correct_answer": "2401%20Penitent%20Tangent",
+        "incorrect_answers": [
+          "343%20Guilty%20Spark",
+          "031%20Exuberant%20Witness",
+          "252%20Biodis%20Expolsion"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Metal%20Gear%20Solid%203%3A%20Snake%20Eater%22%20was%20released%20in%202004.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Overwatch%22%2C%20Coalescence%20is%20the%20name%20for%20the%20ultimate%20of%20which%20hero%3F",
+        "correct_answer": "Moira",
+        "incorrect_answers": [
+          "Zenyatta",
+          "Torbjorn",
+          "Symmetra"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20the%20name%20of%20a%20cut%20enemy%20from%20%22Half-Life%202%22%3F",
+        "correct_answer": "Hydra",
+        "incorrect_answers": [
+          "Cthulu",
+          "Spike",
+          "Tremor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20creature%20that%20the%20main%20character%20befriends%20in%20%22The%20Last%20Guardian%22%3F",
+        "correct_answer": "Trico",
+        "incorrect_answers": [
+          "Nico",
+          "Wolf",
+          "Andazi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20was%20the%20first%20M-rated%20video%20game%20developed%20by%20Squaresoft%2FSquare%20Enix%3F",
+        "correct_answer": "Parasite%20Eve",
+        "incorrect_answers": [
+          "Final%20Fantasy%20VIII",
+          "Front%20Mission",
+          "Vagrant%20Story"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Hitman%3A%20Blood%20Money%2C%20what%20is%20the%20name%20of%20the%20target%20in%20the%20mission%20%22Death%20of%20a%20Showman%22%3F",
+        "correct_answer": "Joseph%20Clarence",
+        "incorrect_answers": [
+          "The%20Swing%20King",
+          "Maynard%20John",
+          "Manuel%20Delgado"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20trophies%20are%20there%20in%20%22Super%20Smash%20Bros.%20for%20Nintendo%203DS%22%3F",
+        "correct_answer": "685",
+        "incorrect_answers": [
+          "1360",
+          "716",
+          "1155"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20playable%20race%20in%20the%20MMORPG%20Guild%20Wars%202%3F%20",
+        "correct_answer": "Tengu",
+        "incorrect_answers": [
+          "Sylvari",
+          "Charr",
+          "Asura%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20PAYDAY%20series%2C%20who%20is%20the%20iconic%20leader%20of%20the%20PAYDAY%20gang%3F",
+        "correct_answer": "Dallas",
+        "incorrect_answers": [
+          "Wolf",
+          "Chains",
+          "Hoxton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22The%20Legend%20of%20Zelda%3A%20Ocarina%20of%20Time%2C%22%20what%20is%20the%20maximum%20amount%20of%20rupees%20that%20Link%20can%20carry%3F",
+        "correct_answer": "500",
+        "incorrect_answers": [
+          "999",
+          "1000",
+          "5000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20antagonist%20in%20the%20Portal%20franchise%3F",
+        "correct_answer": "GLaDOS",
+        "incorrect_answers": [
+          "Chell",
+          "Wheatley",
+          "Rick"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20does%20not%20appear%20in%20%22Nier%3A%20Automata%22%3F",
+        "correct_answer": "A1",
+        "incorrect_answers": [
+          "A2",
+          "9S",
+          "2B"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20franchise%20%22Halo%22%2C%20what%20is%20the%20UNSC%27s%20main%20opposing%20faction%20called%3F",
+        "correct_answer": "The%20Covenant",
+        "incorrect_answers": [
+          "The%20Reckoning",
+          "The%20Peoples",
+          "The%20Slaughterers"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,544 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:59:28.205932+00:00",
+  "request": {
+    "amount": 45,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20frontman%20of%20Muse%3F",
+        "correct_answer": "Matt%20Bellamy",
+        "incorrect_answers": [
+          "Dominic%20Howard",
+          "Thom%20Yorke",
+          "Jonny%20Greenwood"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20Pearl%20Jam%3F",
+        "correct_answer": "Eddie%20Vedder",
+        "incorrect_answers": [
+          "Ozzy%20Osbourne",
+          "Stone%20Gossard",
+          "Kurt%20Cobain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%2C%20with%20Boy%20George%20on%20lead%20vocals%2C%20won%20the%20Brit%20Awards%20in%201984%3F",
+        "correct_answer": "Culture%20Club%09",
+        "incorrect_answers": [
+          "Eurythmics",
+          "UB40",
+          "The%20Police"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20name%20of%20the%20cold-war%20singer%20who%20has%20a%20song%20in%20Grand%20Theft%20Auto%20IV%2C%20and%20a%20wall%20landmark%20in%20Moscow%20for%20his%20memorial%3F",
+        "correct_answer": "Viktor%20Tsoi",
+        "incorrect_answers": [
+          "Jimi%20Hendrix",
+          "Brian%20Jones",
+          "Vladimir%20Vysotsky"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20cover%20of%20The%20Beatles%20album%20%22Abbey%20Road%22%20featured%20a%20Volkswagen%20Beetle%20in%20the%20background.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%202006%2C%20which%20band%20released%20their%20debut%20album%20%22A%20Fever%20You%20Can%27t%20Sweat%20Out%22%3F",
+        "correct_answer": "Panic%21%20At%20the%20Disco",
+        "incorrect_answers": [
+          "Twenty%20One%20Pilots",
+          "My%20Chemical%20Romance",
+          "Fall%20Out%20Boy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20album%20did%20Bon%20Iver%20release%20in%202016%3F",
+        "correct_answer": "22%2C%20A%20Million",
+        "incorrect_answers": [
+          "Bon%20Iver%2C%20Bon%20Iver",
+          "Blood%20Bank%20EP",
+          "For%20Emma%2C%20Forever%20Ago"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20alternative%20rock%20band%2C%20They%20Might%20Be%20Giants%2C%20released%20their%20album%20%27Flood%27%20in%201990.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20album%20by%20American%20rapper%20Kanye%20West%20contained%20songs%20such%20as%20%22Love%20Lockdown%22%2C%20%22Paranoid%22%20and%20%22Heartless%22%3F",
+        "correct_answer": "808s%20%26%20Heartbreak",
+        "incorrect_answers": [
+          "Late%20Registration",
+          "The%20Life%20of%20Pablo",
+          "Graduation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20opening%20track%20on%20Lorde%27s%20Pure%20Heroine%3F",
+        "correct_answer": "Tennis%20Court",
+        "incorrect_answers": [
+          "Team",
+          "Royals",
+          "400%20Lux"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Eurobeat%20is%20primarily%20an%20Italian%20genre%20of%20music.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20French%20electronic%20music%20producer%20Madeon%27s%202015%20debut%20studio%20album%3F",
+        "correct_answer": "Adventure",
+        "incorrect_answers": [
+          "The%20City",
+          "Icarus",
+          "Pop%20Culture"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Finish%20these%20lyrics%20from%20the%202016%20song%20%22Panda%22%20by%20Desiigner%3A%20%22I%20got%20broads%20in%20_______%22.",
+        "correct_answer": "Atlanta",
+        "incorrect_answers": [
+          "Savannah",
+          "Augusta",
+          "Marietta"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20music%20group%20Daft%20Punk%20got%20their%20name%20from%20a%20negative%20review%20they%20received.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20the%20Panic%21%20At%20the%20Disco%27s%20song%20%22Nothern%20Downpour%22%2C%20which%20lyric%20follows%20%27I%20know%20the%20world%27s%20a%20broken%20bone%27.",
+        "correct_answer": "%22So%20melt%20your%20headaches%20call%20it%20home%22",
+        "incorrect_answers": [
+          "%22So%20sing%20your%20song%20until%20you%27re%20home%22",
+          "%22So%20let%20them%20know%20they%27re%20on%20their%20own%22",
+          "%22So%20start%20a%20fire%20in%20their%20cold%20stone%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20stars%20was%20not%20mentioned%20in%20the%20lyrics%20of%20Madonna%27s%20%22Vogue%22%3F",
+        "correct_answer": "Mae%20West",
+        "incorrect_answers": [
+          "Marlene%20Dietrich",
+          "Lana%20Turner",
+          "Grace%20Kelly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20%22British%20Invasion%22%20was%20a%20cultural%20phenomenon%20in%20music%20where%20British%20boy%20bands%20became%20popular%20in%20the%20USA%20in%20what%20decade%3F",
+        "correct_answer": "60%27s",
+        "incorrect_answers": [
+          "50%27s",
+          "40%27s",
+          "30%27s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20country%20does%20the%20electronic%20music%20duo%20%22The%20Knife%22%20originate%20from%3F",
+        "correct_answer": "Sweden",
+        "incorrect_answers": [
+          "Finland",
+          "Denmark",
+          "Norway"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Whose%20signature%20guitar%20technique%20is%20called%20the%20%22windmill%22%3F",
+        "correct_answer": "Pete%20Townshend",
+        "incorrect_answers": [
+          "Jimmy%20Page",
+          "Eddie%20Van%20Halen",
+          "Jimi%20Hendrix"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20artist%20released%20his%20third%20and%20final%20studio%20album%20%27Electric%20Ladyland%27%20before%20his%20death%20in%201970%3F",
+        "correct_answer": "Jimi%20Hendrix",
+        "incorrect_answers": [
+          "Prince",
+          "Eric%20Clapton",
+          "Captain%20Sensible"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20studio%20albums%20have%20the%20duo%20Daft%20Punk%20released%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "1",
+          "5",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Chino%20Moreno%20is%20the%20lead%20singer%20of%20which%20alternative%20metal%20band%3F",
+        "correct_answer": "Deftones",
+        "incorrect_answers": [
+          "Tool",
+          "Korn",
+          "Type%20O%20Negative"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20performed%20the%20guitar%20solo%20on%20Michael%20Jackson%27s%20hit%20%22Beat%20It%22%3F",
+        "correct_answer": "Eddie%20Van%20Halen",
+        "incorrect_answers": [
+          "Steve%20Vai",
+          "Kirk%20Hammett",
+          "Zakk%20Wylde"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20Scatman%27s%20World%20was%20released%20after%20Scatman%20%28Ski-Ba-Bop-Ba-Dop-Bop%29.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "According%20to%20a%20Beatles%20song%2C%20who%20kept%20her%20face%20in%20a%20jar%20by%20the%20door%3F",
+        "correct_answer": "Eleanor%20Rigby",
+        "incorrect_answers": [
+          "Loretta%20Martin",
+          "Molly%20Jones",
+          "Lady%20Madonna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20the%20second%20studio%20album%20released%20by%20American%20rapper%20Post%20Malone%20in%202018%3F",
+        "correct_answer": "Beerbongs%20%26%20Bentleys",
+        "incorrect_answers": [
+          "Takin%27%20Shots",
+          "Rockstar",
+          "Better%20Now"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20album%20is%20the%20song%20%27New%20Slang%27%20by%20The%20Shins%20found%20on%3F",
+        "correct_answer": "Oh%2C%20Inverted%20World",
+        "incorrect_answers": [
+          "Wincing%20The%20Night%20Away",
+          "Chutes%20Too%20Narrow",
+          "Port%20Of%20Morrow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20stage%20name%20of%20New%20Zealand%20singer%20Phillipa%20%22Pip%22%20Brown%3F",
+        "correct_answer": "Ladyhawke",
+        "incorrect_answers": [
+          "Lorde",
+          "Kesha",
+          "Anika%20Moa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Raekwon%20the%20Chefs%20debut%20solo%20album%3F",
+        "correct_answer": "Only%20Built%204%20Cuban%20Linx",
+        "incorrect_answers": [
+          "Shaolin%20vs%20Wu-Tang",
+          "The%20Wild",
+          "The%20Lex%20Diamond%20Story"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Brian%20May%20was%20the%20guitarist%20for%20which%20band%3F",
+        "correct_answer": "Queen",
+        "incorrect_answers": [
+          "Pink%20Floyd",
+          "Rolling%20Stones",
+          "The%20Doors"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20Pink%20Floyd%20song%20%22Shine%20On%20You%20Crazy%20Diamond%22%20written%20about%3F",
+        "correct_answer": "Syd%20Barrett",
+        "incorrect_answers": [
+          "John%20Lennon",
+          "David%20Gilmour",
+          "Floyd"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20the%20name%20of%20an%20album%20released%20by%20Miami-based%20producer%20DJ%20Khaled%3F",
+        "correct_answer": "Don%27t%20Ever%20Play%20Yourself",
+        "incorrect_answers": [
+          "Major%20Key",
+          "Suffering%20From%20Success",
+          "I%20Changed%20A%20Lot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Elton%20John%20hit%20starts%20with%20the%20line%20%22When%20are%20you%20gonna%20come%20down%22%3F",
+        "correct_answer": "Goodbye%20Yellow%20Brick%20Road",
+        "incorrect_answers": [
+          "Rocket%20Man",
+          "Bennie%20and%20the%20Jets",
+          "Crocodile%20Rock"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20brass%20instrument%20has%20the%20lowest%20pitch%20in%20an%20orchestra%3F",
+        "correct_answer": "Tuba",
+        "incorrect_answers": [
+          "Trumpet",
+          "Saxophone",
+          "Trombone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Kanye%20West%27s%20%22Gold%20Digger%22%20featured%20which%20Oscar-winning%20actor%3F",
+        "correct_answer": "Jamie%20Foxx",
+        "incorrect_answers": [
+          "Alec%20Baldwin",
+          "Dwayne%20Johnson",
+          "%20Bruce%20Willis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20%27In%20the%20Flesh%27%20tour%20was%20used%20in%20support%20of%20what%20Pink%20Floyd%20album%3F",
+        "correct_answer": "Animals",
+        "incorrect_answers": [
+          "The%20Wall",
+          "Wish%20You%20Were%20Here",
+          "The%20Final%20Cut"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20songs%20did%20Elton%20John%20perform%20following%20Princess%20Diane%27s%20passing%3F",
+        "correct_answer": "Candles%20in%20the%20Wind",
+        "incorrect_answers": [
+          "I%20Guess%20That%27s%20Why%20They%20Call%20It%20The%20Blues",
+          "Your%20Song",
+          "Island%20Girl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%27Don%27t%20You%20Want%20Me%3F%27%20was%20a%20number%20one%20hit%20in%201981%20for%20which%20electropop%20band%3F",
+        "correct_answer": "Human%20League",
+        "incorrect_answers": [
+          "Depeche%20Mode",
+          "Pet%20Shop%20Boys",
+          "Eurythmics"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20%22Kung%20Fu%20Fighting%22%20in%201974%3F",
+        "correct_answer": "Carl%20Douglas",
+        "incorrect_answers": [
+          "The%20Bee%20Gees",
+          "Heatwave",
+          "Kool%20%26%20the%20Gang"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20year%20was%20Min%20Yoongi%20from%20South%20Korea%20boy%20band%20%22BTS%22%20born%20in%3F",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+          "1992",
+          "1995",
+          "1994"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20first%20track%20on%20Kanye%20West%27s%20808s%20%26%20Heartbreak%3F",
+        "correct_answer": "Say%20You%20Will",
+        "incorrect_answers": [
+          "Welcome%20to%20Heartbreak",
+          "Street%20Lights",
+          "Heartless"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "According%20to%20a%20song%20by%20Belinda%20Carlisle%2C%20Heaven%20is%20a%20place%20on%20what%3F",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+          "Venus",
+          "Mars",
+          "Uranus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20a%20US%20and%20UK%20number%201%20hit%20in%201962%20with%20the%20instrumental%2C%20%27Telstar%27%3F",
+        "correct_answer": "The%20Tornados",
+        "incorrect_answers": [
+          "The%20Ventures",
+          "The%20Spotnicks",
+          "The%20Tremeloes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20official%20name%20of%20Prince%27s%20backing%20band%3F",
+        "correct_answer": "The%20Revolution",
+        "incorrect_answers": [
+          "The%20Paupers",
+          "The%20Wailers",
+          "The%20Heartbreakers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Nirvana%20album%20had%20a%20naked%20baby%20on%20the%20cover%3F",
+        "correct_answer": "Nevermind",
+        "incorrect_answers": [
+          "Bleach",
+          "In%20Utero",
+          "Incesticide"
+        ]
+      }
+    ]
+  }
+}

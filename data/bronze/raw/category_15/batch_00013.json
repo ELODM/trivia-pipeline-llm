@@ -1,0 +1,600 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:23.279499+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Undertale%2C%20how%20much%20do%20Spider%20Donuts%20cost%20in%20Hotland%3F",
+        "correct_answer": "9999G",
+        "incorrect_answers": [
+          "7G",
+          "40G",
+          "12G"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Hitman%22%20series%2C%20what%20is%20the%20name%20of%20the%20main%20character%3F",
+        "correct_answer": "Agent%2047",
+        "incorrect_answers": [
+          "Agent%2027",
+          "Agent%20Smith",
+          "Agent%2067"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Enter%20the%20Gungeon%2C%20which%20one%20of%20these%20is%20not%20a%20playable%20character%3F",
+        "correct_answer": "The%20Wizard",
+        "incorrect_answers": [
+          "The%20Bullet",
+          "The%20Robot",
+          "The%20Cultist"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Night%20In%20The%20Woods%2C%20where%20does%20Gregg%20work%3F",
+        "correct_answer": "Snack%20Falcon",
+        "incorrect_answers": [
+          "Ol%27%20Pickaxe",
+          "Video%20Outpost%20%22Too%22",
+          "Food%20Donkey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20cancelled%20sequel%20of%20Team%20Fortress%3F",
+        "correct_answer": "Team%20Fortress%202%3A%20Brotherhood%20of%20Arms",
+        "incorrect_answers": [
+          "Team%20Fortress%202%3A%20Desert%20Mercenaries",
+          "Team%20Fortress%202%3A%20Operation%20Gear%20Grinder",
+          "Team%20Fortress%202%3A%20Return%20to%20Classic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20TrackMania%20environments%20was%20NOT%20in%20the%20original%20game%3F",
+        "correct_answer": "Bay",
+        "incorrect_answers": [
+          "Desert",
+          "Snow",
+          "Rally"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Minecraft%2C%20how%20many%20iron%20ingots%20are%20required%20to%20make%20an%20iron%20golem%3F",
+        "correct_answer": "36",
+        "incorrect_answers": [
+          "40",
+          "32",
+          "46"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20these%20characters%20is%20NOT%20a%20playable%20fighter%20in%20Super%20Smash%20Bros.%20Ultimate%3F",
+        "correct_answer": "Kumatora",
+        "incorrect_answers": [
+          "King%20K.%20Rool",
+          "Incineroar",
+          "Corrin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20Call%20of%20Duty%20game%20to%20include%20the%20Zombies%20gamemode%3F",
+        "correct_answer": "Call%20of%20Duty%3A%20World%20at%20War",
+        "incorrect_answers": [
+          "Call%20of%20Duty%3A%20Black%20Ops",
+          "Call%20of%20Duty%3A%20Modern%20Warfare%202",
+          "Call%20of%20Duty%3A%20Black%20Ops%20III"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20original%20name%20of%20%20%22Minecraft%22%3F",
+        "correct_answer": "Cave%20Game",
+        "incorrect_answers": [
+          "Minecraft%3A%20Order%20of%20the%20Stone",
+          "Dig%20And%20Build",
+          "Infiniminer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Mario%20series%2C%20which%20game%20introduced%20Mario%27s%20Backflip%20ability%3F",
+        "correct_answer": "Donkey%20Kong%20%28Gameboy%29",
+        "incorrect_answers": [
+          "Super%20Mario%2064",
+          "Super%20Mario%203D%20Land",
+          "Super%20Mario%20Galaxy"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Solid%20Snake%20is%20actually%20a%20clone%20from%20the%20DNA%20of%20Big%20Boss%20in%20the%20Metal%20Gear%20Solid%20series%27%20history.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20first%20Call%20of%20Duty%20title%20released%3F",
+        "correct_answer": "October%2029%2C%202003",
+        "incorrect_answers": [
+          "December%201%2C%202003",
+          "November%2014%2C%202002",
+          "July%2018%2C%202004"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Fire%20Emblem%3A%20Shadow%20Dragon%22%2C%20what%20is%20the%20central%20protagonist%27s%20name%3F",
+        "correct_answer": "Marth",
+        "incorrect_answers": [
+          "Roy",
+          "Eliwood",
+          "Robin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20stars%20are%20there%20to%20collect%20in%20Super%20Mario%2064%3F",
+        "correct_answer": "120",
+        "incorrect_answers": [
+          "60",
+          "80",
+          "100"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Mario%20Kart%20and%20Smash%20Bros.%20Games%2C%20Princess%20Rosalina%20is%20considered%20what%20weight%20class%3F",
+        "correct_answer": "Heavy",
+        "incorrect_answers": [
+          "Medium",
+          "Light",
+          "Light-Medium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20terrorist%20faction%20in%20Counter-Strike%20%282000%29%3F",
+        "correct_answer": "Midwest%20Militia",
+        "incorrect_answers": [
+          "Phoenix%20Connection",
+          "Elite%20Crew",
+          "Guerrilla%20Warfare"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20%E2%80%9Cfairy%E2%80%9D%20type%20made%20it%E2%80%99s%20debut%20in%20which%20generation%20of%20the%20Pokemon%20core%20series%20games%3F",
+        "correct_answer": "6th",
+        "incorrect_answers": [
+          "2nd",
+          "7th",
+          "4th"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22PAYDAY%202%22%2C%20what%20weapon%20has%20the%20highest%20base%20weapon%20damage%20on%20a%20per-shot%20basis%3F",
+        "correct_answer": "HRL-7",
+        "incorrect_answers": [
+          "Heavy%20Crossbow",
+          "Thanatos%20.50%20cal",
+          "Broomstick%20Pistol"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Mortal%20Kombat%20series%20the%20%22Deadly%20Alliance%22%20consists%20of%20Shang%20Tsung%20and%20Quan%20Chi",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20did%20NOT%20get%20financed%20via%20Crowdfunding%3F",
+        "correct_answer": "Enter%20the%20Gungeon",
+        "incorrect_answers": [
+          "Town%20of%20Salem",
+          "Undertale",
+          "Tower%20Unite"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Yakuza%204%20who%20is%20the%20first%20character%20you%20play%20as%3F",
+        "correct_answer": "Shun%20Akiyama",
+        "incorrect_answers": [
+          "Taiga%20Saejima",
+          "Kazuma%20Kiryu",
+          "Goro%20Majima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22The%20Sims%22%2C%20how%20many%20Simoleons%20does%20each%20family%20start%20with%3F",
+        "correct_answer": "20%2C000",
+        "incorrect_answers": [
+          "10%2C000",
+          "15%2C000",
+          "25%2C000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20the%20location-based%20augmented%20reality%20game%20developed%20by%20Niantic%20before%20Pok%C3%A9mon%20GO%3F",
+        "correct_answer": "Ingress",
+        "incorrect_answers": [
+          "Aggress",
+          "Regress",
+          "Digress"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20was%20a%20map%20that%20was%20in%20Team%20Fortress%202%20at%20launch%3F",
+        "correct_answer": "Gravel%20Pit",
+        "incorrect_answers": [
+          "Hoodoo",
+          "Gold%20Rush",
+          "Upward"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%201980s%2C%20a%20service%20called%20Gameline%20allowed%20users%20to%20download%20games%20to%20what%20console%3F",
+        "correct_answer": "Atari%202600",
+        "incorrect_answers": [
+          "Sega%20Genesis",
+          "Nintendo%20Entertainment%20System",
+          "ColecoVision"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20year%20was%20Super%20Mario%20Bros.%20released%3F",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+          "1983",
+          "1987",
+          "1986"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20was%20NOT%20a%20playable%20character%20in%20the%20game%20Kingdom%20Hearts%3A%20Birth%20by%20Sleep%3F",
+        "correct_answer": "Ignis",
+        "incorrect_answers": [
+          "Ventus",
+          "Terra",
+          "Aqua"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Khajiit%20are%20a%20race%20of%20cat-like%20creatures%20from%20which%20epic%20series%20of%20role-playing%20games%2C%20set%20across%20the%20land%20of%20Tamriel%3F",
+        "correct_answer": "The%20Elder%20Scrolls",
+        "incorrect_answers": [
+          "Lord%20of%20the%20Rings",
+          "The%20Witcher",
+          "Neverwinter%20Nights"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20Chaos%20Emeralds%20are%20there%20in%20the%20%22Sonic%20the%20Hedgehog%22%20universe%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "6",
+          "8",
+          "14"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Terraria%22%2C%20which%20of%20these%20bosses%20are%20pre-hardmode%20bosses%3F",
+        "correct_answer": "Eye%20of%20Cthulhu",
+        "incorrect_answers": [
+          "Plantera",
+          "Skeletron%20Prime",
+          "The%20Destroyer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20was%20the%20first%20jedi%20that%20Starkiller%20had%20to%20kill%20in%20Star%20Wars%3A%20The%20Force%20Unleashed%3F",
+        "correct_answer": "Rahm%20Kota",
+        "incorrect_answers": [
+          "Ahsoka%20Tano",
+          "Kazdan%20Paratus",
+          "Kento%20Marek"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20snowy%20mob%20was%20added%20in%20Minecraft%201.10%3F",
+        "correct_answer": "Polar%20bears",
+        "incorrect_answers": [
+          "Eskimos",
+          "Penguins",
+          "Walking%20TNT"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Overwatch%2C%22%20what%20is%20the%20hero%20McCree%27s%20full%20name%3F",
+        "correct_answer": "Jesse%20McCree",
+        "incorrect_answers": [
+          "Jack%20%22McCree%22%20Morrison",
+          "Gabriel%20Reyes",
+          "Jamison%20%22Deadeye%22%20Fawkes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Metal%20Gear%20Solid%22%20series%2C%20what%27s%20the%20name%20of%20Solid%20Snake%27s%20brother%3F",
+        "correct_answer": "Liquid%20Snake",
+        "incorrect_answers": [
+          "Kulus%20Snake",
+          "Billy%20Snake",
+          "Gilur%20Snake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Fallout%3A%20New%20Vegas%2C%20which%20one%20of%20these%20casinos%20can%20you%20not%20play%20in%3F",
+        "correct_answer": "Lucky%2038",
+        "incorrect_answers": [
+          "The%20Tops",
+          "Gammorah",
+          "Ultra-Luxe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20full%20name%20of%20the%20protagonist%20from%20the%20SNES%20game%20Clock%20Tower%3F",
+        "correct_answer": "Jennifer%20Simpson",
+        "incorrect_answers": [
+          "Jennifer%20Barrows",
+          "Jennifer%20Cartwright",
+          "Jennifer%20Maxwell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Portal%202%2C%20which%20solar%20system%20body%20did%20Wheatley%20end%20up%20orbiting%3F",
+        "correct_answer": "The%20moon",
+        "incorrect_answers": [
+          "Earth",
+          "Jupiter",
+          "Mars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20are%20the%20chances%20of%20being%20dealt%20a%20Royal%20Flush%20within%20Poker%2FVideo%20Poker%3F",
+        "correct_answer": "1%20in%20649%2C740",
+        "incorrect_answers": [
+          "1%20in%20763%2C302",
+          "1%20in%20499%2C304",
+          "1%20in%20311%2C875%2C200"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%27s%20the%20famous%20line%20Vaas%20says%20in%20%22Far%20Cry%203%22%3F",
+        "correct_answer": "Did%20I%20ever%20tell%20you%20the%20definition%20of%20Insanity%3F",
+        "incorrect_answers": [
+          "Have%20I%20failed%20to%20entertain%20you%3F",
+          "You%27re%20my%20b%2Atch%21",
+          "Maybe%20your%20best%20course...would%20be%20to%20tread%20lightly."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Need%20For%20Speed%3A%20Most%20Wanted%20%282005%29%2C%20how%20many%20people%20are%20there%20to%20defeat%20on%20the%20blacklist%3F",
+        "correct_answer": "15",
+        "incorrect_answers": [
+          "5",
+          "10",
+          "20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20did%20%22Sonic%20The%20Hedgehog%22%20make%20his%20first%20appearance%20in%3F",
+        "correct_answer": "Rad%20Mobile",
+        "incorrect_answers": [
+          "Sonic%20The%20Hedgehog",
+          "Super%20Mario%2064",
+          "Mega%20Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%202004%2C%20which%20person%28s%29%20created%20%22Roblox%22%3F",
+        "correct_answer": "David%20Baszucki%20and%20Erik%20Cassel",
+        "incorrect_answers": [
+          "Erik%20Cassel",
+          "Jonas%20Alto%20and%20Sarah%20Smith",
+          "James%20Kolein"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Kingdom%20Hearts%20the%20Paopu%20fruit%20is%20said%20to%20intertwine%20the%20destinies%20for%20two%20people%20forever.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Indie%20Game%20Development%20Studio%20Cing%2C%20developers%20of%20Hotel%20Dusk%20and%20Last%20Window%2C%20went%20bankrupt%20on%20March%201st%2C%202010.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Deus%20Ex%3A%20Mankind%20Divided%22%2C%20Adam%20Jensen%20can%20die%20from%20overclocking.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Undertale%2C%20having%20a%20%22Fun%20Value%22%20set%20to%2056-57%20will%20play%20the%20%22Wrong%20Number%20Song%20Call%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20games%20in%20the%20The%20Legend%20of%20Zelda%20franchise%20was%20released%20in%20North%20America%20before%20Japan%3F",
+        "correct_answer": "The%20Legend%20of%20Zelda%3A%20Twilight%20Princess",
+        "incorrect_answers": [
+          "Zelda%20II%3A%20The%20Adventure%20of%20Link",
+          "The%20Legend%20of%20Zelda%3A%20Four%20Swords%20Adventures",
+          "The%20Legend%20of%20Zelda%3A%20Majora%27s%20Mask"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20was%20the%20first%20female%20protagonist%20in%20a%20video%20game%3F",
+        "correct_answer": "Samus%20Aran",
+        "incorrect_answers": [
+          "Lara%20Croft",
+          "Alis%20Landale",
+          "Chell"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20ADAM%20collecters%20in%20the%20Bioshock%20series%20are%20known%20as%20Little%20Sisters.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

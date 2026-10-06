@@ -1,0 +1,602 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:44.080365+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Pikmin%22%20games%2C%20which%20of%20the%20following%20pikmin%20colors%20lacks%20it%27s%20own%20%22Onion%22%20nest%3F",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+          "Winged",
+          "Blue",
+          "Rock"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20rights%20to%20the%20%22Rayman%22%20series%20are%20owned%20by%20which%20company%3F",
+        "correct_answer": "Ubisoft",
+        "incorrect_answers": [
+          "Nintendo",
+          "EA",
+          "Sony"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Left%204%20Dead%2C%20which%20campaign%20has%20the%20protagonists%20going%20through%20a%20subway%20in%20order%20to%20reach%20a%20hospital%20for%20evacuation%3F",
+        "correct_answer": "No%20Mercy",
+        "incorrect_answers": [
+          "Subway%20Sprint",
+          "Hospital%20Havoc",
+          "Blood%20Harvest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20copies%20of%20the%20notorious%20E.T.%20game%20for%20the%20Atari%202600%20did%20Atari%20end%20up%20selling%3F",
+        "correct_answer": "1.5%20Million",
+        "incorrect_answers": [
+          "1%20Million",
+          "250%20Thousand",
+          "Less%20than%20250%20Thousand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20online%20games%20was%20originally%20named%20LindenWorld%20in%20it%27s%20early%20development%3F",
+        "correct_answer": "SecondLife",
+        "incorrect_answers": [
+          "ActiveWorlds",
+          "IMVU",
+          "HabboHotel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20regular%20Sunken%20Sea%20Scrolls%20are%20there%20in%20%22Splatoon%22%3F",
+        "correct_answer": "27",
+        "incorrect_answers": [
+          "32",
+          "30",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%27s%20the%20voice%20actor%20for%20Thrall%20in%20the%20Warcraft%20game%20series%3F",
+        "correct_answer": "Chris%20Metzen",
+        "incorrect_answers": [
+          "Ben%20Affleck",
+          "Jason%20Derulo",
+          "Jim%20Carrey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20main%20currency%20in%20Club%20Penguin%3F",
+        "correct_answer": "Coins",
+        "incorrect_answers": [
+          "Stamps",
+          "Tickets",
+          "Gems"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20adventurer%20you%20meet%20at%20the%20mines%20in%20Stardew%20Valley%3F",
+        "correct_answer": "Marlon",
+        "incorrect_answers": [
+          "Marnie",
+          "Morris",
+          "Marvin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20leader%20of%20Team%20Mystic%20in%20Pok%C3%A9mon%20Go%3F",
+        "correct_answer": "Blanche",
+        "incorrect_answers": [
+          "Candela",
+          "Spark",
+          "Willow"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Gordon%20Freeman%2C%20the%20protagonist%20of%20%22Half-Life%22%2C%20is%20said%20to%20have%20once%20had%20a%20ponytail.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Minecraft%2C%20how%20many%20items%20can%20a%20single%20piece%20of%20coal%20smelt%20when%20used%20in%20a%20furnace%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "12",
+          "10",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Undertale%2C%20MEGALOVANIA%20is%20a%20theme%20for%20which%20character%3F",
+        "correct_answer": "Sans",
+        "incorrect_answers": [
+          "Flowey",
+          "Papyrus",
+          "Undyne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%20does%20the%20player%20play%20as%20in%20the%20video%20game%20%22Bastion%22%3F",
+        "correct_answer": "The%20Kid",
+        "incorrect_answers": [
+          "Rucks",
+          "Zulf",
+          "Zia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20animal%20is%20on%20Link%27s%20pajamas%20in%20The%20Legend%20of%20Zelda%3A%20The%20Wind%20Waker%3F",
+        "correct_answer": "Crawfish",
+        "incorrect_answers": [
+          "Lobster",
+          "Salmon",
+          "Swordfish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Touhou%20Project%20series%20of%20games%20is%20often%20associated%20with%20which%20genre%3F",
+        "correct_answer": "Shoot%20%27em%20up",
+        "incorrect_answers": [
+          "Strategy",
+          "FPS",
+          "Casual"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Super%20Mario%20Bros.%22%2C%20the%20clouds%20and%20bushes%20have%20the%20same%20artwork%20and%20are%20just%20different%20colors.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20did%20Microsoft%20release%20the%20original%20Xbox%20console%20in%20North%20America%3F",
+        "correct_answer": "2001",
+        "incorrect_answers": [
+          "1998",
+          "2003",
+          "1996"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20is%20the%20model%20number%20of%20the%20common%20laser%20rifle%20found%20in%20Fallout%203%2C%20Fallout%3A%20New%20Vegas%2C%20and%20Fallout%204%3F",
+        "correct_answer": "AER9",
+        "incorrect_answers": [
+          "AER10",
+          "AER12",
+          "AER14"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Portal%2C%20what%20color%20is%20the%20Morality%20Core%3F",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+          "Red",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20was%20exclusive%20to%20Dreamcast%3F",
+        "correct_answer": "Pen%20Pen%20TriIcelon",
+        "incorrect_answers": [
+          "Sylvester%20%26%20Tweety%20in%20Cagey%20Capers",
+          "Perfect%20Dark",
+          "Tetrisphere"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Halo%20series%2C%20what%20fleet%20was%20Thel%20%27Vadam%20supreme%20commander%20of%20before%20being%20branded%20an%20Arbiter%3F",
+        "correct_answer": "Fleet%20of%20Particular%20Justice",
+        "incorrect_answers": [
+          "Fleet%20of%20Sacred%20Consecration",
+          "Fleet%20of%20Furious%20Redemption",
+          "Fleet%20of%20Righteous%20Vigilance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20type%20of%20genre%20is%20the%20controversial%202015%20game%20%22Hatred%22%3F",
+        "correct_answer": "Shoot%20%27Em%20Up",
+        "incorrect_answers": [
+          "Point%20%26%20Click",
+          "MMORPG",
+          "Simulation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20achievement%20name%20is%20shared%20between%20Team%20Fortress%202%20and%20Left%204%20Dead%202%3F",
+        "correct_answer": "Rode%20Hard%2C%20Put%20Away%20Wet",
+        "incorrect_answers": [
+          "The%20Quick%20and%20the%20Dead",
+          "Cache%20Grab",
+          "F%20in%20Chemistry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20horror%20movie%20had%20a%20sequel%20in%20the%20form%20of%20a%20video%20game%20released%20in%20August%2020%2C%202002%3F",
+        "correct_answer": "The%20Thing",
+        "incorrect_answers": [
+          "The%20Evil%20Dead",
+          "Saw",
+          "Alien"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20game%20series%20%22Titanfall%22%20runs%20on%20the%20Unreal%20Engine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Melty%20Blood%20Actress%20Again%20Current%20Code%22%2C%20you%20can%20enter%20Blood%20Heat%20mode%20in%20Half%20Moon%20style.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20Fortnite%20emotes%20does%20NOT%20involve%20a%20sport%20in%20some%20way%3F",
+        "correct_answer": "Freestylin%27",
+        "incorrect_answers": [
+          "Red%20Card",
+          "Kick%20Ups",
+          "Baller"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20did%20Bethesda%20purchase%20the%20Fallout%20Series%20from%3F",
+        "correct_answer": "Interplay%20Entertainment%20",
+        "incorrect_answers": [
+          "Capcom",
+          "Blizzard%20Entertainment",
+          "Nintendo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "By%20how%20many%20minutes%20are%20you%20late%20to%20work%20in%20%22Half-Life%22%3F",
+        "correct_answer": "30",
+        "incorrect_answers": [
+          "5",
+          "60",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20canceled%20projected%20by%20Blizzard%20Entertainment%20that%20would%20be%20later%20become%20Overwatch%3F",
+        "correct_answer": "Titan",
+        "incorrect_answers": [
+          "Omnic",
+          "Omega",
+          "Ghost"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Jackbox%20party%20game%20Monster%20Seeking%20Monster%2C%20which%20monster%20can%20steal%20two%20hearts%20from%20other%20monsters%20under%20certain%20conditions%3F",
+        "correct_answer": "Serial%20Killer",
+        "incorrect_answers": [
+          "Parasite",
+          "Stalker",
+          "Magic%20Mirror"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22VA-11%20Hall-A%22%20during%20Virgilio%27s%20ending%2C%20Virgilio%20opens%20his%20own%3A",
+        "correct_answer": "Curry%20Stand",
+        "incorrect_answers": [
+          "Bar",
+          "Museum",
+          "Law%20Firm"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Call%20of%20Duty%20games%20was%20a%20PS3%20launch%20title%3F",
+        "correct_answer": "Call%20of%20Duty%203",
+        "incorrect_answers": [
+          "Call%20of%20Duty%204%3A%20Modern%20Warfare",
+          "Call%20of%20Duty%3A%20World%20at%20War",
+          "Call%20of%20Duty%3A%20Roads%20to%20Victory"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20household%20item%20make%20the%20characters%20of%20%22Steins%3B%20Gate%22%20travel%20through%20time%3F",
+        "correct_answer": "Microwave",
+        "incorrect_answers": [
+          "Computer",
+          "Refrigerator",
+          "Televison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20survivor%20in%20Left%204%20Dead%20sacrificed%20themself%20to%20save%20the%20other%20survivors%3F",
+        "correct_answer": "Bill",
+        "incorrect_answers": [
+          "Louis",
+          "Francis",
+          "Zoey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20obsidian%20blocks%20are%20required%20to%20build%20a%20nether%20portal%20in%20Minecraft%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "14",
+          "13",
+          "16"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%202019%2C%20Minecraft%20outsold%20Tetris%20to%20become%20the%20world%27s%20best-selling%20video%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20in%20this%20list%20is%20one%20of%20the%20co-founders%20of%20Valve%3F",
+        "correct_answer": "Gabe%20Newell",
+        "incorrect_answers": [
+          "Robin%20Walker",
+          "Marc%20Laidlaw",
+          "Ray%20Ueno"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Pizza%20Tower%22%2C%20what%20is%20the%20protagonist%27s%20name%3F",
+        "correct_answer": "Peppino",
+        "incorrect_answers": [
+          "Pastachio",
+          "Pepper",
+          "Spinachio"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20developed%20and%20published%20Game%20Dev%20Tycoon%3F",
+        "correct_answer": "Greenheart%20Games",
+        "incorrect_answers": [
+          "Greenland%20Games",
+          "The%20Tycoonists",
+          "MomCorp"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Nuclear%20Throne%2C%20which%20character%20starts%20with%20the%20least%20HP%3F",
+        "correct_answer": "Melting",
+        "incorrect_answers": [
+          "Crystal",
+          "Rebel",
+          "Yung%20Venuz%20%28Y.V.%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20metal%20bars%20does%20it%20take%20to%20smith%20a%20platebody%20in%20the%20MMO%20%22RuneScape%22%3F",
+        "correct_answer": "5%20bars",
+        "incorrect_answers": [
+          "3%20bars",
+          "2%20bars",
+          "10%20bars"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Faust%20is%20a%20playable%20character%20in%20%22Guilty%20Gear%20Xrd%20Revelator%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20protagonist%20in%20Dead%20Rising%203%3F",
+        "correct_answer": "Nick%20Ramos",
+        "incorrect_answers": [
+          "Frank%20West",
+          "Chuck%20Greene",
+          "Isabela%20Keyes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20default%20playermodel%20of%20Garry%27s%20Mod%20is%20this%20Half%20Life%202%20character.",
+        "correct_answer": "Isaac%20Kleiner",
+        "incorrect_answers": [
+          "G-Man",
+          "Alyx%20Vance",
+          "Gordon%20Freeman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20the%20first%20four%20titles%20of%20the%20%22Grand%20Theft%20Auto%22%20franchise%20started%20the%20series%20of%20iconic%20image%20grid%20cover%20arts%3F",
+        "correct_answer": "Grand%20Theft%20Auto%20III",
+        "incorrect_answers": [
+          "Grand%20Theft%20Auto",
+          "Grand%20Theft%20Auto%20II",
+          "Grand%20Theft%20Auto%20Vice%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20CS%3AGO%20case%20contains%20the%20Butterfly%20Knife%3F",
+        "correct_answer": "Breakout%20Case",
+        "incorrect_answers": [
+          "Shadow%20Case",
+          "Vanguard%20Case",
+          "Esports%202014%20Case"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Paper%20Mario%3A%20The%20Thousand%20Year%20Door%22%2C%20what%20is%20Hooktail%27s%20weakness%3F",
+        "correct_answer": "The%20Sound%20of%20Crickets",
+        "incorrect_answers": [
+          "Attacks%20from%20Koopas",
+          "The%20%22Ice%20Storm%22%20Item",
+          "The%20Hammer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20character%20in%20the%20Street%20Fighter%20series%3F",
+        "correct_answer": "Mai%20Shiranui",
+        "incorrect_answers": [
+          "Laura%20Matsuda",
+          "Sakura%20Kasugano",
+          "Ibuki"
+        ]
+      }
+    ]
+  }
+}

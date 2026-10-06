@@ -1,0 +1,120 @@
+{
+  "category_id": 25,
+  "fetched_at": "2026-10-06T10:07:28.651343+00:00",
+  "request": {
+    "amount": 9,
+    "category": 25,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20year%20did%20Albrecht%20D%C3%BCrer%20create%20the%20painting%20%22The%20Young%20Hare%22%3F",
+        "correct_answer": "1502",
+        "incorrect_answers": [
+          "1702",
+          "1402",
+          "1602"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "What%20nationality%20was%20the%20surrealist%20painter%20Salvador%20Dali%3F",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+          "Italian",
+          "French",
+          "Portuguese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20Greek%20sculptor%20designed%20the%20Athena%20Parthenos%20statue%20inside%20the%20Parthenon%3F",
+        "correct_answer": "Phidias",
+        "incorrect_answers": [
+          "Scopas",
+          "Hesiod",
+          "Praxiteles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Albrecht%20D%C3%BCrer%27s%20birthplace%20and%20place%20of%20death%20were%20in...",
+        "correct_answer": "N%C3%BCrnberg",
+        "incorrect_answers": [
+          "Augsburg",
+          "Bamberg",
+          "Berlin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The%20painting%20%22The%20Starry%20Night%22%20by%20Vincent%20van%20Gogh%20was%20part%20of%20which%20art%20movement%3F",
+        "correct_answer": "Post-Impressionism",
+        "incorrect_answers": [
+          "Romanticism",
+          "Neoclassical",
+          "Impressionism"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Venus%20of%20Willendorf%20is%20one%20of%20the%20earliest%20works%20of%20art%2C%20depicting%20the%20planets%20Mars%20and%20Venus%20embrace%20in%20the%20heavens%20at%20night.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who%20painted%20the%20painting%20%22Nighthawks%22%3F",
+        "correct_answer": "Edward%20Hopper",
+        "incorrect_answers": [
+          "Johannes%20Vermeer",
+          "Vincent%20van%20Gogh",
+          "Salvador%20Dali"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "How%20many%20paint%20and%20pastel%20versions%20of%20%22The%20Scream%22%20is%20Norwegian%20painter%20Edvard%20Munch%20believed%20to%20have%20produced%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "1",
+          "3",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "In%20%22Last%20Supper%22%20by%20Leonardo%20Da%20Vinci%2C%20what%20two%20colors%20were%20the%20robes%20worn%20by%20Jesus%3F",
+        "correct_answer": "Red%20and%20Blue",
+        "incorrect_answers": [
+          "Red%20and%20White",
+          "Red%20and%20Yellow",
+          "Red%20and%20Black"
+        ]
+      }
+    ]
+  }
+}

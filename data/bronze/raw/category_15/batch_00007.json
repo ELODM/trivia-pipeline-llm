@@ -1,0 +1,596 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:46.833960+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Pistons%20were%20added%20to%20Minecraft%20in%20Beta%201.5.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20does%20IWHBYD%20stand%20for%20on%20the%20skull%20in%20the%20Halo%20series%3F",
+        "correct_answer": "I%20Would%20Have%20Been%20Your%20Daddy",
+        "incorrect_answers": [
+          "I%20Wanna%20Have%20Babies%20You%20Down",
+          "I%20Would%20Hate%20Being%20Your%20Driver",
+          "I%20Would%20Have%20Bought%20Your%20Dog"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20protagonist%20of%20Metal%20Gear%20Solid%20V%3A%20The%20Phantom%20Pain%3F",
+        "correct_answer": "Punished%20%22Venom%22%20Snake",
+        "incorrect_answers": [
+          "Miller",
+          "Solid%20Snake",
+          "Ocelot"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Rocket%20League%2C%20you%20can%20play%20Basketball.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20to%20be%20directed%20by%20Jason%20Blundell%3F",
+        "correct_answer": "Mob%20Of%20The%20Dead",
+        "incorrect_answers": [
+          "Buried",
+          "Origins",
+          "Moon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20voice%20channels%20does%20the%20Nintendo%20Entertainment%20System%20support%20natively%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "4",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Overwatch%22%2C%20what%20is%20the%20name%20of%20the%20company%20that%20made%20D.Va%27s%20mech%3F",
+        "correct_answer": "MEKA",
+        "incorrect_answers": [
+          "MI8",
+          "KPAMC",
+          "JSAMB"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Divinity%3A%20Original%20Sin%202%2C%20who%20is%20the%20earliest%20companion%20you%20can%20acquire%3F",
+        "correct_answer": "The%20Red%20Prince",
+        "incorrect_answers": [
+          "Fane",
+          "Sebille",
+          "Beast"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20animal%20is%20featured%20in%20%22Bloons%20TD%20Battles%22%3F",
+        "correct_answer": "Monkeys",
+        "incorrect_answers": [
+          "Alligators",
+          "Pigeons",
+          "Lizards"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "There%20are%206%20legendary%20cards%20in%20%22Clash%20Royale%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Kingdom%20Hearts%2C%20how%20many%20members%20does%20Organization%20XIII%20have%20in%20total%3F",
+        "correct_answer": "14",
+        "incorrect_answers": [
+          "10",
+          "13",
+          "12"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20No%20Man%27s%20Sky%20%28as%20of%20the%20Beyond%20update%29%2C%20what%20two%20resources%20do%20you%20need%20to%20craft%20Antimatter%3F",
+        "correct_answer": "Condensed%20Carbon%20and%20Chromatic%20Metal",
+        "incorrect_answers": [
+          "Starship%20Launch%20Fuel%20and%20Condensed%20Carbon",
+          "Pure%20Ferrite%20and%20Sodium",
+          "Storm%20Crystal%20and%20Antimatter%20Housing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Phoenix%20Wright%3A%20Ace%20Attorney%22%20which%20character%20is%20the%20District%20Chief%20of%20Police%3F",
+        "correct_answer": "Damon%20Gant",
+        "incorrect_answers": [
+          "Miles%20Edgeworth",
+          "Lana%20Skye",
+          "Mike%20Meekins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20vault%20in%20the%20video%20game%20%22Fallout%203%22%20is%20the%20home%20of%20multiple%20clones%20named%20Gary%3F",
+        "correct_answer": "Vault%20108",
+        "incorrect_answers": [
+          "Vault%20101",
+          "Vault%2087",
+          "Vault%2021"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Xenoblade%20Chronicles%202%22%2C%20Which%20party%20member%20cannot%20use%20normal%20blades%3F",
+        "correct_answer": "Tora",
+        "incorrect_answers": [
+          "Rex",
+          "Zeke",
+          "Nia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%20lore%2C%20who%20was%20first%20to%20have%20the%20title%20%22The%20Ashbringer%22%3F",
+        "correct_answer": "Alexandros%20Mograine",
+        "incorrect_answers": [
+          "Tirion%20Fordring",
+          "Arthas%20Menethil",
+          "Uther%20the%20Lightbringer"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Need%20for%20Speed%3A%20Porsche%20Unleashed%22%2C%20the%20player%20can%20only%20drive%20cars%20manufactured%20by%20Porsche.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Nuclear%20Throne%2C%20the%20boss%20%22Big%20Dog%22%20was%20made%20into%20a%20character%20on%20April%20Fool%27s%20Day%202015.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Divinity%3A%20Original%20Sin%20II%2C%20what%20is%20the%20name%20of%20the%20skeletal%20origin%20character%3F",
+        "correct_answer": "Fane",
+        "incorrect_answers": [
+          "Lohse",
+          "The%20Red%20Prince",
+          "There%20are%20no%20skeletal%20origin%20characters"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20Sora%27s%20Nobody%20in%20Kingdom%20Hearts%3F",
+        "correct_answer": "Roxas",
+        "incorrect_answers": [
+          "Riku",
+          "Kairi",
+          "Mickey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Zombies%20mode%20of%20%22Call%20of%20Duty%3A%20Black%20Ops%22%2C%20what%20is%20the%20%22Pack-A-Punched%22%20version%20of%20the%20%22Galil%22%20called%3F",
+        "correct_answer": "Lamentation",
+        "incorrect_answers": [
+          "Galvanized%20Atomic%20Lead%20Insertion%20Liquidator",
+          "Gabig",
+          "Predictive%20Death%20Wish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20protagonist%20in%20Danganronpa%202%3A%20Goodbye%20Despair%3F",
+        "correct_answer": "Hajime%20Hinata",
+        "incorrect_answers": [
+          "Nagito%20Komaeda",
+          "Makoto%20Naegi",
+          "Junko%20Enoshima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20in%20the%20%22Dark%20Souls%22%20series%20does%20the%20player%20play%20as%20the%20%22Ashen%20One%22%3F",
+        "correct_answer": "Dark%20Souls%20III",
+        "incorrect_answers": [
+          "Dark%20Souls%20I",
+          "Bloodborne",
+          "Demon%20Souls"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "TF2%3A%20The%20Medic%20will%20be%20credited%20for%20an%20assist%20if%20he%20heals%20a%20Spy%20that%20successfully%20saps%20a%20building.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Red%20Dead%20Redemption%22%2C%20what%20is%20the%20name%20of%20John%20Marston%27s%20dog%3F",
+        "correct_answer": "Rufus",
+        "incorrect_answers": [
+          "Rutus",
+          "Finn",
+          "Apollo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Half-Life%20series%2C%20Gordon%20Freeman%27s%20signature%20weapon%20is%20a%3A",
+        "correct_answer": "Crowbar",
+        "incorrect_answers": [
+          "Sledgehammer",
+          "Fiber%20Wire",
+          "Katana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20is%20the%20protagonist%20of%20Bioshock%20Infinite%3F",
+        "correct_answer": "Booker%20DeWitt",
+        "incorrect_answers": [
+          "Zachary%20Comstock",
+          "Arthas%20Menethil",
+          "Herbie%20Hancock"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Terraria%2C%20which%20of%20the%20following%20items%20does%20the%20Martian%20Saucer%20mini-boss%20NOT%20drop%3F",
+        "correct_answer": "Drill%20Containment%20Unit",
+        "incorrect_answers": [
+          "Anti-Gravity%20Hook",
+          "Influx%20Waver",
+          "Cosmic%20Car%20Key"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22World%20of%20Warcraft%2C%22%20which%20of%20the%20following%20can%20be%20found%20outside%20of%20every%20instanced%20dungeon%3F",
+        "correct_answer": "A%20Meeting%20Stone",
+        "incorrect_answers": [
+          "A%20Summoning%20Stone",
+          "A%20Gathering%20Stone",
+          "A%20Hearthstone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20game%20%27Portal%202%27%20released%3F",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+          "2014",
+          "2009",
+          "2007"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20The%20Elder%20Scrolls%3A%20Oblivion%2C%20the%20horse%20that%20goes%20by%20the%20name%20Shadowmere%20is%20given%20by%20what%20guild%3F",
+        "correct_answer": "Dark%20Brotherhood",
+        "incorrect_answers": [
+          "Thieves",
+          "Fighters",
+          "Mages"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20the%20only%20fighter%20in%20the%20game%20%22Super%20Smash%20Bros.%20Melee%22%20capable%20of%20dealing%20damage%20with%20their%20taunt%20animation%3F",
+        "correct_answer": "Luigi",
+        "incorrect_answers": [
+          "Mr.%20Game%20%26%20Watch",
+          "Jigglypuff",
+          "Pichu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20child%20performing%20the%20Black%20Sacrament%2C%20in%20The%20Elder%20Scrolls%20V%3A%20Skyrim%3F",
+        "correct_answer": "Aventus%20Aretino",
+        "incorrect_answers": [
+          "Proventus%20Avenicci",
+          "Aval%20Atheron",
+          "Arngeir"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Several%20characters%20in%20%22Super%20Mario%2064%22%20blink%20their%20eyes%2C%20including%20Mario%20himself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Nintendo%20started%20out%20as%20a%20playing%20card%20manufacturer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20currency%20in%20the%20%22Animal%20Crossing%22%20series%3F",
+        "correct_answer": "Bells",
+        "incorrect_answers": [
+          "Sea%20Shells",
+          "Leaves",
+          "Bugs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20commercial%20vehicles%20from%20Grand%20Theft%20Auto%20IV%20did%20NOT%20reappear%20in%20Grand%20Theft%20Auto%20V%3F",
+        "correct_answer": "Steed",
+        "incorrect_answers": [
+          "Mule",
+          "Benson",
+          "Pony"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20character%20Kirby%20originally%20going%20to%20be%20named%3F",
+        "correct_answer": "Popopo",
+        "incorrect_answers": [
+          "Dedede",
+          "Waddle%20Dee",
+          "Prince%20Puff"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20original%20Mega%20Man%20series%2C%20who%20is%20Mega%20Man%27s%20arch%20nemesis%3F",
+        "correct_answer": "Dr.%20Wily",
+        "incorrect_answers": [
+          "Dr.%20Light",
+          "Dr.%20Bad",
+          "Mr.%20Z"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20default%20alias%20that%20Princess%20Garnet%20goes%20by%20in%20Final%20Fantasy%20IX%3F",
+        "correct_answer": "Dagger",
+        "incorrect_answers": [
+          "Dirk",
+          "Garnet",
+          "Quina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%27s%20the%20name%20of%20the%20main%20protagonist%20in%20the%20%22Legend%20of%20Zelda%22%20franchise%3F",
+        "correct_answer": "Link",
+        "incorrect_answers": [
+          "Mario",
+          "Zelda",
+          "Pit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20the%20name%20of%20a%20city%20in%20the%20Grand%20Theft%20Auto%20series%3F",
+        "correct_answer": "San%20Andreas",
+        "incorrect_answers": [
+          "San%20Fierro",
+          "Las%20Venturas",
+          "Vice%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Half-Life%20by%20Valve%20uses%20the%20GoldSrc%20game%20engine%2C%20which%20is%20a%20highly%20modified%20version%20of%20what%20engine%3F",
+        "correct_answer": "Quake%20Engine",
+        "incorrect_answers": [
+          "Doom%20Engine",
+          "id%20Engine",
+          "Source%20Engine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20name%20did%20%22Mario%22%2C%20from%20%22Super%20Mario%20Brothers%22%2C%20originally%20have%3F",
+        "correct_answer": "Ossan",
+        "incorrect_answers": [
+          "Jumpman",
+          "Mr.%20Video",
+          "Mario"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Dead%20by%20Daylight%2C%20the%20killer%20Michael%20Myers%20is%20refered%20to%20as%20%22The%20Shape%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20weapon%20pack%20for%20%22PAYDAY%202%22%3F",
+        "correct_answer": "The%20Gage%20Weapon%20Pack%20%231",
+        "incorrect_answers": [
+          "The%20Overkill%20Pack",
+          "The%20Gage%20Chivalry%20Pack",
+          "The%20Gage%20Historical%20Pack"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Dota%201%20hero%20changed%20gender%20when%20ported%20to%20Dota%202%3F",
+        "correct_answer": "Legion%20Commander",
+        "incorrect_answers": [
+          "Axe",
+          "Keeper%20of%20the%20Light",
+          "Templar%20Assassin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20Garry%27s%20Mod%20released%20as%20a%20standalone%20title%20on%20Valve%27s%20Steam%20distribution%20service%3F",
+        "correct_answer": "2006",
+        "incorrect_answers": [
+          "2007",
+          "2004",
+          "2003"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20from%20Final%20Fantasy%20VIII%20primarily%20spoke%20in%20one%20word%20sentences%3F",
+        "correct_answer": "Fujin",
+        "incorrect_answers": [
+          "Raijin",
+          "Seifer",
+          "Zell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20main%20character%20of%20Metal%20Gear%20Solid%202%3F",
+        "correct_answer": "Raiden",
+        "incorrect_answers": [
+          "Solidus%20Snake",
+          "Big%20Boss",
+          "Venom%20Snake"
+        ]
+      }
+    ]
+  }
+}

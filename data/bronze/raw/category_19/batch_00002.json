@@ -1,0 +1,302 @@
+{
+  "category_id": 19,
+  "fetched_at": "2026-10-06T10:03:59.882953+00:00",
+  "request": {
+    "amount": 25,
+    "category": 19,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "111%2C111%2C111%20x%20111%2C111%2C111%20%3D%2012%2C345%2C678%2C987%2C654%2C321",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20a%20polygon%20with%20eight%20sides%20called%3F",
+        "correct_answer": "Octagon",
+        "incorrect_answers": [
+          "Hexagon",
+          "Nanagon",
+          "Heptagon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "Integration%20is%20the%20reverse%20of%20what%20mathematical%20operation%3F",
+        "correct_answer": "Derivation",
+        "incorrect_answers": [
+          "Division",
+          "Standard%20Deviation",
+          "Multiplication"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "Which%20of%20the%20following%20is%20not%20one%20of%20the%20seven%20Millennium%20Prize%20Problems%3F",
+        "correct_answer": "Navi%C3%A9r%20conjecture",
+        "incorrect_answers": [
+          "Birch%20and%20Swinnerton-Dyer%20Conjecture",
+          "Riemann%20hypothesis",
+          "Poincar%C3%A9%20conjecture"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "The%20French%20mathematician%20%C3%89variste%20Galois%20is%20primarily%20known%20for%20his%20work%20in%20which%3F",
+        "correct_answer": "Galois%20Theory",
+        "incorrect_answers": [
+          "Galois%27%20Continued%20Fractions",
+          "Galois%27%20Method%20for%20PDE%27s%20",
+          "Abelian%20Integration"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20Roman%20numeral%20for%20500%3F",
+        "correct_answer": "D",
+        "incorrect_answers": [
+          "L",
+          "C",
+          "X"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "The%20binary%20number%20%22101001101%22%20is%20equivalent%20to%20the%20Decimal%20number%20%22334%22",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "The%20proof%20for%20the%20Chinese%20Remainder%20Theorem%20used%20in%20Number%20Theory%20was%20NOT%20developed%20by%20its%20first%20publisher%2C%20Sun%20Tzu.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "How%20many%20sides%20does%20a%20pentagon%20have%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "9",
+          "6",
+          "4"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "Zero%20factorial%20is%20equal%20to%20zero.%20",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20correct%20order%20of%20operations%20for%20solving%20equations%3F",
+        "correct_answer": "Parentheses%2C%20Exponents%2C%20Multiplication%2C%20Division%2C%20Addition%2C%20Subtraction",
+        "incorrect_answers": [
+          "Addition%2C%20Multiplication%2C%20Division%2C%20Subtraction%2C%20Addition%2C%20Parentheses",
+          "Parentheses%2C%20Exponents%2C%20Addition%2C%20Substraction%2C%20Multiplication%2C%20Division",
+          "The%20order%20in%20which%20the%20operations%20are%20written."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "L%27H%C3%B4pital%20was%20the%20mathematician%20who%20created%20the%20homonymous%20rule%20that%20uses%20derivatives%20to%20evaluate%20limits%20with%20indeterminations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20Greek%20letter%20is%20used%20to%20signify%20summation%3F",
+        "correct_answer": "Sigma",
+        "incorrect_answers": [
+          "Delta",
+          "Alpha",
+          "Omega"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "Which%20of%20the%20following%20mathematicians%20made%20major%20contributions%20to%20game%20theory%3F",
+        "correct_answer": "John%20Von%20Neumann",
+        "incorrect_answers": [
+          "Carl%20Friedrich%20Gauss",
+          "Leonhard%20Euler",
+          "Stefan%20Banach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20name%20of%20a%20nine%20sided%20polygon%3F",
+        "correct_answer": "Nonagon",
+        "incorrect_answers": [
+          "Hexagon",
+          "Octagon",
+          "Heptagon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20first%20Mersenne%20prime%20exponent%20over%201000%3F",
+        "correct_answer": "1279",
+        "incorrect_answers": [
+          "2203",
+          "1009",
+          "1069"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20type%20of%20angle%20is%20greater%20than%2090%C2%B0%3F",
+        "correct_answer": "Obtuse",
+        "incorrect_answers": [
+          "Acute",
+          "Right",
+          "Straight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "Which%20greek%20mathematician%20ran%20through%20the%20streets%20of%20Syracuse%20naked%20while%20shouting%20%22Eureka%22%20after%20discovering%20the%20principle%20of%20displacement%3F",
+        "correct_answer": "Archimedes",
+        "incorrect_answers": [
+          "Euclid",
+          "Homer",
+          "Eratosthenes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20smallest%20number%20that%20can%20be%20expressed%20as%20the%20sum%20of%20two%20positive%20cubes%20in%20two%20different%20ways%3F",
+        "correct_answer": "1729",
+        "incorrect_answers": [
+          "91",
+          "561",
+          "4104"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "Which%20mathematician%20refused%20the%20Fields%20Medal%3F",
+        "correct_answer": "Grigori%20Perelman",
+        "incorrect_answers": [
+          "Andrew%20Wiles",
+          "Terence%20Tao",
+          "Edward%20Witten"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%27s%20the%20square%20root%20of%2049%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "4",
+          "12",
+          "9"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "How%20many%20zeptometres%20are%20inside%20one%20femtometre%3F",
+        "correct_answer": "1%2C000%2C000",
+        "incorrect_answers": [
+          "10",
+          "1%2C000%2C000%2C000",
+          "1000"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "You%20can%20square%20root%20a%20negative%20number%20with%20an%20imaginary%20number%20%22i%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "At%20what%20temperature%20does%20temp%20in%20%C2%B0C%20equal%20temp%20in%20%C2%B0F%3F",
+        "correct_answer": "-40",
+        "incorrect_answers": [
+          "%2B40",
+          "0",
+          "%2B100"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20plane%20curve%20proposed%20by%20Descartes%20to%20challenge%20Fermat%27s%20extremum-finding%20techniques%20called%3F",
+        "correct_answer": "Folium%20of%20Descartes",
+        "incorrect_answers": [
+          "Elliptic%20Paraboloid%20of%20Descartes",
+          "Cartesian%20Coordinates",
+          "Descarte%27s%20Helicoid"
+        ]
+      }
+    ]
+  }
+}

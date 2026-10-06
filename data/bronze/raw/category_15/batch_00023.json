@@ -1,0 +1,602 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:02:20.505939+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20ingredients%20are%20required%20to%20make%20a%20cake%20in%20Minecraft%3F",
+        "correct_answer": "Milk%2C%20Sugar%2C%20Egg%2C%20and%20Wheat",
+        "incorrect_answers": [
+          "Milk%2C%20Bread%2C%20Egg%2C%20and%20Wheat",
+          "Milk%2C%20Sugar%20Cane%2C%20Egg%2C%20and%20Wheat",
+          "Milk%2C%20Sugar%2C%20and%20Wheat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Animal%20Crossing%3A%20New%20Leaf%2C%20which%20of%20these%20paintings%20from%20Redd%27s%20Art%20Gallery%20is%20always%20genuine%3F",
+        "correct_answer": "Warm%20Painting",
+        "incorrect_answers": [
+          "Jolly%20Painting",
+          "Neutral%20Painting",
+          "Wistful%20Painting"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20company%20created%20and%20developed%20the%20game%20%22Overwatch%22%3F",
+        "correct_answer": "Blizzard%20Entertainment",
+        "incorrect_answers": [
+          "Valve",
+          "Hi-Rez%20Studios",
+          "Gearbox%20Software"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20first%20%22Half-Life%22%20released%3F",
+        "correct_answer": "1998",
+        "incorrect_answers": [
+          "2004",
+          "1999",
+          "1997"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "If%20you%20play%20the%20Super%20Mario%20RPG%20and%20nap%20in%20a%20rented%20hotel%20room%2C%20you%20will%20wake%20up%20next%20to%20what%20familiar%20looking%20character%3F",
+        "correct_answer": "Link",
+        "incorrect_answers": [
+          "Wario",
+          "Q%2Abert",
+          "Solid%20Snake"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "There%20are%202%20player%20roles%20in%20Trouble%20in%20Terrorist%20Town.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20Sega%20Genesis%20released%20in%20Japan%3F",
+        "correct_answer": "October%2029%2C%201988",
+        "incorrect_answers": [
+          "August%2014%2C%201989",
+          "November%2030%2C%201990",
+          "September%201%2C%201986"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20the%20game%20%22Fallout%22%20released%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1998",
+          "1999",
+          "1996"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Call%20of%20Duty%3A%20United%20Offensive%2C%20what%20two%20soldiers%20share%20a%20name%20of%20a%20video%20game%20character%3F",
+        "correct_answer": "Gordon%20%26%20Freeman",
+        "incorrect_answers": [
+          "Sam%20%26%20Fisher",
+          "Nathan%20%26%20Drake",
+          "Dig%20%26%20Dug"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20turns%20out%20to%20be%20the%20true%20victor%20in%20the%20Battle%20of%20Armageddon%20in%20Mortal%20Kombat%3F",
+        "correct_answer": "Shao%20Kahn",
+        "incorrect_answers": [
+          "Liu%20Kang",
+          "Shang%20Tsung",
+          "Raiden"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20NOT%20one%20of%20the%20main%20characters%20in%20Grand%20Theft%20Auto%20V%E2%80%99s%20story%20mode%3F",
+        "correct_answer": "Tommy%20Vercetti",
+        "incorrect_answers": [
+          "Michael%20de%20Santa",
+          "Franklin%20Clinton",
+          "Trevor%20Phillips"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20of%20%22Metal%20Gear%20Solid%203%22%3F",
+        "correct_answer": "Naked%20Snake",
+        "incorrect_answers": [
+          "Solid%20Snake",
+          "Liquid%20Snake",
+          "Venom%20Snake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20mall%20does%20%22Dead%20Rising%22%20take%20place%3F",
+        "correct_answer": "Willamette%20Parkview%20Mall",
+        "incorrect_answers": [
+          "Liberty%20Mall",
+          "Twin%20Pines%20Mall",
+          "Central%20Square%20Shopping%20Center"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Phantasy%20Star%20Online%202%22%2C%20which%20is%20the%20first%20area%20that%20you%20are%20granted%20access%20to%3F",
+        "correct_answer": "Forest",
+        "incorrect_answers": [
+          "Swamp",
+          "Plains",
+          "Caves"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20name%20of%20a%20playable%20character%20in%20Apex%20Legends%3F",
+        "correct_answer": "Viper",
+        "incorrect_answers": [
+          "Revenant",
+          "Crypto",
+          "Wattson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%2C%20which%20raid%20instance%20features%20a%20chess%20event%3F",
+        "correct_answer": "Karazhan",
+        "incorrect_answers": [
+          "Zul%27Aman",
+          "Blackwing%20Lair",
+          "Temple%20of%20Ahn%27Qiraj"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20world%27s%20first%20video%20game%3F",
+        "correct_answer": "Draughts",
+        "incorrect_answers": [
+          "Spacewar%21",
+          "Pong",
+          "Space%20Travel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Along%20with%20Gabe%20Newell%2C%20who%20co-founded%20Valve%3F",
+        "correct_answer": "Mike%20Harrington",
+        "incorrect_answers": [
+          "Robin%20Walker",
+          "Marc%20Laidlaw",
+          "Stephen%20Bahl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20National%20Pokedex%20what%20number%20is%20Porygon-Z%3F",
+        "correct_answer": "474",
+        "incorrect_answers": [
+          "376",
+          "432",
+          "589"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20map%20featured%20in%20Arma%203%20named%20%22Altis%22%20is%20based%20off%20of%20what%20Greek%20island%3F",
+        "correct_answer": "Lemnos",
+        "incorrect_answers": [
+          "Ithaca",
+          "Naxos",
+          "Anafi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20MMO%20RPG%20%22Realm%20of%20the%20Mad%20God%22%2C%20what%20class%20is%20known%20for%20having%20the%20highest%20possible%20defense%3F",
+        "correct_answer": "The%20Knight",
+        "incorrect_answers": [
+          "The%20Wizard",
+          "The%20Archer",
+          "The%20Warrior"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20video%20game%20was%20recalled%20for%20containing%20a%20hidden%2C%20playable%20South%20Park%20episode%3F",
+        "correct_answer": "Tiger%20Woods%2099%20PGA%20Tour",
+        "incorrect_answers": [
+          "Tony%20Hawk%27s%20Pro%20Skater%203",
+          "Sonic%20Adventure",
+          "Madden%2099"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Team%20Fortress%202%2C%20being%20disguised%20as%20a%20scout%20or%20medic%20results%20in%20a%20speed%20boost.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20the%20name%20of%20a%20playable%20map%20in%20PUBG%3A%20Battlegrounds%3F",
+        "correct_answer": "Orinocco",
+        "incorrect_answers": [
+          "Miramar",
+          "Sanhok",
+          "Vikendi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20is%20the%20one%20responsible%20for%20creating%20the%20strategy%20videogame%20Stellaris%3F",
+        "correct_answer": "Paradox%20Development%20Studio",
+        "incorrect_answers": [
+          "Overkill%20Software",
+          "Tripwire%20Interactive%20LLC",
+          "Ensemble%20Studios"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Clash%20Royale%22%20what%20is%20Arena%204%20called%3F",
+        "correct_answer": "Spell%20Valley",
+        "incorrect_answers": [
+          "Barbarian%20Bowl",
+          "P.E.K.K.A%27s%20Playhouse",
+          "Royal%20Arena"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20Cream%20the%20Rabbit%27s%20mom%20in%20the%20%22Sonic%20the%20Hedgehog%22%20series%3F",
+        "correct_answer": "Vanilla",
+        "incorrect_answers": [
+          "Peach",
+          "Strawberry",
+          "Mint"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%20in%20the%20%22Animal%20Crossing%22%20series%20uses%20the%20phrase%20%22zip%20zoom%22%20when%20talking%20to%20the%20player%3F",
+        "correct_answer": "Scoot",
+        "incorrect_answers": [
+          "Drake",
+          "Bill",
+          "Mallary"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20protagonist%20in%20the%20game%20%22The%20Walking%20Dead%3A%20Season%20One%22%3F",
+        "correct_answer": "Lee%20Everett",
+        "incorrect_answers": [
+          "Clementine",
+          "Kenny",
+          "Rick%20Grimes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20the%202011%20Video%20Game%20%22Minecraft%22%3F",
+        "correct_answer": "Markus%20Persson",
+        "incorrect_answers": [
+          "Jens%20Bergensten",
+          "Daniel%20Rosenfeld",
+          "Carl%20Manneh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20%22Garry%27s%20Mod%22%20released%3F",
+        "correct_answer": "December%2024%2C%202004",
+        "incorrect_answers": [
+          "November%2013%2C%202004",
+          "December%2013%2C%202004",
+          "November%2012%2C%202004"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20element%20does%20the%20Zinogre%20use%20in%20Monster%20Hunter%3F",
+        "correct_answer": "Thunder",
+        "incorrect_answers": [
+          "Ice",
+          "Fire",
+          "Water"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20mod%20%22Cry%20of%20Fear%22%20based%20off%20of%3F",
+        "correct_answer": "Half-Life",
+        "incorrect_answers": [
+          "Counter%20Strike%3A%20Source",
+          "Half-Life%202",
+          "It%27s%20a%20stand%20alone%20game%2C%20not%20a%20mod"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20walls%20of%20the%20Goldenrod%20City%20Gym%20in%20%22Pok%C3%A9mon%20Gold%20and%20Silver%22%20are%20arranged%20in%20the%20shape%20of%20which%20Pok%C3%A9mon%3F",
+        "correct_answer": "Clefairy",
+        "incorrect_answers": [
+          "Bulbasaur",
+          "Pikachu",
+          "Pidgey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Earthbound%22%2C%20how%20does%20one%20enter%20%22Master%20Belch%27s%22%20factory%3F",
+        "correct_answer": "Wait%203%20Minutes",
+        "incorrect_answers": [
+          "Enter%20the%20password%20%22Fly%20Honey%22",
+          "Enter%20the%20password%20%22Master%20Belch%20Rules%22",
+          "Enter%20the%20password%20%22Mr%20Saturn%20Drools%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20book%20%26%20video%20game%20Metro%202033%2C%20which%20Moscow%20Metro%20station%20is%20the%20main%20character%20Artyom%27s%20home%20station%3F",
+        "correct_answer": "VDNKh",
+        "incorrect_answers": [
+          "Prospekt%20Mira",
+          "Kitay-Gorod",
+          "Botanichesky%20Sad"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Niko%20Bellic%20is%20the%20protagonist%20of%20Grand%20Theft%20Auto%20IV.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20ingredient%20is%20NOT%20used%20to%20craft%20a%20cake%20in%20Minecraft%3F",
+        "correct_answer": "Bread",
+        "incorrect_answers": [
+          "Wheat",
+          "Milk",
+          "Egg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Pokemon%20Red%20%26%20Blue%2C%20what%20is%20the%20name%20of%20HM05%3F",
+        "correct_answer": "Flash",
+        "incorrect_answers": [
+          "Strength",
+          "Cut",
+          "Fly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Super%20Mario%20World%202%3A%20Yoshi%27s%20Island%22%2C%20which%20of%20these%20colors%20is%20NOT%20represented%20by%20a%20Yoshi%3F",
+        "correct_answer": "White",
+        "incorrect_answers": [
+          "Purple",
+          "Brown",
+          "Red"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Resident%20Evil%20series%2C%20Leon%20S.%20Kennedy%20is%20a%20member%20of%20STARS.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20puzzle%20game%20was%20designed%20by%20a%20Russian%20programmer%2C%20featuring%20Russian%20buildings%20and%20music%3F",
+        "correct_answer": "Tetris",
+        "incorrect_answers": [
+          "Jenga",
+          "Boulder%20Dash",
+          "Puzzled"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20names%20of%20Tom%20Nook%27s%20cousins%20in%20the%20Animal%20Crossing%20franchise%20are%20named%20%22Timmy%22%20and%20%22Jimmy%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20most%20graphically%20violent%20game%20to%20precede%20the%20creation%20of%20the%20ESRB%20%28Entertainment%20Software%20Rating%20Board%29%20was...",
+        "correct_answer": "Mortal%20Kombat",
+        "incorrect_answers": [
+          "Duke%20Nukem",
+          "Resident%20Evil",
+          "Doom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%202002%20video%20game%20%22Kingdom%20Hearts%22%2C%20how%20many%20Keyblades%20are%20usable%3F",
+        "correct_answer": "18",
+        "incorrect_answers": [
+          "13",
+          "16",
+          "15"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20video%20game%20%22Fuel%22%20has%20an%20open%20world%20that%20is%205%2C560%20square%20miles%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20levels%20does%20NOT%20appear%20in%20the%20console%2FPC%20versions%20of%20the%20game%20%22Sonic%20Generations%22%3F",
+        "correct_answer": "Mushroom%20Hill",
+        "incorrect_answers": [
+          "City%20Escape",
+          "Planet%20Wisp",
+          "Sky%20Sanctuary"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20game%20mode%20was%20not%20in%20the%20original%20%22Wii%20Sports%22%3F",
+        "correct_answer": "Table%20Tennis",
+        "incorrect_answers": [
+          "Boxing",
+          "Baseball",
+          "Bowling"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Telltale%20Games%27%20%22The%20Walking%20Dead%3A%20Season%20One%22%20what%20is%20the%20name%20of%20Clementine%27s%20father%3F",
+        "correct_answer": "Ed",
+        "incorrect_answers": [
+          "Charles",
+          "Lee",
+          "Walter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%2C%20Half-life%2C%20what%20event%20started%20the%20Half-life%20universe%20as%20we%20know%20today%3F",
+        "correct_answer": "The%20Resonance%20Cascade",
+        "incorrect_answers": [
+          "World%20War%203",
+          "The%20Xen%20Attack",
+          "The%20Black%20Mesa%20Nuke"
+        ]
+      }
+    ]
+  }
+}

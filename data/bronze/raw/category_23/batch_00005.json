@@ -1,0 +1,596 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:31.490954+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20first%20televised%20presidential%20debate%20was%20between%20Jimmy%20Carter%20and%20Gerald%20Ford.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20was%20the%20famous%2045%20foot%20tall%20Hollywood%20sign%20first%20erected%3F",
+        "correct_answer": "1923",
+        "incorrect_answers": [
+          "1903",
+          "1913",
+          "1933"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Japan%20was%20part%20of%20the%20Allied%20Powers%20during%20World%20War%20I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20fork%20came%20to%20Italy%20before%20any%20other%20European%20country.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Augustus%20was%20the%20cousin%20of%20Julius%20Caesar.%20",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20these%201900s%20tanks%20were%20designed%20and%20built%20BEFORE%20the%20others%3F",
+        "correct_answer": "Renault%20FT",
+        "incorrect_answers": [
+          "M4%20Sherman",
+          "%20Panzer%20IV",
+          "Cromwell%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Apollo%20mission%20was%20the%20last%20one%20in%20NASA%27s%20Apollo%20program%3F",
+        "correct_answer": "Apollo%2017",
+        "incorrect_answers": [
+          "Apollo%2013",
+          "Apollo%2011",
+          "Apollo%2015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20WWII%20tank%20ace%20is%20credited%20with%20having%20destroyed%20the%20most%20tanks%3F",
+        "correct_answer": "Kurt%20Knispel",
+        "incorrect_answers": [
+          "Michael%20Wittmann",
+          "Walter%20Kniep",
+          "Otto%20Carius"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "With%20which%20Greek%20philosopher%20would%20you%20associate%20the%20phrase%2C%20%22I%20know%20that%20I%20know%20nothing%22%3F",
+        "correct_answer": "Socrates",
+        "incorrect_answers": [
+          "Aristotle",
+          "Plato",
+          "Pythagoras"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In%20the%20year%201900%2C%20what%20were%20the%20most%20popular%20first%20names%20given%20to%20boy%20and%20girl%20babies%20born%20in%20the%20United%20States%3F",
+        "correct_answer": "John%20and%20Mary",
+        "incorrect_answers": [
+          "Joseph%20and%20Catherine",
+          "William%20and%20Elizabeth",
+          "George%20and%20Anne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20was%20the%20People%27s%20Republic%20of%20China%20founded%3F",
+        "correct_answer": "October%201%2C%201949",
+        "incorrect_answers": [
+          "April%203%2C%201947",
+          "May%207%2C%201945",
+          "December%206%2C%201950"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20explorer%20to%20sail%20to%20North%20America%3F",
+        "correct_answer": "Leif%20Erikson",
+        "incorrect_answers": [
+          "Christopher%20Columbus",
+          "Amerigo%20Vespucci",
+          "Ferdinand%20Magellan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20did%20the%20abbreviation%20%22RMS%22%20stand%20for%20in%20the%20RMS%20Titanic%20in%201912%3F",
+        "correct_answer": "Royal%20Mail%20Ship",
+        "incorrect_answers": [
+          "Royal%20Majesty%20Service",
+          "Regular%20Maritime%20Schedule%20",
+          "Regulated%20Maelstrom%20Sensor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Against%20which%20country%20did%20the%20Dutch%20Republic%20fight%20the%20Eighty%20Years%27%20War%3F",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+          "France",
+          "England",
+          "Portugal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20name%20of%20the%20ship%20which%20was%20only%20a%20few%20miles%20away%20from%20the%20RMS%20Titanic%20when%20it%20struck%20an%20iceberg%20on%20April%2014%2C%201912%3F",
+        "correct_answer": "Californian",
+        "incorrect_answers": [
+          "Carpathia",
+          "Cristol",
+          "Commerce"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20was%20the%20video%20game%20company%20Electronic%20Arts%20founded%3F",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+          "1999",
+          "1981",
+          "2005"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20which%20year%20did%20the%20First%20World%20War%20begin%3F",
+        "correct_answer": "1914",
+        "incorrect_answers": [
+          "1930",
+          "1917",
+          "1939"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20Napoleon%20Bonaparte%27s%20name%20before%20he%20changed%20it%3F",
+        "correct_answer": "Napoleone%20di%20Buonaparte",
+        "incorrect_answers": [
+          "Naapolion%20van%20Bonijpaart",
+          "Napole%C3%A3o%20do%20Boaparte",
+          "Napoleona%20de%20Buenoparte"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20event%20marked%20the%20start%20of%20World%20War%20II%3F",
+        "correct_answer": "Invasion%20of%20Poland%20%281939%29",
+        "incorrect_answers": [
+          "Invasion%20of%20Russia%20%281942%29",
+          "Battle%20of%20Britain%20%281940%29",
+          "Invasion%20of%20Normandy%20%281944%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20leader%20of%20the%20Communist%20Party%20of%20Yugoslavia%20%3F",
+        "correct_answer": "Josip%20Broz%20Tito",
+        "incorrect_answers": [
+          "Karadjordje%20Petrovic",
+          "Milos%20Obilic",
+          "Aleskandar%20Petrovic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Adolf%20Hitler%20was%20a%20german%20soldier%20in%20World%20War%20I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20one%20of%20these%20tanks%20was%20designed%20and%20operated%20by%20the%20United%20Kingdom%3F",
+        "correct_answer": "Tog%20II",
+        "incorrect_answers": [
+          "M4%20Sherman",
+          "Tiger%20H1",
+          "T-34"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "During%20WWII%2C%20in%201945%2C%20the%20United%20States%20dropped%20atomic%20bombs%20on%20the%20two%20Japanese%20cities%20of%20Hiroshima%20and%20what%20other%20city%3F",
+        "correct_answer": "Nagasaki",
+        "incorrect_answers": [
+          "Kawasaki",
+          "Tokyo",
+          "Kagoshima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20year%20did%20World%20War%20II%20end%3F",
+        "correct_answer": "1945",
+        "incorrect_answers": [
+          "1943",
+          "1947",
+          "1950"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20did%20the%20French%20Revolution%20begin%3F",
+        "correct_answer": "May%2005%201789",
+        "incorrect_answers": [
+          "April%2012%201789",
+          "April%2005%201789",
+          "May%2006%201799"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%201961%2C%20an%20American%20B-52%20aircraft%20crashed%20and%20nearly%20detonated%20two%204mt%20nuclear%20bombs%20over%20which%20US%20city%3F",
+        "correct_answer": "Goldsboro%2C%20North%20Carolina",
+        "incorrect_answers": [
+          "Hicksville%2C%20New%20York",
+          "Jacksonville%2C%20Florida",
+          "Conway%2C%20Arkansas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Joseph%20Smith%20was%20the%20founder%20of%20what%20religion%3F",
+        "correct_answer": "Mormonism",
+        "incorrect_answers": [
+          "Buddhism",
+          "Christianity",
+          "Hinduism"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Canada%20was%20ceded%20to%20Britain%20under%20the%20terms%20of%20the%201763%20Treaty%20of%20Paris.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Pianist%20Fr%C3%A9d%C3%A9ric%20Chopin%20was%20a%20composer%20of%20which%20musical%20era%3F",
+        "correct_answer": "Romantic",
+        "incorrect_answers": [
+          "Classic",
+          "Baroque",
+          "Renaissance"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Adolf%20Hitler%20was%20accepted%20into%20the%20Vienna%20Academy%20of%20Fine%20Arts.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20naval%20battle%20was%20considered%20the%20turning%20point%20of%20the%20Pacific%20Ocean%20Theater%20during%20World%20War%202%3F",
+        "correct_answer": "Battle%20of%20Midway",
+        "incorrect_answers": [
+          "Attack%20on%20Truk%20Island",
+          "Attack%20on%20Pearl%20Harbor",
+          "Battle%20of%20the%20Coral%20Sea"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20micro-state%20is%20considered%20to%20have%20the%20oldest%20constitution%20still%20in%20effect%3F",
+        "correct_answer": "San%20Marino",
+        "incorrect_answers": [
+          "Andorra",
+          "Monaco",
+          "Saint%20Kitts%20and%20Nevis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20is%20attributed%20credit%20for%20recording%20the%20epic%20poem%20The%20Odyssey%3F",
+        "correct_answer": "Homer",
+        "incorrect_answers": [
+          "Aristotle",
+          "Odysseus",
+          "Socrates"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20bloodiest%20event%20in%20United%20States%20history%2C%20in%20terms%20of%20casualties%3F",
+        "correct_answer": "Battle%20of%20Antietam",
+        "incorrect_answers": [
+          "Pearl%20Harbor",
+          "September%2011th",
+          "D-Day"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Louis%20was%20known%20as%20%27The%20Sun%20King%20of%20France%27%3F",
+        "correct_answer": "Louis%20XIV",
+        "incorrect_answers": [
+          "Louis%20XIII",
+          "Louis%20XV",
+          "Louis%20XVI"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20was%20Brazil%20was%20a%20former%20colony%20under%3F",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+          "Spain",
+          "The%20Netherlands",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20U.S.%20president%20took%20part%20in%20the%20Potsdam%20Conference%2C%20where%20the%20Allies%20reached%20a%20peace%20settlement%20with%20Germany%3F",
+        "correct_answer": "Harry%20S.%20Truman",
+        "incorrect_answers": [
+          "Dwight%20D.%20Eisenhower",
+          "Franklin%20D.%20Roosevelt",
+          "Herbert%20Hoover"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Thirty%20Years%20War%20ended%20with%20which%20treaty%3F",
+        "correct_answer": "Peace%20of%20Westphalia",
+        "incorrect_answers": [
+          "Treaty%20of%20Versailles",
+          "Treaty%20of%20Paris",
+          "Peace%20of%20Prague"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Kublai%20Khan%20is%20the%20grandchild%20of%20Genghis%20Khan%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20first%20recorded%20object%20to%20ever%20reach%20space%3F",
+        "correct_answer": "Bumper-WAC",
+        "incorrect_answers": [
+          "American%20Manhole%20Cover",
+          "Sputnik%20I%20",
+          "Sputnik%20II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20was%20the%20name%20commonly%20given%20to%20the%20ancient%20trade%20routes%20that%20connected%20the%20East%20and%20West%20of%20Eurasia%3F",
+        "correct_answer": "Silk%20Road",
+        "incorrect_answers": [
+          "Spice%20Road",
+          "Clay%20Road",
+          "Salt%20Road"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20American%20civilization%20is%20the%20source%20of%20the%20belief%20that%20the%20world%20would%20end%20or%20drastically%20change%20on%20December%2021st%2C%202012%3F",
+        "correct_answer": "The%20Mayans",
+        "incorrect_answers": [
+          "The%20Incas",
+          "The%20Aztecs",
+          "The%20Navajos"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Emus%20won%20the%20Great%20Emu%20War%20of%201932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20age%20was%20King%20Henry%20V%20when%20he%20died%3F",
+        "correct_answer": "35",
+        "incorrect_answers": [
+          "62",
+          "87",
+          "73"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Battle%20of%20the%20Somme%20in%20World%20War%20I%20took%20place%20in%20which%20country%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "Germany",
+          "Italy",
+          "Austria"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "During%20which%20American%20Civil%20War%20campaign%20did%20Union%20troops%20dig%20a%20tunnel%20beneath%20Confederate%20troops%20to%20detonate%20explosives%20underneath%20them%3F",
+        "correct_answer": "Siege%20of%20Petersburg",
+        "incorrect_answers": [
+          "Siege%20of%20Vicksburg",
+          "Antietam%20Campaign",
+          "Gettysburg%20Campagin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20among%20those%20killed%20in%20the%202010%20Smolensk%2C%20Russia%20plane%20crash%20tragedy%3F",
+        "correct_answer": "The%20Polish%20President",
+        "incorrect_answers": [
+          "Pope%20John%20Paul%20II",
+          "Bang-Ding%20Ow",
+          "Albert%20Putin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "How%20long%20did%20the%20Warsaw%20Uprising%20during%20World%20War%20II%20last%3F",
+        "correct_answer": "63%20Days",
+        "incorrect_answers": [
+          "20%20Days",
+          "55%20Days",
+          "224%20Days"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20Neil%20Armstrong%20and%20Buzz%20Aldrin%20land%20on%20the%20moon%3F",
+        "correct_answer": "1969",
+        "incorrect_answers": [
+          "1965",
+          "1966",
+          "1973"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20infamous%20European%20traitor%20was%20known%20as%20%22the%20last%20person%20to%20enter%20Parliament%20with%20honest%20intentions%22%3F",
+        "correct_answer": "Guy%20Fawkes",
+        "incorrect_answers": [
+          "Robert%20Catesby",
+          "Francis%20Tresham",
+          "Everard%20Digby"
+        ]
+      }
+    ]
+  }
+}

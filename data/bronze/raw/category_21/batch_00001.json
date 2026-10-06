@@ -1,0 +1,606 @@
+{
+  "category_id": 21,
+  "fetched_at": "2026-10-06T10:04:47.373408+00:00",
+  "request": {
+    "amount": 50,
+    "category": 21,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20English%20football%20team%20is%20nicknamed%20%27The%20Tigers%27%3F",
+        "correct_answer": "Hull%20City",
+        "incorrect_answers": [
+          "Cardiff%20City",
+          "Bristol%20City",
+          "Manchester%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20cricketing%20term%20denotes%20a%20batsman%20being%20dismissed%20with%20a%20score%20of%20zero%3F",
+        "correct_answer": "Duck",
+        "incorrect_answers": [
+          "Bye",
+          "Beamer",
+          "Carry"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Shaquille%20O%E2%80%99Neal%20has%20only%20made%20one%20three%20pointer%20in%20his%20career.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20of%20these%20NHL%20teams%20originally%20played%20in%20Atlanta%3F",
+        "correct_answer": "Calgary%20Flames",
+        "incorrect_answers": [
+          "St.%20Louis%20Blues",
+          "Minnesota%20Wild",
+          "Vancouver%20Canucks"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What%20is%20%E2%80%9CThe%20Sport%20of%20Kings%E2%80%9D%3F",
+        "correct_answer": "Horse%20Racing",
+        "incorrect_answers": [
+          "Chess",
+          "Jousting",
+          "Fencing"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The%20Olympics%20tennis%20court%20is%20a%20giant%20green%20screen.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20these%20countries%27%20national%20teams%20qualified%20for%20the%202018%20FIFA%20World%20Cup%20in%20Russia%3F",
+        "correct_answer": "Tunisia",
+        "incorrect_answers": [
+          "United%20States%20of%20America",
+          "Italy",
+          "Netherlands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20year%20did%20Jenson%20Button%20won%20his%20first%20ever%20Formula%20One%20World%20Drivers%27%20Championship%3F",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+          "2010",
+          "2007",
+          "2006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "When%20was%20the%20FC%20Schalke%2004%20founded%3F",
+        "correct_answer": "1904",
+        "incorrect_answers": [
+          "1909",
+          "2008",
+          "1999"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20car%20manufacturer%20won%20the%202017%2024%20Hours%20of%20Le%20Mans%3F",
+        "correct_answer": "Porsche",
+        "incorrect_answers": [
+          "Toyota",
+          "Audi",
+          "Chevrolet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20female%20player%20won%20the%20gold%20medal%20of%20table%20tennis%20singles%20in%202016%20Olympics%20Games%3F",
+        "correct_answer": "DING%20Ning%20%28China%29",
+        "incorrect_answers": [
+          "LI%20Xiaoxia%20%28China%29",
+          "Ai%20FUKUHARA%20%28Japan%29",
+          "Song%20KIM%20%28North%20Korea%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "How%20many%20soccer%20players%20should%20be%20on%20the%20field%20at%20the%20same%20time%3F",
+        "correct_answer": "22",
+        "incorrect_answers": [
+          "20",
+          "24",
+          "26"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In%20golf%2C%20what%20name%20is%20given%20to%20a%20hole%20score%20of%20two%20under%20par%3F",
+        "correct_answer": "Eagle",
+        "incorrect_answers": [
+          "Birdie",
+          "Bogey",
+          "Albatross"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20is%20often%20called%20%22the%20Maestro%22%20in%20the%20men%27s%20tennis%20circuit%3F",
+        "correct_answer": "Roger%20Federer",
+        "incorrect_answers": [
+          "Bill%20Tilden",
+          "Boris%20Becker",
+          "Pete%20Sampras"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "The%20AHL%20affiliate%20team%20of%20the%20Boston%20Bruins%20is%20named%20what%3F",
+        "correct_answer": "Providence%20Bruins",
+        "incorrect_answers": [
+          "New%20Haven%20Bruins",
+          "Cambridge%20Bruins",
+          "Hartford%20Bruins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20city%20did%20the%20Lakers%20represent%20before%20relocating%20to%20Los%20Angeles%3F",
+        "correct_answer": "Minneapolis",
+        "incorrect_answers": [
+          "Philadelphia",
+          "Chicago",
+          "San%20Francisco"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In%20the%202014%20FIFA%20World%20Cup%2C%20what%20was%20the%20final%20score%20in%20the%20match%20Brazil%20-%20Germany%3F",
+        "correct_answer": "1-7",
+        "incorrect_answers": [
+          "1-5",
+          "1-6",
+          "2-6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In%20what%20year%20did%20Steaua%20Bucure%C8%99ti%20win%20the%20European%20Cup%2C%20actual%20UEFA%20Champions%20League%2C%20against%20FC%20Barcelona%3F",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+          "1990",
+          "1982",
+          "1989"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20African%20American%20is%20in%20part%20responsible%20for%20integrating%20%20Major%20League%20baseball%3F",
+        "correct_answer": "Jackie%20Robinson",
+        "incorrect_answers": [
+          "Curt%20Flood",
+          "Roy%20Campanella",
+          "Satchell%20Paige"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "A%20stimpmeter%20measures%20the%20speed%20of%20a%20ball%20over%20what%20surface%3F",
+        "correct_answer": "Golf%20Putting%20Green",
+        "incorrect_answers": [
+          "%20Football%20Pitch",
+          "Cricket%20Outfield",
+          "Pinball%20Table"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20team%20won%20the%202016%20MLS%20Cup%3F",
+        "correct_answer": "Seattle%20Sounders",
+        "incorrect_answers": [
+          "Colorado%20Rapids",
+          "Toronto%20FC",
+          "Montreal%20Impact"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20NFL%20team%20plays%20for%20New%20England%3F",
+        "correct_answer": "Patriots",
+        "incorrect_answers": [
+          "Chiefs",
+          "Dolphins",
+          "49ers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What%20tool%20lends%20it%27s%20name%20to%20a%20last-stone%20advantage%20in%20an%20end%20in%20Curling%3F",
+        "correct_answer": "Hammer",
+        "incorrect_answers": [
+          "Wrench",
+          "Drill",
+          "Screwdriver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20country%20did%20Kabaddi%2C%20a%20contact%20sport%20involving%20tackling%2C%20originate%20from%3F",
+        "correct_answer": "India",
+        "incorrect_answers": [
+          "Australia",
+          "Turkey",
+          "Cambodia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Peyton%20Manning%20retired%20after%20winning%20Super%20Bowl%20XLIX.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20is%20the%20exact%20length%20of%20one%20non-curved%20part%20in%20Lane%201%20of%20an%20Olympic%20Track%3F",
+        "correct_answer": "84.39m",
+        "incorrect_answers": [
+          "100m",
+          "100yd",
+          "109.36yd"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20professional%20wrestler%20fell%20from%20the%20rafters%20to%20his%20death%20during%20a%20live%20Pay-Per-View%20event%20in%201999%3F",
+        "correct_answer": "Owen%20Hart",
+        "incorrect_answers": [
+          "Chris%20Benoit",
+          "Lex%20Luger",
+          "Al%20Snow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "In%20Canadian%20football%2C%20scoring%20a%20rouge%20is%20worth%20how%20many%20points%3F",
+        "correct_answer": "1",
+        "incorrect_answers": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20is%20Tiger%20Woods%27%20all-time%20best%20career%20golf-score%3F",
+        "correct_answer": "61",
+        "incorrect_answers": [
+          "65",
+          "63",
+          "67"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20has%20played%20the%20most%20tournaments%20on%20the%20Brazilian%20national%20soccer%20team%3F",
+        "correct_answer": "Cafu",
+        "incorrect_answers": [
+          "Ronaldo",
+          "Kak%C3%A1",
+          "Roberto%20Carlos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How%20many%20French%20Open%27s%20did%20Bj%C3%B6rn%20Borg%20win%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "4",
+          "9",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "With%20which%20doubles%20partner%20did%20John%20McEnroe%20have%20most%20success%3F",
+        "correct_answer": "Peter%20Fleming",
+        "incorrect_answers": [
+          "Mark%20Woodforde",
+          "Michael%20Stich",
+          "Mary%20Carillo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "The%20Los%20Angeles%20Dodgers%20were%20originally%20from%20what%20U.S.%20city%3F",
+        "correct_answer": "Brooklyn",
+        "incorrect_answers": [
+          "Las%20Vegas",
+          "Boston",
+          "Seattle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Etihad%20Stadium%20is%20the%20home%20stadium%20for%20which%20team%3F",
+        "correct_answer": "Manchester%20City",
+        "incorrect_answers": [
+          "Manchester%20United",
+          "Arsenal",
+          "Blackpool"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20player%20%22kung-fu%20kicked%22%20a%20Crystal%20Palace%20fan%20in%20January%201995%3F",
+        "correct_answer": "Eric%20Cantona",
+        "incorrect_answers": [
+          "David%20Seamen",
+          "Ashley%20Cole",
+          "Mark%20Hughes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "%22Stadium%20of%20Light%22%20is%20the%20home%20stadium%20for%20which%20soccer%20team%3F",
+        "correct_answer": "Sunderland%20FC",
+        "incorrect_answers": [
+          "Barcelona%20FC",
+          "Paris%20Saints-Germain",
+          "Manchester%20United"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20these%20track-and-field%20events%20is%20NOT%20included%20in%20the%20Olympic%20men%27s%20decathlon%3F",
+        "correct_answer": "Hammer%20throw",
+        "incorrect_answers": [
+          "Pole%20vault",
+          "Long%20jump",
+          "Shot%20put"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "How%20many%20points%20did%20LeBron%20James%20score%20in%20his%20first%20NBA%20game%3F",
+        "correct_answer": "25",
+        "incorrect_answers": [
+          "19",
+          "69",
+          "41"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20these%20English%20football%20clubs%20is%20based%20in%20Liverpool%3F",
+        "correct_answer": "Everton",
+        "incorrect_answers": [
+          "West%20Ham%20United",
+          "Crystal%20Palace",
+          "Arsenal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In%20what%20country%20were%20the%202014%20Winter%20Olympics%20held%20in%20the%20town%20of%20Sochi%3F",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+          "South%20Korea",
+          "Norway",
+          "Canada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In%20what%20sport%20is%20a%20%22shuttlecock%22%20used%3F",
+        "correct_answer": "Badminton",
+        "incorrect_answers": [
+          "Table%20Tennis",
+          "Rugby",
+          "Cricket"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "The%20first%20episode%20of%20WWF%20Monday%20Night%20RAW%20aired%20on%20January%2011%2C%201990.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20boxer%20was%20banned%20for%20taking%20a%20bite%20out%20of%20Evander%20Holyfield%27s%20ear%20in%201997%3F",
+        "correct_answer": "Mike%20Tyson",
+        "incorrect_answers": [
+          "Roy%20Jones%20Jr.",
+          "Evander%20Holyfield",
+          "Lennox%20Lewis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In%202016%2C%20who%20won%20the%20Formula%201%20World%20Constructor%27s%20Championship%20for%20the%20third%20time%20in%20a%20row%3F",
+        "correct_answer": "Mercedes-AMG%20Petronas",
+        "incorrect_answers": [
+          "Scuderia%20Ferrari",
+          "McLaren%20Honda",
+          "Red%20Bull%20Racing%20Renault"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20national%20team%20won%20the%202016%20edition%20of%20UEFA%20European%20Championship%3F",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+          "France",
+          "Germany",
+          "England"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20did%20Steven%20Gerrard%20win%20the%20Champions%20League%20with%3F",
+        "correct_answer": "Liverpool",
+        "incorrect_answers": [
+          "Real%20Madrid",
+          "Chelsea",
+          "Man%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20year%20did%20the%20New%20Orleans%20Saints%20win%20the%20Super%20Bowl%3F",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+          "2008",
+          "2009",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20is%20the%20highest%20belt%20you%20can%20get%20in%20Taekwondo%3F",
+        "correct_answer": "Black",
+        "incorrect_answers": [
+          "White",
+          "Red",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20is%20the%20name%20of%20the%20%22tool%22%20used%20to%20hit%20the%20white%20ball%20in%20snooker%20or%20billiards%3F",
+        "correct_answer": "Cue",
+        "incorrect_answers": [
+          "Racquet",
+          "Bat",
+          "Mallet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20won%20the%202015%20Formula%201%20World%20Championship%3F",
+        "correct_answer": "Lewis%20Hamilton",
+        "incorrect_answers": [
+          "Nico%20Rosberg",
+          "Sebastian%20Vettel",
+          "Jenson%20Button"
+        ]
+      }
+    ]
+  }
+}

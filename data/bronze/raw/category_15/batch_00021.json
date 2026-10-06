@@ -1,0 +1,598 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:02:04.862819+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20year%20was%20the%20game%20Team%20Fortress%202%20released%3F",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+          "2009",
+          "2005",
+          "2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20blocks%20in%20%22Minecraft%22%20has%20the%20lowest%20blast%20resistance%3F",
+        "correct_answer": "Sand",
+        "incorrect_answers": [
+          "End%20Stone",
+          "Water",
+          "Wood%20Planks"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Call%20of%20Duty%3A%20Modern%20Warfare%202%2C%20how%20many%20consecutive%20kills%20does%20it%20require%20to%20earn%20the%20%22Tactical%20Nuke%22%20killstreak%3F",
+        "correct_answer": "25",
+        "incorrect_answers": [
+          "20",
+          "30",
+          "35"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20game%20ever%20released%20that%20ran%20on%20the%20Source%20engine%3F",
+        "correct_answer": "Counter-Strike%3A%20Source",
+        "incorrect_answers": [
+          "Half-Life%202",
+          "Garry%27s%20Mod",
+          "Team%20Fortress%202"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20game%20%22Jetpack%20Joyride%22%20was%20created%20by%20%22Redbrick%20Studios%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Overwatch%2C%22%20which%20quote%20does%20the%20hero%20%22McCree%22%20NOT%20say%20upon%20using%20his%20flashbang%20ability%3F",
+        "correct_answer": "%22You%20done%3F%22",
+        "incorrect_answers": [
+          "%22Whoa%20there.%22",
+          "%22Hold%20up%20now.%22",
+          "%22Don%27t%20move.%22"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20RuneScape%2C%20one%20must%20complete%20the%20%22Dragon%20Slayer%22%20quest%20before%20equipping%20Rune%20Platelegs.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Star%20Wars%3A%20Republic%20Commando%20%282005%29%2C%20what%20is%20the%20name%20of%20the%20squad%20that%20you%20play%20as%3F",
+        "correct_answer": "Delta%20Squad",
+        "incorrect_answers": [
+          "Omega%20Squad",
+          "Echo%20Squad",
+          "Alpha%20Squad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20Pok%C3%A9mon%27s%20Base%20Stat%20Total%20does%20not%20change%20when%20it%20evolves%3F",
+        "correct_answer": "Scyther",
+        "incorrect_answers": [
+          "Pikachu",
+          "Sneasel",
+          "Larvesta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20Sonic%20the%20Hedgehog%27s%20original%20human%20girlfriend%3F",
+        "correct_answer": "Madonna",
+        "incorrect_answers": [
+          "Celeste",
+          "Sierra",
+          "Nina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Cook%2C%20Serve%2C%20Delicious%21%2C%20which%20food%20is%20NOT%20included%20in%20the%20game%3F",
+        "correct_answer": "Pie",
+        "incorrect_answers": [
+          "Shish%20Kabob",
+          "Hamburger",
+          "Lasagna"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Ryuji%20Sakamoto%20is%20a%20character%20from%20Final%20Fantasy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20NOT%20an%20official%20game%20in%20Nintendo%27s%20Super%20Smash%20Bros.%20series%3F",
+        "correct_answer": "Super%20Smash%20Bros.%20Crusade",
+        "incorrect_answers": [
+          "Super%20Smash%20Bros.%20Melee",
+          "Super%20Smash%20Bros.%20Brawl",
+          "Super%20Smash%20Bros.%20for%20Nintendo%203DS%20and%20Wii%20U"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Rainbow%20Six%3A%20Siege%22%2C%20which%20of%20the%20following%20operators%20cannot%20breach%20reinforced%20walls%3F",
+        "correct_answer": "Buck",
+        "incorrect_answers": [
+          "Thermite",
+          "Hibana",
+          "Maverick"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20was%20the%20main%20antagonist%20of%20Max%20Payne%203%20%282012%29%3F",
+        "correct_answer": "Victor%20Branco",
+        "incorrect_answers": [
+          "%C3%81lvaro%20Neves",
+          "Armando%20Becker",
+          "Milo%20Rego"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "According%20to%20Overwatch%27s%20lore%2C%20who%20was%20once%20a%20member%20of%20the%20Deadlock%20Gang%3F",
+        "correct_answer": "McCree",
+        "incorrect_answers": [
+          "Roadhog",
+          "Soldier%2076",
+          "Junkrat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20one%20of%20Dracula%27s%20relics%20found%20in%20the%20video%20game%20%22Castlevania%20II%3A%20Simon%27s%20Quest%22%3F",
+        "correct_answer": "The%20Tooth",
+        "incorrect_answers": [
+          "The%20Nail",
+          "The%20Eyeball",
+          "The%20Rib%20Bone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Prior%20to%20his%20appearance%20in%20Super%20Smash%20Bros.%20Ultimate%2C%20What%20was%20King%20K.%20Rool%27s%20last%20appearance%20in%20any%20game%3F",
+        "correct_answer": "Mario%20Super%20Sluggers",
+        "incorrect_answers": [
+          "Donkey%20Kong%2064",
+          "Donkey%20Kong%20Country%203",
+          "Donkey%20Kong%3A%20King%20Of%20Swing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20war%20is%20Call%20Of%20Duty%3A%20Black%20Ops%20based%20on%3F",
+        "correct_answer": "Cold%20War",
+        "incorrect_answers": [
+          "WW3",
+          "Vietnam",
+          "WW1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Just%20Cause%202%20was%20mainly%20set%20in%20what%20fictional%20Southeast%20Asian%20island%20country%3F",
+        "correct_answer": "Panau",
+        "incorrect_answers": [
+          "Davao",
+          "Macau",
+          "Palau"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20different%20notes%20is%20the%20tune%2C%20%22Song%20of%20Healing%22%2C%20comprised%20of%20in%20%22The%20Legend%20of%20Zelda%3A%20Majora%27s%20Mask%22%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "4",
+          "1",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Final%20Fantasy%20XV%20released%3F",
+        "correct_answer": "November%2029th%2C%202016",
+        "incorrect_answers": [
+          "October%2025th%2C%202016",
+          "December%2031th%2C%202016",
+          "November%2030th%2C%202016"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20were%20achivements%20added%20to%20Steam%3F",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+          "2008",
+          "2009",
+          "2006"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Peter%20Molyneux%20was%20the%20founder%20of%20Bullfrog%20Productions.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20pop%20singer%20was%20brought%20in%20by%20SEGA%20to%20produce%20the%20music%20for%20%22Sonic%20the%20Hedgehog%203%22%3F",
+        "correct_answer": "Michael%20Jackson%20",
+        "incorrect_answers": [
+          "Prince",
+          "George%20Michael",
+          "Vanilla%20Ice%20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "TF2%3A%20The%20Heavy%27s%20voice%20actor%2C%20Gary%20Schwartz%2C%20voices%20the%20Demoman%20as%20well%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%20is%20from%20%22Splatoon%22%3F",
+        "correct_answer": "Marie",
+        "incorrect_answers": [
+          "Cyrus",
+          "Palutena",
+          "Shulk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Kirby%20game%20first%20introduced%20Copy%20Abilities%3F",
+        "correct_answer": "Kirby%27s%20Adventure",
+        "incorrect_answers": [
+          "Kirby%20Super%20Star",
+          "Kirby%27s%20Dream%20Land%202",
+          "Kirby%27s%20Dream%20Land"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Undertale%22%2C%20who%20was%20Mettaton%27s%20creator%3F",
+        "correct_answer": "Alphys",
+        "incorrect_answers": [
+          "Undyne",
+          "Sans",
+          "Asgore"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20in%20%22The%20Stanley%20Parable%22%3F",
+        "correct_answer": "Stanley",
+        "incorrect_answers": [
+          "The%20Adventure%20Line",
+          "The%20Narrator",
+          "The%20Boss"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Terraria%2C%20what%20does%20the%20Wall%20of%20Flesh%20not%20drop%20upon%20defeat%3F",
+        "correct_answer": "Picksaw",
+        "incorrect_answers": [
+          "Pwnhammer",
+          "Breaker%20Blade",
+          "Laser%20Rifle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Given%20that%20all%20party%20members%20are%20maxed%2C%20who%20is%20the%20fastest%20party%20member%20in%20Super%20Mario%20RPG%3A%20Legend%20of%20The%20Seven%20Stars%3F",
+        "correct_answer": "Geno",
+        "incorrect_answers": [
+          "Mario",
+          "Bowser",
+          "Peach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20game%20franchises%20were%20made%20by%20Namco%3F",
+        "correct_answer": "Tekken",
+        "incorrect_answers": [
+          "Street%20Fighter",
+          "Mortal%20Kombat",
+          "Dragon%20Quest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Dead%20by%20Daylight%2C%20which%20killer%20perk%20applies%20the%20mangled%20effect%3F",
+        "correct_answer": "Sloppy%20Butcher",
+        "incorrect_answers": [
+          "Knock%20Out",
+          "Thanatophobia",
+          "Enduring"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Nintendo%27s%20Luigi%20was%20originally%20just%20called%20Green%20Mario%3F",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20Maximum%20Level%20in%20World%20of%20Warcraft%3A%20Battle%20for%20Azeroth%3F",
+        "correct_answer": "120",
+        "incorrect_answers": [
+          "100",
+          "90",
+          "150"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20top-down%20online%20RPG%20%22Space%20Station%2013%22%20released%3F",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+          "2000",
+          "2010",
+          "2006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Banjo-Kazooie%22%20originally%20started%20its%20development%20as%20a%20totally%20different%20game%20for%20the%20SNES%20under%20which%20codename%3F",
+        "correct_answer": "Project%20Dream",
+        "incorrect_answers": [
+          "Project%20Ukulele",
+          "Project%20Land",
+          "Project%20BK"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Overwatch%20character%20says%20the%20line%20%22Heroes%20never%20die%21%22%3F",
+        "correct_answer": "Mercy",
+        "incorrect_answers": [
+          "Reaper",
+          "Sonic",
+          "Ana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20the%20first%20eSports%20competition%3F",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+          "1989",
+          "1990",
+          "2000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20%22Team%20Fortress%202%22%20update%2C%20in%20which%20it%20became%20Free-to-play%3F",
+        "correct_answer": "%C3%9Cber%20Update",
+        "incorrect_answers": [
+          "Pyromania%20Update",
+          "Mann-Conomy%20Update",
+          "Engineer%20Update"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Team%20Fortress%202%20canon%2C%20what%20did%20Shakespearicles%20NOT%20invent%3F",
+        "correct_answer": "Stairs",
+        "incorrect_answers": [
+          "Two-Story%20Building",
+          "Rocket%20Launcher",
+          "Stage%20Play"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20summon%20in%20the%20game%20%22South%20Park%3A%20The%20Stick%20of%20Truth%22%3F",
+        "correct_answer": "Towelie",
+        "incorrect_answers": [
+          "Jesus",
+          "Mr.%20Hankey",
+          "Mr.%20Slave"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20shotgun%20appears%20in%20every%20numbered%20Resident%20Evil%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20of%20the%20game%20Half-Life%3A%20Opposing%20Force%3F",
+        "correct_answer": "Adrian%20Shephard",
+        "incorrect_answers": [
+          "Gordon%20Freeman",
+          "Alyx%20Vance",
+          "Barney%20Calhoun"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20FIRST%20Valve%20game%20to%20have%20VR%3F",
+        "correct_answer": "The%20Lab",
+        "incorrect_answers": [
+          "Dota%202",
+          "Destinations",
+          "Half-Life%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20alternate%20timeline%20in%20Mortal%20Kombat%2C%20which%20character%20was%20the%20one%20to%20slaughter%20the%20Shirai%20Ryu%20clan%3F",
+        "correct_answer": "Quan%20Chi",
+        "incorrect_answers": [
+          "Sub-Zero",
+          "Sektor",
+          "Shang%20Tsung"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "During%20pre-production%20of%20%22Super%20Mario%20Bros.%22%2C%20Mario%20originally%20was%20meant%20to%20shoot%20bullets.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20release%20date%20of%20%22Grand%20Theft%20Auto%20IV%22%3F",
+        "correct_answer": "April%2029%2C%202008",
+        "incorrect_answers": [
+          "May%2021%2C%202009",
+          "June%2022%2C%202010",
+          "July%2028%2C%202008"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Battleblock%20Theater%2C%20what%20was%20the%20name%20of%20the%20voice%20actor%20who%20voiced%20the%20narrator%3F",
+        "correct_answer": "Will%20Stamper",
+        "incorrect_answers": [
+          "Steve%20Blum",
+          "Richard%20Epcar",
+          "Yuri%20Lowenthal"
+        ]
+      }
+    ]
+  }
+}

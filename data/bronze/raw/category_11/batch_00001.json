@@ -1,0 +1,604 @@
+{
+  "category_id": 11,
+  "fetched_at": "2026-10-06T09:57:54.817530+00:00",
+  "request": {
+    "amount": 50,
+    "category": 11,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20%22Jurassic%20Park%22%20universe%2C%20what%20was%20the%20first%20dinosaur%20cloned%20by%20InGen%20in%201986%3F",
+        "correct_answer": "Velociraptor",
+        "incorrect_answers": [
+          "Triceratops",
+          "Troodon",
+          "Brachiosaurus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20James%20Dean%27s%20character%20in%20the%201955%20movie%20%22Rebel%20Without%20a%20Cause%22%3F",
+        "correct_answer": "Jim%20Stark",
+        "incorrect_answers": [
+          "Ned%20Stark",
+          "Jim%20Kane",
+          "Frank%20Stark"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20first%20superhero%20film%20James%20Gunn%20was%20involved%20with%3F",
+        "correct_answer": "The%20Specials",
+        "incorrect_answers": [
+          "Super",
+          "Guardians%20of%20the%20Galaxy",
+          "Brightburn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20town%20is%20the%20setting%20for%20the%20Disney%20movie%20The%20Love%20Bug%20%281968%29%3F",
+        "correct_answer": "San%20Francisco",
+        "incorrect_answers": [
+          "Los%20Angeles",
+          "Sacramento",
+          "San%20Jose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20Super%20Mario%20Bros.%20Movie%20%282023%29%2C%20who%20plays%20Toad%3F",
+        "correct_answer": "Keegan-Michael%20Key",
+        "incorrect_answers": [
+          "Seth%20Rogan",
+          "Charlie%20Day",
+          "Jack%20Black"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20name%20did%20Tom%20Hanks%20give%20to%20his%20volleyball%20companion%20in%20the%20film%20%60Cast%20Away%60%3F",
+        "correct_answer": "Wilson",
+        "incorrect_answers": [
+          "Friday",
+          "Jones",
+          "Billy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "This%20movie%20contains%20the%20quote%2C%20%22Nobody%20puts%20Baby%20in%20a%20corner.%22",
+        "correct_answer": "Dirty%20Dancing",
+        "incorrect_answers": [
+          "Three%20Men%20and%20a%20Baby",
+          "Ferris%20Bueller%27s%20Day%20Off",
+          "Pretty%20in%20Pink"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20star%20actor%20was%20in%20%22Top%20Gun%22%2C%20%22Jerry%20Maguire%22%20and%20%22Born%20on%20the%20Fourth%20of%20July%22%3F",
+        "correct_answer": "Tom%20Cruise",
+        "incorrect_answers": [
+          "Kelly%20McGillis",
+          "John%20Travolta",
+          "George%20Clooney"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20%22E.T.%20the%20Extra-Terrestrial%22%20%281982%29%3F",
+        "correct_answer": "Steven%20Spielberg",
+        "incorrect_answers": [
+          "Stanley%20Kubrick",
+          "James%20Cameron",
+          "Tim%20Burton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20starred%20in%20the%20film%201973%20movie%20%22Enter%20The%20Dragon%22%3F",
+        "correct_answer": "Bruce%20Lee",
+        "incorrect_answers": [
+          "Jackie%20Chan",
+          "Jet%20Li",
+          "%20Yun-Fat%20Chow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "When%20was%20the%20movie%20%27Con%20Air%27%20released%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1985",
+          "1999",
+          "1990"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Mulan%20%281998%29%2C%20who%20is%20the%20leader%20of%20the%20Huns%3F",
+        "correct_answer": "Shan%20Yu",
+        "incorrect_answers": [
+          "Chien-Po",
+          "Li%20Shang",
+          "Fa%20Zhou"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%22Blade%20Runner%22%2C%20what%20is%20the%20term%20used%20for%20human-like%20androids%20%3F",
+        "correct_answer": "Replicants",
+        "incorrect_answers": [
+          "Cylons",
+          "Synthetics",
+          "Skinjobs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20Queen%20song%20plays%20during%20the%20final%20fight%20scene%20of%20the%20film%20%22Hardcore%20Henry%22%3F",
+        "correct_answer": "Don%27t%20Stop%20Me%20Now",
+        "incorrect_answers": [
+          "Brighton%20Rock",
+          "Another%20Bites%20the%20Dust",
+          "We%20Will%20Rock%20You"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201971%20film%20%22Willy%20Wonka%20%26%20the%20Chocolate%20Factory%22%2C%20who%20played%20Willy%20Wonka%3F",
+        "correct_answer": "Gene%20Wilder",
+        "incorrect_answers": [
+          "Shia%20LeBouf",
+          "Peter%20Ostrum",
+          "Johnny%20Depp"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20what%20year%20did%20Clint%20Eastwood%20star%20as%20Inspector%20Harry%20Callahan%20in%20the%20film%20%22Dirty%20Harry%22%3F",
+        "correct_answer": "1971",
+        "incorrect_answers": [
+          "1975",
+          "1983",
+          "1969"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%201939%20movie%20%22The%20Wizard%20of%20Oz%22%20contained%20a%20horse%20that%20changed%20color%2C%20what%20material%20did%20they%20use%20to%20achieve%20this%20effect%3F",
+        "correct_answer": "Gelatin",
+        "incorrect_answers": [
+          "Dye",
+          "Paint",
+          "CGI%20Effect"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20film%20Mad%20Max%3A%20Fury%20Road%20features%20the%20Dies%20Irae%20%20from%20which%20composer%27s%20requiem%3F",
+        "correct_answer": "Verdi",
+        "incorrect_answers": [
+          "Mozart",
+          "Berlioz",
+          "Brahms"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20films%20was%20NOT%20directed%20by%20Quentin%20Tarantino%3F",
+        "correct_answer": "From%20Dusk%20till%20Dawn",
+        "incorrect_answers": [
+          "Jackie%20Brown",
+          "Pulp%20Fiction",
+          "Reservoir%20Dogs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20mutated%20animals%20act%20as%20monsters%20in%20the%20movie%20%27Night%20of%20the%20Lepus%27%3F",
+        "correct_answer": "Rabbits",
+        "incorrect_answers": [
+          "Dogs",
+          "Rats",
+          "Bats"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20movies%20was%20not%20based%20on%20a%20book%3F",
+        "correct_answer": "Citizen%20Kane",
+        "incorrect_answers": [
+          "The%20Godfather",
+          "Forrest%20Gump",
+          "Jurassic%20Park"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20breed%20of%20dog%20was%20Marley%20in%20the%20film%20%22Marley%20%26%20Me%22%20%282008%29%3F",
+        "correct_answer": "Labrador%20Retriever",
+        "incorrect_answers": [
+          "Golden%20Retriever",
+          "Dalmatian",
+          "Shiba%20Inu"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "%22Foodfight%21%22%20earned%20less%20than%20%2480%2C000%20at%20box%20office.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20American%20actor%20directed%20and%20co-starred%20alongside%20Emily%20Blunt%20in%202018%27s%20horror%20film%20%22A%20Quiet%20Place%22%3F",
+        "correct_answer": "John%20Krasinski",
+        "incorrect_answers": [
+          "Keanu%20Reeves",
+          "Willem%20Dafoe",
+          "Josh%20Brolin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Star%20Wars%2C%20what%27s%20the%20name%20of%20the%20new%20Government%20created%20after%20the%20defeat%20of%20the%20Galactic%20Empire%3F",
+        "correct_answer": "The%20New%20Republic",
+        "incorrect_answers": [
+          "The%20Rebel%20Alliance",
+          "The%20Crimson%20Dawn",
+          "The%20First%20Order"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201964%20film%20%22Zulu%22%2C%20what%20song%20does%20the%20British%20Army%20company%20sing%20before%20the%20final%20battle%3F",
+        "correct_answer": "Men%20of%20Harlech",
+        "incorrect_answers": [
+          "Scotland%20the%20Brave",
+          "Colonel%20Bogey%20March",
+          "The%20British%20Grenadiers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201979%20British%20film%20%22Quadrophenia%22%20what%20is%20the%20name%20of%20the%20main%20protagonist%3F",
+        "correct_answer": "Jimmy%20Cooper",
+        "incorrect_answers": [
+          "Pete%20Townshend",
+          "Franc%20Roddam",
+          "Archie%20Bunker"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20movie%20%22The%20Rocky%20Horror%20Picture%20Show%22%20%281975%29%20opens%20with%20giant%20floating%20lips%20singing%20the%20opening%20song",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20Voices%20the%20Devil%20on%20Devil%27s%20Flight%20in%20Final%20Destination%203%3F",
+        "correct_answer": "Tony%20Todd",
+        "incorrect_answers": [
+          "Wendy%20Christensen",
+          "Ian%20McKinley",
+          "Kevin%20Fischer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Avengers%3A%20Infinity%20War%2C%20the%20Reality%20Stone%20%28aka%20the%20Aether%29%20was%20kept%20under%20safe%20possession%20by%20who%3F",
+        "correct_answer": "The%20Collector",
+        "incorrect_answers": [
+          "Doctor%20Strange",
+          "The%20Grandmaster",
+          "Scarlet%20Witch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20Marvel%20superhero%20did%20Chris%20Evans%20play%20prior%20to%20his%20role%20as%20Captain%20America%3F",
+        "correct_answer": "Human%20Torch",
+        "incorrect_answers": [
+          "Cyclops",
+          "Iceman",
+          "Daredevil"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Alfred%20Hitchcock%27s%20film%20%27Psycho%27%20it%20is%20said%20he%20used%20chocolate%20syrup%20to%20simulate%20the%20blood%20in%20the%20famous%20shower%20scene%20from%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20oldest%20Disney%20film%3F",
+        "correct_answer": "Snow%20White%20and%20the%20Seven%20Dwarfs",
+        "incorrect_answers": [
+          "Pinocchio",
+          "Dumbo",
+          "Fantasia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20year%20did%20the%20movie%20%22Napoleon%20Dynamite%22%20come%20out%3F",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "2002",
+          "2003",
+          "2005"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20weapon%20Clint%20Eastwood%20uses%20in%20%22Dirty%20Harry%22%20was%20a%20.44%20Automag.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Big%20Hero%206%2C%20what%20fictional%20city%20is%20the%20Big%20Hero%206%20from%3F",
+        "correct_answer": "San%20Fransokyo",
+        "incorrect_answers": [
+          "San%20Tokyo",
+          "Tokysisco",
+          "Sankyo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "How%20old%20was%20Laurence%20Fishburne%20when%20Francis%20Ford%20Coppola%20cast%20him%20in%20Apocalypse%20Now%20%281979%29%3F%20",
+        "correct_answer": "14",
+        "incorrect_answers": [
+          "16",
+          "18",
+          "20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Big%20Hero%206%2C%20what%20were%20Baymax%27s%20motions%20modeled%20after%3F",
+        "correct_answer": "Baby%20penguins",
+        "incorrect_answers": [
+          "Baby%20monkeys",
+          "Baby%20ostriches",
+          "Baby%20bears"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20plays%20%22Bruce%20Wayne%22%20in%20the%202008%20movie%20%22The%20Dark%20Knight%22%3F",
+        "correct_answer": "Christian%20Bale",
+        "incorrect_answers": [
+          "Michael%20Caine",
+          "Ron%20Dean",
+          "Heath%20Ledger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20films%20was%20directed%20by%20Ivan%20Reitman%2C%20written%20by%20Gary%20Ross%2C%20featured%20Kevin%20Kline%2C%20and%20was%20released%20in%201993%3F",
+        "correct_answer": "Dave",
+        "incorrect_answers": [
+          "John",
+          "Will",
+          "Carl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Brendan%20Fraser%20starred%20in%20the%20following%20movies%2C%20except%20which%20one%3F",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+          "Monkeybone",
+          "Encino%20Man",
+          "Mrs.%20Winterbourne"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Leonardo%20DiCaprio%20won%20an%20Oscar%20for%20Best%20Actor%20in%202004%27s%20%22The%20Aviator%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20is%20revealed%20to%20be%20the%20villain%20at%20the%20end%20of%20the%20first%20live%20action%20Scooby%20Doo%20movie%3F",
+        "correct_answer": "Scrappy%20Doo",
+        "incorrect_answers": [
+          "Old%20Man%20Mason",
+          "The%20Local%20News%20Team",
+          "Fred"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20%22Jurassic%20Park%22%20universe%2C%20when%20did%20%22Jurassic%20Park%3A%20San%20Diego%22%20begin%20construction%3F",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+          "1988",
+          "1986",
+          "1993"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20character%20in%20the%20Winnie%20the%20Pooh%20films%20was%20added%20by%20Disney%20and%20does%20not%20appear%20in%20the%20original%20books%3F",
+        "correct_answer": "Gopher",
+        "incorrect_answers": [
+          "Tigger",
+          "Heffalumps",
+          "Rabbit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20plays%20protagonist%20Ethan%20Hunt%20in%20the%20%22Mission%3A%20Impossible%22%20film-series%3F",
+        "correct_answer": "Tom%20Cruise",
+        "incorrect_answers": [
+          "Johnny%20Depp",
+          "Sean%20Connery",
+          "Pierce%20Brosnan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20year%20did%20the%20James%20Cameron%20film%20%22Titanic%22%20come%20out%20in%20theaters%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1996",
+          "1998",
+          "1999"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20species%20of%20the%20%22Predator%22%20in%20the%201987%20movie%20%22Predator%22%3F",
+        "correct_answer": "Yautja",
+        "incorrect_answers": [
+          "Xenomorph",
+          "Praetorian",
+          "Phocrex"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "According%20to%20the%20Star%20Wars%20lore%2C%20what%20is%20Han%20Solo%27s%20home%20planet%3F",
+        "correct_answer": "Corellia",
+        "incorrect_answers": [
+          "Tatooine",
+          "Naboo",
+          "Coruscant"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actor%20plays%20the%20character%20%22Tommy%20Jarvis%22%20in%20%22Friday%20the%2013th%3A%20The%20Final%20Chapter%22%20%281984%29%3F",
+        "correct_answer": "Corey%20Feldman",
+        "incorrect_answers": [
+          "Macaulay%20Culkin",
+          "Mel%20Gibson",
+          "Mark%20Hamill"
+        ]
+      }
+    ]
+  }
+}

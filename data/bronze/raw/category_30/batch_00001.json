@@ -1,0 +1,482 @@
+{
+  "category_id": 30,
+  "fetched_at": "2026-10-06T10:08:37.523359+00:00",
+  "request": {
+    "amount": 40,
+    "category": 30,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Who%20patented%20a%20steam%20engine%20that%20produced%20continuous%20rotary%20motion%3F",
+        "correct_answer": "James%20Watt",
+        "incorrect_answers": [
+          "Nikola%20Tesla",
+          "Albert%20Einstein",
+          "Alessandro%20Volta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20is%20the%20%22Mitsubishi%20Wakamaru%22%3F",
+        "correct_answer": "A%20robot",
+        "incorrect_answers": [
+          "A%20pickup%20truck",
+          "An%20motorcycle",
+          "A%20motorboat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Out%20of%20all%20of%20the%20NASA%20Space%20Shuttles%2C%20which%202%20have%20been%20destroyed%20in%20disasters%3F",
+        "correct_answer": "Challenger%20and%20Columbia",
+        "incorrect_answers": [
+          "Enterprise%20and%20Atlantis",
+          "Discovery%20and%20Endeavour",
+          "None%20of%20the%20Above"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "The%20term%20%22battery%22%20to%20describe%20an%20electrical%20storage%20device%20was%20coined%20by%3F",
+        "correct_answer": "Benjamin%20Franklin",
+        "incorrect_answers": [
+          "Nikola%20Tesla",
+          "Luigi%20Galvani",
+          "%20Alessandro%20Volta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20company%20manufactured%20the%20iconic%20TR-808%20drum%20machine%3F",
+        "correct_answer": "Roland",
+        "incorrect_answers": [
+          "Technics",
+          "Korg",
+          "Casio"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "Microphones%20can%20be%20used%20not%20only%20to%20pick%20up%20sound%2C%20but%20also%20to%20project%20sound%20similar%20to%20a%20speaker.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "When%20was%20the%20DVD%20invented%3F",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+          "2000",
+          "1990",
+          "1980"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20of%20the%20following%20cellular%20device%20companies%20is%20NOT%20headquartered%20in%20Asia%3F",
+        "correct_answer": "Nokia",
+        "incorrect_answers": [
+          "LG%20Electronics",
+          "Samsung",
+          "HTC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Mobile%20hardware%20and%20software%20company%20%22Blackberry%20Limited%22%20was%20founded%20in%20which%20country%3F",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+          "Norway",
+          "United%20States%20of%20America",
+          "United%20Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20was%20the%20first%20Infinity%20Coaster%20in%20the%20world%20and%20where%20is%20it%20located%3F",
+        "correct_answer": "The%20Smiler%2C%20Alton%20Towers%2C%20UK",
+        "incorrect_answers": [
+          "Madagascar%20Mad%20Pursuit%2C%20Motiongate%20Dubai%2C%20UAE",
+          "Gold%20Rush%2C%20Slagharen%2C%20Netherlands%20",
+          "Monster%2C%20Adventureland%20Altoona%2C%20USA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20buzzword%20did%20Apple%20Inc.%20use%20to%20describe%20their%20removal%20of%20the%20headphone%20jack%3F",
+        "correct_answer": "Courage",
+        "incorrect_answers": [
+          "Innovation",
+          "Revolution",
+          "Bravery"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "When%20was%20the%20compact%20disc%20player%20first%20released%3F",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+          "1983",
+          "1981",
+          "1980"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "The%20communication%20protocol%20NFC%20stands%20for%20Near-Field%20Control.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20round%20does%20a%20WW2%20M1%20Garand%20fire%3F",
+        "correct_answer": ".30-06",
+        "incorrect_answers": [
+          ".308",
+          "7.62",
+          "7.62x51mm"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20are%20the%20base%20station%20trackers%20used%20for%20the%20HTC%20Vive%20called%3F",
+        "correct_answer": "Lighthouse",
+        "incorrect_answers": [
+          "Motion",
+          "Constellation%20",
+          "Trackers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20of%20the%20following%20is%20used%20to%20measure%20blood%20pressure%3F",
+        "correct_answer": "Sphygmomanometer",
+        "incorrect_answers": [
+          "Barometer",
+          "Ruler",
+          "Haemoerythrometer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20virtual%20assistant%20is%20developed%20by%20Amazon%3F",
+        "correct_answer": "Alexa",
+        "incorrect_answers": [
+          "Google%20Assistant",
+          "Siri",
+          "Cortana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20gaming%20console%20is%20developed%20by%20Sony%3F",
+        "correct_answer": "PlayStation",
+        "incorrect_answers": [
+          "Xbox",
+          "Atari",
+          "Nintendo%20Switch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20company%20designed%20the%20%22Betamax%22%20video%20cassette%20format%3F",
+        "correct_answer": "Sony",
+        "incorrect_answers": [
+          "Panasonic",
+          "LG",
+          "Fujitsu"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "iRobot%27s%20revolutionary%20floor-cleaning%20vacuum%2C%20the%20Roomba%2C%20was%20first%20invented%20in%202002",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "This%20former%20Air%20Force%20and%20NASA%20engineer%20is%20the%20inventor%20of%20the%20Super%20Soaker%20water%20gun.",
+        "correct_answer": "Lonnie%20Johnson",
+        "incorrect_answers": [
+          "Bruce%20D%27Andrade",
+          "Frances%20Northcutt",
+          "Ashitey%20Trebi-Ollennu"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "The%20Western%20Electric%20Model%20500%20telephone%20uses%20tone%20dialing%20to%20dial%20phone%20numbers.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20of%20the%20following%20is%20the%20standard%20THX%20subwoofer%20crossover%20frequency%3F",
+        "correct_answer": "80%20Hz",
+        "incorrect_answers": [
+          "70%20Hz",
+          "90%20Hz",
+          "100%20Hz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20company%20developed%20the%20Hololens%3F",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+          "HTC",
+          "Oculus",
+          "Tobii"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "When%20was%20the%20Tamagotchi%20digital%20pet%20released%3F",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+          "1989",
+          "1992",
+          "1990"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20type%20of%20computer%20mouse%3F",
+        "correct_answer": "Smoothie%20mouse",
+        "incorrect_answers": [
+          "Drum%20mouse",
+          "Trackball%20mouse",
+          "Optical%20mouse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20round%20is%20a%20classic%20AK-47%20chambered%20in%3F",
+        "correct_answer": "7.62x39mm",
+        "incorrect_answers": [
+          "7.62x51mm",
+          "5.56x45mm",
+          "5.45x39mm"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Gadgets",
+        "question": "During%20the%20%20early%20parts%20of%20the%20Vietnam%20War%20the%20M16%20had%20a%20record%20for%20having%20bad%20reliability",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "When%20was%20the%20iPhone%20released%3F",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+          "2005",
+          "2006",
+          "2004"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20is%20the%20SI%20unit%20for%20resistance%3F",
+        "correct_answer": "Ohms",
+        "incorrect_answers": [
+          "Ampheres",
+          "Siemens",
+          "Volts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20is%20the%20most%20significant%20side%20venture%20the%20popular%20firearms%20company%2C%20Remington%2C%20has%20pursued%3F",
+        "correct_answer": "Typewriters",
+        "incorrect_answers": [
+          "Blenders",
+          "Ceiling%20Fans",
+          "Door%20Knobs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20is%20the%20name%20of%20a%20simple%20machine%20that%20is%20made%20up%20of%20a%20stiff%20arm%20that%20can%20move%20freely%20around%20a%20fixed%20point%3F",
+        "correct_answer": "Lever",
+        "incorrect_answers": [
+          "Wedge",
+          "Screw",
+          "Pulley"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "When%20did%20the%20CD%20begin%20to%20appear%20on%20the%20consumer%20market%3F",
+        "correct_answer": "1982",
+        "incorrect_answers": [
+          "1992",
+          "1972",
+          "1962"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "The%20iPhone%203G%20was%20the%20second%20iPhone%20generation.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20does%20GPS%20stand%20for%3F",
+        "correct_answer": "Global%20Positioning%20System",
+        "incorrect_answers": [
+          "Global%20Personal%20System",
+          "General%20Positioning%20System",
+          "General%20Personal%20Satellite"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "Apple%27s%20Voice%20Assistant%2C%20Siri%2C%20debuted%20on%20which%20iPhone%3F",
+        "correct_answer": "iPhone%204S",
+        "incorrect_answers": [
+          "iPhone%206S",
+          "iPhone%203GS",
+          "iPhone%205S"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Gadgets",
+        "question": "What%20does%20SSD%20stand%20for%20in%20the%20context%20of%20computer%20storage%3F",
+        "correct_answer": "%20Solid%20State%20Drive",
+        "incorrect_answers": [
+          "Software%20Storage%20Device",
+          "Super%20Speed%20Data",
+          "Secure%20System%20Disk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Gadgets",
+        "question": "Who%20built%20the%20first%20laser%3F",
+        "correct_answer": "Theodore%20Harold%20Maiman",
+        "incorrect_answers": [
+          "Nikola%20Tesla",
+          "Jack%20Kilby",
+          "Edith%20Clarke"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "How%20does%20a%20centrifuge%20separate%C2%A0heavy%20and%20light%20particles%3F",
+        "correct_answer": "Spinning",
+        "incorrect_answers": [
+          "Vibrating",
+          "Sifting",
+          "Ionizing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Gadgets",
+        "question": "In%20what%20year%20was%20the%20Oculus%20Rift%20revealed%20to%20the%20public%20through%20a%20Kickstarter%20campaign%3F",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2010",
+          "2011",
+          "2013"
+        ]
+      }
+    ]
+  }
+}

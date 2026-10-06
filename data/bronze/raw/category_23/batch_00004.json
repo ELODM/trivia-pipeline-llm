@@ -1,0 +1,602 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:26.518844+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20L.%20L.%20Zamenhof%20first%20publish%20%22Unua%20Libro%22%2C%20the%20first%20publication%20describing%20his%20international%20language%20Esperanto%3F",
+        "correct_answer": "1887",
+        "incorrect_answers": [
+          "1897",
+          "1905",
+          "1915"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "United%20States%20President%20Ronald%20Reagan%20was%20the%20first%20president%20to%20appoint%20a%20woman%20to%20the%20Supreme%20Court.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Sargon%20II%2C%20a%20king%20of%20the%20Neo-Assyrian%20Empire%2C%20was%20a%20direct%20descendant%20of%20Sargon%20of%20Akkad.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20coat%20of%20arms%20of%20the%20King%20of%20Spain%20contains%20the%20arms%20from%20the%20monarchs%20of%20Castille%2C%20Leon%2C%20Aragon%20and%20which%20other%20former%20Iberian%20kingdom%3F",
+        "correct_answer": "Navarre",
+        "incorrect_answers": [
+          "Galicia",
+          "Granada",
+          "Catalonia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20which%20war%20did%20the%20atomic%20bombings%20of%20Hiroshima%20and%20Nagasaki%20occur%3F",
+        "correct_answer": "World%20War%20II",
+        "incorrect_answers": [
+          "World%20War%20I",
+          "Russo-Japanese%20War",
+          "First%20Sino-Japanese%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20German%20field%20marshal%20was%20known%20as%20the%20%60Desert%20Fox%60%3F",
+        "correct_answer": "Erwin%20Rommel",
+        "incorrect_answers": [
+          "Ernst%20Busch",
+          "Wolfram%20Freiherr%20von%20Richthofen",
+          "Wilhelm%20List"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When%20was%20Google%20founded%3F",
+        "correct_answer": "September%204%2C%201998",
+        "incorrect_answers": [
+          "October%209%2C%201997",
+          "December%2012%2C%201989",
+          "Feburary%207th%2C%202000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20name%20given%20to%20the%20series%20of%20confrontations%20between%20the%20UK%20and%20Iceland%20over%20North%20Atlantic%20fishing%20rights%3F",
+        "correct_answer": "The%20Cod%20Wars",
+        "incorrect_answers": [
+          "The%20Lobster%20Wars",
+          "The%20Halibut%20Wars",
+          "The%20Mackerel%20Wars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20relation%20to%20the%20British%20Occupation%20in%20Ireland%2C%20what%20does%20the%20IRA%20stand%20for.",
+        "correct_answer": "Irish%20Republican%20Army",
+        "incorrect_answers": [
+          "Irish%20Rebel%20Alliance",
+          "Irish%20Reformation%20Army",
+          "Irish-Royal%20Alliance"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Assyrian%20king%20Sennacherib%27s%20destruction%20of%20Babylon%20in%20689%20BCE%20was%20viewed%20as%20a%20triumph%20by%20other%20Assyrian%20citizens.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20of%20these%20countries%20remained%20neutral%20during%20World%20War%20II%3F",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+          "United%20Kingdom",
+          "France",
+          "Italy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20is%20not%20in%20the%20Indo-European%20language%20family%3F",
+        "correct_answer": "Finnish",
+        "incorrect_answers": [
+          "English",
+          "Hindi",
+          "Russian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "From%201940%20to%201942%2C%20what%20was%20the%20capital-in-exile%20of%20Free%20France%20%3F",
+        "correct_answer": "Brazzaville",
+        "incorrect_answers": [
+          "Algiers",
+          "Paris",
+          "Tunis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20battle%20was%20the%20longest%20in%20World%20War%20I%2C%20lasting%20approximately%20303%20days%3F",
+        "correct_answer": "Battle%20of%20Verdun%20",
+        "incorrect_answers": [
+          "Battle%20of%20Passchendaele",
+          "Battle%20of%20Amiens",
+          "Battle%20of%20Stalingrad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20catastrophic%20nuclear%20accident%20that%20occurred%20in%20Ukraine%20in%201986%20occurred%20at%20which%20power%20plant%3F",
+        "correct_answer": "Chernobyl",
+        "incorrect_answers": [
+          "Ignalina",
+          "Mayak",
+          "Kursk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20code%20name%20for%20the%20German%20invasion%20of%20the%20Soviet%20Union%20in%20WW2%3F",
+        "correct_answer": "Operation%20Barbarossa",
+        "incorrect_answers": [
+          "Operation%20Kaiserschlact",
+          "Operation%20Unthinkable",
+          "Operation%20Molotov"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%2015th%20century%20conflicts%20between%20the%20Houses%20of%20York%20and%20Lancaster%20are%20known%20as%20the%20Wars%20of%20the%20what%3F",
+        "correct_answer": "Wars%20of%20the%20Roses",
+        "incorrect_answers": [
+          "Wars%20of%20the%20Lillies",
+          "Wars%20of%20the%20Daffodils",
+          "Wars%20of%20the%20Tulips"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20Kentucky%20become%20the%2015th%20state%20to%20join%20the%20union%3F",
+        "correct_answer": "1792",
+        "incorrect_answers": [
+          "1782",
+          "1798",
+          "1788"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "To%20what%20political%20party%20did%20Abraham%20Lincoln%20belong%20when%20elected%20POTUS%3F",
+        "correct_answer": "Republican",
+        "incorrect_answers": [
+          "Democrat",
+          "Independent",
+          "Whig"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Bohemian%20Revolt%20%281618-1620%29%20started%20after%20Protestants%20in%20Prague%20did%20what%20to%20their%20Catholic%20Lords%20Regents%3F",
+        "correct_answer": "Threw%20them%20out%20of%20a%20window",
+        "incorrect_answers": [
+          "Insulted%20their%20mothers",
+          "Locked%20them%20in%20stockades",
+          "Hung%20them."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20is%20NOT%20classified%20as%20a%20Semetic%20language%3F",
+        "correct_answer": "Sumerian",
+        "incorrect_answers": [
+          "Maltese",
+          "Akkadian",
+          "Mandaic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Battle%20of%20Trafalgar%20took%20place%20on%20October%2023rd%2C%201805",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20his%20six%20wives%20was%20Henry%20VIII%20married%20to%20the%20longest%3F",
+        "correct_answer": "Catherine%20of%20Aragon",
+        "incorrect_answers": [
+          "Anne%20Boleyn",
+          "Jane%20Seymour",
+          "Catherine%20Parr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20ancient%20city%20of%20Chich%C3%A9n%20Itz%C3%A1%20was%20built%20by%20which%20civilization%3F",
+        "correct_answer": "Mayans",
+        "incorrect_answers": [
+          "Aztecs",
+          "Incas",
+          "Toltecs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20is%20the%20creator%20of%20the%20soft%20drink%2C%20Dr.%20Pepper%3F",
+        "correct_answer": "Charles%20Alderton",
+        "incorrect_answers": [
+          "James%20Wellington",
+          "Johnson%20Hinsin",
+          "Boris%20Heviltik"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20of%20these%20theoretical%20phycisists%20first%20predicted%20the%20existence%20of%20antimatter%3F",
+        "correct_answer": "Paul%20Dirac",
+        "incorrect_answers": [
+          "Niels%20Bohr",
+          "Albert%20Einstein",
+          "Werner%20Heisenberg"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Martin%20Luther%20King%20Jr.%20and%20Anne%20Frank%20were%20born%20the%20same%20year.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20countries%20was%20the%20first%20to%20send%20an%20object%20into%20space%3F",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+          "USA",
+          "Russia",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20creator%20of%20the%20Enigma%20Cypher%20and%20Machine%20was%20of%20what%20nationality%3F",
+        "correct_answer": "German",
+        "incorrect_answers": [
+          "American",
+          "British",
+          "Polish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20President%20of%20the%20People%27s%20Republic%20of%20China%3F",
+        "correct_answer": "Mao%20Zedong",
+        "incorrect_answers": [
+          "Liu%20Shaoqi",
+          "Dong%20Biwu",
+          "Li%20Xiannian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20assassinated%20Archduke%20Franz%20Ferdinand%3F",
+        "correct_answer": "Gavrilo%20Princip",
+        "incorrect_answers": [
+          "Nedeljko%20%C4%8Cabrinovi%C4%87",
+          "Oskar%20Potiorek",
+          "Ferdinand%20Cohen-Blind"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20historical%20conflict%20killed%20the%20most%20people%3F",
+        "correct_answer": "World%20War%20II",
+        "incorrect_answers": [
+          "Taiping%20Rebellion",
+          "Three%20Kingdoms%20War",
+          "Mongol%20conquests"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20American%20in%20space%3F",
+        "correct_answer": "Alan%20Shephard",
+        "incorrect_answers": [
+          "Neil%20Armstrong",
+          "John%20Glenn",
+          "Jim%20Lovell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20president%20born%20in%20the%20independent%20United%20States%3F",
+        "correct_answer": "Martin%20Van%20Buren",
+        "incorrect_answers": [
+          "John%20Adams",
+          "George%20Washington",
+          "James%20Monroe%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20first%20permanent%20English%20settlement%20in%20America%3F",
+        "correct_answer": "Jamestown",
+        "incorrect_answers": [
+          "New%20York",
+          "St.%20John%27s",
+          "Plymouth"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20man%20to%20travel%20into%20outer%20space%20twice%3F",
+        "correct_answer": "Gus%20Grissom",
+        "incorrect_answers": [
+          "Vladimir%20Komarov",
+          "Charles%20Conrad",
+          "Yuri%20Gagarin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20Irish%20village%20in%20County%20Mayo%20built%20a%20tourism%20industry%20on%20the%20back%20of%20an%20alleged%20appearance%20by%20the%20Virgin%20Mary%20in%201879%3F",
+        "correct_answer": "Knock",
+        "incorrect_answers": [
+          "Ballycastle",
+          "Swinford",
+          "Turlough"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20code%20name%20for%20the%20Allied%20invasion%20of%20Southern%20France%20on%20August%2015th%2C%201944%3F",
+        "correct_answer": "Operation%20Dragoon",
+        "incorrect_answers": [
+          "Operation%20Overlord",
+          "Operation%20Market%20Garden",
+          "Operation%20Torch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "John%20Moses%20Browning%2C%20the%20designer%20of%20the%20M1918%20BAR%20%28Browning%20Automatic%20Rifle%29%20was%20a%20part%20of%20which%20religion%3F",
+        "correct_answer": "Mormon",
+        "incorrect_answers": [
+          "Catholic",
+          "Jewish",
+          "Atheist"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20one%20of%20these%20countries%20was%20NOT%20in%20the%20Central%20Powers%20during%20WWI%3F",
+        "correct_answer": "Spain",
+        "incorrect_answers": [
+          "Austria-Hungary",
+          "Turkey",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20number%20does%20the%20Roman%20numeral%20%22D%22%20stand%20for%3F",
+        "correct_answer": "500",
+        "incorrect_answers": [
+          "100",
+          "1000",
+          "50"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20Hannibal%3F",
+        "correct_answer": "Carthaginian%20general",
+        "incorrect_answers": [
+          "British%20serial%20killer",
+          "French%20explorer",
+          "Greek%20philosopher"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "How%20many%20women%20joined%20the%20United%20States%20Armed%20Services%20during%20World%20War%20II%3F",
+        "correct_answer": "350%2C000",
+        "incorrect_answers": [
+          "225%2C000",
+          "100%2C000",
+          "500%2C000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20one%20of%20these%20rulers%20did%20not%20belong%20to%20the%20Habsburg%20dynasty%3F",
+        "correct_answer": "Philip%20V",
+        "incorrect_answers": [
+          "Charles%20V",
+          "Philip%20II",
+          "Francis%20Joseph"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When%20did%20the%20Battle%20of%20the%20Somme%20begin%3F",
+        "correct_answer": "July%201st%2C%201916",
+        "incorrect_answers": [
+          "August%201st%2C%201916",
+          "July%202nd%2C%201916",
+          "June%2030th%2C%201916"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How%20was%20Socrates%20executed%3F",
+        "correct_answer": "Poison",
+        "incorrect_answers": [
+          "Decapitation",
+          "Firing%20squad",
+          "Crucifixion%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20is%20considered%20to%20be%20the%20year%20that%20the%20British%20Empire%20ended%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1986",
+          "1981",
+          "1971"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "How%20many%20sonatas%20did%20Ludwig%20van%20Beethoven%20write%3F",
+        "correct_answer": "32",
+        "incorrect_answers": [
+          "50",
+          "31",
+          "21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "On%20which%20day%20did%20ARPANET%20suffer%20a%204%20hour%20long%20network%20crash%3F",
+        "correct_answer": "October%2027%2C%201980",
+        "incorrect_answers": [
+          "November%2021%2C%201969",
+          "October%2029%2C%201969",
+          "December%209%2C%201991"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "%22I%20disapprove%20of%20what%20you%20say%2C%20but%20I%20will%20defend%20to%20the%20death%20your%20right%20to%20say%20it%22%20is%20a%20quote%20from%20French%20philosopher%20Voltaire.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      }
+    ]
+  }
+}

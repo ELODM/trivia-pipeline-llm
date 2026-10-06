@@ -1,0 +1,602 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:57:23.180171+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20letters%20are%20there%20in%20the%20English%20alphabet%3F",
+        "correct_answer": "26",
+        "incorrect_answers": [
+          "28",
+          "23",
+          "24"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20name%20represents%20the%20letter%20%22M%22%20in%20the%20NATO%20phonetic%20alphabet%3F",
+        "correct_answer": "Mike",
+        "incorrect_answers": [
+          "Matthew",
+          "Mark",
+          "Max"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Disney%27s%20Haunted%20Mansion%20is%20home%20to%20a%20trio%20of%20Hitchhiking%20Ghosts.%20Which%20of%20these%20is%20NOT%20one%20of%20them%3F",
+        "correct_answer": "Harry",
+        "incorrect_answers": [
+          "Gus",
+          "Phineas",
+          "Ezra"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20French%20word%20for%20%22fish%22%3F",
+        "correct_answer": "poisson",
+        "incorrect_answers": [
+          "fiche",
+          "escargot",
+          "mer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20are%20the%20tallest%20twin%20buildings%20in%20the%20world%2C%20with%20a%20height%20of%201%2C483%20ft%20%28451.9%20m%29%3F",
+        "correct_answer": "Petronas%20Twin%20Towers%2C%20Malaysia",
+        "incorrect_answers": [
+          "Emirates%20Towers%2C%20United%20Arab%20Emirates",
+          "Huaguoyuan%20Towers%2C%20China",
+          "Palm%20Towers%2C%20Qatar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Red%20Vines%20is%20a%20brand%20of%20what%20type%20of%20candy%3F",
+        "correct_answer": "Licorice",
+        "incorrect_answers": [
+          "Lollipop",
+          "Chocolate",
+          "Bubblegum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20Sherlock%20Holmes%2C%20%22If%20you%20eliminate%20the%20impossible%2C%20whatever%20remains%2C%20however%20improbable%2C%20must%20be%20the...%22",
+        "correct_answer": "Truth",
+        "incorrect_answers": [
+          "Answer",
+          "Cause",
+          "Source"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20Nicktoons%20were%20NOT%20originally%20a%20short%20on%20Oh%20Yeah%21%20Cartoons%20before%20becoming%20their%20own%20series%3F",
+        "correct_answer": "Danny%20Phantom",
+        "incorrect_answers": [
+          "ChalkZone",
+          "My%20Life%20as%20a%20Teenage%20Robot",
+          "The%20Fairly%20OddParents"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20given%20to%20Indian%20food%20cooked%20over%20charcoal%20in%20a%20clay%20oven%3F",
+        "correct_answer": "Tandoori",
+        "incorrect_answers": [
+          "Biryani",
+          "Pani%20puri",
+          "Tiki%20masala"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20last%20letter%20of%20the%20Greek%20alphabet%3F",
+        "correct_answer": "Omega",
+        "incorrect_answers": [
+          "Mu",
+          "Epsilon",
+          "Kappa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20American%20company%20%22Campbell%27s%22%20is%20most%20well%20known%20for%20making%20what%20food%20product%3F",
+        "correct_answer": "Canned%20soups",
+        "incorrect_answers": [
+          "Chocolate",
+          "Soft%20drinks",
+          "Sausages"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20language%20is%20NOT%20Indo-European%3F",
+        "correct_answer": "Hungarian",
+        "incorrect_answers": [
+          "Russian",
+          "Greek",
+          "Latvian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "If%20you%20planted%20the%20seeds%20of%20Quercus%20robur%2C%20what%20would%20grow%3F",
+        "correct_answer": "Trees",
+        "incorrect_answers": [
+          "Grains",
+          "Vegetables",
+          "Flowers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20defining%20characteristic%20of%20someone%20who%20is%20described%20as%20hirsute%3F",
+        "correct_answer": "Hairy",
+        "incorrect_answers": [
+          "Rude",
+          "Funny",
+          "Tall"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20tale%20of%20Robin%20Hood%20originates%20from%20which%20country%3F",
+        "correct_answer": "England",
+        "incorrect_answers": [
+          "France",
+          "Portugal",
+          "Scotland"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "A%20pasodoble%20is%20a%20type%20of%20Italian%20pasta%20sauce.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Fast%20food%20restaurant%20chains%20Carl%27s%20Jr.%20and%20Hardee%27s%20are%20owned%20by%20the%20same%20company.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Out%20of%20these%20four%20buildings%2C%20which%20one%20is%20the%20tallest%2C%20with%20a%20height%20of%201%2C776%20ft%20%28541.3%20m%29%3F",
+        "correct_answer": "One%20World%20Trade%20Center%2C%20United%20States",
+        "incorrect_answers": [
+          "Taipei%20101%2C%20Taiwan",
+          "Willis%20Tower%2C%20United%20States",
+          "Jin%20Mao%20Tower%2C%20China"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20Happy%20Face%20was%20created%20by%20commercial%20artist%20Harvey%20Ball.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20sign%20of%20the%20zodiac%20comes%20between%20Virgo%20and%20Scorpio%3F",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+          "Gemini",
+          "Taurus",
+          "Capricorn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "%20Which%20chemical%20element%2C%20number%2011%20in%20the%20Periodic%20table%2C%20has%20the%20symbol%20Na%3F",
+        "correct_answer": "Sodium",
+        "incorrect_answers": [
+          "Carbon",
+          "Lead",
+          "Nitrogen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20is%20the%20name%20of%20a%20Japanese%20system%20of%20alternative%20medicine%2C%20literally%20meaning%20%22finger%20pressure%22%3F",
+        "correct_answer": "Shiatsu",
+        "incorrect_answers": [
+          "Ukiyo",
+          "Majime",
+          "Ikigai"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20country%20does%20sushi%20%26%20karaoke%20come%20from%3F",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+          "China",
+          "South%20Korea",
+          "Vietnam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20the%20Latin%20phrase%20%22Veni%2C%20vidi%2C%20vici%22%20translate%20into%20English%3F",
+        "correct_answer": "I%20came%2C%20I%20saw%2C%20I%20conquered",
+        "incorrect_answers": [
+          "See%20no%20evil%2C%20hear%20no%20evil%2C%20speak%20no%20evil",
+          "Life%2C%20liberty%2C%20and%20happiness",
+          "Past%2C%20present%2C%20and%20future"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20disease%20cancer%20in%20itself%20is%20not%20contagious.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20year%20was%20Queen%20Elizabeth%20II%20born%3F",
+        "correct_answer": "1926",
+        "incorrect_answers": [
+          "1923",
+          "1929",
+          "1930"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Foie%20gras%20is%20a%20French%20delicacy%20typically%20made%20from%20what%20part%20of%20a%20duck%20or%20goose%3F",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+          "Heart",
+          "Stomach",
+          "Intestines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20largest%20rapid%20transit%20system%20in%20the%20world%20by%20number%20of%20stations%2C%20with%20472%20stations%20in%20operation%3F",
+        "correct_answer": "New%20York%20City%20Subway",
+        "incorrect_answers": [
+          "Shanghai%20Metro",
+          "London%20Underground",
+          "Berlin%20U-Bahn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20original%20name%20of%20the%20search%20engine%20%22Google%22%3F",
+        "correct_answer": "BackRub",
+        "incorrect_answers": [
+          "CatMassage",
+          "SearchPro",
+          "Netscape%20Navigator"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20machine%20element%20is%20located%20in%20the%20center%20of%20fidget%20spinners%3F",
+        "correct_answer": "Bearings",
+        "incorrect_answers": [
+          "Axles",
+          "Gears",
+          "Belts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20world%27s%20most%20expensive%20spice%20by%20weight%3F",
+        "correct_answer": "Saffron",
+        "incorrect_answers": [
+          "Cinnamon",
+          "Cardamom",
+          "Vanilla"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20the%20letters%20of%20the%20fast%20food%20chain%20KFC%20stand%20for%3F",
+        "correct_answer": "Kentucky%20Fried%20Chicken",
+        "incorrect_answers": [
+          "Kentucky%20Fresh%20Cheese",
+          "Kibbled%20Freaky%20Cow",
+          "Kiwi%20Food%20Cut"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "How%20long%20did%20it%20take%20the%20motorized%20window%20washers%20of%20the%20original%20World%20Trade%20Center%20to%20clean%20the%20entire%20exterior%20of%20the%20building%3F",
+        "correct_answer": "1%20Month",
+        "incorrect_answers": [
+          "3%20Weeks",
+          "1%20Week",
+          "2%20Months"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20fast-food%20chains%20is%20NOT%20mainly%20known%20to%20sell%20pizza%3F",
+        "correct_answer": "Wendy%27s",
+        "incorrect_answers": [
+          "Domino%27s",
+          "Little%20Caesars",
+          "Papa%20John%27s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Named%20after%20the%20mallow%20flower%2C%20mauve%20is%20a%20shade%20of%20what%3F",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+          "Red",
+          "Brown",
+          "Pink"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Earth%20is%20located%20in%20which%20galaxy%3F",
+        "correct_answer": "The%20Milky%20Way%20Galaxy",
+        "incorrect_answers": [
+          "The%20Mars%20Galaxy",
+          "The%20Galaxy%20Note",
+          "The%20Black%20Hole"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20type%20of%20animal%20was%20Harambe%2C%20who%20was%20shot%20after%20a%20child%20fell%20into%20it%27s%20enclosure%20at%20the%20Cincinnati%20Zoo%3F",
+        "correct_answer": "Gorilla",
+        "incorrect_answers": [
+          "Tiger",
+          "Panda",
+          "Crocodile"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20lesser-known%20continuation%20of%20the%20saying%20%22Curiosity%20killed%20the%20cat...%22%20is%3A",
+        "correct_answer": "%22...but%20satisfaction%20brought%20it%20back.%22",
+        "incorrect_answers": [
+          "%22...and%20the%20silent%20mouse%20remained%20thereat.%22",
+          "%22...which%20taught%20it%20not%20to%20do%20that.%22",
+          "%22...but%20death%20by%20the%20truth%20is%20better%20than%20ignorance.%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20name%20of%20Sqiudward%27s%20bad%20painting%20in%20the%20Spongebob%20episode%20%22Artist%20Unknown%3F%22",
+        "correct_answer": "Bold%20and%20Brash",
+        "incorrect_answers": [
+          "Squidward%20en%20Repose",
+          "Rippy%20Bits",
+          "Tilted%20Perspectives"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20is%20the%20second%20largest%20native%20language%20spoken%20in%20Spain%20by%20numbers%20of%20speakers%3F",
+        "correct_answer": "Catalan",
+        "incorrect_answers": [
+          "Portuguese",
+          "Spanish",
+          "French"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20Mountain%20Dew%27s%20original%20slogan%3F",
+        "correct_answer": "Yahoo%21%20Mountain%20Dew...%20It%27ll%20tickle%20your%20innards%21",
+        "incorrect_answers": [
+          "Give%20Me%20A%20Dew",
+          "Do%20The%20Dew",
+          "Get%27%20that%20barefoot%20feelin%27%20drinkin%27%20Mountain%20Dew"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20company%20did%20Valve%20cooperate%20with%20in%20the%20creation%20of%20the%20Vive%3F",
+        "correct_answer": "HTC",
+        "incorrect_answers": [
+          "Oculus",
+          "Google",
+          "Razer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20type%20of%20cutlery%20is%20most%20suited%20for%20eating%20soup%3F",
+        "correct_answer": "Spoon",
+        "incorrect_answers": [
+          "Fork",
+          "Knife",
+          "Chopsticks"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "If%20you%20are%20caught%20%22Goldbricking%22%2C%20what%20are%20you%20doing%20wrong%3F",
+        "correct_answer": "Slacking",
+        "incorrect_answers": [
+          "Smoking",
+          "Stealing",
+          "Cheating"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20Italian%20word%20for%20%22tomato%22%3F",
+        "correct_answer": "Pomodoro",
+        "incorrect_answers": [
+          "Aglio",
+          "Cipolla",
+          "Peperoncino"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20words%20means%20%22idle%20spectator%22%3F",
+        "correct_answer": "Gongoozler",
+        "incorrect_answers": [
+          "Gossypiboma",
+          "Jentacular",
+          "Meupareunia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "This%20is%20the%20correct%20spelling%20of%20%22Supercalifragilisticexpialidocious%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20profession%20of%20Elon%20Musk%27s%20mom%2C%20Maye%20Musk%3F",
+        "correct_answer": "Model",
+        "incorrect_answers": [
+          "Professor",
+          "Biologist",
+          "Musician"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20Spanish%20word%20for%20%22donkey%22%3F",
+        "correct_answer": "Burro",
+        "incorrect_answers": [
+          "Caballo",
+          "Toro",
+          "Perro"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20CEO%20of%20tech%20company%20Apple%20following%20Steve%20Jobs%20is%20named%20Tim%20Apple.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      }
+    ]
+  }
+}

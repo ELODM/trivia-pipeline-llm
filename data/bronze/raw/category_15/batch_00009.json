@@ -1,0 +1,606 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:57.253665+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20main%20playable%20character%20of%20the%202015%20RPG%20%22Undertale%22%20is%20a%20monster.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Dark%20Souls%2C%20what%20is%20the%20name%20of%20the%20region%20you%27re%20in%20for%20the%20majority%20of%20the%20game%3F",
+        "correct_answer": "Lordran",
+        "incorrect_answers": [
+          "Drangleic",
+          "Oolacile",
+          "Catarina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "From%20where%20does%20the%20Nintendo%20video%20game%20character%20Mario%20derive%20his%20name%3F",
+        "correct_answer": "The%20landlord%20of%20the%20American%20headquarters",
+        "incorrect_answers": [
+          "Shigeru%20Miyamoto%27s%20father%20in%20law",
+          "Satoru%20Iwata%27s%20plumber",
+          "The%20date%20%28Mar%2010%29%20that%20Donkey%20Kong%20was%20released."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20villain%20of%20Kirby%27s%20Return%20to%20Dreamland%3F",
+        "correct_answer": "Magolor",
+        "incorrect_answers": [
+          "Landia",
+          "King%20Dedede",
+          "Queen%20Sectonia%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20games%20Cry%20of%20Fear%2C%20Natural%20Selection%20and%20Counter-Strike%20were%20originally%20mods%20for%20what%20video%20game%3F",
+        "correct_answer": "Half-Life",
+        "incorrect_answers": [
+          "Warcraft%20III",
+          "Arma%202",
+          "Doom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20punishment%20for%20playing%20Postal%202%20in%20New%20Zealand%3F",
+        "correct_answer": "10%20years%20in%20prison%20and%20a%20fine%20of%20%2450%2C000",
+        "incorrect_answers": [
+          "Fine%20of%20%245%2C000",
+          "Nothing",
+          "15%20years%20in%20prison%20and%20a%20fine%20of%20%2410%2C000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%20was%20introduced%20to%20the%20Super%20Smash%20Bros%20franchise%20in%20Super%20Smash%20Bros%20Melee%3F",
+        "correct_answer": "Sheik",
+        "incorrect_answers": [
+          "Samus",
+          "Lucas",
+          "Mega%20Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "One%20of%20the%20Nintendo%20Entertainment%20System%20voice%20channels%20supports%20playback%20of%20sound%20samples.%20Which%20one%3F",
+        "correct_answer": "DMC",
+        "incorrect_answers": [
+          "Noise",
+          "Triangle",
+          "Square"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Return%20to%20Castle%20Wolfenstein%22%20was%20the%20only%20game%20of%20the%20Wolfenstein%20series%20where%20you%20don%27t%20play%20as%20William%20%22B.J.%22%20Blazkowicz.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20a%20character%20in%20the%20video%20game%20Destiny%3F",
+        "correct_answer": "Cayde-6",
+        "incorrect_answers": [
+          "Ostrava%20of%20Boletaria",
+          "Mordecai%20the%20Hunter",
+          "Leon%20S.%20Kennedy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20%22Origins%22%2C%20where%20is%20%22Stamin-Up%22%20located%3F",
+        "correct_answer": "Generator%205",
+        "incorrect_answers": [
+          "Generator%203",
+          "Generator%204",
+          "Excavation%20Site"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Danganronpa%3A%20Trigger%20Happy%20Havoc%2C%20what%20is%20the%20protagonist%27s%20name%3F",
+        "correct_answer": "Makoto%20Naegi",
+        "incorrect_answers": [
+          "Hajime%20Hinata",
+          "Nagito%20Komaeda",
+          "Komaru%20Naegi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20these%20games%20came%20out%20first%3F",
+        "correct_answer": "Terraria",
+        "incorrect_answers": [
+          "Minecraft",
+          "Starbound",
+          "Factorio"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Mario%20spin-off%20game%20did%20Waluigi%20make%20his%20debut%3F",
+        "correct_answer": "Mario%20Tennis",
+        "incorrect_answers": [
+          "Mario%20Party%203",
+          "Mario%20Kart%3A%20Double%20Dash%21%21",
+          "Mario%20Golf%3A%20Toadstool%20Tour"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20character%20is%20NOT%20apart%20of%20the%20Grand%20Theft%20Auto%20series%3F",
+        "correct_answer": "Michael%20Cardenas",
+        "incorrect_answers": [
+          "Packie%20McReary",
+          "Tommy%20Vercetti",
+          "Lester%20Crest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Minecraft%20first%20released%20to%20the%20public%3F",
+        "correct_answer": "May%2017th%2C%202009",
+        "incorrect_answers": [
+          "September%2017th%2C%202009",
+          "November%2018th%2C%202011",
+          "October%207th%2C%202011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Assassin%27s%20Creed%20series%2Cwhat%20was%20the%20name%20of%20Desmond%20Miles%20given%20by%20Abstergo%3F",
+        "correct_answer": "Subject%2017",
+        "incorrect_answers": [
+          "Subject%2016",
+          "Subject%2018",
+          "Alta%C3%AFr%20Ibn-La%27Ahad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20a%20Fallout%20protagonist%3F",
+        "correct_answer": "Tunnel%20Snake",
+        "incorrect_answers": [
+          "Courier",
+          "Lone%20Wanderer",
+          "Vault%20Dweller"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "McCree%20from%20Overwatch%20originally%20started%20as%20a%20character%20that%20was%20going%20to%20appear%20in%20a%20scrapped%20Starcraft%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Cry%20of%20Fear%2C%20which%20enemy%20can%20cause%20the%20player%20to%20kill%20themselves%20if%20they%20are%20wielding%20a%20loaded%20firearm%3F",
+        "correct_answer": "Drowned",
+        "incorrect_answers": [
+          "Suicider",
+          "Citalopram",
+          "Psycho"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20creator%20of%20the%20free%2C%20open-source%20rhythm%20game%20%27osu%21%27%3F",
+        "correct_answer": "Dean%20%27Peppy%27%20Herbert",
+        "incorrect_answers": [
+          "Daisuke%20%27Pixel%27%20Amaya",
+          "Eric%20%27ConcernedApe%27%20Barone",
+          "Toby%20%27FwugRadiation%27%20Fox"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20Pikachu%27s%20National%20Pok%C3%A9Dex%20Number%3F",
+        "correct_answer": "%23025",
+        "incorrect_answers": [
+          "%23001",
+          "%23031",
+          "%23109"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Sonic%20the%20Hedgehog%203%22%20for%20the%20Sega%20Genesis%2C%20what%20is%20the%20color%20of%20the%20second%20Chaos%20Emerald%20you%20can%20get%20from%20Special%20Stages%3F",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+          "Blue",
+          "Green",
+          "Magenta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20SHMUP%20series%2C%20%22Gradius%22%2C%20what%20is%20the%20name%20of%20the%20antagonist%20faction%20you%20fight%20against%3F",
+        "correct_answer": "Bacterion",
+        "incorrect_answers": [
+          "Bydo",
+          "Belsar",
+          "ORN%20Empire"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Sonic%20the%20Hedgehog%20universe%2C%20Tails%27%20real%20name%20is%20Miles%20Prower.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20nickname%20of%20the%20original%20model%20for%20Half-Life%27s%20protagonist%20Gordon%20Freeman%3F",
+        "correct_answer": "Ivan%20the%20Space%20Biker",
+        "incorrect_answers": [
+          "Gordon%20the%20Space%20Biker",
+          "Ivan%20the%20Alien%20Biker",
+          "Gordon%20the%20Alien%20Biker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20programming%20language%20was%20used%20to%20create%20the%20game%20%22Minecraft%22%3F",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+          "HTML%205",
+          "C%2B%2B",
+          "Python"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20is%20NOT%20a%20boss%20in%20Crash%20Bash%3F",
+        "correct_answer": "Ripper%20Roo",
+        "incorrect_answers": [
+          "Papu%20Papu",
+          "Komodo%20brothers",
+          "Nitros%20Oxide"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20playable%20characters%20are%20there%20in%20Yakuza%205%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "2",
+          "3",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Mario%20Kart%20series%2C%20which%20game%20introduced%20the%20%22Shield%20Drifting%22%20mechanic%3F",
+        "correct_answer": "Mario%20Kart%20Arcade%20GP%20DX",
+        "incorrect_answers": [
+          "Mario%20Kart%3A%20Double%20Dash",
+          "Mario%20Kart%20Super%20Circuit",
+          "Mario%20Kart%20DS"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20possible%20drink%20to%20be%20made%20in%20the%20game%20%22VA-11%20HALL-A%3A%20Cyberpunk%20Bartender%20Action%22%3F",
+        "correct_answer": "Sour%20Appletini",
+        "incorrect_answers": [
+          "Fringe%20Weaver",
+          "Piano%20Man",
+          "Bad%20Touch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20Pok%C3%A9mon%20cannot%20learn%20Surf%3F",
+        "correct_answer": "Arbok",
+        "incorrect_answers": [
+          "Linoone",
+          "Tauros",
+          "Nidoking"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Street%20Fighter%20franchise%2C%20what%27s%20Ken%27s%20surname%3F",
+        "correct_answer": "Masters",
+        "incorrect_answers": [
+          "Mitchell",
+          "Michaels",
+          "Morrison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20%22Worms%22%20games%20featured%203D%20gameplay%3F",
+        "correct_answer": "Worms%204%3A%20Mayhem",
+        "incorrect_answers": [
+          "Worms%20W.M.D",
+          "Worms%20Reloaded",
+          "Worms%3A%20Open%20Warfare%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Game%20Boy%20from%20the%20Game%20Boy%20series%20of%20portable%20video%20game%20consoles%20was%20released%20first%3F",
+        "correct_answer": "Game%20Boy%20Color",
+        "incorrect_answers": [
+          "Game%20Boy%20Advance",
+          "Game%20Boy%20Micro",
+          "Game%20Boy%20Advance%20SP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20Counter-Strike%20maps%20is%20a%20bomb%20defuse%20scenario%3F",
+        "correct_answer": "Prodigy",
+        "incorrect_answers": [
+          "747",
+          "Havana",
+          "Oilrig"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Sean%20Bean%20voices%20the%20character%20of%20%22Martin%20Septim%22%20in%20which%20Elder%20Scrolls%20game%3F",
+        "correct_answer": "The%20Elder%20Scrolls%20IV%3A%20Oblivion",
+        "incorrect_answers": [
+          "The%20Elder%20Scrolls%20V%3A%20Skyrim",
+          "The%20Elder%20Scrolls%20III%3A%20Morrowind%20",
+          "The%20Elder%20Scrolls%20Online"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20out%20of%20these%20Team%20Fortress%202%20characters%2C%20does%20not%20use%20a%20Shotgun%20as%20a%20secondary%20weapon%3F",
+        "correct_answer": "Engineer",
+        "incorrect_answers": [
+          "Soldier",
+          "Pyro",
+          "Heavy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Sonic%20the%20Hedgehog%20%281991%29%22%20how%20many%20chaos%20emeralds%20could%20you%20collect%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "8",
+          "7",
+          "9"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Team%20Fortress%202%2C%20which%20class%20wields%20a%20shotgun%3F",
+        "correct_answer": "Everyone%20Listed",
+        "incorrect_answers": [
+          "Heavy",
+          "Soldier",
+          "Engineer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Hearthstone%22%2C%20what%20is%20the%20best%20rank%20possible%3F",
+        "correct_answer": "Rank%201%20Legend",
+        "incorrect_answers": [
+          "Rank%201%20Elite",
+          "Rank%201%20Master",
+          "Rank%201%20Supreme"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20island%20introduced%20in%20the%20ARMA%20III%3A%20APEX%20expansion%20pack%3F",
+        "correct_answer": "Tanoa",
+        "incorrect_answers": [
+          "Altis",
+          "Stratis",
+          "Malden"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20video%20game%20earned%20music%20composer%20Mike%20Morasky%20the%20most%20awards%20for%20his%20work%3F",
+        "correct_answer": "Portal%202",
+        "incorrect_answers": [
+          "Left%204%20Dead%202",
+          "Team%20Fortress%202",
+          "Counter-Strike%3A%20Global%20Offensive"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20Team%20Fortress%202%27s%20Heavy%20Weapons%20Guy%27s%20minigun%3F",
+        "correct_answer": "Sasha",
+        "incorrect_answers": [
+          "Betty",
+          "Anna",
+          "Diana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%2C%20What%20was%20the%20name%20of%20the%20spell%20that%20caused%20a%20plague%20that%20famously%20killed%20millions%20of%20players%20in%202005%3F",
+        "correct_answer": "Corrupted%20Blood",
+        "incorrect_answers": [
+          "Necrotic%20Plague",
+          "Unbound%20Infestation",
+          "Mutated%20Infection"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20protagonist%20in%20the%20game%20Life%20is%20Strange%3A%20Before%20The%20Storm%3F",
+        "correct_answer": "Chloe%20Price%20",
+        "incorrect_answers": [
+          "Max%20Caulfield",
+          "Rachel%20Amber",
+          "Frank%20Bowers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20main%20character%27s%20name%20in%20%22Braid%22%3F",
+        "correct_answer": "Tim",
+        "incorrect_answers": [
+          "Boregard",
+          "James",
+          "Jackson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20developed%20the%20MMO%20Spiral%20Knights%20%282011%29%3F",
+        "correct_answer": "Three%20Rings%20Design",
+        "incorrect_answers": [
+          "Sega",
+          "Electronic%20Arts",
+          "Double%20Fine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20developed%20the%20video%20game%20%22Borderlands%22%3F",
+        "correct_answer": "Gearbox%20Software",
+        "incorrect_answers": [
+          "2K%20Games",
+          "Activision",
+          "Rockstar%20Games"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%20from%20the%20Mega%20Man%20series%20made%20a%20small%20cameo%20on%20Volt%20Catfish%27s%20introduction%20scene%20in%20CD%20versions%20of%20Mega%20Man%20X3%3F",
+        "correct_answer": "Auto",
+        "incorrect_answers": [
+          "Eddie",
+          "Tango",
+          "Rush"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:23.699778+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%27s%20the%20first%20National%20Park%20designated%20in%20the%20United%20States%3F",
+        "correct_answer": "Yellowstone",
+        "incorrect_answers": [
+          "Sequoia%20",
+          "Yosemite",
+          "Rocky%20Mountain"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20Southeast%20Asian%20island%20of%20Borneo%20is%20politically%20divided%20among%203%20countries.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Australia%20is%20greater%20than%20Greenland%20in%20size.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20country%20does%20Austria%20not%20border%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "Slovenia",
+          "Switzerland",
+          "Slovakia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20UK%20country%20features%20a%20dragon%20on%20their%20flag%3F",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+          "England",
+          "North%20Ireland",
+          "Scotland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In%20which%20English%20county%20is%20Stonehenge%3F",
+        "correct_answer": "Wiltshire",
+        "incorrect_answers": [
+          "Somerset",
+          "Cumbria",
+          "Herefordshire"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Burkina%20Faso%3F",
+        "correct_answer": "Ouagadougou",
+        "incorrect_answers": [
+          "Yaound%C3%A9",
+          "Yamoussoukro",
+          "Abidjan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20Alps%20are%20a%20mountain%20range%20on%20which%20continent%3F",
+        "correct_answer": "Europe",
+        "incorrect_answers": [
+          "North%20America",
+          "Asia",
+          "Africa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20is%20the%20largest%20of%20these%204%20islands%3F",
+        "correct_answer": "Borneo",
+        "incorrect_answers": [
+          "Great%20Britain",
+          "Cuba",
+          "Madagascar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20city%20is%20the%20biggest%20in%20Canada%3F",
+        "correct_answer": "Toronto",
+        "incorrect_answers": [
+          "Montreal",
+          "Vancouver",
+          "Ottawa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20river%20was%20dammed%20to%20create%20Gatun%20Lake%20and%20the%20Panama%20Canal%3F",
+        "correct_answer": "Chagres%20River",
+        "incorrect_answers": [
+          "Tuira%20River",
+          "Chucunaque%20River",
+          "Chepo%20River%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In%20Washington%2C%20D.C.%20what%20does%20the%20%22C%22%20stand%20for%3F",
+        "correct_answer": "Columbia",
+        "incorrect_answers": [
+          "Caledonia",
+          "Corinthia",
+          "City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How%20many%20countries%20border%20Kyrgyzstan%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "3",
+          "1",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20derisive%20acronym%20%22PIIGS%22%20refers%20to%20which%20of%20the%20following%20European%20countries%20and%20their%20economic%20statuses%3F",
+        "correct_answer": "Portugal%2C%20Ireland%2C%20Italy%2C%20Greece%2C%20Spain",
+        "incorrect_answers": [
+          "Poland%2C%20Iceland%2C%20Italy%2C%20Greece%2C%20Serbia",
+          "Poland%2C%20Iceland%2C%20Italy%2C%20Greenland%2C%20Spain",
+          "Portugal%2C%20Iceland%2C%20Ireland%2C%20Greece%2C%20Serbia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "There%20exists%20an%20island%20named%20%22Java%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20country%20inside%20the%20United%20Kingdom%20does%20NOT%20appear%20on%20its%20flag%2C%20the%20Union%20Jack%3F",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+          "Scotland",
+          "Ireland",
+          "Isle%20of%20Wight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20longest%20river%20in%20Europe%3F",
+        "correct_answer": "Volga",
+        "incorrect_answers": [
+          "Danube",
+          "Rhine",
+          "Thames"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Denmark%3F",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+          "Aarhus",
+          "Odense",
+          "Aalborg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20country%20in%20the%20world%3F",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+          "Canada",
+          "China",
+          "United%20States"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20countries%20are%20larger%20than%20Australia%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "4",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20smallest%20country%20in%20the%20world%3F",
+        "correct_answer": "Vatican%20City",
+        "incorrect_answers": [
+          "Maldives",
+          "Monaco",
+          "Malta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Lake%20Titicaca%20is%20located%20between%20which%20two%20nations%3F",
+        "correct_answer": "Peru%20and%20Bolivia",
+        "incorrect_answers": [
+          "Kenya%20and%20Uganda",
+          "Mexico%20and%20the%20United%20States",
+          "India%20and%20Bangladesh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20European%20city%20has%20the%20highest%20mileage%20of%20canals%20in%20the%20world%3F",
+        "correct_answer": "Birmingham",
+        "incorrect_answers": [
+          "Venice",
+          "Amsterdam",
+          "Berlin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Where%20was%20the%20ancient%20city%20of%20Pompeii%3F",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+          "East%20Africa",
+          "South%20America",
+          "Pompilanus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20state%20is%20the%20largest%20state%20of%20the%20United%20States%20of%20America%3F",
+        "correct_answer": "Alaska",
+        "incorrect_answers": [
+          "California",
+          "Texas",
+          "Washington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20Russian%20oblast%20forms%20a%20border%20with%20Poland%3F",
+        "correct_answer": "Kaliningrad",
+        "incorrect_answers": [
+          "Samara",
+          "Nizhny%20Novgorod",
+          "Omsk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20one%20of%20the%20Neo-Aramaic%20languages%20spoken%20by%20the%20Jewish%20population%20from%20Northwestern%20Iraq%3F",
+        "correct_answer": "Lishana%20Deni",
+        "incorrect_answers": [
+          "Hulaul%C3%A1",
+          "Lishan%20Didan",
+          "Chaldean%20Neo-Aramaic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland%20is%20almost%20as%20big%20as%20Africa.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Route%2066%20in%20the%20United%20States%20spans%20the%20entire%20mainland%20of%20America%2C%20from%20California%20to%20New%20York.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20was%20the%20original%20name%20of%20Ho%20Chi%20Minh%20City%3F",
+        "correct_answer": "Saigon",
+        "incorrect_answers": [
+          "Hanoi",
+          "Dar%20Es%20Salaam",
+          "Angkor%20Wat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20is%20the%20%22Sonoran%20Desert%22%20located%3F",
+        "correct_answer": "North%20America",
+        "incorrect_answers": [
+          "South%20America",
+          "Asia",
+          "Africa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20country%20is%20the%20Taedong%20River%20in%3F",
+        "correct_answer": "North%20Korea",
+        "incorrect_answers": [
+          "South%20Korea",
+          "Japan",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20Pyrenees%20mountains%20are%20located%20on%20the%20border%20of%20which%20two%20countries%3F",
+        "correct_answer": "France%20and%20Spain",
+        "incorrect_answers": [
+          "Italy%20and%20Switzerland",
+          "Norway%20and%20Sweden",
+          "Russia%20and%20Ukraine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20city%20is%20the%20capital%20of%20Switzerland%3F",
+        "correct_answer": "Bern",
+        "incorrect_answers": [
+          "Z%C3%BCrich",
+          "Frankfurt",
+          "Wien"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20NOT%20the%20only%20country%20to%20start%20with%20that%20letter%20of%20the%20alphabet%3F",
+        "correct_answer": "Zambia",
+        "incorrect_answers": [
+          "Qatar",
+          "Yemen",
+          "Oman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20right%20way%20to%20spell%20the%20capital%20of%20Hungary%3F",
+        "correct_answer": "Budapest",
+        "incorrect_answers": [
+          "Boodapest",
+          "Bhudapest",
+          "Budapast"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20city%20%20has%20the%20busiest%20airport%20in%20the%20world%3F",
+        "correct_answer": "Atlanta%2C%20Georgia%20USA",
+        "incorrect_answers": [
+          "London%2C%20England",
+          "Chicago%2CIllinois%20ISA",
+          "Tokyo%2CJapan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Russia%20shares%20a%20land%20border%20with%20North%20Korea.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How%20many%20US%20states%20start%20with%20the%20letter%20K%3F",
+        "correct_answer": "Two",
+        "incorrect_answers": [
+          "One",
+          "None",
+          "Three"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Rhode%20Island%20is%20actually%20located%20on%20the%20US%20mainland%2C%20despite%20its%20name.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Alaska%20and%20Hawaii%20are%20the%20only%20US%20states%20that%20have%20their%20own%20timezones.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20special%20about%20Lake%20Titicaca%3F",
+        "correct_answer": "Highest%20navigable%20lake",
+        "incorrect_answers": [
+          "Longest%20lake%20in%20the%20world",
+          "Deepest%20lake%20in%20the%20world",
+          "Remains%20frozen%20all%20year%20round"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20one%20of%20these%20countries%20borders%20with%20Poland%3F",
+        "correct_answer": "Lithuania",
+        "incorrect_answers": [
+          "France",
+          "Norway",
+          "Netherlands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20Japanese%20islands%20is%20the%20largest%20by%20area%3F",
+        "correct_answer": "Shikoku",
+        "incorrect_answers": [
+          "Iki",
+          "Odaiba",
+          "Okinawa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20hot%20desert%20in%20the%20world%3F",
+        "correct_answer": "Sahara",
+        "incorrect_answers": [
+          "Gobi",
+          "Mojave",
+          "Kalahari"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20US%20state%20is%20also%20known%20as%20the%20%22Lone%20Star%20State%22%3F",
+        "correct_answer": "Texas",
+        "incorrect_answers": [
+          "Alabama",
+          "Tennessee",
+          "Kentucky"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Estonia%3F",
+        "correct_answer": "Tallinn",
+        "incorrect_answers": [
+          "Helsinki",
+          "Tartu",
+          "Riga"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How%20many%20stars%20are%20featured%20on%20New%20Zealand%27s%20flag%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "5",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20Japanese%20district%20Akihabara%20is%20also%20known%20by%20what%20nickname%3F",
+        "correct_answer": "Electric%20Town",
+        "incorrect_answers": [
+          "Moon%20Walk%20River",
+          "Otaku%20Central%20",
+          "Big%20Eyes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20independent%20countries%20are%20there%20within%20the%20continent%20of%20South%20America%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "8",
+          "9",
+          "10"
+        ]
+      }
+    ]
+  }
+}

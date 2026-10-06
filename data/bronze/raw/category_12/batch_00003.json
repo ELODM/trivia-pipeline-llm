@@ -1,0 +1,604 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:58:52.031382+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20recorded%20the%20album%20%22Parallel%20Lines%22%3F",
+        "correct_answer": "Blondie",
+        "incorrect_answers": [
+          "Paramore",
+          "Coldplay",
+          "The%20Police"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20wrote%20the%20Sinead%20O%60Connor%20hit%20%27Nothing%20Compares%202%20U%27%3F",
+        "correct_answer": "Prince",
+        "incorrect_answers": [
+          "Michael%20Jackson",
+          "Cameo",
+          "Rick%20James"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20album%20was%20released%20by%20Kanye%20West%20in%202013%3F",
+        "correct_answer": "Yeezus",
+        "incorrect_answers": [
+          "My%20Beautiful%20Dark%20Twisted%20Fantasy",
+          "The%20Life%20of%20Pablo",
+          "Watch%20the%20Throne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20genre%20of%20music%20is%20John%20Coltrane%20primarily%20associated%20with%3F",
+        "correct_answer": "Jazz",
+        "incorrect_answers": [
+          "Rock%20and%20Roll",
+          "Death%20Metal",
+          "Folk"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "For%20his%20performance%20at%20ComplexCon%202016%20in%20Long%20Beach%2C%20California%2C%20Skrillex%20revived%20his%20%22Mothership%22%20set%20piece%20for%20one%20night%20only.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Where%20does%20the%20Mac%20part%20of%20the%20name%20Fleetwood%20Mac%20come%20from%3F",
+        "correct_answer": "John%20McVie",
+        "incorrect_answers": [
+          "Christine%20McVie",
+          "Mac%20McAnally",
+          "David%20Tennant"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20what%20year%20was%20Tchaikovsky%27s%201812%20Overture%20composed%3F",
+        "correct_answer": "1880",
+        "incorrect_answers": [
+          "1812",
+          "1790",
+          "1840"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Sting%2C%20the%20lead%20vocalist%20of%20The%20Police%2C%20primarily%20plays%20what%20instrument%3F",
+        "correct_answer": "Bass%20Guitar",
+        "incorrect_answers": [
+          "Drums",
+          "Guitar",
+          "Keyboards"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Cryoshell%2C%20known%20for%20%22Creeping%20in%20My%20Soul%22%20did%20the%20advertising%20music%20for%20what%20Lego%20Theme%3F",
+        "correct_answer": "Bionicle",
+        "incorrect_answers": [
+          "Hero%20Factory",
+          "Ben%2010%20Alien%20Force",
+          "Star%20Wars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20made%20by%20MAN%20WITH%20A%20MISSION%20was%20used%20as%20the%20opening%20for%20the%20anime%20%22Log%20Horizon%22%3F",
+        "correct_answer": "%22Database%22",
+        "incorrect_answers": [
+          "%22Dead%20End%20in%20Tokyo%22",
+          "%22Raise%20Your%20Flag%22",
+          "%22Out%20of%20Control%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20not%20an%20Ed%20Sheeran%20album%3F",
+        "correct_answer": "-",
+        "incorrect_answers": [
+          "%2B",
+          "X",
+          "%C3%B7"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Nick%20Mason%20is%20the%20only%20member%20to%20appear%20on%20every%20Pink%20Floyd%20album.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20these%20people%20has%20been%20in%20the%20band%20%27%27Metallica%27%27%20in%20the%20past%3F",
+        "correct_answer": "Dave%20Mustaine",
+        "incorrect_answers": [
+          "Kurt%20Cobain",
+          "Joey%20Belladonna",
+          "Dave%20Lombardo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20the%20metal%20band%20Slipknot%2C%20there%20are%209%20members%2C%20which%20member%20labelled%20themselves%20number%206%3F%20",
+        "correct_answer": "Shawn%20Crahan%20%28Clown%29",
+        "incorrect_answers": [
+          "Sid%20Wilson",
+          "Cory%20Taylor",
+          "Mick%20Thomson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Lift%20Your%20Spirit%22%20is%20an%20album%20by%20which%20artist%3F",
+        "correct_answer": "Aloe%20Blacc",
+        "incorrect_answers": [
+          "Lena%20Meyer-Landrut",
+          "Stevie%20Wonder",
+          "Taylor%20Swift"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20year%20did%20Dire%20Straits%27s%20Song%20%22Money%20for%20Nothing%22%20release%3F",
+        "correct_answer": "1985",
+        "incorrect_answers": [
+          "1973",
+          "1980",
+          "1991"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20album%20reputation%20by%20Taylor%20Swift%20has%2015%20songs",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Disney%20character%20sings%20the%20song%20%22A%20Dream%20is%20a%20Wish%20Your%20Heart%20Makes%22%3F",
+        "correct_answer": "Cinderella",
+        "incorrect_answers": [
+          "Belle",
+          "Snow%20White",
+          "Pocahontas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20collaborative%20album%20was%20released%20by%20Kanye%20West%20and%20Jay-Z%20in%202011%3F",
+        "correct_answer": "Watch%20the%20Throne",
+        "incorrect_answers": [
+          "Distant%20Relatives",
+          "What%20a%20Time%20to%20be%20Alive",
+          "Unfinished%20Business"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20release%20date%20of%20the%20They%20Might%20Be%20Giants%20album%2C%20%27Mink%20Car%3F%27",
+        "correct_answer": "September%2011th%2C%202001",
+        "incorrect_answers": [
+          "April%2017th%2C%202003",
+          "November%204th%2C%201999",
+          "December%2020th%2C%202002"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20last%20song%20on%20the%20first%20Panic%21%20At%20the%20Disco%20album%3F",
+        "correct_answer": "Build%20God%2C%20Then%20We%27ll%20Talk",
+        "incorrect_answers": [
+          "Nails%20for%20Breakfast%2C%20Tacks%20for%20Snacks",
+          "I%20Write%20Sins%20Not%20Tragedies",
+          "Lying%20Is%20The%20Most%20Fun%20A%20Girl%20Can%20Have%20Without%20Taking%20Her%20Clothes%20Off"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20last%20Aphex%20Twin%20album%20released%20before%20his%20decade-long%20hiatus%3F",
+        "correct_answer": "Drukqs",
+        "incorrect_answers": [
+          "Windowlicker",
+          "Syro",
+          "Collected%20Ambient%20Works%2085-92"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20performed%20the%20hit%20single%20%27Call%20Me%27%20for%20the%201980%20film%20%27American%20Gigolo%27%3F",
+        "correct_answer": "Blondie",
+        "incorrect_answers": [
+          "Madonna",
+          "Tina%20Turner",
+          "Janet%20Jackson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20bands%20are%20NOT%20from%20Australia%3F",
+        "correct_answer": "The%20Naked%20and%20Famous",
+        "incorrect_answers": [
+          "Cut%20Copy",
+          "Empire%20of%20the%20Sun",
+          "Tame%20Impala"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pamina%20and%20Papageno%20are%20characters%20in%20what%20Mozart%20opera%3F",
+        "correct_answer": "The%20Magic%20Flute",
+        "incorrect_answers": [
+          "The%20Marriage%20of%20Figaro",
+          "The%20Impresario",
+          "The%20Goose%20of%20Cairo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20is%20NOT%20by%20singer%20Tom%20Jones%3F",
+        "correct_answer": "Never%20Gonna%20Give%20You%20Up",
+        "incorrect_answers": [
+          "It%27s%20Not%20Unusual",
+          "What%27s%20New%20Pussycat",
+          "Delilah"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "3%20members%20of%202%20Live%20Crew%20were%20arrested%20for%20playing%20songs%20from%20their%20album%2C%20As%20Nasty%20As%20They%20Wanna%20Be%2C%20live.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20women%20is%20not%20a%20member%20of%20the%20Korean%20girl%20group%20TWICE%3F",
+        "correct_answer": "Kang%20Seulgi",
+        "incorrect_answers": [
+          "Myoui%20Mina",
+          "Kim%20Dahyun",
+          "Hirai%20Momo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Twenty%20One%20Pilots%22%20made%20the%20song%20%22The%20Motion%22%20featuring%20Sampha.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20youngest%20member%20of%20The%20Beatles%3F",
+        "correct_answer": "George%20Harrison",
+        "incorrect_answers": [
+          "Paul%20McCartney",
+          "John%20Lennon",
+          "Ringo%20Starr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20these%20Rammstein%20songs%20has%20two%20official%20music%20videos%3F",
+        "correct_answer": "Du%20Riechst%20So%20Gut",
+        "incorrect_answers": [
+          "Du%20Hast",
+          "Benzin",
+          "Mein%20Teil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20European%20capital%20city%20gives%20its%20name%20to%20a%201981%20song%20by%20Ultravox%3F",
+        "correct_answer": "Vienna",
+        "incorrect_answers": [
+          "Berlin",
+          "Paris",
+          "Brussels"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20rock%20group%20is%20named%20after%20a%20gym%20teacher%20who%20taught%20at%20the%20original%20band%20members%27%20high%20school%3F",
+        "correct_answer": "Lynyrd%20Skynyrd",
+        "incorrect_answers": [
+          "Jefferson%20Airplane",
+          "Pink%20Floyd",
+          "The%20Byrds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20key%20of%20sharps%20does%20the%20key%20of%20G%23%20minor%20contain%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "3",
+          "7",
+          "0"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20what%20film%20was%20the%20Michael%20Jackson%20song%20%22Will%20You%20Be%20There%22%20featured%3F",
+        "correct_answer": "Free%20Willy",
+        "incorrect_answers": [
+          "Sleepless%20in%20Seattle",
+          "Men%20in%20Black",
+          "Bad%20Boys"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20semitones%20are%20in%20an%20octave%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "7",
+          "11",
+          "14"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Artis%20Leon%20Ivey%20Jr.%20is%20better%20known%20as%20which%20rap%20artist%3F",
+        "correct_answer": "Coolio",
+        "incorrect_answers": [
+          "Dr%20Dre",
+          "Snoop%20Dogg",
+          "Ice%20T"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20music%20bands%20is%20not%20from%20Finland%3F",
+        "correct_answer": "Sabaton",
+        "incorrect_answers": [
+          "Apocalyptica",
+          "Waltari",
+          "Lordi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20is%20an%20album%20by%20punk%20rock%20band%20Anti-Flag%3F",
+        "correct_answer": "For%20Blood%20And%20Empire",
+        "incorrect_answers": [
+          "Infinity%20On%20High",
+          "21st%20Century%20Breakdown",
+          "No%20Pads%2C%20No%20Helmets...Just%20Balls"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22All%20the%20Boys%22%20by%20Panic%21%20At%20the%20Disco%20was%20released%20as%20a%20bonus%20track%20on%20what%20album%3F",
+        "correct_answer": "Too%20Weird%20To%20Live%2C%20Too%20Rare%20To%20Die%21",
+        "incorrect_answers": [
+          "A%20Fever%20You%20Can%27t%20Sweat%20Out",
+          "Death%20Of%20A%20Bachelor",
+          "Vices%20%26%20Virtues"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20artist%20of%20the%20recent%20new%20album%20the%20Uncanny%20Valley%3F",
+        "correct_answer": "Perturbator",
+        "incorrect_answers": [
+          "Carpenter%20Brut",
+          "GOST",
+          "Dan%20Terminus%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20Prokofiev%27s%20%27Peter%20and%20the%20Wolf%27%2C%20the%20wolf%20itself%20is%20represented%20by%20a%20trio%20of%20which%20musical%20instrument%3F",
+        "correct_answer": "French%20horn",
+        "incorrect_answers": [
+          "Oboe",
+          "Clarinet",
+          "Cello"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20album%20did%20Gorillaz%20release%20in%202017%3F",
+        "correct_answer": "Humanz",
+        "incorrect_answers": [
+          "Plastic%20Beach",
+          "The%20Fall",
+          "Demon%20Days"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "With%20his%20distinctive%20red%20hair%2C%20which%20Italian%20composer%2C%20born%20in%201678%2C%20was%20known%20as%20the%20%27Red%20Priest%27%3F",
+        "correct_answer": "Vivaldi",
+        "incorrect_answers": [
+          "Puccini",
+          "Verdi",
+          "Monteverdi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20strings%20are%20there%20on%20a%20cello%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "5",
+          "6",
+          "8"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20are%20the%20first%20few%20words%20in%20the%20lyrics%20of%20A-Ha%27s%20%27Take%20On%20Me%27%3F",
+        "correct_answer": "We%27re%20talking%20away",
+        "incorrect_answers": [
+          "We%27re%20dreaming%20today",
+          "We%27re%20finding%20a%20way",
+          "We%27re%20blocking%20the%20way"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Ozzy%20Osbourne%20was%20the%20lead%20singer%20for%20what%20metal%20band%3F",
+        "correct_answer": "Black%20Sabbath",
+        "incorrect_answers": [
+          "AC%2FDC",
+          "Iron%20Maiden",
+          "Judas%20Priest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20had%20hits%20in%201975%20with%20the%20songs%2C%20%27One%20Of%20These%20Nights%27%20%26%20%27Lyin%20Eyes%27%3F",
+        "correct_answer": "The%20Eagles",
+        "incorrect_answers": [
+          "Fools%20Gold",
+          "The%20Doobie%20Brothers",
+          "Fleetwood%20Mac"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20popular%20rock%20band%20has%20a%20one-armed%20drummer%3F",
+        "correct_answer": "Def%20Leppard",
+        "incorrect_answers": [
+          "The%20Beatles",
+          "Lynyrd%20Skynyrd",
+          "Foreigner"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20the%20name%20of%20a%20song%20by%20Tears%20for%20Fears%3F",
+        "correct_answer": "Shout",
+        "incorrect_answers": [
+          "Scream",
+          "Yell",
+          "Shriek"
+        ]
+      }
+    ]
+  }
+}

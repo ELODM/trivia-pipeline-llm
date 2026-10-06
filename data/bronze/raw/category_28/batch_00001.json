@@ -1,0 +1,598 @@
+{
+  "category_id": 28,
+  "fetched_at": "2026-10-06T10:08:05.423914+00:00",
+  "request": {
+    "amount": 50,
+    "category": 28,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What%20country%20was%20the%20Trabant%20601%20manufactured%20in%3F",
+        "correct_answer": "East%20Germany",
+        "incorrect_answers": [
+          "Soviet%20Union",
+          "Hungary",
+          "France"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The%20Chevrolet%20Corvette%20has%20always%20been%20made%20exclusively%20with%20V8%20engines%20only.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20animal%20features%20on%20the%20logo%20for%20Abarth%2C%20the%20motorsport%20division%20of%20Fiat%3F",
+        "correct_answer": "Scorpion",
+        "incorrect_answers": [
+          "Snake",
+          "Bull",
+          "Horse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What%20manufacturer%20made%20the%20car%20used%20in%20Back%20to%20the%20Future%3F",
+        "correct_answer": "DeLorean",
+        "incorrect_answers": [
+          "Ford",
+          "Toyota",
+          "Daihatsu"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The%20snowmobile%20was%20invented%20by%20Canadian%20Joseph-Armand%20Bombardier%20in%201937.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "When%20was%20Tesla%20founded%3F",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+          "2008",
+          "2005",
+          "2007"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20of%20the%20following%20passenger%20jets%20is%20the%20longest%3F",
+        "correct_answer": "Boeing%20747-8",
+        "incorrect_answers": [
+          "Airbus%20A350-1000",
+          "Airbus%20A330-200",
+          "Boeing%20787-10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "During%20World%20War%202%2C%20with%20tank%20was%20the%20most%20fear%20by%20the%20allies%3F",
+        "correct_answer": "PanzerKampfwagen%20V%20Panther",
+        "incorrect_answers": [
+          "Marder%20III",
+          "Mks%20Matilda%20II",
+          "PanzerKampfwagen%20VI%20Tiger%20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The%20Honda%20Motor%20Corporation%20originates%20in%20Japan",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20car%20manufacturer%20created%20the%20%22Aventador%22%3F",
+        "correct_answer": "Lamborghini",
+        "incorrect_answers": [
+          "Ferrari",
+          "Pagani",
+          "Bugatti"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20country%20has%20the%20international%20vehicle%20registration%20letter%20%27A%27%3F",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+          "Afghanistan",
+          "Australia",
+          "Armenia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which%20car%20tire%20manufacturer%20is%20famous%20for%20its%20%22Eagle%22%20brand%20of%20tires%2C%20and%20is%20the%20official%20tire%20supplier%20of%20NASCAR%3F",
+        "correct_answer": "Goodyear",
+        "incorrect_answers": [
+          "Pirelli",
+          "Bridgestone",
+          "Michelin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The%20LS7%20engine%20is%20how%20many%20cubic%20inches%3F",
+        "correct_answer": "427",
+        "incorrect_answers": [
+          "346",
+          "364",
+          "376"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which%20car%20is%20the%20first%20mass-produced%20hybrid%20vehicle%3F",
+        "correct_answer": "Toyota%20Prius",
+        "incorrect_answers": [
+          "Chevrolet%20Volt",
+          "Honda%20Fit",
+          "Peugeot%20308%20R%20HYbrid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which%20Audi%20does%20not%20use%20Haldex%20based%20all%20wheel%20drive%20system%3F",
+        "correct_answer": "Audi%20A8",
+        "incorrect_answers": [
+          "Audi%20TT",
+          "Audi%20S3",
+          "Audi%20A3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "How%20many%20wheels%20does%20a%20unicycle%20have%3F",
+        "correct_answer": "1",
+        "incorrect_answers": [
+          "4",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which%20of%20the%20following%20vehicles%20from%20Ford%20is%20named%20after%20a%20WW2%20Fighter%20Plane%3F",
+        "correct_answer": "Mustang",
+        "incorrect_answers": [
+          "Explorer",
+          "Ranger",
+          "Galaxy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What%20country%20is%20the%20Hussarya%20supercar%2C%20made%20by%20the%20car%20manufacturer%20%22Arrinera%22%2C%20assembled%20in%3F",
+        "correct_answer": "Poland",
+        "incorrect_answers": [
+          "China",
+          "Sweden",
+          "Italy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which%20Variable%20Valve%20Timing%20technology%20is%20used%20by%20BMW%3F",
+        "correct_answer": "VANOS",
+        "incorrect_answers": [
+          "VVT-iw",
+          "VVEL",
+          "MultiAir"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "When%20was%20Cadillac%20founded%3F",
+        "correct_answer": "1902",
+        "incorrect_answers": [
+          "1964",
+          "1898",
+          "1985"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The%20full%20English%20name%20of%20the%20car%20manufacturer%20BMW%20is%20Bavarian%20Motor%20Works",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which%20of%20the%20following%20collision%20avoidance%20systems%20helps%20airplanes%20avoid%20colliding%20with%20each%20other%3F",
+        "correct_answer": "TCAS",
+        "incorrect_answers": [
+          "GPWS",
+          "OCAS",
+          "TAWS"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "In%201991%2C%20Mazda%20became%20the%20first%20Japanese%20car%20manufacturer%20to%20win%20Le%20Mans.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "There%20is%20a%20Rolls-Royce%20model%20called%20the%20%27Spectre%27",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "What%20engine%20is%20in%20the%20Lexus%20SC400%3F",
+        "correct_answer": "1UZ-FE",
+        "incorrect_answers": [
+          "2JZ-GTE",
+          "7M-GTE",
+          "5M-GE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which%20of%20these%20is%20NOT%20a%20car%20model%20produced%20by%20Malaysian%20car%20manufacturer%20Proton%3F",
+        "correct_answer": "Kelisa",
+        "incorrect_answers": [
+          "Saga",
+          "Perdana",
+          "Inspira"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What%20are%20the%20cylinder-like%20parts%20that%20pump%20up%20and%20down%20within%20the%20engine%3F",
+        "correct_answer": "Pistons",
+        "incorrect_answers": [
+          "Leaf%20Springs",
+          "Radiators",
+          "ABS"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What%20UK%20Train%20does%20NOT%20go%20over%20125MPH%3F",
+        "correct_answer": "Sprinter",
+        "incorrect_answers": [
+          "Class%2043",
+          "Javelin",
+          "Pendolino"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Where%20are%20the%20cars%20of%20the%20brand%20%22Ferrari%22%20manufactured%3F",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+          "Romania",
+          "Germany",
+          "Russia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Volkswagen%27s%20legendary%20VR6%20engine%20has%20cylinders%20positioned%20at%20what%20degree%20angle%3F",
+        "correct_answer": "15%20Degree",
+        "incorrect_answers": [
+          "30%20Degree",
+          "45%20Degree",
+          "90%20Degree"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which%20one%20of%20these%20chassis%20codes%20are%20used%20by%20BMW%203-series%3F",
+        "correct_answer": "E46",
+        "incorrect_answers": [
+          "E39",
+          "E85",
+          "F10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What%20nickname%20was%20given%20to%20Air%20Canada%20Flight%20143%20after%20it%20ran%20out%20of%20fuel%20and%20glided%20to%20safety%20in%201983%3F",
+        "correct_answer": "Gimli%20Glider",
+        "incorrect_answers": [
+          "Gimli%20Microlight",
+          "Gimli%20Chaser",
+          "Gimli%20Superb"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "Which%20of%20the%20following%20FIA%20Rally%20cars%20was%20approved%20for%20use%20in%20the%20Group%20B%20class%20first%3F%20",
+        "correct_answer": "Porsche%20911%20Turbo",
+        "incorrect_answers": [
+          "Audi%20Quattro%20A2",
+          "BMW%20M1",
+          "Lancia%20Rally%20037"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "The%20LS3%20engine%20is%20how%20many%20cubic%20inches%3F",
+        "correct_answer": "376",
+        "incorrect_answers": [
+          "346",
+          "364",
+          "427"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Jaguar%20Cars%20was%20previously%20owned%20by%20which%20car%20manfacturer%3F",
+        "correct_answer": "Ford",
+        "incorrect_answers": [
+          "Chrysler",
+          "General%20Motors",
+          "Fiat"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "When%20BMW%20was%20established%20in%201916%2C%20it%20was%20producing%20automobiles.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What%20is%20the%20name%20of%20Nissan%27s%20most%20popular%20electric%20car%3F",
+        "correct_answer": "Leaf",
+        "incorrect_answers": [
+          "Tree",
+          "Deer",
+          "Roots"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What%20do%20the%204%20Rings%20in%20Audi%27s%20Logo%20represent%3F",
+        "correct_answer": "Previously%20independent%20automobile%20manufacturers",
+        "incorrect_answers": [
+          "States%20in%20which%20Audi%20makes%20the%20most%20sales",
+          "Main%20cities%20vital%20to%20Audi",
+          "Countries%20in%20which%20Audi%20makes%20the%20most%20sales"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "What%20is%20the%20fastest%20road%20legal%20car%20in%20the%20world%3F",
+        "correct_answer": "Koenigsegg%20Agera%20RS",
+        "incorrect_answers": [
+          "Hennessy%20Venom%20GT",
+          "Bugatti%20Veyron%20Super%20Sport",
+          "Pagani%20Huayra%20BC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "What%20year%20did%20the%20Chevrolet%20LUV%20mini%20truck%20make%20its%20debut%3F",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+          "1982",
+          "1975",
+          "1973"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20Russian%20car%20manufacturer%3F",
+        "correct_answer": "BYD",
+        "incorrect_answers": [
+          "Silant",
+          "Dragon",
+          "GAZ"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20car%20brand%20does%20NOT%20belong%20to%20General%20Motors%3F",
+        "correct_answer": "Ford",
+        "incorrect_answers": [
+          "Buick",
+          "Cadillac",
+          "Chevrolet"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "In%201993%20Swedish%20car%20manufacturer%20Saab%20experimented%20with%20replacing%20the%20steering%20wheel%20with%20a%20joystick%20in%20a%20Saab%209000.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "What%20was%20the%20name%20of%20the%20first%20front-wheel-drive%20car%20produced%20by%20Datsun%20%28now%20Nissan%29%3F",
+        "correct_answer": "Cherry",
+        "incorrect_answers": [
+          "Sunny",
+          "Bluebird",
+          "Skyline"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "What%20was%20the%20first%20vehicle%20that%20came%20with%20air%20conditioning%20as%20a%20factory%20standard%3F",
+        "correct_answer": "Packard",
+        "incorrect_answers": [
+          "Tucker",
+          "Ford",
+          "Hudson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20Japanese%20company%20is%20the%20world%27s%20largest%20manufacturer%20of%20motorcycles%3F",
+        "correct_answer": "Honda",
+        "incorrect_answers": [
+          "Yamaha",
+          "Suzuki",
+          "Kawasaki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Vehicles",
+        "question": "Which%20of%20these%20automotive%20brands%20originated%20in%20Sweden%3F",
+        "correct_answer": "Volvo",
+        "incorrect_answers": [
+          "Mercedes",
+          "Acura",
+          "Lincoln"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "Which%20of%20these%20car%20models%20are%20produced%20by%20Lamborghini%3F",
+        "correct_answer": "Aventador",
+        "incorrect_answers": [
+          "Huayra",
+          "918",
+          "Chiron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Vehicles",
+        "question": "The%20British%20Rail%20Class%20700%2C%20Class%20707%20and%20the%20Class%20717%20are%20part%20of%20what%20train%20family%3F",
+        "correct_answer": "Desiro%20City",
+        "incorrect_answers": [
+          "Networker",
+          "Aventra",
+          "Electrostar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Vehicles",
+        "question": "In%202014%2C%20over%206%20million%20General%20Motors%20vehicles%20were%20recalled%20due%20to%20what%20critical%20flaw%3F",
+        "correct_answer": "Faulty%20ignition%20switch",
+        "incorrect_answers": [
+          "Malfunctioning%20gas%20pedal",
+          "Breaking%20fuel%20lines",
+          "Faulty%20brake%20pads"
+        ]
+      }
+    ]
+  }
+}

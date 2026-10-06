@@ -1,0 +1,498 @@
+{
+  "category_id": 18,
+  "fetched_at": "2026-10-06T10:03:33.498417+00:00",
+  "request": {
+    "amount": 42,
+    "category": 18,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20series%20of%20the%20Intel%20HD%20graphics%20generation%20succeeding%20that%20of%20the%205000%20and%206000%20series%20%28Broadwell%29%20is%20called%3A",
+        "correct_answer": "HD%20Graphics%20500",
+        "incorrect_answers": [
+          "HD%20Graphics%20700%20",
+          "HD%20Graphics%20600",
+          "HD%20Graphics%207000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20Cherry%20MX%20mechanical%20keyboard%20switches%20is%20both%20tactile%20and%20clicky%3F",
+        "correct_answer": "Cherry%20MX%20Blue",
+        "incorrect_answers": [
+          "Cherry%20MX%20Black",
+          "Cherry%20MX%20Red",
+          "Cherry%20MX%20Brown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Approximately%20how%20many%20Apple%20I%20personal%20computers%20were%20created%3F",
+        "correct_answer": "200",
+        "incorrect_answers": [
+          "100",
+          "500",
+          "1000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": ".rs%20is%20the%20top-level%20domain%20for%20what%20country%3F",
+        "correct_answer": "Serbia",
+        "incorrect_answers": [
+          "Romania",
+          "Russia",
+          "Rwanda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20the%20following%20is%20a%20personal%20computer%20made%20by%20the%20Japanese%20company%20Fujitsu%3F",
+        "correct_answer": "FM-7",
+        "incorrect_answers": [
+          "PC-9801",
+          "Xmillennium%20",
+          "MSX"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20programming%20language%20was%20developed%20by%20Sun%20Microsystems%20in%201995%3F",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+          "Python",
+          "Solaris%20OS",
+          "C%2B%2B"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20was%20the%20name%20of%20a%20bug%20found%20in%20April%202014%20in%20the%20publicly%20available%20OpenSSL%20cryptography%20library%3F",
+        "correct_answer": "Heartbleed",
+        "incorrect_answers": [
+          "Shellshock",
+          "Corrupted%20Blood",
+          "Shellscript"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": ".at%20is%20the%20top-level%20domain%20for%20what%20country%3F",
+        "correct_answer": "Austria",
+        "incorrect_answers": [
+          "Argentina",
+          "Australia",
+          "Angola"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20internet%20company%20began%20life%20as%20an%20online%20bookstore%20called%20%27Cadabra%27%3F",
+        "correct_answer": "Amazon",
+        "incorrect_answers": [
+          "eBay",
+          "Overstock",
+          "Shopify"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20teapot%20often%20seen%20in%20many%203D%20modeling%20applications%20is%20called%20what%3F",
+        "correct_answer": "Utah%20Teapot",
+        "incorrect_answers": [
+          "Pixar%20Teapot",
+          "3D%20Teapot",
+          "Tennessee%20Teapot"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20Python%20programming%20language%20gets%20its%20name%20from%20the%20British%20comedy%20group%20%22Monty%20Python.%22",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20internet%20protocol%20was%20documented%20in%20RFC%201459%3F",
+        "correct_answer": "IRC",
+        "incorrect_answers": [
+          "HTTP",
+          "HTTPS",
+          "FTP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20domain%20name%20for%20the%20country%20Tuvalu%3F",
+        "correct_answer": ".tv",
+        "incorrect_answers": [
+          ".tu",
+          ".tt",
+          ".tl"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "%22HTML%22%20stands%20for%20Hypertext%20Markup%20Language.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "According%20to%20DeMorgan%27s%20Theorem%2C%20the%20Boolean%20expression%20%28AB%29%27%20is%20equivalent%20to%3A",
+        "correct_answer": "A%27%20%2B%20B%27",
+        "incorrect_answers": [
+          "A%27B%20%2B%20B%27A",
+          "A%27B%27",
+          "AB%27%20%2B%20AB"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20the%20programming%20language%20Java%2C%20which%20of%20these%20keywords%20would%20you%20put%20on%20a%20variable%20to%20make%20sure%20it%20doesn%27t%20get%20modified%3F",
+        "correct_answer": "Final",
+        "incorrect_answers": [
+          "Static",
+          "Private",
+          "Public"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20programming%20language%20%22Python%22%20is%20based%20off%20a%20modified%20version%20of%20%22JavaScript%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20RAID%20array%20type%20is%20associated%20with%20data%20mirroring%3F",
+        "correct_answer": "RAID%201",
+        "incorrect_answers": [
+          "RAID%200",
+          "RAID%2010",
+          "RAID%205"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "FLAC%20stands%20for%20%22Free%20Lossless%20Audio%20Condenser%22%27",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Apple%20was%20on%20the%20verge%20of%20bankruptcy%20in%201997%20and%20was%20saved%20by%20Microsoft",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Nvidia%27s%20headquarters%20are%20based%20in%20which%20Silicon%20Valley%20city%3F",
+        "correct_answer": "Santa%20Clara",
+        "incorrect_answers": [
+          "Palo%20Alto",
+          "Cupertino",
+          "Mountain%20View"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20computer%20OEM%20manufacturer%20Clevo%2C%20known%20for%20its%20Sager%20notebook%20line%2C%20is%20based%20in%20which%20country%3F",
+        "correct_answer": "Taiwan",
+        "incorrect_answers": [
+          "United%20States",
+          "Germany",
+          "China%20%28People%27s%20Republic%20of%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20company%20was%20established%20on%20April%201st%2C%201976%20by%20Steve%20Jobs%2C%20Steve%20Wozniak%20and%20Ronald%20Wayne%3F",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+          "Microsoft",
+          "Atari",
+          "Commodore"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20last%20Windows%20operating%20system%20to%20be%20based%20on%20the%20Windows%209x%20kernel%20was%20Windows%2098.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "The%20T-Mobile%20Sidekick%20smartphone%20is%20a%20re-branded%20version%20of%20the%20Danger%20Hiptop.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Laserjet%20and%20inkjet%20printers%20are%20both%20examples%20of%20what%20type%20of%20printer%3F",
+        "correct_answer": "Non-impact%20printer",
+        "incorrect_answers": [
+          "Impact%20printer",
+          "Daisywheel%20printer",
+          "Dot%20matrix%20printer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Who%20is%20the%20founder%20of%20Palantir%3F",
+        "correct_answer": "Peter%20Thiel",
+        "incorrect_answers": [
+          "Mark%20Zuckerberg",
+          "Marc%20Benioff",
+          "Jack%20Dorsey"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Linus%20Sebastian%20is%20the%20creator%20of%20the%20Linux%20kernel%2C%20which%20went%20on%20to%20be%20used%20in%20Linux%2C%20Android%2C%20and%20Chrome%20OS.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20amount%20of%20bits%20commonly%20equals%20one%20byte%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "1",
+          "2",
+          "64"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "The%20IBM%20PC%20used%20an%20Intel%208008%20microprocessor%20clocked%20at%204.77%20MHz%20and%208%20kilobytes%20of%20memory.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20is%20not%20a%20layer%20in%20the%20OSI%20model%20for%20data%20communications%3F",
+        "correct_answer": "Connection%20Layer",
+        "incorrect_answers": [
+          "Application%20Layer",
+          "Transport%20Layer",
+          "Physical%20Layer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Who%20invented%20the%20%22Spanning%20Tree%20Protocol%22%3F",
+        "correct_answer": "Radia%20Perlman",
+        "incorrect_answers": [
+          "Paul%20Vixie",
+          "Vint%20Cerf",
+          "Michael%20Roberts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20term%20MIME%20stand%20for%2C%20in%20regards%20to%20computing%3F",
+        "correct_answer": "Multipurpose%20Internet%20Mail%20Extensions",
+        "incorrect_answers": [
+          "Mail%20Internet%20Mail%20Exchange",
+          "Multipurpose%20Interleave%20Mail%20Exchange",
+          "Mail%20Interleave%20Method%20Exchange"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20bits%20are%20commonly%20in%20a%20single%20byte%3F",
+        "correct_answer": "Eight%20bits",
+        "incorrect_answers": [
+          "Six%20bits",
+          "Twelve%20bits",
+          "%20Fifteen%20bits"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "How%20fast%20is%20USB%203.1%20Gen%202%20theoretically%3F",
+        "correct_answer": "10%20Gb%2Fs",
+        "incorrect_answers": [
+          "5%20Gb%2Fs",
+          "8%20Gb%2Fs",
+          "1%20Gb%2Fs"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Pointers%20were%20not%20used%20in%20the%20original%20C%20programming%20language%3B%20they%20were%20added%20later%20on%20in%20C%2B%2B.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20Hz%20does%20the%20video%20standard%20PAL%20support%3F",
+        "correct_answer": "50",
+        "incorrect_answers": [
+          "59",
+          "60",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20networking%2C%20what%20does%20OSPF%20stand%20for%3F",
+        "correct_answer": "Open%20Shortest%20Path%20First",
+        "incorrect_answers": [
+          "Order%20State%20Part%20First",
+          "Order%20Sense%20Ping%20Find",
+          "Open%20Signal%20Path%20Finder"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "This%20mobile%20OS%20held%20the%20largest%20market%20share%20in%202012.",
+        "correct_answer": "iOS",
+        "incorrect_answers": [
+          "Android",
+          "BlackBerry",
+          "Symbian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20kilobytes%20in%20one%20gigabyte%20%28in%20decimal%29%3F",
+        "correct_answer": "1000000",
+        "incorrect_answers": [
+          "1024",
+          "1000",
+          "1048576"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20the%20following%20physical%20typologies%20are%20used%20with%20Ethernet%20Networks%3F",
+        "correct_answer": "Star",
+        "incorrect_answers": [
+          "Ring",
+          "Mesh",
+          "Hex"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20code%20name%20for%20the%20mobile%20operating%20system%20Android%207.0%3F",
+        "correct_answer": "Nougat",
+        "incorrect_answers": [
+          "Ice%20Cream%20Sandwich",
+          "Jelly%20Bean",
+          "Marshmallow"
+        ]
+      }
+    ]
+  }
+}

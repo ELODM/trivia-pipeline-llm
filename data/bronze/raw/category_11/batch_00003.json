@@ -1,0 +1,600 @@
+{
+  "category_id": 11,
+  "fetched_at": "2026-10-06T09:58:05.199616+00:00",
+  "request": {
+    "amount": 50,
+    "category": 11,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20wifi%20password%20given%20to%20Stephen%20Strange%20in%20Doctor%20Strange%3F",
+        "correct_answer": "Shambala",
+        "incorrect_answers": [
+          "Peace",
+          "Ancient",
+          "Chakra"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20plays%20Jack%20Burton%20in%20the%20movie%20%22Big%20Trouble%20in%20Little%20China%3F%22",
+        "correct_answer": "Kurt%20Russell",
+        "incorrect_answers": [
+          "Patrick%20Swayze",
+          "John%20Cusack",
+          "Harrison%20Ford"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20movie%20%22The%20Nightmare%20before%20Christmas%22%20was%20all%20done%20with%20physical%20objects.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20original%20Star%20Wars%20trilogy%2C%20Alec%20Guinness%20provided%20the%20voice%20for%20Darth%20Vader.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Ewan%20McGregor%20did%20not%20know%20the%20name%20of%20the%20second%20prequel%20film%20of%20Star%20Wars%20during%20and%20after%20filming.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20villian%20in%20the%202015%20Russian-American%20Sci-Fi%20Movie%20%22Hardcore%20Henry%22%3F",
+        "correct_answer": "Akan",
+        "incorrect_answers": [
+          "Estelle",
+          "Jimmy",
+          "Henry"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20original%20Star%20Wars%3A%20A%20New%20Hope%2C%20Han%20Solo%20is%20the%20first%20to%20shoot%20his%20blaster%20in%20a%20conversation%20with%20Greedo.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Mark%20Wahlberg%20played%20the%20titular%20character%20of%20which%202008%20video-game%20adaptation%3F",
+        "correct_answer": "Max%20Payne",
+        "incorrect_answers": [
+          "Alan%20Wake",
+          "Hitman",
+          "God%20Of%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20documentary%20film%20maker%20wrote%20and%20starred%20in%20the%20film%20%22My%20Scientology%20Movie%22%20which%20first%20debuted%20in%202015%3F",
+        "correct_answer": "Louis%20Theroux",
+        "incorrect_answers": [
+          "Errol%20Morris",
+          "Joe%20Berlinger",
+          "Adam%20Curtis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20supercomputer%20located%20in%20the%20control%20room%20in%20%22Jurassic%20Park%22%20%281993%29%3F",
+        "correct_answer": "Thinking%20Machines%20CM-5",
+        "incorrect_answers": [
+          "Cray%20X-MP",
+          "Cray%20XK7",
+          "IBM%20Blue%20Gene%2FQ"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actors%20made%20up%20the%20trio%20in%20%22The%20Good%2C%20the%20Bad%2C%20and%20the%20Ugly%22%3F%20",
+        "correct_answer": "Clint%20Eastwood%2C%20Eli%20Wallach%2C%20and%20Lee%20Van%20Cleef",
+        "incorrect_answers": [
+          "Sergio%20Leone%2C%20Ennio%20Morricone%2C%20and%20Tonino%20Delli%20Colli",
+          "Yul%20Brynner%2C%20Steve%20McQueen%2C%20and%20Charles%20Bronson",
+          "Aldo%20Giuffr%C3%A8%2C%20Mario%20Brega%2C%20and%20Luigi%20Pistilli"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20is%20the%20main%20protagonist%20in%2C%20the%201985%20film%2C%20Back%20to%20the%20Future%3F",
+        "correct_answer": "Marty%20McFly",
+        "incorrect_answers": [
+          "Emmett%20%22Doc%22%20Brown",
+          "Biff%20Tannen",
+          "George%20McFly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20dog%20that%20played%20Toto%20in%20the%201939%20film%20%22The%20Wizard%20of%20Oz%22%3F",
+        "correct_answer": "Terry",
+        "incorrect_answers": [
+          "Tommy",
+          "Teddy",
+          "Toto"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20wrote%20and%20directed%20the%201986%20film%20%27Platoon%27%3F",
+        "correct_answer": "Oliver%20Stone",
+        "incorrect_answers": [
+          "Francis%20Ford%20Coppola",
+          "Stanley%20Kubrick",
+          "Michael%20Cimino"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20did%20Alfred%20Hitchcock%20use%20as%20blood%20in%20the%20film%20%22Psycho%22%3F%20",
+        "correct_answer": "Chocolate%20syrup",
+        "incorrect_answers": [
+          "Ketchup",
+          "Red%20food%20coloring",
+          "Maple%20syrup"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20which%20film%20does%20Humphrey%20Bogart%20say%20the%20famous%20line%2C%20%22Here%27s%20looking%20at%20you%2C%20kid%22%3F",
+        "correct_answer": "Casablanca",
+        "incorrect_answers": [
+          "The%20Maltese%20Falcon",
+          "The%20Treasure%20of%20the%20Sierra%20Madre",
+          "Citizen%20Kane"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20Xenomorph%20from%20the%20science%20fiction%20film%20%22Alien%22%20has%20acidic%20blood.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201992%20film%20%22Army%20of%20Darkness%22%2C%20what%20name%20does%20Ash%20give%20to%20his%20double-barreled%20shotgun%3F",
+        "correct_answer": "Boomstick",
+        "incorrect_answers": [
+          "Bloomstick",
+          "Blastbranch",
+          "2-Pump%20Chump"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20film%20%22John%20Wick%22%20why%20does%20John%20Wick%20get%20out%20of%20retirement%3F",
+        "correct_answer": "His%20puppy%20is%20killed%20and%20his%20car%20was%20stolen",
+        "incorrect_answers": [
+          "He%20was%20punched%20in%20the%20face",
+          "He%20got%20mugged",
+          "He%20needed%20money"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201976%20film%20%27Taxi%20Driver%27%2C%20how%20many%20guns%20did%20Travis%20buy%20from%20the%20salesman%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "2",
+          "6",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20actors%20have%20NOT%20played%20Spiderman%20in%20the%20movies%3F",
+        "correct_answer": "Michael%20Cera",
+        "incorrect_answers": [
+          "Tobey%20Maguire",
+          "Andrew%20Garfield",
+          "Tom%20Holland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%22Back%20to%20the%20Future%2C%22%20what%20speed%20does%20Doc%20Brown%27s%20DeLorean%20need%20to%20reach%20in%20order%20to%20travel%20through%20time%3F",
+        "correct_answer": "88%20mph",
+        "incorrect_answers": [
+          "77%20mph",
+          "100%20mph",
+          "70%20mph"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Ed%20Koch%2C%20the%20Mayor%20of%20New%20York%20in%201984%2C%20played%20himself%20in%20which%20Muppets%20movie%3F",
+        "correct_answer": "The%20Muppets%20Take%20Manhattan",
+        "incorrect_answers": [
+          "The%20Great%20Muppet%20Caper",
+          "The%20Muppet%20Christmas%20Carol",
+          "The%20Muppet%20Movie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "%20In%20what%20movie%20does%20Eddie%20Murphy%20swap%20identities%20with%20Dan%20Aykroyd%3F",
+        "correct_answer": "Trading%20Places",
+        "incorrect_answers": [
+          "Ghostbusters",
+          "Coming%20to%20America",
+          "The%20Blues%20Brothers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20film%20did%20James%20Cameron%27s%20Avatar%20dethrone%20as%20the%20highest-grossing%20film%20ever%3F",
+        "correct_answer": "Titanic",
+        "incorrect_answers": [
+          "Star%20Wars",
+          "Gone%20with%20the%20Wind",
+          "Jaws"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20actors%2Factresses%20is%20NOT%20a%20part%20of%20the%20cast%20for%20the%202016%20movie%20%22Suicide%20Squad%22%3F",
+        "correct_answer": "Scarlett%20Johansson",
+        "incorrect_answers": [
+          "Jared%20Leto",
+          "Will%20Smith",
+          "Margot%20Robbie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20one%20of%20these%20action%20movies%20are%20shot%20entirely%20in%20one%20take%3F",
+        "correct_answer": "Victoria",
+        "incorrect_answers": [
+          "Ip%20Man%202",
+          "The%20Bourne%20Legacy",
+          "L%C3%A9on%3A%20The%20Professional"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "7-Eleven%20stores%20were%20temporarily%20converted%20into%20Kwik%20E-marts%20to%20promote%20the%20release%20of%20what%20movie%3F",
+        "correct_answer": "The%20Simpsons%20Movie",
+        "incorrect_answers": [
+          "Spider-Man%203",
+          "Shrek%20the%20Third",
+          "Ratatouille"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Actress%20Susan%20Sarandon%20caught%20pneumonia%20during%20filming%20of%20which%20movie%3F",
+        "correct_answer": "The%20Rocky%20Horror%20Picture%20Show",
+        "incorrect_answers": [
+          "Thelma%20and%20Louise",
+          "Dead%20Man%20Walking",
+          "Enchanted"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20voices%20the%20main%20character%20Blu%20in%20the%202011%20animated%20film%20%22Rio%22%3F",
+        "correct_answer": "Jesse%20Eisenberg",
+        "incorrect_answers": [
+          "Michael%20Cera",
+          "Jonah%20Hill",
+          "Zach%20Galifianakis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20first%20movie%20to%20ever%20use%20a%20Wilhelm%20Scream%3F",
+        "correct_answer": "Distant%20Drums",
+        "incorrect_answers": [
+          "Treasure%20of%20the%20Sierra%20Madre",
+          "The%20Charge%20at%20Feather%20River",
+          "Indiana%20Jones"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "%20In%20the%201951%20movie%20%22The%20Day%20The%20Earth%20Stood%20Still%22%20which%20US%20city%20did%20the%20alien%20spaceship%20land%20in%3F",
+        "correct_answer": "Washington%20D.C.",
+        "incorrect_answers": [
+          "%20Los%20Angeles",
+          "New%20York",
+          "Philadelphia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20did%20the%20first%20moving%20picture%20depict%3F",
+        "correct_answer": "A%20galloping%20horse",
+        "incorrect_answers": [
+          "A%20woman%20in%20a%20dress",
+          "A%20man%20walking",
+          "A%20crackling%20fire"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20stand-up%20comedian%20voiced%20the%20talking%20parrot%20%22Iago%22%20in%20Disney%27s%201992%20adaptation%20of%20Aladdin%3F",
+        "correct_answer": "Gilbert%20Gottfried",
+        "incorrect_answers": [
+          "Robin%20Williams",
+          "Pauly%20Shore",
+          "Jonathan%20Freeman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "This%20movie%20contains%20the%20quote%2C%20%22What%20we%27ve%20got%20here%20is%20a%20failure%20to%20communicate.%22",
+        "correct_answer": "Cool%20Hand%20Luke",
+        "incorrect_answers": [
+          "Bonnie%20and%20Clyde",
+          "The%20Graduate",
+          "In%20the%20Heat%20of%20the%20Night"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20what%20year%20was%20the%20first%20Indian%20movie%20submitted%20for%20an%20Oscar%3F",
+        "correct_answer": "1957",
+        "incorrect_answers": [
+          "1962",
+          "1938",
+          "1954"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actress%20portrayed%20Dr.%20Grace%20Augustine%20in%20the%20James%20Cameron%20movie%20%22Avatar%22%3F",
+        "correct_answer": "Sigourney%20Weaver",
+        "incorrect_answers": [
+          "Jessica%20Chastain",
+          "Melissa%20Beckett",
+          "Alyssa%20Monroe%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20is%20the%20main%20antagonist%20of%20Christopher%20Nolan%27s%202012%20film%20%22The%20Dark%20Knight%20Rises%22%3F",
+        "correct_answer": "Bane",
+        "incorrect_answers": [
+          "The%20Joker",
+          "CIA",
+          "The%20Riddler"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20The%20Revenant%2C%20DiCaprio%27s%20character%20hunts%20down%20the%20killer%20of%20his%20son.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20what%20year%20does%20Jurassic%20World%20open%20in%20the%20%22Jurassic%20Park%22%20universe%3F",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+          "2007",
+          "2015",
+          "2020"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20title%20of%20the%20first%20Bond%20movie%2C%20released%20in%201962%3F",
+        "correct_answer": "Dr.%20No",
+        "incorrect_answers": [
+          "From%20Russia%20with%20Love",
+          "Goldfinger",
+          "Thunderball"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20the%201973%20film%20%22American%20Graffiti%22%3F",
+        "correct_answer": "George%20Lucas",
+        "incorrect_answers": [
+          "Ron%20Howard",
+          "Francis%20Ford%20Coppola",
+          "Steven%20Spielberg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20name%20of%20the%20protagonist%20in%20the%20movie%20Commando%20%281985%29%3F",
+        "correct_answer": "John%20Matrix",
+        "incorrect_answers": [
+          "Ben%20Richards",
+          "Douglas%20Quaid",
+          "Harry%20Tasker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20Sgt.%20Gordon%20Elias%20in%20%27Platoon%27%20%281986%29%3F",
+        "correct_answer": "Willem%20Dafoe",
+        "incorrect_answers": [
+          "Charlie%20Sheen",
+          "Matt%20Damon",
+          "Johnny%20Depp"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20%22The%20Hobbit%2C%22%20who%20was%20head%20of%20the%20White%20Council%3F%20",
+        "correct_answer": "Saruman",
+        "incorrect_answers": [
+          "Lady%20Galadriel%20",
+          "Gandalf",
+          "Elrond"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20the%20female%20lead%20in%20the%201933%20film%20%22King%20Kong%22%3F",
+        "correct_answer": "Fay%20Wray",
+        "incorrect_answers": [
+          "Jean%20Harlow",
+          "Vivien%20Leigh",
+          "Mae%20West"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20actors%20has%20only%20been%20in%20a%20Quentin%20Tarantino%20directed%20film%20once%3F",
+        "correct_answer": "John%20Travolta",
+        "incorrect_answers": [
+          "Christoph%20Waltz",
+          "Harvey%20Keitel",
+          "Samuel%20L.%20Jackson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "This%20movie%20contains%20the%20quote%2C%20%22I%20love%20the%20smell%20of%20napalm%20in%20the%20morning%21%22",
+        "correct_answer": "Apocalypse%20Now",
+        "incorrect_answers": [
+          "Platoon",
+          "The%20Deer%20Hunter",
+          "Full%20Metal%20Jacket"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20color%20of%20the%20pills%20in%20the%20Matrix%20were%20Blue%20and%20Yellow.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20plays%20the%20character%20of%20Po%20in%20the%20Kung%20Fu%20Panda%20movies%3F",
+        "correct_answer": "Jack%20Black",
+        "incorrect_answers": [
+          "Mirana%20Jonnes",
+          "McConahey%20Ramses",
+          "Jim%20Petersson"
+        ]
+      }
+    ]
+  }
+}

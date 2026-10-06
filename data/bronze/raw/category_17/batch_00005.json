@@ -1,0 +1,594 @@
+{
+  "category_id": 17,
+  "fetched_at": "2026-10-06T10:03:07.251984+00:00",
+  "request": {
+    "amount": 50,
+    "category": 17,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20legs%20is%20it%20biologically%20impossible%20for%20a%20centipede%20to%20have%3F",
+        "correct_answer": "100",
+        "incorrect_answers": [
+          "26",
+          "50",
+          "74"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20planet%20did%20the%20%22Viking%201%22%20spacecraft%20send%20surface%20images%20of%2C%20starting%20in%201976%3F",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+          "Saturn",
+          "Jupiter",
+          "Venus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20element%20has%20the%20highest%20melting%20point%3F",
+        "correct_answer": "Carbon",
+        "incorrect_answers": [
+          "Tungsten",
+          "Platinum",
+          "Osmium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20LASER%20stand%20for%3F",
+        "correct_answer": "Light%20amplification%20by%20stimulated%20emission%20of%20radiation",
+        "incorrect_answers": [
+          "Lite%20analysing%20by%20stereo%20ecorazer",
+          "Light%20amplifier%20by%20standby%20energy%20of%20radio",
+          "Life%20antimatter%20by%20standing%20entry%20of%20range"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "An%20atom%20contains%20a%20nucleus.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Where%20did%20the%20dog%20breed%20%22Chihuahua%22%20originate%3F",
+        "correct_answer": "Mexico",
+        "incorrect_answers": [
+          "France",
+          "Spain",
+          "Russia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20value%20of%20one%20Calorie%20is%20different%20than%20the%20value%20of%20one%20calorie.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Stars%20consist%20mainly%20of%20hydrogen%20and%20which%20other%20gas%3F",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+          "Oxygen",
+          "Argon",
+          "Nitrogen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20hottest%20planet%20in%20the%20solar%20system",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+          "Jupiter",
+          "Mercury%20",
+          "Mars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20humerus%2C%20paired%20radius%2C%20and%20ulna%20come%20together%20to%20form%20what%20joint%3F",
+        "correct_answer": "Elbow",
+        "incorrect_answers": [
+          "Knee",
+          "Sholder",
+          "Ankle"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Not%20including%20false%20teeth%3B%20A%20human%20has%20two%20sets%20of%20teeth%20in%20their%20lifetime.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20same%20in%20Celsius%20and%20Fahrenheit%3F",
+        "correct_answer": "-40",
+        "incorrect_answers": [
+          "32",
+          "-39",
+          "-42"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "All%20the%20following%20metal%20elements%20are%20liquids%20at%20or%20near%20room%20temperature%20EXCEPT%3A",
+        "correct_answer": "Beryllium",
+        "incorrect_answers": [
+          "Gallium",
+          "Caesium",
+          "Mercury"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20colour%20of%20unoxidized%20blood%3F",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+          "Blue",
+          "Purple",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20organelle%20aids%20in%20synthesis%20of%20DNA%20in%20cells%3F",
+        "correct_answer": "Ribosomes",
+        "incorrect_answers": [
+          "Nuclei",
+          "Lysosomes",
+          "Mitochondria"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20name%20of%20the%20cognitive%20bias%20wherein%20a%20person%20with%20low%20ability%20in%20a%20particular%20skill%20mistake%20themselves%20as%20being%20superior%3F",
+        "correct_answer": "Dunning-Kruger%20effect",
+        "incorrect_answers": [
+          "Meyers-Briggs%20effect",
+          "M%C3%BCller-Lyer%20effect",
+          "Freud-Hall%20effect"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20objects%20are%20equivalent%20to%20one%20mole%3F",
+        "correct_answer": "6.022%20x%2010%5E23",
+        "incorrect_answers": [
+          "6.002%20x%2010%5E22",
+          "6.022%20x%2010%5E22",
+          "6.002%20x%2010%5E23"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20scientific%20term%20for%20%27taste%27%3F",
+        "correct_answer": "Gustatory%20Perception",
+        "incorrect_answers": [
+          "Olfaction",
+          "Somatosensation",
+          "Auditory%20Perception"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Water%20always%20boils%20at%20100%C2%B0C%2C%20212%C2%B0F%2C%20373.15K%2C%20no%20matter%20where%20you%20are.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Igneous%20rocks%20are%20formed%20by%20excessive%20heat%20and%20pressure.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "A%20positron%20is%20an%20antiparticle%20of%20a%20what%3F",
+        "correct_answer": "Electron",
+        "incorrect_answers": [
+          "Neutron",
+          "Proton",
+          "Photon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Salt%20is%20100%25%20composed%20of%20Sodium.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Where%20is%20the%20Gluteus%20Maximus%20muscle%20located%3F",
+        "correct_answer": "Butt",
+        "incorrect_answers": [
+          "Arm",
+          "Head",
+          "Torso"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20horizon%20in%20a%20soil%20profile%20consists%20of%20bedrock%3F",
+        "correct_answer": "R",
+        "incorrect_answers": [
+          "O",
+          "B",
+          "D"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20word%20used%20to%20describe%20an%20earthquake%3F",
+        "correct_answer": "Drop-slide",
+        "incorrect_answers": [
+          "Foreshock",
+          "Strike-slip",
+          "Temblor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "A%20comet%27s%20gaseous%20envelope%20%28which%20creates%20the%20tail%29%20is%20called%20what%3F",
+        "correct_answer": "The%20coma",
+        "incorrect_answers": [
+          "The%20wake",
+          "The%20backwash",
+          "The%20ablative"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20an%20example%20of%20a%20bacterial%20pathogen%3F",
+        "correct_answer": "Cholera",
+        "incorrect_answers": [
+          "Measles%20",
+          "AIDS",
+          "Ringworm"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Approximately%20what%20percentage%20of%20Earth%27s%20atmosphere%20is%20Oxygen%3F",
+        "correct_answer": "21%25",
+        "incorrect_answers": [
+          "54%25",
+          "78%25",
+          "7%25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20core%20of%20the%20Sun%20can%20reach%20which%20temperature%3F",
+        "correct_answer": "27%C2%B0%20Million%20F%20%2815%C2%B0%20Million%20C%29",
+        "incorrect_answers": [
+          "938%2C000%C2%B0%20F%20%28521093.3%C2%B0%20C%29",
+          "8%C2%B0%20Billion%20F%20%28%C2%B04.4%20Billion%20C%29",
+          "Absolute%20Zero%20%28Both%20F%20and%20C%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20is%20not%20a%20type%20of%20neuron%3F",
+        "correct_answer": "Perceptual%20Neuron",
+        "incorrect_answers": [
+          "Sensory%20Neuron",
+          "Motor%20Neuron",
+          "Interneuron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Coulrophobia%20is%20the%20irrational%20fear%20of%20what%3F",
+        "correct_answer": "Clowns",
+        "incorrect_answers": [
+          "Cemeteries",
+          "Needles",
+          "Tunnels"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "At%20what%20temperature%20does%20water%20boil%3F",
+        "correct_answer": "212%C2%B0F",
+        "incorrect_answers": [
+          "200%C2%B0F",
+          "181%C2%B0F",
+          "178%C2%B0F"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20desert%20is%20the%20only%20desert%20in%20the%20world%20where%20the%20%22Saguaro%22%20cactus%20grows%20indigenously%3F",
+        "correct_answer": "The%20Sonoran%20Desert",
+        "incorrect_answers": [
+          "The%20Gobi%20Desert",
+          "The%20Yuma%20Desert",
+          "The%20Arabian%20Desert"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20scientific%20name%20for%20the%20extinct%20hominin%20known%20as%20%22Lucy%22%3F",
+        "correct_answer": "Australopithecus%20Afarensis",
+        "incorrect_answers": [
+          "Australopithecus%20Africanus",
+          "Australopithecus%20Architeuthis",
+          "Australopithecus%20Antaris"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20the%20letter%20%27S%27%20stand%20for%20in%20%27NASA%27%3F",
+        "correct_answer": "Space",
+        "incorrect_answers": [
+          "Science",
+          "Society",
+          "Star"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "An%20organism%20described%20as%20%22heliotropic%22%20has%20a%20tendancy%20to%20move%20towards%20which%20of%20these%20things%3F",
+        "correct_answer": "Light",
+        "incorrect_answers": [
+          "Water",
+          "Trees",
+          "Pollen"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Earth%20revolves%20around%20the%20Sun%20in%20one%20year.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20planets%20are%20there%20in%20the%20Solar%20System%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "9",
+          "11",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Human%20cells%20typically%20have%20how%20many%20copies%20of%20each%20gene%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "1",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20laws%20of%20thermodynamics%20are%20there%3F",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+          "Three",
+          "Two",
+          "Five"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20DNA%20stand%20for%3F",
+        "correct_answer": "Deoxyribonucleic%20Acid",
+        "incorrect_answers": [
+          "Deoxyribogenetic%20Acid",
+          "Deoxyribogenetic%20Atoms",
+          "Detoxic%20Acid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20are%20the%20smallest%20blood%20vessels%20in%20the%20human%20body%3F",
+        "correct_answer": "Capillaries",
+        "incorrect_answers": [
+          "Arterioles",
+          "Veinules",
+          "Lymphatics"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20shape%20of%20the%20Earth%20is%20a%20perfect%20sphere.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Like%20with%20the%20Neanderthals%2C%20Homo%20sapiens%20sapiens%20also%20interbred%20with%20the%20Denisovans.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20physics%2C%20conservation%20of%20energy%20and%20conservation%20of%20momentum%20are%20both%20consequences%20of%20which%20of%20the%20following%3F",
+        "correct_answer": "Noether%27s%20Theorem",
+        "incorrect_answers": [
+          "Bell%27s%20Theorem",
+          "Wick%27s%20Theorem",
+          "Carnot%27s%20Theorem"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20are%20cells%20of%20the%20adaptive%20immune%20system%3F",
+        "correct_answer": "Cytotoxic%20T%20cells",
+        "incorrect_answers": [
+          "Dendritic%20cells",
+          "Natural%20killer%20cells",
+          "White%20blood%20cells"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20stage%20of%20development%20do%20the%20majority%20of%20eukaryotic%20cells%20remain%20in%20for%20most%20of%20their%20life%3F",
+        "correct_answer": "Interphase",
+        "incorrect_answers": [
+          "Prophase",
+          "Stasis",
+          "Telophase"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Pneumonoultramicroscopicsilicovolcanoconiosis%20is%20a%20synonym%20for%20the%20disease%20known%20as%20silicosis.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20elements%20is%20typically%20used%20in%20the%20doping%20of%20the%20semiconductor%20silicon%3F",
+        "correct_answer": "Boron",
+        "incorrect_answers": [
+          "Oxygen",
+          "Carbon",
+          "Iron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20the%20Scoville%20scale%2C%20what%20is%20the%20hottest%20chemical%3F",
+        "correct_answer": "Resiniferatoxin",
+        "incorrect_answers": [
+          "Capsaicin",
+          "Dihydrocapsaicin",
+          "Tinyatoxin"
+        ]
+      }
+    ]
+  }
+}

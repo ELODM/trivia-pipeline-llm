@@ -1,0 +1,602 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:47.107729+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20was%20the%20Gregorian%20Calendar%20first%20adopted%3F",
+        "correct_answer": "1582",
+        "incorrect_answers": [
+          "1623",
+          "1501",
+          "1555"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%201939%2C%20Britain%20and%20France%20declared%20war%20on%20Germany%20after%20it%20invaded%20which%20country%3F",
+        "correct_answer": "Poland",
+        "incorrect_answers": [
+          "Czechoslovakia",
+          "Austria",
+          "Hungary"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20of%20these%20positions%20did%20the%20astronomer%20and%20physicist%20Isaac%20Newton%20not%20hold%3F",
+        "correct_answer": "Surveyor%20to%20the%20City%20of%20London",
+        "incorrect_answers": [
+          "Professor%20of%20Mathematics",
+          "Warden%20of%20the%20Royal%20Mint",
+          "Member%20of%20Parliament"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Nation%20did%20NOT%20have%20a%20Colony%20in%20modern-day%20North%20America%3F",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+          "Spain",
+          "Sweden",
+          "Netherlands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Las%20Vegas%20casino%20was%20originally%20constructed%20and%20operated%20by%20mobster%20Bugsy%20Siegel%3F",
+        "correct_answer": "The%20Flamingo",
+        "incorrect_answers": [
+          "The%20MGM%20Grand",
+          "The%20Sands",
+          "The%20Sahara"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Battle%20of%20Hastings%20was%20fought%20in%20which%20year%3F",
+        "correct_answer": "1066",
+        "incorrect_answers": [
+          "911",
+          "1204",
+          "1420"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20country%20attacked%20the%20USS%20Liberty%20on%20June%208%2C%201967%3F",
+        "correct_answer": "Israel",
+        "incorrect_answers": [
+          "Syria",
+          "Saudi%20Arabia",
+          "Iran"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20capital%20of%20South%20Vietnam%20before%20the%20Vietnam%20War%3F",
+        "correct_answer": "Saigon",
+        "incorrect_answers": [
+          "Ho%20Chi%20Minh%20City",
+          "Hanoi",
+          "Hue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Where%20and%20when%20was%20the%20first%20cardboard%20box%20made%20for%20industrial%20use%3F",
+        "correct_answer": "England%2C%201817",
+        "incorrect_answers": [
+          "United%20States%2C%201817",
+          "England%2C%201917",
+          "United%20States%2C%201917"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20was%20the%20Italian%20firearms%20manufacturer%20Beretta%20founded%3F",
+        "correct_answer": "1526",
+        "incorrect_answers": [
+          "1776",
+          "1923",
+          "1998"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20invented%20the%20%22Flying%20Shuttle%22%20in%201738%3B%20one%20of%20the%20key%20developments%20in%20the%20industrialization%20of%20weaving%3F",
+        "correct_answer": "John%20Kay",
+        "incorrect_answers": [
+          "James%20Hargreaves",
+          "Richard%20Arkwright",
+          "John%20Deere"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20building%20was%20set%20aflame%20on%20August%2024th%2C%201812%3F",
+        "correct_answer": "The%20White%20House",
+        "incorrect_answers": [
+          "Parliament%20Building",
+          "Grand%20National%20Assembly%20Building",
+          "Palace%20of%20the%20Nation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20African%20countries%20was%20most%20successful%20in%20resisting%20colonization%3F",
+        "correct_answer": "Ethiopia",
+        "incorrect_answers": [
+          "C%C3%B4te%20d%E2%80%99Ivoire",
+          "Congo",
+          "Namibia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Roman%20Emperor%20led%20the%20Roman%20Empire%20to%20reach%20its%20maximum%20territorial%20extent%3F",
+        "correct_answer": "Trajan",
+        "incorrect_answers": [
+          "Julius%20Caesar",
+          "Claudius",
+          "Constantine%20the%20Great"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20aim%20of%20the%20%22Umbrella%20Revolution%22%20in%20Hong%20Kong%20in%202014%3F",
+        "correct_answer": "Genuine%20universal%20suffrage",
+        "incorrect_answers": [
+          "Gaining%20Independence",
+          "Go%20back%20under%20British%20Rule",
+          "Lower%20taxes"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Joseph%20Stalin%27s%20real%20name%20was%20Ioseb%20Bessarionis%20dze%20Dzugashvili.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20president%20of%20Kenya%3F",
+        "correct_answer": "Jomo%20Kenyatta",
+        "incorrect_answers": [
+          "Daniel%20Moi",
+          "Tom%20Mboya",
+          "Oginga%20Odinga"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20Physicists%20aided%20Nazi%20Germany%20in%20their%20production%20of%20a%20nuclear%20weapon%3F",
+        "correct_answer": "Werner%20Heisenberg",
+        "incorrect_answers": [
+          "John%20von%20Neumann",
+          "Albert%20Einstein",
+          "Max%20Planck"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Former%20United%20States%20Presidents%20John%20Adams%20and%20Thomas%20Jefferson%20died%20within%20hours%20of%20each%20other.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20Texas%20secede%20from%20Mexico%3F",
+        "correct_answer": "1836",
+        "incorrect_answers": [
+          "1838",
+          "1845",
+          "1844"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "During%20what%20war%20did%20the%20%22Cuban%20Missile%20Crisis%22%20occur%3F",
+        "correct_answer": "Cold%20War",
+        "incorrect_answers": [
+          "World%20War%20I",
+          "World%20War%20II",
+          "Revolutionary%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20construction%20of%20the%20Suez%20Canal%20finish%3F",
+        "correct_answer": "1869",
+        "incorrect_answers": [
+          "1859",
+          "1860",
+          "1850"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20United%20States%20of%20America%20was%20the%20first%20country%20to%20launch%20a%20man%20into%20space.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20battles%20is%20often%20considered%20as%20marking%20the%20beginning%20of%20the%20fall%20of%20the%20Western%20Roman%20Empire%3F",
+        "correct_answer": "Battle%20of%20Adrianople",
+        "incorrect_answers": [
+          "Battle%20of%20Thessalonica",
+          "Battle%20of%20Pollentia",
+          "Battle%20of%20Constantinople"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20year%20was%20the%20United%20States%20Declaration%20of%20Independence%20signed%3F",
+        "correct_answer": "1776",
+        "incorrect_answers": [
+          "1775",
+          "1774",
+          "1777"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Hong%20Kong%20was%20a%20part%20of%20which%20country%27s%20territory%20before%20Britain%20regained%20it%20in%201945%3F",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+          "China",
+          "Phillipines",
+          "French%20Indonesia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Brazil%20used%20to%20be%20an%20empire.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20RMS%20Titanic%20sunk%20during%20her%20maiden%20voyage%20from%20Southampton%2C%20England%20to%20which%20American%20city%3F",
+        "correct_answer": "New%20York%20City",
+        "incorrect_answers": [
+          "Boston%20",
+          "Philadelphia",
+          "Washington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How%20many%20Sister%20Ships%20were%20related%20to%20the%20TItanic%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "4",
+          "3",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20was%20the%20British%20Prime%20Minister%20at%20the%20outbreak%20of%20the%20Second%20World%20War%20in%201939%3F",
+        "correct_answer": "Neville%20Chamberlain",
+        "incorrect_answers": [
+          "Stanley%20Baldwin",
+          "Winston%20Churchill",
+          "Ramsay%20MacDonald"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20these%20countries%20was%20sea%20charted%20in%201500%20by%20the%20Portuguese%20maritime%20explorations%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "India",
+          "Mozambique",
+          "Madagascar"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20USS%20Missouri%20%28BB-63%29%20last%20served%20in%20the%20Korean%20War.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20country%20joined%20the%20EU%20in%202013%3F",
+        "correct_answer": "Croatia",
+        "incorrect_answers": [
+          "Bulgaria",
+          "Slovenia",
+          "Turkey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Spitfire%20L.F.%20Mk%20IX%20had%20what%20engine%3F",
+        "correct_answer": "Merlin%2066",
+        "incorrect_answers": [
+          "Griffon%2065",
+          "Merlin%2050",
+          "Merlin%20X"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20did%20Spanish%20Peninsular%20War%20start%3F",
+        "correct_answer": "1808",
+        "incorrect_answers": [
+          "1806",
+          "1810",
+          "1809"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20North%20American%20Video%20Game%20Crash%20occur%3F",
+        "correct_answer": "1983",
+        "incorrect_answers": [
+          "1982",
+          "1993",
+          "1970"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20original%20name%20of%20New%20York%20City%3F",
+        "correct_answer": "New%20Amsterdam",
+        "incorrect_answers": [
+          "New%20London",
+          "New%20Paris",
+          "New%20Rome"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20discovered%20Penicillin%3F",
+        "correct_answer": "Alexander%20Flemming",
+        "incorrect_answers": [
+          "Marie%20Curie",
+          "Alfred%20Nobel",
+          "Louis%20Pasteur"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20is%20the%20historical%20name%20of%20Sri%20Lanka%3F",
+        "correct_answer": "Ceylon",
+        "incorrect_answers": [
+          "Myanmar",
+          "Colombo",
+          "Badulla"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20was%20%22The%20Gadget%22%2C%20the%20first%20nuclear%20device%20to%20be%20detonated%2C%20tested%3F",
+        "correct_answer": "July%2016%2C%201945",
+        "incorrect_answers": [
+          "June%2022%2C%201945",
+          "August%206%2C%201945",
+          "April%205%2C%201945"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20country%20had%20an%20%22Orange%20Revolution%22%20between%202004%20and%202005%3F",
+        "correct_answer": "Ukraine",
+        "incorrect_answers": [
+          "Belarus",
+          "Latvia",
+          "Lithuania"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20year%20was%20the%20first%20Pizza%20Hut%20restaurant%20opened%3F",
+        "correct_answer": "1958",
+        "incorrect_answers": [
+          "1976",
+          "1965",
+          "1942"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "%20What%20Russian%20automatic%20gas-operated%20assault%20rifle%20was%20developed%20in%20the%20Soviet%20Union%20in%201947%2C%20and%20is%20still%20popularly%20used%20today%3F",
+        "correct_answer": "AK-47",
+        "incorrect_answers": [
+          "RPK",
+          "M16",
+          "MG%2042"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Panama%20Canal%20was%20opened%20to%20traffic%20within%2030%20days%20of%20the%20beginning%20of%20World%20War%20I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20a%20military%20strategist%20in%20the%20Eastern%20Zhou%20period%3F",
+        "correct_answer": "Sun%20Tzu",
+        "incorrect_answers": [
+          "Lu%20Bu",
+          "Genghis%20Khan",
+          "Vlad%20The%20Impaler"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20which%20year%20did%20the%20Invasion%20of%20Kuwait%20by%20Iraq%20occur%3F",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+          "1992",
+          "1988",
+          "1986"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "On%20what%20street%20did%20the%201666%20Great%20Fire%20of%20London%20start%3F",
+        "correct_answer": "Pudding%20Lane",
+        "incorrect_answers": [
+          "Baker%20Street",
+          "Houses%20of%20Parliament",
+          "St%20Paul%27s%20Cathedral"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20oldest%20US%20state%3F",
+        "correct_answer": "Delaware",
+        "incorrect_answers": [
+          "Rhode%20Island",
+          "Maine",
+          "Virginia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On%20which%20aircraft%20carrier%20did%20the%20Doolitte%20Raid%20launch%20from%20on%20April%2018%2C%201942%20during%20World%20War%20II%3F",
+        "correct_answer": "USS%20Hornet",
+        "incorrect_answers": [
+          "USS%20Enterprise",
+          "USS%20Lexington",
+          "USS%20Saratoga"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20William%20the%20Conqueror%20take%20control%20of%20England%3F",
+        "correct_answer": "1066",
+        "incorrect_answers": [
+          "1123",
+          "1205",
+          "901"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:18.296471+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20much%20did%20the%20indie%20game%20%22Cave%20Story%22%20cost%20when%20it%20was%20first%20released%20in%202004%3F",
+        "correct_answer": "%240%20USD",
+        "incorrect_answers": [
+          "%245%20USD",
+          "%2410%20USD",
+          "%2415%20USD"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Touhou%2012%3A%20Undefined%20Fantastic%20Object%2C%20which%20of%20these%20was%20not%20a%20playable%20character%3F",
+        "correct_answer": "Izayoi%20Sakuya",
+        "incorrect_answers": [
+          "Hakurei%20Reimu",
+          "Kirisame%20Marisa",
+          "Kochiya%20Sanae"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22The%20Potato%20Sack%22%20was%20a%20collection%20of%20indie%20games%20released%20on%20Steam%20in%202011%20as%20a%20promotion%20for%20which%20game%3F",
+        "correct_answer": "Portal%202",
+        "incorrect_answers": [
+          "Left%204%20Dead%202",
+          "Half-Life%203",
+          "Dota%202"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Sonic%20the%20Hedgehog%202%22%20originally%20was%20going%20to%20have%20a%20time%20travel%20system.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%20lore%2C%20who%20organized%20the%20creation%20of%20the%20Paladins%3F",
+        "correct_answer": "Alonsus%20Faol",
+        "incorrect_answers": [
+          "Uther%20the%20Lightbringer",
+          "Alexandros%20Mograine",
+          "Sargeras%2C%20The%20Daemon%20Lord"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Counting%20the%20Blood%20and%20Wine%20DLC%2C%20how%20many%20Hero%20Cards%20are%20there%20in%20total%20in%20The%20Witcher%203%3F",
+        "correct_answer": "25",
+        "incorrect_answers": [
+          "30",
+          "20",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "During%20the%20game%27s%20development%2C%20what%20was%20the%20first%20ever%20created%20Pok%C3%A9mon%3F",
+        "correct_answer": "Rhyhorn",
+        "incorrect_answers": [
+          "Bulbasaur",
+          "Mew",
+          "Arceus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20co-op%20shooter%20Payday%202%2C%20which%20contact%20helps%20you%20break%20out%20Hoxton%3F",
+        "correct_answer": "The%20Dentist",
+        "incorrect_answers": [
+          "Vlad",
+          "The%20Elephant",
+          "The%20Butcher"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20vanilla%20Minecraft%2C%20you%20can%20make%20armor%20out%20of%20all%20BUT%20which%20of%20the%20following%3F",
+        "correct_answer": "Emeralds",
+        "incorrect_answers": [
+          "Diamonds",
+          "Iron",
+          "Leather"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Super%20Smash%20Bros.%20series%2C%20which%20game%20first%20featured%20Luigi%20as%20a%20playable%20character%3F",
+        "correct_answer": "Super%20Smash%20Bros.",
+        "incorrect_answers": [
+          "Super%20Smash%20Bros.%20Melee",
+          "Super%20Smash%20Bros.%20Brawl",
+          "Super%20Smash%20Bros.%20for%20Wii%20U"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Terraria%2C%20which%20of%20these%20items%20is%20NOT%20crafted%20at%20a%20Mythril%20Anvil%3F",
+        "correct_answer": "Ankh%20Charm",
+        "incorrect_answers": [
+          "Venom%20Staff",
+          "Sky%20Fracture",
+          "Orichalcum%20Tools"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Riot%20Games%20%22League%20of%20Legends%22%20the%20name%20of%20Halloween%20event%20is%20called%20%22The%20Reckoning%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20games%20was%20NOT%20developed%20by%20Markus%20Persson%3F",
+        "correct_answer": "Dwarf%20Fortress",
+        "incorrect_answers": [
+          "Minecraft",
+          "Wurm%20Online",
+          "0x10c"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%2C%20in%20the%20game%20%22Morenatsu%22%2C%20has%20the%20most%20possible%20endings%20to%20their%20route%2C%20at%20a%20total%20of%20four%20different%20endings%3F",
+        "correct_answer": "Shin%20Kuroi",
+        "incorrect_answers": [
+          "Kouya%20Aotsuki",
+          "Soutarou%20Touno",
+          "Torahiko%20Ooshima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "According%20to%20an%20interview%20with%20%22Super%20Mario%20Land%202%22%20game%20director%20Hiroji%20Kiyotake%2C%20what%20is%20Wario%27s%20favorite%20food%3F",
+        "correct_answer": "Crepes",
+        "incorrect_answers": [
+          "Pizza",
+          "Garlic",
+          "Cheese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20minimum%20level%20in%20the%20Defence%20skill%20is%20needed%20to%20equip%20Dragon%20Armour%20in%20the%20MMO%20RuneScape%3F",
+        "correct_answer": "60",
+        "incorrect_answers": [
+          "65",
+          "55",
+          "70"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20character%20in%20the%20video%20game%20Doki%20Doki%20Literature%20Club%3F",
+        "correct_answer": "Nico",
+        "incorrect_answers": [
+          "Monika",
+          "Natsuki",
+          "Sayori"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Xenoblade%20Chronicles%20X%2C%20which%20class%20has%20a%20sniper%20rifle%20as%20it%27s%20primary%20weapon%3F",
+        "correct_answer": "Partisan%20Eagle",
+        "incorrect_answers": [
+          "Blast%20Fencer",
+          "Winged%20Viper",
+          "Bastion%20Warrior"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20Generation%201%20Pokemon%20did%20NOT%20have%20an%20evolution%20in%20Generation%204%3F",
+        "correct_answer": "Jynx",
+        "incorrect_answers": [
+          "Electabuzz",
+          "Magmar",
+          "Rhydon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Counter-Strike%3A%20Global%20Offensive%2C%20what%27s%20the%20rarity%20of%20discontinued%20skins%20called%3F",
+        "correct_answer": "Contraband",
+        "incorrect_answers": [
+          "Discontinued",
+          "Diminished",
+          "Limited"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20first%20level%20in%20%22Call%20of%20Duty%3A%20World%20at%20War%22%3F",
+        "correct_answer": "Semper%20Fi",
+        "incorrect_answers": [
+          "Ring%20of%20Steel",
+          "Vendetta",
+          "Eviction"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20PAYDAY%20series%2C%20who%20betrayed%20the%20PAYDAY%20gang%20that%20got%20Hoxton%20arrested%3F",
+        "correct_answer": "Hector",
+        "incorrect_answers": [
+          "Vlad",
+          "The%20Dentist",
+          "The%20Elephant"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "M.U.G.E.N.%20is%20the%20name%20for%20what%20type%20of%20Game%20Engine%3F",
+        "correct_answer": "Fighting%20Game",
+        "incorrect_answers": [
+          "Platforming%20Game",
+          "Shooter%20Game",
+          "Puzzle%20Game"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20which%20weapon%20does%20NOT%20deal%20any%20damage%3F",
+        "correct_answer": "31-79%20JGb215",
+        "incorrect_answers": [
+          "Sliquifier",
+          "V-R11",
+          "Wunderwaffe%20DG-2"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Mortal%20Kombat%20was%20almost%20based%20on%20Jean-Claude%20Van%20Damme%20movie.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20are%20Sans%20and%20Papyrus%20named%20after%20in%20%22Undertale%22%3F",
+        "correct_answer": "Fonts",
+        "incorrect_answers": [
+          "Plants",
+          "Companies",
+          "Ancient%20writing%20paper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20features%20was%20added%20in%20the%201994%20game%20%22Heretic%22%20that%20the%20original%20%22DOOM%22%20could%20not%20add%20due%20to%20limitations%3F",
+        "correct_answer": "Looking%20up%20and%20down",
+        "incorrect_answers": [
+          "Increased%20room%20sizes",
+          "Unlimited%20weapons",
+          "Highly-detailed%20textures"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20in%20the%20%22Monster%20Hunter%22%20series%20introduced%20the%20monster%20%22Gobul%22%3F",
+        "correct_answer": "Monster%20Hunter%20Tri",
+        "incorrect_answers": [
+          "Monster%20Hunter%20Freedom%20Unite",
+          "Monster%20Hunter%20Frontier",
+          "Monster%20Hunter%20Generations"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20leader%20of%20Team%20Valor%20in%20Pok%C3%A9mon%20Go%3F",
+        "correct_answer": "Candela",
+        "incorrect_answers": [
+          "Willow",
+          "Blanche",
+          "Spark"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20these%20%22Mortal%20Kombat%22%20characters%20has%20been%20playable%20in%20every%20single%20mainline%20game%3F",
+        "correct_answer": "Sub-Zero",
+        "incorrect_answers": [
+          "Raiden",
+          "Scorpion",
+          "Liu%20Kang"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20long%20are%20all%20the%20cutscenes%20from%20Metal%20Gear%20Solid%204%20%28PS3%2C%202008%29%20combined%3F",
+        "correct_answer": "8%20hours",
+        "incorrect_answers": [
+          "4%20hours",
+          "12%20hours",
+          "5%20hours"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Greek%20letter%20represents%20the%20%22Half-Life%22%20logo%3F",
+        "correct_answer": "Lambda",
+        "incorrect_answers": [
+          "Omega",
+          "Alpha",
+          "Sigma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20video%20game%20sparked%20controversy%20because%20of%20its%20hidden%20%22Hot%20Coffee%22%20minigame%3F",
+        "correct_answer": "Grand%20Theft%20Auto%3A%20San%20Andreas",
+        "incorrect_answers": [
+          "Grand%20Theft%20Auto%3A%20Vice%20City",
+          "Hitman%3A%20Blood%20Money",
+          "Cooking%20Mama"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20original%20%22Super%20Mario%20Bros.%22%2C%20what%20is%20the%20acceleration%20of%20Mario%20if%20he%20was%20in%20free%20fall%3F",
+        "correct_answer": "91.28%20m%2Fs%5E2",
+        "incorrect_answers": [
+          "110%20%20m%2Fs%5E2",
+          "9.42%20%20m%2Fs%5E2",
+          "4.4%20%20m%2Fs%5E2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Closers%20Online%3A%20Dimension%20Conflict%22%2C%20who%20is%20the%20administrator%20of%20team%20Wildh%C3%BCter%3F",
+        "correct_answer": "Alice%20Wiseman",
+        "incorrect_answers": [
+          "Kim%20Yujung",
+          "Wolfgang%20Schneider",
+          "Hong%20Siyoung"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Team%20Fortress%202%22%2C%20which%20class%20is%20able%20to%20double%20jump%3F",
+        "correct_answer": "Scout",
+        "incorrect_answers": [
+          "Spy",
+          "Engineer",
+          "Pyro"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20main%20character%20in%20%22Life%20is%20Strange%22%3F",
+        "correct_answer": "Maxine%20Caulfield",
+        "incorrect_answers": [
+          "Victoria%20Chase",
+          "Stella%20Hill",
+          "Chloe%20Price"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20first%20Sony%20PlayStation%20console%20that%20runs%20on%20CD%3F",
+        "correct_answer": "PS",
+        "incorrect_answers": [
+          "PS2",
+          "PS3",
+          "PS4"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Subnautica%22%2C%20a%20%22Spadefish%22%20will%20attack%20you.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "POLYBIUS%20is%20a%20myth%20arcade%20cabinet%2Fgame",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20company%20develops%20the%20Rock%20Band%20series%20of%20rhythm%20games%3F",
+        "correct_answer": "Harmonix",
+        "incorrect_answers": [
+          "Activision",
+          "Konami",
+          "Electronic%20Arts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Killing%20Floor%20started%20as%20a%20mod%20for%20which%20Unreal%20Engine%202%20game%3F",
+        "correct_answer": "Unreal%20Tournament%202004",
+        "incorrect_answers": [
+          "Deus%20Ex%3A%20Invisible%20War",
+          "Unreal%20Tournament%203",
+          "Postal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Sonic%20the%20Hedgehog%20game%20introudced%20Knuckles%20the%20Echidna%3F",
+        "correct_answer": "Sonic%20the%20Hedgehog%203",
+        "incorrect_answers": [
+          "Sonic%20the%20Hedgehog%202",
+          "Sonic%20%26%20Knuckles",
+          "Sonic%20Adventure"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20protagonist%20of%20the%20hit%20game%2C%20Half-Life%202%20is%20called%3A",
+        "correct_answer": "Gordon%20Freeman",
+        "incorrect_answers": [
+          "Alyx%20Vance",
+          "Isaac%20Kleiner",
+          "Wallace%20Breen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Kingdom%20Hearts%22%2C%20who%20abducts%20Jasmine%20in%20the%20Lamp%20Chamber%3F",
+        "correct_answer": "Riku",
+        "incorrect_answers": [
+          "Riku%20Replica",
+          "Xaldin",
+          "Captain%20Hook"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20was%20the%20first%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20to%20introduce%20the%20%22Wunderwaffe%20DG-2%22%3F",
+        "correct_answer": "Shi%20No%20Numa",
+        "incorrect_answers": [
+          "Tranzit",
+          "Kino%20Der%20Toten",
+          "Der%20Riese"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Portal%2C%20the%20Companion%20Cube%27s%20ARE%20sentient.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Exile%22%20and%20%22Revelations%22%20were%20the%20third%20and%20fourth%20installments%20of%20which%20PC%20game%20series%3F",
+        "correct_answer": "Myst",
+        "incorrect_answers": [
+          "Shivers",
+          "Doom",
+          "Tropico"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Diablo%20lore%2C%20this%20lesser%20evil%20spawned%20from%20one%20of%20the%20seven%20heads%20of%20Tathamet%2C%20and%20was%20known%20as%20the%20Maiden%20of%20Anguish.",
+        "correct_answer": "Andariel",
+        "incorrect_answers": [
+          "Valla",
+          "Malthael",
+          "Kashya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%27s%20the%20Team%20Fortress%202%20Scout%27s%20city%20of%20origin%3F",
+        "correct_answer": "Boston",
+        "incorrect_answers": [
+          "Sydney",
+          "Detroit",
+          "New%20York"
+        ]
+      }
+    ]
+  }
+}

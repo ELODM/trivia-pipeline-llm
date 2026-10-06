@@ -1,0 +1,600 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:34.407675+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20capital%20of%20the%20US%20State%20Ohio%20is%20the%20city%20of%20Chillicothe.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20located%20the%20FURTHEST%20away%20from%20the%20South%20China%20Sea%3F",
+        "correct_answer": "Bangladesh",
+        "incorrect_answers": [
+          "Malaysia",
+          "Vietnam",
+          "Philippines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20city%20of%20Bermuda%3F",
+        "correct_answer": "Hamilton",
+        "incorrect_answers": [
+          "Santo%20Dominigo",
+          "San%20Juan",
+          "Havana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20NOT%20a%20city%20in%20Saudi%20Arabia%3F",
+        "correct_answer": "Dubai",
+        "incorrect_answers": [
+          "Riyadh",
+          "Mecca",
+          "Medina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20countries%20is%20an%20island%3F",
+        "correct_answer": "Cyprus",
+        "incorrect_answers": [
+          "Azerbaijan",
+          "El%20Salvador",
+          "Djibouti"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20city%20is%20known%20as%20the%20Rose%20Capital%20of%20the%20World%3F",
+        "correct_answer": "Tyler%2C%20Texas",
+        "incorrect_answers": [
+          "San%20Diego%2C%20California",
+          "Miami%2C%20Florida",
+          "Anaheim%2C%20California"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20cities%20has%20a%204%C2%B0%20East%20longitude.%20",
+        "correct_answer": "Amsterdam",
+        "incorrect_answers": [
+          "Rio%20de%20Janero",
+          "Toronto",
+          "Hong%20Kong"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20tallest%20mountain%20in%20Canada%3F",
+        "correct_answer": "Mount%20Logan",
+        "incorrect_answers": [
+          "Mont%20Tremblant",
+          "Whistler%20Mountain",
+          "Blue%20Mountain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "All%20of%20the%20following%20are%20towns%2Fvillages%20in%20the%20Pacific%20Island%20nation%20of%20Kiribati%20EXCEPT%3A",
+        "correct_answer": "Urutora",
+        "incorrect_answers": [
+          "Rungata",
+          "London",
+          "Washington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20time%20zones%20are%20in%20Russia%3F",
+        "correct_answer": "11",
+        "incorrect_answers": [
+          "8",
+          "5",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20NOT%20an%20island%20that%20is%20part%20of%20the%20Philippines%3F",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+          "Luzon",
+          "Mindanao",
+          "Palawan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20Polish%20city%20known%20to%20Germans%20as%20Danzig%3F",
+        "correct_answer": "Gda%C5%84sk",
+        "incorrect_answers": [
+          "Warsaw",
+          "Zakopane",
+          "Pozna%C5%84"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Suriname%3F",
+        "correct_answer": "Paramaribo",
+        "incorrect_answers": [
+          "Antananarivo",
+          "Tegucigalpa",
+          "Sucre"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20US%20state%20is%20nicknamed%20%22The%20Golden%20State%22%3F",
+        "correct_answer": "California",
+        "incorrect_answers": [
+          "Florida",
+          "New%20Mexico",
+          "Alaska"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Washington%2C%20D.C.%20is%20considered%20a%20US%20state.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20former%20Yugoslavian%20states%20is%20landlocked%3F",
+        "correct_answer": "Serbia",
+        "incorrect_answers": [
+          "Bosnia%20and%20Herzegovina",
+          "Montenegro",
+          "Croatia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Harvard%20University%20is%20located%20in%20which%20city%3F",
+        "correct_answer": "Cambridge",
+        "incorrect_answers": [
+          "Providence",
+          "New%20York",
+          "Washington%20D.C."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20longest%20shared%20border%20in%20the%20world%20can%20be%20found%20between%20which%20two%20nations%3F",
+        "correct_answer": "Canada%20and%20the%20United%20States",
+        "incorrect_answers": [
+          "Chile%20and%20Argentina",
+          "Russia%20and%20China",
+          "India%20and%20Pakistan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How%20many%20stations%20does%20the%20Central%20Line%20have%20on%20the%20London%20Underground%3F",
+        "correct_answer": "49",
+        "incorrect_answers": [
+          "51",
+          "43",
+          "47"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "There%20is%2047%20prefectures%20in%20Japan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Norway%20has%20a%20larger%20land%20area%20than%20Sweden.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20Laos%3F",
+        "correct_answer": "Country",
+        "incorrect_answers": [
+          "Region",
+          "River",
+          "City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Ecuador%3F",
+        "correct_answer": "Quito",
+        "incorrect_answers": [
+          "Bogota",
+          "Santiago",
+          "Santa%20F%C3%A9"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20language%20families%20is%20the%20most%20controversial%20amongst%20modern%20linguists%3F",
+        "correct_answer": "Altaic",
+        "incorrect_answers": [
+          "Sino-Tibetan",
+          "Dravidian",
+          "Indo-European"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20tall%20is%20One%20World%20Trade%20Center%20in%20New%20York%20City%3F",
+        "correct_answer": "1%2C776%20ft",
+        "incorrect_answers": [
+          "1%2C888%20ft",
+          "1%2C225%20ft",
+          "1%2C960%20ft"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20timezones%20does%20Russia%20have%3F",
+        "correct_answer": "11",
+        "incorrect_answers": [
+          "6",
+          "24",
+          "16"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20ocean%20borders%20the%20west%20coast%20of%20the%20United%20States%3F",
+        "correct_answer": "Pacific",
+        "incorrect_answers": [
+          "Atlantic",
+          "Indian",
+          "Arctic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Antarctica%20is%20the%20largest%20desert%20in%20the%20world.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20is%20the%20only%20US%20state%20located%20entirely%20within%20the%20Appalachia%20region%3F",
+        "correct_answer": "West%20Virginia",
+        "incorrect_answers": [
+          "Pennsylvania",
+          "Alabama",
+          "Kentucky"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20not%20a%20United%20Nations%20member%20state%3F",
+        "correct_answer": "Niue",
+        "incorrect_answers": [
+          "Tuvalu",
+          "South%20Sudan",
+          "Montenegro"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Bosnia%20and%20Herzegovina%20is%20a%20country%20located%20in%20the%20Baltic%20region%20in%20Europe.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20NOT%20an%20Australian%20state%20or%20territory%3F",
+        "correct_answer": "Alberta",
+        "incorrect_answers": [
+          "New%20South%20Wales",
+          "Victoria",
+          "Queensland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20continent%20is%20the%20country%20Lesotho%20in%3F",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+          "Asia",
+          "South%20America",
+          "Europe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Chile%3F",
+        "correct_answer": "Santiago",
+        "incorrect_answers": [
+          "Valpara%C3%ADso",
+          "Copiap%C3%B3",
+          "Antofagasta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20the%20US%20State%20of%20New%20York%3F",
+        "correct_answer": "Albany",
+        "incorrect_answers": [
+          "Buffalo",
+          "New%20York",
+          "Rochester"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Miami%20is%20Florida%27s%20largest%20city.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20city%20is%20the%20capital%20of%20the%20United%20States%20of%20America%3F",
+        "correct_answer": "Washington%20D.C",
+        "incorrect_answers": [
+          "Seattle",
+          "Albany",
+          "Los%20Angeles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20landlocked%20countries%20is%20entirely%20contained%20within%20another%20country%3F",
+        "correct_answer": "Lesotho",
+        "incorrect_answers": [
+          "Burkina%20Faso",
+          "Mongolia",
+          "Luxembourg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20states%20are%20in%20Australia%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "7",
+          "8",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20the%20name%20of%20the%20largest%20city%20in%20the%20US%20state%20Tennessee%3F",
+        "correct_answer": "Memphis",
+        "incorrect_answers": [
+          "Thebes",
+          "Alexandria",
+          "Luxor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Peru%3F",
+        "correct_answer": "Lima",
+        "incorrect_answers": [
+          "Santiago",
+          "Montevideo",
+          "Buenos%20Aires"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20formerly%20rich%20fishing%20grounds%20off%20the%20island%20of%20Newfoundland%2C%20Canada%3F",
+        "correct_answer": "Grand%20Banks",
+        "incorrect_answers": [
+          "Great%20Barrier%20Reef",
+          "Mariana%20Trench",
+          "Hudson%20Bay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20busiest%20port%20in%20Europe%3F",
+        "correct_answer": "Port%20of%20Rotterdam",
+        "incorrect_answers": [
+          "Port%20of%20Antwerp",
+          "Port%20of%20Hamburg",
+          "Port%20of%20Amsterdam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20languages%20does%20NOT%20use%20the%20Latin%20alphabet%3F",
+        "correct_answer": "Georgian",
+        "incorrect_answers": [
+          "Turkish",
+          "Swahili",
+          "Vietnamese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20World%20Health%20Organization%20headquarters%20is%20located%20in%20which%20European%20country%3F",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+          "United%20Kingdom",
+          "France",
+          "Belgium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20is%20Hadrian%27s%20Wall%20located%3F",
+        "correct_answer": "Carlisle%2C%20England",
+        "incorrect_answers": [
+          "Rome%2C%20Italy",
+          "Alexandria%2C%20Egypt",
+          "Dublin%2C%20Ireland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20European%20languages%20is%20classified%20as%20a%20%22language%20isolate%3F%22",
+        "correct_answer": "Basque",
+        "incorrect_answers": [
+          "Galician",
+          "Maltese",
+          "Hungarian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Guyana%20is%20in%20which%20continent%3F",
+        "correct_answer": "South%20America",
+        "incorrect_answers": [
+          "Africa",
+          "North%20America",
+          "Asia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20not%20written%20in%20its%20native%20language%3F",
+        "correct_answer": "Slova%C5%A1ko",
+        "incorrect_answers": [
+          "Suomi",
+          "Schweiz",
+          "Ell%C3%A1da"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20is%20the%20smallest%20country%20in%20the%20world%3F",
+        "correct_answer": "Vatican%20City",
+        "incorrect_answers": [
+          "Lesotho",
+          "Monaco%20City",
+          "Titania"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "category_id": 27,
+  "fetched_at": "2026-10-06T10:07:54.689250+00:00",
+  "request": {
+    "amount": 49,
+    "category": 27,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "A%20carnivorous%20animal%20eats%20flesh%2C%20what%20does%20a%20nucivorous%20animal%20eat%3F",
+        "correct_answer": "Nuts",
+        "incorrect_answers": [
+          "Nothing",
+          "Fruit",
+          "Seaweed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "How%20many%20known%20living%20species%20of%20hyenas%20are%20there%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "8",
+          "2",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Unlike%20on%20most%20salamanders%2C%20this%20part%20of%20a%20newt%20is%20flat%3F",
+        "correct_answer": "Tail",
+        "incorrect_answers": [
+          "Head",
+          "Teeth",
+          "Feet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20does%20%22hippopotamus%22%20mean%20and%20in%20what%20langauge%3F",
+        "correct_answer": "River%20Horse%20%28Greek%29",
+        "incorrect_answers": [
+          "River%20Horse%20%28Latin%29",
+          "Fat%20Pig%20%28Greek%29",
+          "Fat%20Pig%20%28Latin%29"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Hyenas%20are%20more%20closely%20related%20to%20cats%20than%20to%20dogs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which%20of%20these%20animals%20is%20NOT%20a%20lizard%3F",
+        "correct_answer": "Tuatara",
+        "incorrect_answers": [
+          "Komodo%20Dragon",
+          "Gila%20Monster",
+          "Green%20Iguana"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The%20Axolotl%20is%20an%20amphibian%20that%20can%20spend%20its%20whole%20life%20in%20a%20larval%20state.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20name%20of%20the%20copper-rich%20protein%20that%20creates%20the%20blue%20blood%20in%20the%20Antarctic%20octopus%3F",
+        "correct_answer": "Hemocyanin",
+        "incorrect_answers": [
+          "Cytochrome",
+          "Iron",
+          "Methionine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20is%20the%20collective%20noun%20for%20a%20group%20of%20crows%3F",
+        "correct_answer": "Murder",
+        "incorrect_answers": [
+          "Pack",
+          "Gaggle",
+          "Herd"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Chronic%20Wasting%20Disease%20%28CWD%29%20exclusively%20infects%20members%20of%20which%20family%20of%20animals%3F",
+        "correct_answer": "Cervids",
+        "incorrect_answers": [
+          "Hominids",
+          "Felids",
+          "Canids"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20national%20bird%20of%20Bahrain%3F",
+        "correct_answer": "Bulbul",
+        "incorrect_answers": [
+          "Hummingbird",
+          "Falcon",
+          "Sparrow"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Cats%20have%20whiskers%20under%20their%20legs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which%20species%20is%20a%20%22mountain%20chicken%22%3F",
+        "correct_answer": "Frog",
+        "incorrect_answers": [
+          "Chicken",
+          "Horse",
+          "Fly"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Sea%20sponges%20can%20have%20hearts.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "By%20definition%2C%20where%20does%20an%20abyssopelagic%20animal%20live%3F",
+        "correct_answer": "At%20the%20bottom%20of%20the%20ocean",
+        "incorrect_answers": [
+          "In%20the%20desert",
+          "On%20top%20of%20a%20mountain",
+          "Inside%20a%20tree"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "An%20octopus%20can%20fit%20through%20any%20hole%20larger%20than%20its%20beak.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "%22Decapods%22%20are%20an%20order%20of%20ten-footed%20crustaceans.%20%20Which%20of%20these%20are%20NOT%20decapods%3F",
+        "correct_answer": "Krill",
+        "incorrect_answers": [
+          "Lobsters",
+          "Shrimp",
+          "Crabs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Wombats%20are%20native%20to%20which%20Country%3F",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+          "New%20Zealand",
+          "Papua%20New%20Guinea",
+          "Palau"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Zebras%20are%20white%20with%20black%20stripes.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The%20freshwater%20amphibian%2C%20the%20Axolotl%2C%20can%20regrow%20it%27s%20limbs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which%20is%20the%20national%20animal%20of%20India%3F",
+        "correct_answer": "Tiger",
+        "incorrect_answers": [
+          "Lion",
+          "Horse",
+          "Camel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20is%20Grumpy%20Cat%27s%20real%20name%3F",
+        "correct_answer": "Tardar%20Sauce",
+        "incorrect_answers": [
+          "Sauce",
+          "Minnie",
+          "Broccoli"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20scientific%20name%20of%20the%20cheetah%3F",
+        "correct_answer": "Acinonyx%20jubatus",
+        "incorrect_answers": [
+          "Panthera%20onca",
+          "Lynx%20rufus",
+          "Felis%20catus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20common%20term%20for%20bovine%20spongiform%20encephalopathy%20%28BSE%29%3F",
+        "correct_answer": "Mad%20Cow%20disease",
+        "incorrect_answers": [
+          "Weil%27s%20disease",
+          "Milk%20fever",
+          "Foot-and-mouth%20disease"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits%20can%27t%20vomit.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Tigers%20have%20one%20colour%20of%20skin%20despite%20the%20stripey%20fur.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20scientific%20family%20does%20the%20Aardwolf%20belong%20to%3F",
+        "correct_answer": "Hyaenidae",
+        "incorrect_answers": [
+          "Canidae",
+          "Felidae",
+          "Eupleridae"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which%20of%20these%20animals%20are%20not%20real%3F",
+        "correct_answer": "Nemean%20Lion",
+        "incorrect_answers": [
+          "Sea%20Dragon",
+          "Tasmanian%20Devil",
+          "Giant%20Squid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "How%20many%20legs%20do%20butterflies%20have%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "2",
+          "4",
+          "0"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20dog%20breed%20is%20one%20of%20the%20oldest%20breeds%20of%20dog%20and%20has%20flourished%20since%20before%20400%20BCE.",
+        "correct_answer": "Pugs",
+        "incorrect_answers": [
+          "Bulldogs",
+          "Boxers",
+          "Chihuahua"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20average%20amount%20of%20chinchillas%20born%20into%20a%20single%20litter%3F",
+        "correct_answer": "2-3",
+        "incorrect_answers": [
+          "10-15",
+          "5-8",
+          "15-18"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which%20of%20these%20is%20a%20colony%20of%20polyps%20and%20not%20a%20jellyfish%3F",
+        "correct_answer": "Portuguese%20Man-of-War",
+        "incorrect_answers": [
+          "Sea%20Wasp",
+          "Irukandji",
+          "Sea%20Nettle"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The%20Killer%20Whale%20is%20considered%20a%20type%20of%20dolphin.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20%22mountain%20chicken%22%20is%20a%20chicken.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20scientific%20name%20for%20the%20Bald%20Eagle%3F",
+        "correct_answer": "Haliaeetus%20Leucocephalus%20",
+        "incorrect_answers": [
+          "Tyto%20Alba",
+          "Cyanocitta%20Cristata",
+          "Aquila%20Chrysaetos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "To%20which%20biological%20phylum%20do%20all%20mammals%2C%20birds%20and%20reptiles%20belong%3F",
+        "correct_answer": "Chordata",
+        "incorrect_answers": [
+          "Echinodermata",
+          "Annelida",
+          "Placazoa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20is%20the%20fastest%20%20land%20animal%3F",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+          "Lion",
+          "Thomson%E2%80%99s%20Gazelle",
+          "Pronghorn%20Antelope"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20name%20of%20the%20family%20that%20the%20domestic%20cat%20is%20a%20member%20of%3F",
+        "correct_answer": "Felidae",
+        "incorrect_answers": [
+          "Felinae",
+          "Felis",
+          "Cat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which%20dog%20breed%20is%20named%20after%20a%20region%20in%20Croatia",
+        "correct_answer": "Dalmatian",
+        "incorrect_answers": [
+          "Pekingnese",
+          "Chihuahua%20",
+          "Pomeranian"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "In%202016%2C%20the%20IUCN%20reclassified%20the%20status%20of%20Giant%20Pandas%20from%20endangered%20to%20vulnerable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "%22Kamea%2C%22%20the%20Gilbertese%20Islander%20word%20for%20dog%2C%20is%20derived%20from%20the%20English%20phrase%20%22Come%20here%21%22",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20color%20is%20a%20Steller%27s%20Jay%3F",
+        "correct_answer": "blue%20and%20black",
+        "incorrect_answers": [
+          "blue%20and%20grey",
+          "blue%20and%20white",
+          "grey%20and%20black"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A%20flock%20of%20crows%20is%20known%20as%20a%20homicide.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20scientific%20name%20of%20the%20Common%20Chimpanzee%3F",
+        "correct_answer": "Pan%20troglodytes",
+        "incorrect_answers": [
+          "Gorilla%20gorilla",
+          "Pan%20paniscus",
+          "Panthera%20leo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Cashmere%20is%20the%20wool%20from%20which%20kind%20of%20animal%3F",
+        "correct_answer": "Goat",
+        "incorrect_answers": [
+          "Sheep",
+          "Camel",
+          "Llama"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20world%27s%20longest%20venomous%20snake%3F",
+        "correct_answer": "King%20Cobra",
+        "incorrect_answers": [
+          "Green%20Anaconda",
+          "Inland%20Taipan",
+          "Yellow%20Bellied%20Sea%20Snake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20bird%20is%20born%20with%20claws%20on%20its%20wing%20digits%3F",
+        "correct_answer": "Hoatzin",
+        "incorrect_answers": [
+          "Cormorant",
+          "Cassowary",
+          "Secretary%20bird"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which%20species%20of%20Brown%20Bear%20is%20not%20extinct%3F",
+        "correct_answer": "Syrian%20Brown%20Bear",
+        "incorrect_answers": [
+          "California%20Grizzly%20Bear",
+          "Atlas%20Bear",
+          "Mexican%20Grizzly%20Bear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20type%20of%20animal%20is%20a%20natterjack%3F",
+        "correct_answer": "Toad",
+        "incorrect_answers": [
+          "Bird",
+          "Fish",
+          "Insect"
+        ]
+      }
+    ]
+  }
+}

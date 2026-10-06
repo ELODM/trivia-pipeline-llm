@@ -1,0 +1,598 @@
+{
+  "category_id": 17,
+  "fetched_at": "2026-10-06T10:03:02.314899+00:00",
+  "request": {
+    "amount": 50,
+    "category": 17,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Gannymede%20is%20the%20largest%20moon%20of%20which%20planet%3F",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+          "Uranus",
+          "Neptune",
+          "Mars"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Scientists%20accidentally%20killed%20the%20once%20known%20world%27s%20oldest%20living%20creature%2C%20a%20mollusc%2C%20known%20to%20be%20aged%20as%20507%20years%20old.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20atomic%20number%20of%20the%20element%20Strontium%3F",
+        "correct_answer": "38",
+        "incorrect_answers": [
+          "73",
+          "47",
+          "11"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20aeronautics%2C%20flaps%20and%20slats%20are%20used%20to%20control%20what%20on%20an%20aircraft%3F",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+          "Thrust",
+          "Drag",
+          "Weight%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Dry%20ice%20is%20the%20solid%20form%20of%20what%20substance%3F",
+        "correct_answer": "Carbon%20dioxide",
+        "incorrect_answers": [
+          "Nitrogen",
+          "Ammonia",
+          "Oxygen"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "An%20average%20human%20can%20go%20two%20weeks%20without%20water.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20medical%20condition%20osteoporosis%20affects%20which%20part%20of%20the%20body%3F",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+          "Skin",
+          "Brain",
+          "Heart"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20not%20one%20of%20the%20groups%20on%20the%20periodic%20table%3F",
+        "correct_answer": "Fluorines",
+        "incorrect_answers": [
+          "Alkali%20Metals",
+          "Halogens",
+          "Noble%20Gases"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20element%20has%20the%20chemical%20symbol%20%27Fe%27%3F",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+          "Gold",
+          "Silver",
+          "Tin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20name%20is%20given%20to%20all%20baby%20marsupials%3F",
+        "correct_answer": "Joey",
+        "incorrect_answers": [
+          "Calf",
+          "Pup",
+          "Cub"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20men%20does%20not%20have%20a%20chemical%20element%20named%20after%20him%3F",
+        "correct_answer": "Sir%20Isaac%20Newton",
+        "incorrect_answers": [
+          "Albert%20Einstein",
+          "Niels%20Bohr",
+          "Enrico%20Fermi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "When%20the%20Falcon%20Heavy%20was%20launched%20on%20it%27s%20test%20flight%2C%20what%20was%20the%20only%20part%20of%20the%20operation%20that%20failed%3F",
+        "correct_answer": "Center%20Core%20Landing",
+        "incorrect_answers": [
+          "Side%20Booster%20Landing",
+          "Deployment%20of%20Starman",
+          "Ignition%20and%20Liftoff"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20one%20of%20these%20is%20scientific%20term%20for%20%22Brain%20Freeze%22%3F",
+        "correct_answer": "Sphenopalatine%20Ganglioneuralgia",
+        "incorrect_answers": [
+          "Hyacinthoides%20Italica",
+          "Amaranthus%20Retroflexus",
+          "Amblyomma%20Americanum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20color%20cannot%20be%20produced%20in%20Roses%2C%20even%20through%20genetic%20alteration%3F",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+          "Black",
+          "Orange",
+          "Brown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20largest%20living%20organism%20currently%20known%20to%20man%3F",
+        "correct_answer": "Honey%20Fungus",
+        "incorrect_answers": [
+          "Blue%20Whale",
+          "Redwood%20Tree",
+          "The%20Coral%20Reef"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20degrees%20Fahrenheit%20is%20100%20degrees%20Celsius%3F%20",
+        "correct_answer": "212",
+        "incorrect_answers": [
+          "326",
+          "100",
+          "451"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20molecular%20formula%20of%20Glucose%3F",
+        "correct_answer": "C6H12O6",
+        "incorrect_answers": [
+          "C2H4O2",
+          "K%2B",
+          "CH4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20choices%20is%20not%20one%20of%20the%20phases%20of%20mitosis%3F",
+        "correct_answer": "Diplophase",
+        "incorrect_answers": [
+          "Metaphase",
+          "Anaphase",
+          "Telophase"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20moons%2C%20Miranda%2C%20Ariel%2C%20Umbriel%2C%20Titania%20and%20Oberon%20orbit%20which%20planet%3F",
+        "correct_answer": "Uranus",
+        "incorrect_answers": [
+          "Jupiter",
+          "Venus",
+          "Neptune"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Sun%20is%20considered%20a%20star.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20most%20potent%20toxin%20known%3F",
+        "correct_answer": "Botulinum%20toxin",
+        "incorrect_answers": [
+          "Ricin",
+          "Cyanide",
+          "Asbestos"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20chemical%20element%20Lithium%20is%20named%20after%20the%20country%20of%20Lithuania.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20two%20plates%20are%20best%20know%20for%20forming%20earthquakes%20and%20tsunami%27s%3F%20",
+        "correct_answer": "Convergent%20Plate%20Boundaries%2FOceanic%20Crust",
+        "incorrect_answers": [
+          "Divergent%20Plate%20Boundaries%2FConvergent%2FOceanic%20Crust",
+          "Transform%20Plate%20Boundaries%2FDivergent%20Plate%20Boundaries",
+          "Oceanic%20%26%20Continental%20Crust%2FTransform%20Plate%20Boundaries"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20blood%20vessels%20carries%20deoxygenated%20blood%3F",
+        "correct_answer": "Pulmonary%20Artery",
+        "incorrect_answers": [
+          "Pulmonary%20Vein",
+          "Aorta",
+          "Coronary%20Artery"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Enthalpy%20is%20a%20measure%20of%20the%20energy%20that%20is%20not%20available%20for%20work%20during%20a%20thermodynamic%20process.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Albert%20Einstein%20won%20a%20noble%20prize%20for%20his%20theory%20of%20relativity.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20part%20of%20the%20body%20produces%20insulin%3F",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": [
+          "Kidney",
+          "Liver",
+          "Stomach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20unit%20of%20electrical%20inductance%3F",
+        "correct_answer": "Henry",
+        "incorrect_answers": [
+          "Weber",
+          "Coulomb",
+          "Mho"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20mineral%20has%20the%20lowest%20number%20on%20the%20Mohs%20scale%3F",
+        "correct_answer": "Talc",
+        "incorrect_answers": [
+          "Quartz",
+          "Diamond",
+          "Gypsum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20moons%20does%20the%20Earth%20have%3F",
+        "correct_answer": "1",
+        "incorrect_answers": [
+          "0",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20constellation%20contains%20the%20center%20of%20the%20Milky%20Way%3F",
+        "correct_answer": "Sagittarius",
+        "incorrect_answers": [
+          "Scorpius",
+          "Ophiuchus",
+          "Capricornus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20genetic%20disease%20is%20caused%20by%20having%20an%20extra%20Y%20chromosome%20%28XYY%29%3F",
+        "correct_answer": "Jacob%27s%20Syndrome",
+        "incorrect_answers": [
+          "Klinefelter%27s%20Syndrome",
+          "Turner%27s%20Syndrome",
+          "Down%20Syndrome"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20causes%20the%20sound%20of%20a%20heartbeat%3F",
+        "correct_answer": "Closure%20of%20the%20heart%20valves",
+        "incorrect_answers": [
+          "Contraction%20of%20the%20heart%20chambers",
+          "Blood%20exiting%20the%20heart",
+          "Relaxation%20of%20the%20heart%20chambers"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "%22Tachycardia%22%20or%20%22Tachyarrhythmia%22%20refers%20to%20a%20resting%20heart-rate%20near%20or%20over%20100%20BPM.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "To%20the%20nearest%20minute%2C%20how%20long%20does%20it%20take%20for%20light%20to%20travel%20from%20the%20Sun%20to%20the%20Earth%3F",
+        "correct_answer": "8%20Minutes",
+        "incorrect_answers": [
+          "6%20Minutes",
+          "2%20Minutes",
+          "12%20Minutes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Down%20Syndrome%20is%20usually%20caused%20by%20an%20extra%20copy%20of%20which%20chromosome%3F",
+        "correct_answer": "21",
+        "incorrect_answers": [
+          "23",
+          "15",
+          "24"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20the%20term%20for%20%22surgical%20complications%20resulting%20from%20surgical%20sponges%20left%20inside%20the%20patient%27s%20body%3F",
+        "correct_answer": "Gossypiboma",
+        "incorrect_answers": [
+          "Gongoozler",
+          "Jentacular",
+          "Meupareunia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20types%20of%20quarks%20are%20there%20in%20the%20standard%20model%20of%20physics%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Au%20on%20the%20Periodic%20Table%20refers%20to%20which%20element%3F",
+        "correct_answer": "Gold",
+        "incorrect_answers": [
+          "Silver",
+          "Oxygen",
+          "Nickel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20bones%20is%20hardest%20to%20break%3F",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+          "Cranium",
+          "Humerus",
+          "Tibia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20teeth%20does%20the%20average%20adult%20mouth%20have%20%28except%20for%20wisdom%20teeth%29%3F",
+        "correct_answer": "32",
+        "incorrect_answers": [
+          "36",
+          "20",
+          "28"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20a%20major%20muscle%20of%20the%20back%3F",
+        "correct_answer": "Trapezius",
+        "incorrect_answers": [
+          "Trapezium",
+          "Trapezoid",
+          "Triquetrum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "This%20element%2C%20when%20overcome%20with%20extreme%20heat%20and%20pressure%2C%20creates%20diamonds.",
+        "correct_answer": "Carbon",
+        "incorrect_answers": [
+          "Nitrogen",
+          "Oxygen",
+          "Hydrogen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20speed%20of%20light%20in%20a%20vacuum%3F",
+        "correct_answer": "299%2C792%2C458%20m%2Fs",
+        "incorrect_answers": [
+          "50%2C461%20m%2Fs",
+          "308%2C215%2C043%20m%2Fs",
+          "751%2C665%2C014%2C151%20m%2Fs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Sun%20consists%20of%20mostly%20which%20two%20elements%3F",
+        "correct_answer": "Hydrogen%20%26%20Helium",
+        "incorrect_answers": [
+          "Hydrogen%20%26%20Nitrogen",
+          "Carbon%20%26%20Nitrogen",
+          "Carbon%20%26%20Helium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20do%20you%20study%20if%20you%20are%20studying%20entomology%3F",
+        "correct_answer": "Insects",
+        "incorrect_answers": [
+          "Humans",
+          "the%20Brain",
+          "Fish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20molecular%20formula%20of%20the%20active%20component%20of%20chili%20peppers%28Capsaicin%29%3F",
+        "correct_answer": "C18H27NO3",
+        "incorrect_answers": [
+          "C21H23NO3",
+          "C6H4Cl2",
+          "C13H25NO4"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20French%20scientists%20Louis%20Pasteur%20and%20%C3%89mile%20Roux%20developed%20the%20first%20rabies%20vaccination%20in%201885.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Deuterium%20is%20an%20isotope%20of%20which%20element%3F",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+          "Nitrogen",
+          "Helium",
+          "Neon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20radiation%20measured%20in%3F",
+        "correct_answer": "Gray%20",
+        "incorrect_answers": [
+          "Watt",
+          "Decibel",
+          "Kelvin"
+        ]
+      }
+    ]
+  }
+}

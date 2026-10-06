@@ -1,0 +1,598 @@
+{
+  "category_id": 31,
+  "fetched_at": "2026-10-06T10:08:42.469581+00:00",
+  "request": {
+    "amount": 50,
+    "category": 31,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20studio%20animated%20Afro%20Samurai%3F",
+        "correct_answer": "Gonzo",
+        "incorrect_answers": [
+          "Kyoto%20Animation",
+          "xebec",
+          "Production%20I.G"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "The%20protagonist%20in%20%22Humanity%20Has%20Declined%22%20has%20no%20discernable%20name%20and%20is%20simply%20referred%20to%20as%20%27I%27%20for%20most%20of%20the%20series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20was%20the%20first%20Legendary%20Pokemon%20to%20be%20defeated%20by%20Ash%20Ketchum%20in%20the%20Pok%C3%A9mon%20anime%3F",
+        "correct_answer": "Articuno",
+        "incorrect_answers": [
+          "Darkrai",
+          "Latios",
+          "Regice"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20anime%20studio%20was%20in%20charge%20of%20the%20hit%20anime%20%22Made%20in%20Abyss%22%3F",
+        "correct_answer": "Kinema%20Citrus",
+        "incorrect_answers": [
+          "Trigger",
+          "Studio%203hz",
+          "8bit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20%22Toaru%20Majutsu%20no%20Index%22%20anime%2C%20Touma%20Kamijou%20is%20a%20level%200%20esper%20that%20has%20the%20ability%20to%20do%20what%3F",
+        "correct_answer": "Dispell%20any%20esper%20or%20magical%20powers",
+        "incorrect_answers": [
+          "Teleport",
+          "Make%20telepathic%20communications",
+          "Create%20electricity%20from%20his%20own%20body"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Druid%20is%20a%20mage%20class%20in%20%22Log%20Horizon%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20animation%20studio%20produced%20%22Log%20Horizon%22%3F",
+        "correct_answer": "Satelite",
+        "incorrect_answers": [
+          "Sunrise",
+          "Xebec",
+          "Production%20I.G"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20name%20of%20the%20final%20villain%20in%20the%20manga%20series%20%22Bleach%22%3F",
+        "correct_answer": "Yhwach",
+        "incorrect_answers": [
+          "Juha%20Bach",
+          "Yuhabah",
+          "Juhabach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20name%20of%20the%20stuffed%20lion%20in%20Bleach%3F",
+        "correct_answer": "Kon",
+        "incorrect_answers": [
+          "Jo",
+          "Urdiu",
+          "Chad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20Naruto%20manga%2C%20what%20is%20the%20last%20name%20of%20Tsunade%3F",
+        "correct_answer": "Senju",
+        "incorrect_answers": [
+          "Haruno",
+          "Uzumaki",
+          "Yamanaka"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20%22Kagerou%20Daze%22%20series%2C%20Shintaro%20Kisaragi%20is%20prominently%20shown%20with%20the%20color%20red.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20was%20the%20Director%20of%20the%201988%20Anime%20film%20%22Grave%20of%20the%20Fireflies%22%3F",
+        "correct_answer": "Isao%20Takahata",
+        "incorrect_answers": [
+          "Hayao%20Miyazaki",
+          "Satoshi%20Kon",
+          "Sunao%20Katabuchi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20one%20of%20these%20Manga%20titles%20was%20not%20created%20by%20Urasawa%20Naoki%3F",
+        "correct_answer": "My%20Father%27s%20Journal",
+        "incorrect_answers": [
+          "Billy%20Bat",
+          "20th%20Century%20Boys",
+          "Monster"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22Shakugan%20no%20Shana%22%20what%20was%20the%20Shana%20usually%20referred%20as%3F",
+        "correct_answer": "Flame-Haired%20Burning-Eyed%20Hunter",
+        "incorrect_answers": [
+          "Flame%20Haze",
+          "Flame-Haired%20Burning-Eyed%20Haze",
+          "Shana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20animation%20studio%20produced%20%22Gurren%20Lagann%22%3F",
+        "correct_answer": "Gainax",
+        "incorrect_answers": [
+          "Kyoto%20Animation",
+          "Pierrot",
+          "A-1%20Pictures"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20anime%20%22Gintama%22%20which%20accessory%2Farticle%20of%20clothing%20is%20the%20character%20Shinpachi%20commonly%20referred%20to%20as%3F",
+        "correct_answer": "Glasses",
+        "incorrect_answers": [
+          "Nose%20Ring",
+          "T-Shirt",
+          "Underwear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20Pok%C3%A9mon%20and%20it%27s%20evolutions%20were%20banned%20from%20appearing%20in%20a%20main%20role%20after%20the%20Episode%2038%20Incident%3F",
+        "correct_answer": "The%20Porygon%20Line",
+        "incorrect_answers": [
+          "The%20Pikachu%20Line",
+          "The%20Elekid%20Line",
+          "The%20Magby%20Line"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Ikki%20Kurogane%20is%20known%20by%20what%20nickname%20at%20the%20beginning%20of%20%22Chivalry%20of%20a%20Failed%20Knight%22%3F",
+        "correct_answer": "Worst%20One",
+        "incorrect_answers": [
+          "Another%20One",
+          "Blazer",
+          "Princess"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20Overlord%20Anime%20who%20was%20Cocytus%20made%20by%3F",
+        "correct_answer": "Warrior%20Takemikazuchi",
+        "incorrect_answers": [
+          "Peroroncino",
+          "Ulbert%20Alain%20Odle",
+          "Bukubukuchagama"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20Dragon%20Ball%20Z%2C%20who%20was%20the%20first%20character%20to%20go%20Super%20Saiyan%202%3F",
+        "correct_answer": "Gohan",
+        "incorrect_answers": [
+          "Goku",
+          "Vegeta",
+          "Trunks"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20anime%20heavily%20features%20music%20from%20the%20genre%20%22Eurobeat%22%3F",
+        "correct_answer": "Initial%20D",
+        "incorrect_answers": [
+          "Wangan%20Midnight",
+          "Kino%20no%20Tabi",
+          "Cowboy%20Bebop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20first%20episode%20of%20Yu-Gi-Oh%3A%20Duel%20Monsters%2C%20what%20book%20is%20Seto%20Kaiba%20seen%20reading%20at%20Domino%20High%20School%3F",
+        "correct_answer": "Thus%20Spoke%20Zarathustra",
+        "incorrect_answers": [
+          "Beyond%20Good%20and%20Evil",
+          "The%20Republic",
+          "Meditations"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "No%20Game%20No%20Life%20first%20aired%20in%202014.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20age%20of%20Ash%20Ketchum%20in%20Pokemon%20when%20he%20starts%20his%20journey%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "11",
+          "12",
+          "9"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "When%20was%20the%20first%20episode%20of%20Soul%20Eater%20released%3F",
+        "correct_answer": "2008",
+        "incorrect_answers": [
+          "2003",
+          "2005",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20anime%20%22My%20Hero%20Academia%22%2C%20which%20character%20is%20shown%20with%20the%20ability%20to%20manipulate%20gravity%3F",
+        "correct_answer": "Uraraka",
+        "incorrect_answers": [
+          "Bakugo",
+          "Deku",
+          "Asui%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22One%20Piece%22%2C%20who%20confirms%20the%20existence%20of%20the%20legendary%20treasure%2C%20One%20Piece%3F",
+        "correct_answer": "Edward%20%22Whitebeard%22%20Newgate",
+        "incorrect_answers": [
+          "Former%20Marine%20Fleet%20Admiral%20Sengoku",
+          "Pirate%20King%20Gol%20D%20Roger",
+          "Silvers%20Rayleigh"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20%22To%20Love-Ru%22%20series%2C%20Peke%20is%20considered%20a%20female%20robot.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22The%20Melancholy%20of%20Haruhi%20Suzumiya%22%20series%2C%20the%20SOS%20Brigade%20club%20leader%20is%20unknowingly%20treated%20as%20a%28n%29%20__%20by%20her%20peers.",
+        "correct_answer": "God",
+        "incorrect_answers": [
+          "Alien",
+          "Time%20Traveler",
+          "Esper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20anime%20Seven%20Deadly%20Sins%20what%20is%20the%20name%20of%20one%20of%20the%20sins%3F",
+        "correct_answer": "Diane",
+        "incorrect_answers": [
+          "Sakura",
+          "Ayano",
+          "Sheska"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20what%20year%20did%20the%20manga%20%22Ping%20Pong%22%20begin%20serialization%3F",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+          "2014",
+          "2010",
+          "2003"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22A%20Certain%20Scientific%20Railgun%22%2C%20how%20many%20%22sisters%22%20did%20Accelerator%20have%20to%20kill%20to%20achieve%20the%20rumored%20level%206%3F",
+        "correct_answer": "20%2C000",
+        "incorrect_answers": [
+          "128",
+          "10%2C000",
+          "5%2C000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20JoJo%27s%20Bizarre%20Adventure%2C%20who%20says%20%22Yare%20yare%20daze%22%3F",
+        "correct_answer": "Jotaro%20Kujo",
+        "incorrect_answers": [
+          "Joseph%20Joestar",
+          "Jolyne%20Cujoh",
+          "Koichi%20Hirose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22Hunter%20x%20Hunter%22%2C%20which%20of%20the%20following%20is%20NOT%20a%20type%20of%20Nen%20aura%3F",
+        "correct_answer": "Restoration",
+        "incorrect_answers": [
+          "Emission",
+          "Transmutation",
+          "Specialization"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20%22Dragon%20Ball%22%20franchise%2C%20what%20is%20the%20name%20of%20Goku%27s%20brother%3F",
+        "correct_answer": "Raditz",
+        "incorrect_answers": [
+          "Gohan",
+          "Vegeta",
+          "Bardock"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20anime%2C%20%22Fullmetal%20Alchemist%22%2C%20who%20is%20known%20as%20the%20%27Flame%20Alchemist%27%3F",
+        "correct_answer": "Roy%20Mustang",
+        "incorrect_answers": [
+          "Edward%20Elric",
+          "Maes%20Hughes",
+          "Lin%20Yao"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20animation%20studio%20produced%20the%20anime%20adaptation%20of%20%22xxxHolic%22%3F",
+        "correct_answer": "Production%20I.G",
+        "incorrect_answers": [
+          "Sunrise",
+          "Xebec",
+          "Kyoto%20Animation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20which%20manga%20did%20the%20%22404%20Girl%22%20from%204chan%20originate%20from%3F",
+        "correct_answer": "Yotsuba%26%21",
+        "incorrect_answers": [
+          "Azumanga%20Daioh",
+          "Lucky%20Star",
+          "Clover"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20%22Melancholy%20of%20Haruhi%20Suzumiya%22%20series%2C%20the%20narrator%20goes%20by%20the%20nickname%20Kyon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "The%20name%20of%20Junko%20Enoshima%27s%20imposter%20at%20the%20beginning%20of%20Danganronpa%3A%20Trigger%20Happy%20Havoc%20is%3F",
+        "correct_answer": "Mukuro%20Ikusaba",
+        "incorrect_answers": [
+          "Ryota%20Mitarai",
+          "Ultimate%20Imposter",
+          "Komaru%20Naegi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "My%20Hero%20Academia%27s%20main%20character%20Midoriya%20goes%20by%20what%20superhero%20name%3F",
+        "correct_answer": "Deku",
+        "incorrect_answers": [
+          "All%20Might",
+          "Saitama",
+          "Kona"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22To%20Love-Ru%22%2C%20Ren%20and%20Run%20are%20from%20what%20planet%3F",
+        "correct_answer": "Memorze",
+        "incorrect_answers": [
+          "Deviluke",
+          "Mistletoe",
+          "Okiwana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20color%20is%20Ry%C5%ABko%20Matoi%27s%20half%20of%20the%20Scissor%20Blade%20in%20the%20anime%20Kill%20la%20KIll%3F",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+          "Green",
+          "Blue",
+          "Purple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20studio%20animated%20Ouran%20High%20School%20Host%20Club%3F",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+          "Production%20I.G",
+          "Kyoto%20Animation",
+          "xebec"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20Full%20Metal%20Panic%21%2C%20Whispered%20are%20those%20who%20are%20capable%20of%20creating%20Black%20Technology.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Aoi%20Miyamori%20is%20the%20production%20manager%20of%20what%20anime%20in%20%22Shirobako%22%3F",
+        "correct_answer": "The%20Third%20Aerial%20Girls%20Squad",
+        "incorrect_answers": [
+          "Exodus%21",
+          "Andes%20Chucky",
+          "Angel%20Beats%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20is%20the%20true%20moon%20princess%20in%20Sailor%20Moon%3F",
+        "correct_answer": "Sailor%20Moon",
+        "incorrect_answers": [
+          "Sailor%20Venus",
+          "Sailor%20Mars",
+          "Sailor%20Jupiter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22To%20Love-Ru%3A%20Darkness%22%2C%20which%20of%20the%20girls%20attempt%20making%20a%20harem%20for%20Rito%20Yuuki%3F",
+        "correct_answer": "Momo%20Deviluke",
+        "incorrect_answers": [
+          "Yami%20%28Golden%20Darkness%29",
+          "Haruna%20Sairenji",
+          "Mea%20Kurosaki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20studio%20animated%20Soul%20Eater%3F",
+        "correct_answer": "Bones",
+        "incorrect_answers": [
+          "Kyoto%20Animation",
+          "xebec",
+          "Production%20I.G"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Gosho%20Aoyama%20Made%20This%20Series%3A%20%28Detective%20Conan%20%2F%20Case%20Closed%21%29",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

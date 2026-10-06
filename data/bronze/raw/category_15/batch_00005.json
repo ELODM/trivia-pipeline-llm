@@ -1,0 +1,608 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:31.206700+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20%22Team%20Fortress%202%22%20update%20to%20include%20a%20war%3F",
+        "correct_answer": "Sniper%20vs.%20Spy%20Update",
+        "incorrect_answers": [
+          "WAR%21%20Update",
+          "Meet%20Your%20Match%20Update",
+          "Spy%20Vs.%20Engineer%20Update"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Psych-Horror%20%22Eternal%20Darkness%3A%20Sanity%27s%20Requiem%22%2C%20developed%20by%20Silicon%20Knights%20in%202002%2C%20was%20published%20by%20who%20and%20on%20what%20platform%3F",
+        "correct_answer": "Nintendo%C2%AE%20Co.%20Ltd.%20%7C%20GameCube%E2%84%A2",
+        "incorrect_answers": [
+          "Sony%C2%AE%20Computer%20Entertainment%E2%84%A2%20Inc.%20%7C%20PlayStation%C2%AE%202",
+          "Microsoft%C2%AE%20Game%20Studios%E2%84%A2%20%7C%20XBox%E2%84%A2",
+          "Sega%C2%AE%20Enterprises%20Co.%20Ltd.%20%7C%20Dreamcast%E2%84%A2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Civilization%205%22%2C%20which%20civilization%20can%20only%20settle%20one%20city%3F",
+        "correct_answer": "Venice",
+        "incorrect_answers": [
+          "India",
+          "Liechtenstein",
+          "Portugal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Club%20Penguin%20launched%3F",
+        "correct_answer": "October%2024%2C%202005",
+        "incorrect_answers": [
+          "October%2021%2C%202005",
+          "March%2029%2C%202006",
+          "November%2022%2C%202004"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20the%20first%20%22Mass%20Effect%22%20game%20released%3F",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+          "2008",
+          "2009",
+          "2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20the%20game%20%22Eliminator%22%20released%3F",
+        "correct_answer": "1998",
+        "incorrect_answers": [
+          "2000",
+          "1999",
+          "2001"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "On%20which%20planet%20does%20the%20game%20Freedom%20Planet%20%282014%29%20take%20place%3F",
+        "correct_answer": "Avalice",
+        "incorrect_answers": [
+          "Freedom",
+          "Galaxytrail",
+          "Shang%20Mu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20playable%20characters%20are%20there%20in%20Super%20Smash%20Bros.%20for%20Nintendo%203DS%20and%20Wii%20U%3F",
+        "correct_answer": "58",
+        "incorrect_answers": [
+          "48",
+          "51",
+          "55"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20protagonist%20in%20the%20game%20%22Cave%20Story%22%20is%20named",
+        "correct_answer": "Quote",
+        "incorrect_answers": [
+          "Kazuma",
+          "Curly",
+          "Arthur"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Valve%20Corporation%20is%20an%20American%20video%20game%20developer%20located%20in%20which%20city%3F",
+        "correct_answer": "Bellevue%2C%20Washington",
+        "incorrect_answers": [
+          "Austin%2C%20Texas",
+          "Seattle%2C%20Washington",
+          "San%20Francisco%2C%20California"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Overwatch%2C%20what%20is%20L%C3%BAcio%27s%20full%20name%3F",
+        "correct_answer": "L%C3%BAcio%20Correia%20Dos%20Santos",
+        "incorrect_answers": [
+          "L%C3%BAcio%20Luiz%20L%C3%B3s%20Guilherme",
+          "L%C3%BAcio%20Jo%C3%A3o%20Lucas",
+          "L%C3%BAcio%20Chupar%20Prima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20did%20Gabe%20Newell%20work%20at%20before%20founding%20Valve%20Corporation%3F",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+          "Apple",
+          "Google",
+          "Yahoo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22PUBATTLEGROUNDS%22%20what%20is%20the%20name%20of%20the%20Military%20Base%20island%3F",
+        "correct_answer": "Sosnovka",
+        "incorrect_answers": [
+          "Novorepnoye",
+          "Mylta",
+          "Yasnaya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Overwatch%22%2C%20how%20much%20health%20does%20Roadhog%27s%20%22Take%20a%20Breather%22%20ability%20recover%3F",
+        "correct_answer": "300",
+        "incorrect_answers": [
+          "100",
+          "200",
+          "400"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Resident%20Evil%202%22%2C%20which%20virus%20was%20William%20Birkin%20mutated%20by%3F",
+        "correct_answer": "G-Virus",
+        "incorrect_answers": [
+          "T-Virus",
+          "C-Virus",
+          "E-Virus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20talking%20cat%20in%20Persona%205%3F",
+        "correct_answer": "Morgana",
+        "incorrect_answers": [
+          "Teddie",
+          "Marie",
+          "Ryuji"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Terraria%2C%20you%20can%20craft%20the%20Cell%20Phone%20pre-hardmode.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Super%20Mario%20RPG%3A%20Legend%20of%20The%20Seven%20Stars%2C%20what%20is%20Geno%27s%20real%20name%3F",
+        "correct_answer": "%E2%99%A1%E2%99%AA%21%3F",
+        "incorrect_answers": [
+          "Geno",
+          "Exor",
+          "Smithy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20interactive%20movie%20video%20game%3F",
+        "correct_answer": "Astron%20Belt",
+        "incorrect_answers": [
+          "Dragon%27s%20Lair",
+          "Cube%20Quest",
+          "M.A.C.H.%203"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Overwatch%22%2C%20what%20is%20the%20name%20of%20Mercy%27s%20%22ultimate%20ability%22%3F",
+        "correct_answer": "Valkyrie",
+        "incorrect_answers": [
+          "Earthshatter",
+          "Rocket%20Barrage",
+          "Molten%20Core"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20protagonist%20of%20the%20videogame%20%22Dead%20Rising%202%22%3F",
+        "correct_answer": "Chuck%20Greene",
+        "incorrect_answers": [
+          "Nick%20Ramos",
+          "Frank%20West",
+          "Katie%20Greene"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20Master%20levels%20in%20%22Super%20Monkey%20Ball%22%20is%20also%20used%20in%20the%20arcade%20version%20of%20the%20game%2C%20simply%20named%20%22Monkey%20Ball%22%3F",
+        "correct_answer": "MASTER%209%20-%20Bridge%20Master",
+        "incorrect_answers": [
+          "MASTER%203%20-%20Stamina%20Master",
+          "MASTER%2010%20-%20Monkey%20Master",
+          "MASTER%206%20-%20Roll%20Master"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20the%20original%20Sonic%20the%20Hedgehog%20game%20released%3F",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+          "1989",
+          "1993",
+          "1995"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20company%20developed%20the%20Xbox%20line%20of%20video%20game%20consoles%3F",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+          "Sony",
+          "Toshiba",
+          "IBM"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Pok%C3%A9mon%20games%20released%20first%3F",
+        "correct_answer": "Pok%C3%A9mon%20Crystal",
+        "incorrect_answers": [
+          "Pok%C3%A9mon%20Platinum",
+          "Pok%C3%A9mon%20FireRed",
+          "Pok%C3%A9mon%20Black"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Internet%20Meme%20%22All%20your%20base%20are%20belong%20to%20us%22%20is%20based%20on%20the%20poorly%20translated%20English%20Version%20of%20which%20Video%20Game%3F",
+        "correct_answer": "Zero%20Wing",
+        "incorrect_answers": [
+          "F-Zero",
+          "Wing%20Commander",
+          "Star%20Wars%3A%20X-Wing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20a%20Dragon%20Age%20Origins%20%22Origin%22%3A%20",
+        "correct_answer": "Human%20Commoner",
+        "incorrect_answers": [
+          "Dwarf%20Commoner",
+          "Dwarf%20Noble",
+          "Human%20Noble"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20of%20the%20game%20series%20%22Ace%20Attorney%22%20%3F",
+        "correct_answer": "Phoenix%20Wright",
+        "incorrect_answers": [
+          "Winston%20Payne",
+          "Dahlia%20Hawthorne%20",
+          "Ash%20Ketchum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20created%20and%20directed%20the%20Katamari%20Damacy%20series%3F",
+        "correct_answer": "Keita%20Takahashi",
+        "incorrect_answers": [
+          "Hideki%20Kamiya",
+          "Shu%20Takumi",
+          "Shinji%20Mikami"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20race%20in%20Guild%20Wars%202%20believes%20in%20the%20Eternal%20Alchemy%3F",
+        "correct_answer": "Asura",
+        "incorrect_answers": [
+          "Humans",
+          "Norn",
+          "Charr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20team%20won%20the%20first%20Overwatch%20League%20championship%3F",
+        "correct_answer": "London%20Spitfire",
+        "incorrect_answers": [
+          "Philadelphia%20Fusion",
+          "New%20York%20Excelsior",
+          "Seoul%20Dynasty"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20character%20you%20play%20as%20in%20Yume%20Nikki%3F",
+        "correct_answer": "Madotsuki",
+        "incorrect_answers": [
+          "Masada",
+          "Uboa",
+          "Poniko"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Rainbow%206%20Siege%2C%20what%20is%20Mozzie%27s%20real%20name%3F",
+        "correct_answer": "Max%20Goose",
+        "incorrect_answers": [
+          "Mick%20Seagull",
+          "Hugo%20Sparrow",
+          "Dan%20Bird"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20protagonist%20of%20Life%20Is%20Strange%3F",
+        "correct_answer": "Max%20Caulfield",
+        "incorrect_answers": [
+          "Frank%20Bowers",
+          "Rachel%20Amber",
+          "Kate%20Marsh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20original%20mascot%20of%20the%20popular%20Nintendo%20game%2C%20%22Splatoon%22%20was%20going%20to%20be...",
+        "correct_answer": "Mario",
+        "incorrect_answers": [
+          "Inklings",
+          "Octolings",
+          "Zelda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Fallout%204%22%2C%20what%20is%20the%20name%20of%20the%20dog%20you%20find%20at%20Red%20Rocket%20truck%20stop%3F",
+        "correct_answer": "Dogmeat",
+        "incorrect_answers": [
+          "Sparky",
+          "Quazar",
+          "Chop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "League%20of%20Legends%2C%20DOTA%202%2C%20Smite%20and%20Heroes%20of%20the%20Storm%20are%20all%20part%20of%20which%20game%20genre%3F",
+        "correct_answer": "Multiplayer%20Online%20Battle%20Arena%20%28MOBA%29",
+        "incorrect_answers": [
+          "Real%20Time%20Strategy%20%28RTS%29",
+          "First%20Person%20Shooter%20%28FPS%29",
+          "Role%20Playing%20Game%20%28RPG%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Yakuza%20series%20who%20is%20the%20Dragon%20of%20Dojima%3F",
+        "correct_answer": "Kazuma%20Kiryu",
+        "incorrect_answers": [
+          "Sohei%20Dojima",
+          "Ryuji%20Goda",
+          "Haruka%20Sawamura"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20year%20did%20the%20orignal%20Sims%20game%20release%3F",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+          "2001",
+          "1999",
+          "1998"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20won%20the%20%22Games%20for%20Impact%22%20award%20in%20The%20Game%20Awards%202015%3F",
+        "correct_answer": "Life%20is%20Strange",
+        "incorrect_answers": [
+          "Ori%20and%20the%20Blind%20Forest",
+          "Rocket%20League",
+          "Metal%20Gear%20Solid%20V%3A%20The%20Phantom%20Pain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Marvel%20vs%20Capcom%202%3A%20New%20age%20of%20Heroes%20was%20released%20in%20what%20year%3F",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+          "2001",
+          "2003",
+          "1998"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20main%20theme%20song%20of%20%22Sonic%20Adventure%202%22%3F",
+        "correct_answer": "Live%20and%20Learn",
+        "incorrect_answers": [
+          "Open%20Your%20Heart",
+          "Can%20You%20Feel%20the%20Sunshine%3F",
+          "His%20World"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%20lore%2C%20%20how%20many%20siblings%20does%20Sylvanas%20Windrunner%20have%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20retail%20disc%20of%20Tony%20Hawk%27s%20Pro%20Skater%205%20only%20comes%20with%20the%20tutorial.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20aces%20can%20be%20shot%20down%20through%20the%20entirety%20of%20%22Ace%20Combat%20Zero%3A%20The%20Belkan%20War%22%3F",
+        "correct_answer": "169",
+        "incorrect_answers": [
+          "100",
+          "132",
+          "245"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20character%20that%20would%20eventually%20become%20Dr.%20Eggman%20was%20considered%20for%20the%20role%20of%20Sega%27s%20new%20flagship%20mascot%20before%20Sonic%20was.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20in%20Metal%20Gear%20Rising%3A%20Revengeance%3F",
+        "correct_answer": "Raiden",
+        "incorrect_answers": [
+          "Solid%20Snake",
+          "Otacon",
+          "Revolver%20Ocelot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20PROTOTYPE%202.%20who%20is%20referred%20to%20as%20%22Tango%20Primary%22%3F",
+        "correct_answer": "James%20Heller",
+        "incorrect_answers": [
+          "Alex%20Mercer",
+          "Dana%20Mercer",
+          "Any%20Goliaths%20roaming%20around"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Why%20was%20the%20character%20Trevor%20Philips%20discharged%20from%20the%20Air%20Force%3F",
+        "correct_answer": "Mental%20Health%20Issues",
+        "incorrect_answers": [
+          "Injuries",
+          "Disease",
+          "Danger%20to%20Others"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20first%20boss%20the%20player%20encounters%20in%20the%202017%20game%2C%20%22Little%20Nightmares%22%3F",
+        "correct_answer": "The%20Janitor",
+        "incorrect_answers": [
+          "The%20Warden",
+          "The%20Caretaker",
+          "The%20Overseer"
+        ]
+      }
+    ]
+  }
+}

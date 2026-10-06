@@ -1,0 +1,606 @@
+{
+  "category_id": 31,
+  "fetched_at": "2026-10-06T10:09:03.529899+00:00",
+  "request": {
+    "amount": 50,
+    "category": 31,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "How%20many%20%22JoJos%22%20that%20are%20protagonists%20are%20there%20in%20the%20series%20%22Jojo%27s%20Bizarre%20Adventure%22%3F",
+        "correct_answer": "8%2B",
+        "incorrect_answers": [
+          "6%2B",
+          "4%2B",
+          "5%2B"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20is%20the%20author%20of%20the%20manga%20series%20%22Astro%20Boy%22%3F",
+        "correct_answer": "Osamu%20Tezuka",
+        "incorrect_answers": [
+          "Mitsuteri%20Yokoyama",
+          "Takao%20Saito",
+          "Yoshihiro%20Tatsumi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20name%20of%20Funny%20Valentine%27s%20stand%20in%20Jojo%27s%20Bizarre%20Adventure%20Part%207%2C%20Steel%20Ball%20Run%3F",
+        "correct_answer": "Dirty%20Deeds%20Done%20Dirt%20Cheap",
+        "incorrect_answers": [
+          "Filthy%20Acts%20Done%20For%20A%20Reasonable%20Price",
+          "Civil%20War",
+          "God%20Bless%20The%20USA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20animation%20studio%20animated%20%22To%20Love-Ru%22%3F",
+        "correct_answer": "Xebec",
+        "incorrect_answers": [
+          "Trigger",
+          "Sunrise",
+          "Kyoto%20Animation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20caused%20the%20titular%20mascot%20of%20Yo-Kai%20Watch%2C%20Jibanyan%2C%20to%20become%20a%20yokai%3F",
+        "correct_answer": "Being%20run%20over%20by%20a%20truck",
+        "incorrect_answers": [
+          "Ate%20one%20too%20many%20chocobars",
+          "Through%20a%20magical%20ritual",
+          "When%20he%20put%20on%20the%20harmaki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "%22Silhouette%22%2C%20a%20song%20performed%20by%20the%20group%20%27KANA-BOON%27%20is%20featured%20as%20the%20sixteenth%20opening%20of%20which%20anime%3F",
+        "correct_answer": "Naruto%3A%20Shipp%C5%ABden",
+        "incorrect_answers": [
+          "One%20Piece",
+          "Naruto",
+          "Gurren%20Lagann"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20character%20in%20Touhou%20is%20able%20to%20control%20dolls%3F",
+        "correct_answer": "Alice%20Margatroid",
+        "incorrect_answers": [
+          "Marisa%20Kirisame",
+          "Clownpiece",
+          "Flandre%20Scarlet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20theme%20song%20of%20%22Neon%20Genesis%20Evangelion%22%3F",
+        "correct_answer": "A%20Cruel%20Angel%27s%20Thesis",
+        "incorrect_answers": [
+          "Stardust%20Crusaders",
+          "Requiem%20for%20a%20Dream",
+          "God%20Knows"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20name%20of%20the%20infamous%20pachinko%20machine%20from%20%22Kaiji%22%3F",
+        "correct_answer": "The%20Bog",
+        "incorrect_answers": [
+          "The%20Devil",
+          "The%20Undefeated",
+          "The%20Dragon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20of%20these%20anime%20have%20over%207%2C500%20episodes%3F",
+        "correct_answer": "Sazae-san",
+        "incorrect_answers": [
+          "Naruto",
+          "One%20Piece",
+          "Chibi%20Maruko-chan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20animation%20studio%20animated%20%22Hidamari%20Sketch%22%3F",
+        "correct_answer": "Shaft",
+        "incorrect_answers": [
+          "Trigger",
+          "Kyoto%20Animation",
+          "Production%20I.G"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20was%20the%20Author%20of%20the%20manga%20Monster%20Hunter%20Orage%3F",
+        "correct_answer": "Hiro%20Mashima",
+        "incorrect_answers": [
+          "Shin%20Yamamoto",
+          "Keiichi%20Hikami",
+          "Hirohiko%20Araki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22JoJo%27s%20Bizarre%20Adventure%3A%20Stardust%20Crusaders%22%2C%20what%20is%20the%20last%20name%20of%20the%20protagonist%20Jotaro%3F",
+        "correct_answer": "Kujo",
+        "incorrect_answers": [
+          "Cujoh",
+          "Joestar",
+          "Higashikata"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "How%20does%20the%20character%20Dragowizard%2C%20Qinus%20Axia%27s%20from%20the%20anime%20%22Buddyfight%22%20differ%20between%20the%20Japanese%20and%20English%20dubs%3F",
+        "correct_answer": "Different%20Gender",
+        "incorrect_answers": [
+          "Different%20Body%20Proportions",
+          "Different%20Backstory",
+          "Different%20Appearance"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22JoJo%27s%20Bizarre%20Adventure%22%2C%20Father%20Enrico%20Pucchi%20uses%20a%20total%20of%203%20stands%20in%20Part%206%3A%20Stone%20Ocean.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20%22To%20Love-Ru%22%20series%2C%20how%20many%20Trans-weapons%20were%20created%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "1",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20is%20the%20horror%20manga%20artist%20who%20made%20Uzumaki%3F",
+        "correct_answer": "Junji%20Ito",
+        "incorrect_answers": [
+          "Kazuo%20Umezu",
+          "Shintaro%20Kago",
+          "Sui%20Ishida"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Krusty%20is%20the%20guild%20master%20of%20which%20guild%20in%20%22Log%20Horizon%22%3F",
+        "correct_answer": "D.%20D.%20D",
+        "incorrect_answers": [
+          "Silver%20Sword",
+          "West%20Wind%20Brigade",
+          "Oceanic%20Systems%20%28Marine%20Agency%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20is%20the%20name%20of%20the%20protagonist%20of%20the%202017%20anime%20%22Land%20of%20the%20Lustrous%22%3F",
+        "correct_answer": "Phosphophyllite",
+        "incorrect_answers": [
+          "Watermelon%20Tourmaline",
+          "Cinnabar",
+          "Padparadscha"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20Pok%C3%A9mon%20Chronicles%2C%20why%20was%20Misty%20afraid%20of%20Gyarados%3F",
+        "correct_answer": "She%20crawled%20into%20it%27s%20mouth%20as%20a%20baby.",
+        "incorrect_answers": [
+          "She%20found%20it%20scary.",
+          "She%20was%20badly%20injured%20from%20it.",
+          "It%20is%20part%20Bug."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20Haikyuu%21%21%2C%20who%20is%20not%20a%20member%20of%20Karasuno%20VBC%3F",
+        "correct_answer": "Shigeru%20Yahaba",
+        "incorrect_answers": [
+          "Tadashi%20Yamaguchi",
+          "Hisashi%20Kinoshita",
+          "Kazuhito%20Narita"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20voices%20the%20character%20%22Reigen%22%20%20in%20the%20English%20dub%20of%20%22Mob%20Psycho%20100%22%3F",
+        "correct_answer": "Chris%20Niosi",
+        "incorrect_answers": [
+          "Max%20Mittelman",
+          "Kyle%20McCarley",
+          "Casey%20Mongillo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%202013%2C%20virtual%20pop-star%20Hatsune%20Miku%20had%20a%20sponsorship%20with%20which%20pizza%20chain%3F",
+        "correct_answer": "Domino%27s",
+        "incorrect_answers": [
+          "Papa%20John%27s",
+          "Pizza%20Hut",
+          "Sabarro%27s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20is%20the%20main%20character%20with%20yellow%20hair%20in%20the%20anime%20Naruto%3F",
+        "correct_answer": "Naruto",
+        "incorrect_answers": [
+          "Ten%20Ten",
+          "Sasuke",
+          "Kakashi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%209th%20Pokemon%20movie%2C%20who%20is%20the%20Prince%20of%20the%20Sea%3F",
+        "correct_answer": "Manaphy",
+        "incorrect_answers": [
+          "Ash",
+          "May",
+          "Phantom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20ADV%20%28English%29%20Dub%20of%20the%20anime%20%22Ghost%20Stories%22%2C%20which%20character%20is%20portrayed%20as%20a%20Pentacostal%20Christian%3F",
+        "correct_answer": "Momoko%20Koigakubo",
+        "incorrect_answers": [
+          "Hajime%20Aoyama",
+          "Satsuki%20Miyanoshita",
+          "Mio%20Itai"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22Toriko%22%2C%20which%20of%20the%20following%20foods%20is%20knowingly%20compatible%20with%20Toriko%3F",
+        "correct_answer": "Poison%20Potato",
+        "incorrect_answers": [
+          "Mors%20Oil",
+          "Alpacookie",
+          "Parmesansho%20Fruit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22One%20Piece%22%2C%20what%20does%20%22the%20Pirate%20King%22%20mean%20to%20the%20captain%20of%20the%20Straw%20Hat%20Pirates%3F",
+        "correct_answer": "Freedom",
+        "incorrect_answers": [
+          "Promise",
+          "Adventure",
+          "Friendship"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "The%20character%20Plum%20from%20%22No%20Game%20No%20Life%22%20is%20of%20what%20race%3F",
+        "correct_answer": "Dhampir",
+        "incorrect_answers": [
+          "Fl%C3%BCgel",
+          "Imanity",
+          "Seiren"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20Chobits%2C%20Hideki%20found%20Chii%20in%20his%20apartment.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20is%20One%20Punch%20Man%20voiced%20by%20in%20the%20Japanese%20version.",
+        "correct_answer": "Makoto%20Furukawa",
+        "incorrect_answers": [
+          "Zach%20Aguilar",
+          "Kaito%20Ishikawa",
+          "Max%20Mittelman%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "The%20two%20main%20characters%20of%20%22No%20Game%20No%20Life%22%2C%20Sora%20and%20Shiro%2C%20together%20go%20by%20what%20name%3F",
+        "correct_answer": "Blank",
+        "incorrect_answers": [
+          "Immanity",
+          "Disboard",
+          "Warbeasts"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "The%20character%20Plum%20from%20%22No%20Game%20No%20Life%22%20is%20a%20girl.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20year%20does%20Part%207%20of%20%22JoJo%27s%20Bizarre%20Adventure%22%20take%20place%20in%3F",
+        "correct_answer": "1890",
+        "incorrect_answers": [
+          "1888",
+          "1999",
+          "2003"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22JoJo%27s%20Bizarre%20Adventure%22%2C%20which%20of%20the%20following%20Stands%20does%20NOT%20have%20a%20time-based%20ability%3F",
+        "correct_answer": "20th%20Century%20Boy",
+        "incorrect_answers": [
+          "Made%20in%20Heaven",
+          "Star%20Platinum",
+          "The%20World"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20is%20the%20main%20character%20in%20One%20Piece%3F",
+        "correct_answer": "Luffy",
+        "incorrect_answers": [
+          "Shanks",
+          "Zoro",
+          "Smoker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20person%20from%20%22JoJo%27s%20Bizarre%20Adventure%22%20does%20NOT%20house%20a%20reference%20to%20a%20band%2C%20artist%2C%20or%20song%20earlier%20than%201980%3F",
+        "correct_answer": "Giorno%20Giovanna",
+        "incorrect_answers": [
+          "Josuke%20Higashikata",
+          "Jolyne%20Cujoh",
+          "Johnny%20Joestar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20of%20the%20following%20anime%20of%20the%20mecha%20genre%20began%20airing%20in%201982%3F",
+        "correct_answer": "The%20Super%20Dimension%20Fortress%20Macross",
+        "incorrect_answers": [
+          "Mobile%20Suit%20Gundam",
+          "Armored%20Trooper%20VOTOMS",
+          "Neon%20Genesis%20Evangelion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22A%20Certain%20Magical%20Index%2C%22%20what%20is%20Accelerator%20able%20to%20control%3F",
+        "correct_answer": "Vectors",
+        "incorrect_answers": [
+          "Velocity",
+          "Quantums",
+          "Wormholes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20of%20the%20stands%20from%20%22JoJo%27s%20Bizarre%20Adventure%22%20mimics%20the%20likeness%20of%20a%20tomato%3F",
+        "correct_answer": "Pearl%20Jam",
+        "incorrect_answers": [
+          "Red%20Hot%20Chili%20Pepper",
+          "Cream%20Starter",
+          "Nut%20King%20Call"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "What%20was%20Ash%20Ketchum%27s%20second%20Pokemon%3F",
+        "correct_answer": "Caterpie",
+        "incorrect_answers": [
+          "Charmander",
+          "Pikachu",
+          "Pidgey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20animation%20studio%20animated%20%22Psycho%20Pass%22%3F",
+        "correct_answer": "Production%20I.G",
+        "incorrect_answers": [
+          "Kyoto%20Animation",
+          "Shaft",
+          "Trigger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20the%20anime%20series%20%22Full%20Metal%20Alchemist%22%2C%20what%20do%20Alchemists%20consider%20the%20greatest%20taboo%3F",
+        "correct_answer": "Human%20Transmutation%20",
+        "incorrect_answers": [
+          "Transmuting%20Lead%20Into%20Gold",
+          "Using%20Alchemy%20For%20Crime%20",
+          "Preforming%20Without%20A%20Permit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22Highschool%20of%20the%20Dead%22%2C%20where%20did%20Komuro%20and%20Saeko%20establish%20to%20meet%20after%20the%20bus%20explosion%3F",
+        "correct_answer": "Eastern%20Police%20Station",
+        "incorrect_answers": [
+          "The%20Center%20Mall",
+          "Komuro%27s%20House",
+          "On%20The%20Main%20Bridge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20of%20the%20following%20countries%20does%20%22JoJo%27s%20Bizarre%20Adventure%3A%20Stardust%20Crusaders%22%20not%20take%20place%20in%3F",
+        "correct_answer": "Philippines",
+        "incorrect_answers": [
+          "India",
+          "Pakistan",
+          "Egypt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Kirito%20and%20Asuna%20are%20main%20characters%20from%20which%20anime%3F",
+        "correct_answer": "Sword%20Art%20Online",
+        "incorrect_answers": [
+          "One%20Piece",
+          "Death%20Note",
+          "Fairy%20Tail"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20part%20from%20the%20JoJo%27s%20Bizarre%20Adventure%20manga%20is%20about%20a%20horse%20race%20across%20America%3F",
+        "correct_answer": "Part%207%3A%20Steel%20Ball%20Run",
+        "incorrect_answers": [
+          "Part%206%3A%20Stone%20Ocean",
+          "Part%203%3A%20Stardust%20Crusaders",
+          "Part%205%3A%20Golden%20Wind"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "The%20anime%20Attack%20on%20Titan%20was%20directed%20by%20Tetsur%C5%8D%20Araki%2C%20the%20same%20person%20who%20directed%20the%20anime%20Highschool%20of%20the%20Dead.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22Highschool%20DxD%22%2C%20what%20is%20the%20name%20of%20the%20item%20some%20humans%20are%20born%20with%3F",
+        "correct_answer": "Sacred%20Gear",
+        "incorrect_answers": [
+          "Imperial%20Arm",
+          "Hallowed%20Relic",
+          "Blessed%20Artifact"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Which%20Japanese%20music%20group%20was%20formed%20to%20produce%20theme%20music%20for%20the%20anime%20%22Guilty%20Crown%22%3F",
+        "correct_answer": "Egoist",
+        "incorrect_answers": [
+          "Goose%20house",
+          "Babymetal",
+          "Garnidelia"
+        ]
+      }
+    ]
+  }
+}

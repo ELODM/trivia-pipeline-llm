@@ -1,0 +1,590 @@
+{
+  "category_id": 18,
+  "fetched_at": "2026-10-06T10:03:23.097848+00:00",
+  "request": {
+    "amount": 50,
+    "category": 18,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20ARM%20computer%20chip%20was%20originally%20developed%20by%20Acorn%20Computers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20computer%20science%20algorithm%3F",
+        "correct_answer": "Float%20Sort",
+        "incorrect_answers": [
+          "Bubble%20Sort",
+          "Merge%20Sort",
+          "Quick%20Sort"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20is%20the%20name%20for%20the%20failed%20key%20escrow%20device%20introduced%20by%20the%20National%20Security%20Agency%20in%201993%3F",
+        "correct_answer": "Clipper%20Chip",
+        "incorrect_answers": [
+          "Enigma%20Machine",
+          "Skipjack",
+          "Nautilus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Linus%20Torvalds%20created%20which%20of%20these%3F",
+        "correct_answer": "Linux",
+        "incorrect_answers": [
+          "Microsoft%20Windows",
+          "Python",
+          "Wikipedia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Released%20in%202001%2C%20the%20first%20edition%20of%20Apple%27s%20Mac%20OS%20X%20operating%20system%20%28version%2010.0%29%20was%20given%20what%20animal%20code%20name%3F",
+        "correct_answer": "Cheetah",
+        "incorrect_answers": [
+          "Puma",
+          "Tiger",
+          "Leopard"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Ada%20Lovelace%20is%20often%20considered%20the%20first%20computer%20programmer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20kind%20of%20algorithm%20is%20Ron%20Rivest%20not%20famous%20for%20creating%3F",
+        "correct_answer": "Secret%20sharing%20scheme",
+        "incorrect_answers": [
+          "Hashing%20algorithm",
+          "Asymmetric%20encryption",
+          "Stream%20cipher"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20Windows%20ME%20operating%20system%20was%20released%20in%20the%20year%202000.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "JavaScript%20derives%20from%20a%20later%20version%20of%20Java",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Linus%20Torvalds%20created%20Linux%20and%20Git.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "There%20is%20only%201%20root%20name%20server%2C%20among%2013%20in%20total%2C%20that%20is%20currently%20located%20in%20Asia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Unix%20Time%20is%20defined%20as%20the%20number%20of%20seconds%20that%20have%20elapsed%20since%20when%3F",
+        "correct_answer": "Midnight%2C%20January%201%2C%201970",
+        "incorrect_answers": [
+          "Midnight%2C%20July%204%2C%201976",
+          "Midnight%20on%20the%20creator%20of%20Unix%27s%20birthday",
+          "Midnight%2C%20July%204%2C%201980"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20name%20of%20technology%20company%20HP%20stands%20for%20what%3F",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+          "Howard%20Packmann",
+          "Husker-Pollosk",
+          "Hellman-Pohl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20kind%20of%20memory%20is%20used%20on%20memory%20cache%3F",
+        "correct_answer": "SRAM",
+        "incorrect_answers": [
+          "DRAM",
+          "ROM",
+          "Flash"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20Windows%207%20operating%20system%20has%20six%20main%20editions.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20name%20given%20to%20Android%204.3%3F",
+        "correct_answer": "Jelly%20Bean",
+        "incorrect_answers": [
+          "Lollipop",
+          "Nutella",
+          "Froyo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20first%20company%20to%20use%20the%20term%20%22Golden%20Master%22%3F",
+        "correct_answer": "Apple",
+        "incorrect_answers": [
+          "IBM",
+          "Microsoft",
+          "Google"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "AMD%20created%20the%20first%20consumer%2064-bit%20processor.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "DHCP%20stands%20for%20Dynamic%20Host%20Configuration%20Port.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20port%20does%20HTTP%20run%20on%3F",
+        "correct_answer": "80",
+        "incorrect_answers": [
+          "53",
+          "443",
+          "23"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "On%20a%20standard%20American%20QWERTY%20keyboard%2C%20what%20symbol%20will%20you%20enter%20if%20you%20hold%20the%20shift%20key%20and%20press%201%3F",
+        "correct_answer": "Exclamation%20Mark",
+        "incorrect_answers": [
+          "Dollar%20Sign",
+          "Percent%20Sign",
+          "Asterisk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20operating%20system%20was%20released%20first%3F",
+        "correct_answer": "Mac%20OS",
+        "incorrect_answers": [
+          "Windows",
+          "Linux",
+          "OS%2F2"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "RAM%20stands%20for%20Random%20Access%20Memory.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Moore%27s%20law%20originally%20stated%20that%20the%20number%20of%20transistors%20on%20a%20microprocessor%20chip%20would%20double%20every...",
+        "correct_answer": "Year",
+        "incorrect_answers": [
+          "Four%20Years",
+          "Two%20Years",
+          "Eight%20Years"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20DOS%20in%20Microsoft%27s%20first%20operating%20system%20%22MS-DOS%22%20stand%20for%3F",
+        "correct_answer": "Disk%20Operating%20System",
+        "incorrect_answers": [
+          "Dumb%20Operating%20System",
+          "Driver%20Oriented%20System",
+          "Diskless%20Operating%20System"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20known%20as%20%22the%20brain%22%20of%20the%20Computer%3F",
+        "correct_answer": "Central%20Processing%20Unit",
+        "incorrect_answers": [
+          "Motherboard",
+          "Graphics%20Processing%20Unit",
+          "Keyboard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20programming%20languages%20is%20a%20low-level%20language%3F",
+        "correct_answer": "Assembly",
+        "incorrect_answers": [
+          "Python",
+          "C%23",
+          "Pascal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Whistler%20was%20the%20codename%20of%20this%20Microsoft%20Operating%20System.",
+        "correct_answer": "Windows%20XP",
+        "incorrect_answers": [
+          "Windows%202000",
+          "Windows%207",
+          "Windows%2095"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20did%20the%20name%20of%20the%20Tor%20Anonymity%20Network%20orignially%20stand%20for%3F",
+        "correct_answer": "The%20Onion%20Router",
+        "incorrect_answers": [
+          "The%20Only%20Router",
+          "The%20Orange%20Router",
+          "The%20Ominous%20Router"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20name%20of%20the%20default%20theme%20that%20is%20installed%20with%20Windows%20XP%3F",
+        "correct_answer": "Luna",
+        "incorrect_answers": [
+          "Neptune",
+          "Whistler",
+          "Bliss"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "America%20Online%20%28AOL%29%20started%20out%20as%20which%20of%20these%20online%20service%20providers%3F",
+        "correct_answer": "Quantum%20Link",
+        "incorrect_answers": [
+          "CompuServe",
+          "Prodigy",
+          "GEnie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20%27S%27%20in%20the%20RSA%20encryption%20algorithm%20stand%20for%3F",
+        "correct_answer": "Shamir",
+        "incorrect_answers": [
+          "Secure",
+          "Schottky",
+          "Stable"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "HTML%20is%20what%20type%20of%20language%3F",
+        "correct_answer": "Markup%20Language",
+        "incorrect_answers": [
+          "Macro%20Language",
+          "Programming%20Language",
+          "Scripting%20Language"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Lenovo%20acquired%20IBM%27s%20personal%20computer%20division%2C%20including%20the%20ThinkPad%20line%20of%20laptops%20and%20tablets%2C%20in%20what%20year%3F",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+          "1999",
+          "2002",
+          "2008"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20name%20of%20the%20first%20Bulgarian%20personal%20computer%3F",
+        "correct_answer": "IMKO-1",
+        "incorrect_answers": [
+          "Pravetz%2082",
+          "Pravetz%208D",
+          "IZOT%201030"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20numbering%20system%20with%20a%20radix%20of%2016%20is%20more%20commonly%20referred%20to%20as%20",
+        "correct_answer": "Hexidecimal",
+        "incorrect_answers": [
+          "Binary",
+          "Duodecimal",
+          "Octal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20GHz%20stand%20for%3F",
+        "correct_answer": "Gigahertz",
+        "incorrect_answers": [
+          "Gigahotz",
+          "Gigahetz",
+          "Gigahatz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "The%20acronym%20%22RIP%22%20stands%20for%20which%20of%20these%3F",
+        "correct_answer": "Routing%20Information%20Protocol",
+        "incorrect_answers": [
+          "Runtime%20Instance%20Processes",
+          "Regular%20Interval%20Processes",
+          "Routine%20Inspection%20Protocol"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20vulnerability%20ranked%20%231%20on%20the%20OWASP%20Top%2010%20in%202013%3F",
+        "correct_answer": "Injection%20",
+        "incorrect_answers": [
+          "Broken%20Authentication",
+          "Cross-Site%20Scripting",
+          "Insecure%20Direct%20Object%20References"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20Bitcoin%27s%20block%20size%20limit%20in%202010%3F",
+        "correct_answer": "1%20MB",
+        "incorrect_answers": [
+          "1GB",
+          "1%20KB",
+          "1%20TB"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20C%20programming%20language%20was%20created%20by%20this%20American%20computer%20scientist.%20",
+        "correct_answer": "Dennis%20Ritchie",
+        "incorrect_answers": [
+          "Tim%20Berners%20Lee",
+          "al-Khw%C4%81rizm%C4%AB",
+          "Willis%20Ware"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20name%20of%20the%20security%20vulnerability%20found%20in%20Bash%20in%202014%3F",
+        "correct_answer": "Shellshock",
+        "incorrect_answers": [
+          "Heartbleed",
+          "Bashbug",
+          "Stagefright"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20the%20programming%20language%20%22Python%22%2C%20which%20of%20these%20statements%20would%20display%20the%20string%20%22Hello%20World%22%20correctly%3F",
+        "correct_answer": "print%28%22Hello%20World%22%29",
+        "incorrect_answers": [
+          "console.log%28%22Hello%20World%22%29",
+          "echo%20%22Hello%20World%22",
+          "printf%28%22Hello%20World%22%29"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "All%20program%20codes%20have%20to%20be%20compiled%20into%20an%20executable%20file%20in%20order%20to%20be%20run.%20This%20file%20can%20then%20be%20executed%20on%20any%20machine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20programming%2C%20what%20do%20you%20call%20functions%20with%20the%20same%20name%20but%20different%20implementations%3F",
+        "correct_answer": "Overloading",
+        "incorrect_answers": [
+          "Overriding",
+          "Abstracting",
+          "Inheriting"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20CPU%20stand%20for%3F",
+        "correct_answer": "Central%20Processing%20Unit",
+        "incorrect_answers": [
+          "Central%20Process%20Unit",
+          "Computer%20Personal%20Unit",
+          "Central%20Processor%20Unit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Generally%2C%20which%20component%20of%20a%20computer%20draws%20the%20most%20power%3F",
+        "correct_answer": "Video%20Card",
+        "incorrect_answers": [
+          "Hard%20Drive",
+          "Processor",
+          "Power%20Supply"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20RAID%20stand%20for%3F",
+        "correct_answer": "Redundant%20Array%20of%20Independent%20Disks",
+        "incorrect_answers": [
+          "Rapid%20Access%20for%20Indexed%20Devices",
+          "Range%20of%20Applications%20with%20Identical%20Designs",
+          "Randomized%20Abstract%20Identification%20Description"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "MacOS%20is%20based%20on%20Linux.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20major%20programming%20language%20does%20Unreal%20Engine%204%20use%3F",
+        "correct_answer": "C%2B%2B",
+        "incorrect_answers": [
+          "Assembly",
+          "C%23",
+          "ECMAScript"
+        ]
+      }
+    ]
+  }
+}

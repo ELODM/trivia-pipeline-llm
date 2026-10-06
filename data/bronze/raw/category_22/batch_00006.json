@@ -1,0 +1,598 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:44.792261+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20ocean%20that%20Hawaii%20is%20located%20in%3F",
+        "correct_answer": "Pacific",
+        "incorrect_answers": [
+          "Atlantic",
+          "Indian",
+          "Arctic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How%20many%20countries%20share%20a%20land%20border%20with%20Russia%3F%20%28Not%20including%20disputed%20territories%29",
+        "correct_answer": "14",
+        "incorrect_answers": [
+          "12",
+          "10",
+          "8"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20county%20seat%20of%20King%20County%2C%20Washington%3F",
+        "correct_answer": "Seattle",
+        "incorrect_answers": [
+          "Bellevue",
+          "Enumclaw",
+          "Skykomish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20year%20is%20on%20the%20flag%20of%20the%20US%20state%20Wisconsin%3F",
+        "correct_answer": "1848",
+        "incorrect_answers": [
+          "1634",
+          "1783",
+          "1901"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20countries%20are%20inside%20the%20United%20Kingdom%3F",
+        "correct_answer": "Four",
+        "incorrect_answers": [
+          "Two",
+          "Three",
+          "One"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20freshwater%20lake%20by%20volume%3F",
+        "correct_answer": "Lake%20Baikal",
+        "incorrect_answers": [
+          "Lake%20Superior",
+          "Lake%20Huron",
+          "Lake%20Michigan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20land%20mass%20of%20modern%20day%20Turkey%20is%20called%20what%3F",
+        "correct_answer": "Anatolia",
+        "incorrect_answers": [
+          "Ismuth%20of%20Ottoma",
+          "Ottoma",
+          "Ismuth%20of%20Anatolia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20land%20of%20Gotland%20is%20located%20in%20which%20European%20country%3F",
+        "correct_answer": "Sweden",
+        "incorrect_answers": [
+          "Denmark",
+          "Norway",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20British%20Columbia%2C%20Canada%3F",
+        "correct_answer": "Victoria",
+        "incorrect_answers": [
+          "Vancouver",
+          "Hope",
+          "Kelowna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Kuala%20Lumpur%20is%20the%20capital%20of%20which%20country%3F",
+        "correct_answer": "Malaysia",
+        "incorrect_answers": [
+          "Indonesia",
+          "Singapore",
+          "Thailand"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Only%20one%20country%20in%20the%20world%20starts%20with%20the%20letter%20Q.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "How%20many%20islands%20does%20Kuwait%20have%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "3",
+          "6",
+          "2"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "%22Mongolia%22%20was%20a%20part%20of%20the%20now%20non-existent%20U.S.S.R.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20formerly%20East-Prussian%20city%20of%20K%C3%B6nigsberg%20is%20known%20as%20which%20Russian%20City%20today%3F",
+        "correct_answer": "Kaliningrad",
+        "incorrect_answers": [
+          "Kazan",
+          "Kursk",
+          "Krasnodar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20New%20Zealand%27s%20indigenous%20people%3F",
+        "correct_answer": "Maori",
+        "incorrect_answers": [
+          "Vikings",
+          "Polynesians",
+          "Samoans"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20world%27s%20smallest%20country%20by%20population%3F",
+        "correct_answer": "Vatican%20City",
+        "incorrect_answers": [
+          "Nauru",
+          "Marshall%20Islands",
+          "Lichtenstein"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20South%20Korea%3F",
+        "correct_answer": "Seoul",
+        "incorrect_answers": [
+          "Pyongyang",
+          "Taegu",
+          "Kitakyushu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20is%20the%20area%20commonly%20known%20as%20the%20Bermuda%20Triangle%3F",
+        "correct_answer": "North%20Atlantic%20Ocean%2C%20between%20Florida%20and%20Puerto%20Rico",
+        "incorrect_answers": [
+          "North%20Pacific%20Ocean%2C%20between%20Japan%20and%20the%20USA",
+          "In%20the%20Caribbean%20Sea",
+          "South%20Pacific%20Ocean%2C%20far%20off%20Chile"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20is%20the%20world%27s%20longest%20river%3F",
+        "correct_answer": "Nile",
+        "incorrect_answers": [
+          "Missouri",
+          "Amazon",
+          "Yangtze"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20country%2C%20by%20area%2C%20that%20has%20only%20one%20time%20zone%3F",
+        "correct_answer": "China",
+        "incorrect_answers": [
+          "Canada",
+          "India",
+          "Russia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20country%20in%20the%20world%20%3F",
+        "correct_answer": "Russian%20Federation",
+        "incorrect_answers": [
+          "China",
+          "Canada",
+          "Brazil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "All%20of%20the%20following%20are%20classified%20as%20Finno-Ugric%20languages%20EXCEPT%3A",
+        "correct_answer": "Samoyedic",
+        "incorrect_answers": [
+          "Hungarian",
+          "Finnish",
+          "Estonian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20country%20has%20a%20horizontal%20bicolor%20red%20and%20white%20flag%3F",
+        "correct_answer": "Monaco",
+        "incorrect_answers": [
+          "Bahrain",
+          "Malta",
+          "Liechenstein"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20Maluku%20islands%20%28informally%20known%20as%20the%20Spice%20Islands%29%20belong%20to%20which%20country%3F",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+          "Chile",
+          "New%20Zealand",
+          "Fiji"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20these%20African%20countries%20list%20%22Spanish%22%20as%20an%20official%20language%3F",
+        "correct_answer": "Equatorial%20Guinea",
+        "incorrect_answers": [
+          "Guinea",
+          "Cameroon",
+          "Angola"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20NOT%20a%20real%20tectonic%20plate%3F",
+        "correct_answer": "Atlantic%20Plate",
+        "incorrect_answers": [
+          "North%20American%20Plate",
+          "Eurasian%20Plate",
+          "Nazca%20Plate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20emblem%20on%20the%20flag%20of%20the%20Republic%20of%20Tajikistan%20features%20a%20sunrise%20over%20mountains%20below%20what%20symbol%3F",
+        "correct_answer": "Crown",
+        "incorrect_answers": [
+          "Bird",
+          "Sickle",
+          "Tree"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20state%20capital%20of%20South%20Dakota%3F",
+        "correct_answer": "Pierre",
+        "incorrect_answers": [
+          "Sioux%20Falls",
+          "Rapid%20City",
+          "Watertown"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Seoul%20is%20the%20capital%20of%20North%20Korea.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20state%20of%20the%20United%20States%20is%20the%20smallest%3F",
+        "correct_answer": "Rhode%20Island%20",
+        "incorrect_answers": [
+          "Maine",
+          "Vermont",
+          "Massachusetts"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20Sonoran%20Desert%20is%20located%20in%20eastern%20Africa.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20the%20State%20of%20Washington%2C%20United%20States%3F",
+        "correct_answer": "Olympia",
+        "incorrect_answers": [
+          "Washington%20D.C.",
+          "Seattle",
+          "Yukon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20longest%20place%20named%20in%20the%20United%20States%20is%20Lake%20Chargoggagoggmanchauggagoggchaubunagungamaugg%2C%20located%20near%20Webster%2C%20MA.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Israel%20is%207%20hours%20ahead%20of%20New%20York.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "There%20are%20no%20deserts%20in%20Europe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20national%20museum%20will%20you%20find%20in%20Cooperstown%2C%20New%20York%3F",
+        "correct_answer": "National%20Baseball%20Hall%20of%20Fame",
+        "incorrect_answers": [
+          "Metropolitan%20Museum%20of%20Art",
+          "National%20Toy%20Hall%20of%20Fame",
+          "Museum%20of%20Modern%20Art"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20rocky%20region%20that%20spans%20most%20of%20eastern%20Canada%3F",
+        "correct_answer": "Canadian%20Shield",
+        "incorrect_answers": [
+          "Rocky%20Mountains",
+          "Appalachian%20Mountains",
+          "Himalayas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Llanfair%C2%ADpwllgwyngyll%C2%ADgogery%C2%ADchwyrn%C2%ADdrobwll%C2%ADllan%C2%ADtysilio%C2%ADgogo%C2%ADgoch%20is%20located%20on%20which%20Welsh%20island%3F",
+        "correct_answer": "Anglesey",
+        "incorrect_answers": [
+          "Barry",
+          "Bardsey",
+          "Caldey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20an%20official%20currency%20of%20the%20Cook%20Islands%3F",
+        "correct_answer": "New%20Zealand%20Dollar",
+        "incorrect_answers": [
+          "United%20States%20Dollar",
+          "British%20Pound",
+          "Australian%20Dollar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20NOT%20a%20city%20in%20India%3F",
+        "correct_answer": "Islamabad",
+        "incorrect_answers": [
+          "Hyderabad",
+          "Ahmedabad",
+          "Ghaziabad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20Canada%27s%20largest%20island%3F",
+        "correct_answer": "Baffin%20Island",
+        "incorrect_answers": [
+          "Prince%20Edward%20Island",
+          "Vancouver%20Island",
+          "Newfoundland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20mountain%20range%20lines%20the%20border%20between%20Spain%20and%20France%3F",
+        "correct_answer": "Pyrenees",
+        "incorrect_answers": [
+          "Alps",
+          "Carpathians",
+          "Urals"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20American%20cities%20has%20fewer%20than%201%2C000%2C000%20people%3F",
+        "correct_answer": "San%20Francisco%2C%20California",
+        "incorrect_answers": [
+          "Phoenix%2C%20Arizona",
+          "San%20Antonio%2C%20Texas",
+          "Philadelphia%2C%20Pennsylvania"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Indonesia%3F",
+        "correct_answer": "Jakarta",
+        "incorrect_answers": [
+          "Bandung",
+          "Medan",
+          "Palembang"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20colour%20is%20the%20circle%20on%20the%20Japanese%20flag%3F",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+          "White",
+          "Yellow",
+          "Black"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "In%20which%20ocean%20is%20the%20R%C3%A9union%20island%3F",
+        "correct_answer": "Indian%20Ocean",
+        "incorrect_answers": [
+          "Atlantic%20Ocean",
+          "South%20Pacific%20Ocean",
+          "North%20Pacific%20Ocean"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Jamaica%3F",
+        "correct_answer": "Kingston",
+        "incorrect_answers": [
+          "San%20Juan",
+          "Port-au-Prince",
+          "Bridgetown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Seychelles%3F",
+        "correct_answer": "Victoria",
+        "incorrect_answers": [
+          "Luanda",
+          "N%27Djamena",
+          "Tripoli"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Nova%20Scotia%20is%20on%20the%20east%20coast%20of%20Canada.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Bikini%20Atoll%20is%20in%20which%20country%3F",
+        "correct_answer": "Marshall%20Islands",
+        "incorrect_answers": [
+          "Fiji",
+          "Christmas%20Islands",
+          "Bahamas"
+        ]
+      }
+    ]
+  }
+}

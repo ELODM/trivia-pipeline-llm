@@ -1,0 +1,606 @@
+{
+  "category_id": 11,
+  "fetched_at": "2026-10-06T09:58:15.584177+00:00",
+  "request": {
+    "amount": 50,
+    "category": 11,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Where%20does%20the%20original%20Friday%20The%2013th%20movie%20take%20place%3F",
+        "correct_answer": "Camp%20Crystal%20Lake",
+        "incorrect_answers": [
+          "Packanack",
+          "Higgins%20Haven",
+          "Camp%20Forest%20Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20did%20the%20score%20to%20the%20original%20Blade%20Runner%3F",
+        "correct_answer": "Vangelis",
+        "incorrect_answers": [
+          "Kitaro",
+          "Yanni",
+          "Enya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20is%20not%20the%20name%20of%20a%20%22Bond%20Girl%22%3F%20",
+        "correct_answer": "Vanessa%20Kensington",
+        "incorrect_answers": [
+          "Pam%20Bouvier",
+          "Mary%20Goodnight",
+          "Wai%20Lin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20Mad%20Max%20franchise%2C%20what%20type%20of%20car%20is%20the%20Pursuit%20Special%20driven%20by%20Max%3F",
+        "correct_answer": "Ford%20Falcon",
+        "incorrect_answers": [
+          "Holden%20Monaro",
+          "Chrysler%20Valiant%20Charger",
+          "Pontiac%20Firebird"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actor%20played%20the%20main%20character%20in%20the%201990%20film%20%22Edward%20Scissorhands%22%3F",
+        "correct_answer": "Johnny%20Depp",
+        "incorrect_answers": [
+          "%20Clint%20Eastwood",
+          "Leonardo%20DiCaprio",
+          "Ben%20Stiller"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20film%20%222001%3A%20A%20Space%20Odyssey%22%20was%20released%20on%20December%2031st%2C%202000.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actor%20and%20martial%20artist%20starred%20as%20Colonel%20Guile%20in%20the%201994%20action%20film%20adaptation%20of%20Street%20Fighter%3F",
+        "correct_answer": "Jean-Claude%20Van%20Damme",
+        "incorrect_answers": [
+          "Chuck%20Norris",
+          "Steven%20Seagal",
+          "Scott%20Adkins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%201958%20movie%20starred%20Kirk%20Douglas%20and%20Tony%20Curtis%20as%20half-brothers%20Einar%20and%20Eric%3F",
+        "correct_answer": "The%20Vikings%20",
+        "incorrect_answers": [
+          "The%20Long%20Ships",
+          "Prince%20Valiant",
+          "Spartacus"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Brandon%20Routh%20plays%20the%20titular%20character%20in%20the%20movie%20%22John%20Wick%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20name%20of%20the%20planet%20in%20%22Aliens%22%3F",
+        "correct_answer": "LV-426",
+        "incorrect_answers": [
+          "Weyland%20Yutani%20Corporation%20Base",
+          "FR-838",
+          "DI-621"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Youtuber%20Jerma985%27s%202014%20film%20%22Rat%20Movie%3A%20Mystery%20of%20the%20Mayan%20Treasure%2C%22%20who%20is%20the%20man%20who%20tries%20to%20steal%20the%20Mayan%20Treasure%3F",
+        "correct_answer": "Dick%20Dastardly%20Richards",
+        "incorrect_answers": [
+          "Gabe%20%22The%20Glue%20Man%22%20Degrossi",
+          "Bootleg%20Duck%20Dynasty%20Byeah%20Batman",
+          "Demon%20Lord%20Zeraxos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Leonardo%20Di%20Caprio%20won%20his%20first%20Best%20Actor%20Oscar%20for%20his%20performance%20in%20which%20film%3F",
+        "correct_answer": "The%20Revenant",
+        "incorrect_answers": [
+          "The%20Wolf%20Of%20Wall%20Street",
+          "Shutter%20Island",
+          "Inception"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20movie%20of%20film%20director%20Stanley%20Kubrick%20is%20known%20to%20be%20an%20adaptation%20of%20a%20Stephen%20King%20novel%3F",
+        "correct_answer": "The%20Shining",
+        "incorrect_answers": [
+          "2001%3A%20A%20Space%20Odyssey",
+          "%20Dr.%20Strangelove%20",
+          "Eyes%20Wide%20Shut"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Back%20to%20the%20Future%20Part%20II%2C%20Marty%20and%20Dr.%20Emmett%20Brown%20go%20to%20which%20future%20date%3F",
+        "correct_answer": "October%2021%2C%202015",
+        "incorrect_answers": [
+          "August%2028%2C%202015",
+          "July%2020%2C%202015",
+          "January%2025%2C%202015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "For%20the%20film%20%22Raiders%20of%20The%20Lost%20Ark%22%2C%20what%20was%20Harrison%20Ford%20sick%20with%20during%20the%20filming%20of%20the%20Cairo%20chase%3F",
+        "correct_answer": "Dysentery",
+        "incorrect_answers": [
+          "Anemia",
+          "Constipation",
+          "Acid%20Reflux%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20which%20movie%20does%20Robin%20Williams%27%20character%20have%20to%20disguise%20themselves%20into%20a%20woman%3F",
+        "correct_answer": "Mrs.%20Doubtfire",
+        "incorrect_answers": [
+          "Old%20Dogs",
+          "Jumanji",
+          "Awakenings"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "At%20the%20end%20of%20the%202001%20film%20%22Rat%20Race%22%2C%20whose%20concert%20do%20the%20contestants%20crash%3F",
+        "correct_answer": "Smash%20Mouth",
+        "incorrect_answers": [
+          "Bowling%20for%20Soup",
+          "Sum%2041",
+          "Linkin%20Park"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20%22Star%20Trek%20Nemesis%22%2C%20why%20was%20Praetor%20Shinzon%20created%3F",
+        "correct_answer": "To%20replace%20Picard%20as%20a%20Romulan%20Agent",
+        "incorrect_answers": [
+          "To%20destroy%20the%20Enterprise",
+          "To%20become%20Picard%27s%20friend%20",
+          "To%20steal%20the%20Enterprise"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "This%20trope%20refers%20to%20minor%20characters%20that%20are%20killed%20off%20to%20show%20how%20a%20monster%20works.",
+        "correct_answer": "Red%20Shirt",
+        "incorrect_answers": [
+          "Minions",
+          "Expendables",
+          "Cannon%20Fodder"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%202002%20film%20%22Kung%20Pow%21%20Enter%20the%20Fist%22%2C%20Master%20Pain%20changes%20his%20name%20to%20what%3F",
+        "correct_answer": "Betty",
+        "incorrect_answers": [
+          "Sally",
+          "Amy",
+          "Kitty"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actor%20plays%20Obi-Wan%20Kenobi%20in%20Star%20Wars%20Episodes%20I-III%3F",
+        "correct_answer": "Ewan%20McGregor",
+        "incorrect_answers": [
+          "Alec%20Guinness",
+          "Hayden%20Christensen",
+          "Liam%20Neeson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20animated%20movie%20was%20first%20to%20feature%20a%20celebrity%20as%20a%20voice%20actor%3F",
+        "correct_answer": "Aladdin",
+        "incorrect_answers": [
+          "Toy%20Story",
+          "James%20and%20the%20Giant%20Peach",
+          "The%20Hunchback%20of%20Notre%20Dame"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20voiced%20Metalbeard%20in%20%22The%20Lego%20Movie%22%3F",
+        "correct_answer": "Nick%20Offerman",
+        "incorrect_answers": [
+          "Liam%20Neeson",
+          "Morgan%20Freeman",
+          "Will%20Arnet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20%22Jurassic%20World%22%2C%20what%20is%20the%20name%20of%20the%20dinosaur%20that%20is%20a%20genetic%20hybrid%3F",
+        "correct_answer": "Indominus%20Rex",
+        "incorrect_answers": [
+          "Mosasaurus",
+          "Pteranodon",
+          "Tyrannosaurus%20Rex%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20the%20Kill%20Bill%20movies%3F",
+        "correct_answer": "Quentin%20Tarantino",
+        "incorrect_answers": [
+          "Arnold%20Schwarzenegger",
+          "David%20Lean",
+          "Stanley%20Kubrick"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20James%20Bond%20film%20had%20the%20theme%20song%20written%20and%20performed%20by%20English%20singer-songwriter%20Adele%3F",
+        "correct_answer": "Skyfall",
+        "incorrect_answers": [
+          "Casino%20Royale",
+          "Quantum%20Solace",
+          "Spectre"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20James%20Bond%20villains%20is%20not%20affiliated%20with%20the%20SPECTRE%20organization%3F",
+        "correct_answer": "Auric%20Goldfinger",
+        "incorrect_answers": [
+          "Dr.%20Julius%20No",
+          "Rosa%20Klebb",
+          "Emilio%20Largo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%202014%20film%20%22Birdman%22%2C%20what%20is%20the%20primary%20instrument%20in%20the%20score%3F",
+        "correct_answer": "Drums",
+        "incorrect_answers": [
+          "Saxophone",
+          "Violin",
+          "Actual%20Live%20Birds%20Singing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20were%20the%20Chilled%20Monkey%20Brains%20made%20from%20during%20Indiana%20Jones%20and%20the%20Temple%20of%20Doom%3F",
+        "correct_answer": "Custard%20and%20Raspberry%20Sauce",
+        "incorrect_answers": [
+          "Strawberry%20Ice%20Cream",
+          "Cherry%20Yogurt",
+          "Raspberry%20Sorbet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actor%20plays%20the%20role%20of%20the%20main%20antagonist%20in%20the%202011%20movie%20%22Tower%20Heist%3F%22",
+        "correct_answer": "Alan%20Alda",
+        "incorrect_answers": [
+          "Eddie%20Murphy",
+          "Alec%20Baldwin",
+          "Kevin%20Nealon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20was%20not%20one%20of%20%22The%20Magnificent%20Seven%22%3F",
+        "correct_answer": "Clint%20Eastwood",
+        "incorrect_answers": [
+          "Steve%20McQueen",
+          "Charles%20Bronson",
+          "Robert%20Vaughn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%22Spaceballs%22%2C%20what%20are%20the%20Spaceballs%20attempting%20to%20steal%20from%20Planet%20Druidia%3F",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+          "The%20Schwartz",
+          "Princess%20Lonestar",
+          "Meatballs"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20original%20script%20of%20%22The%20Matrix%22%2C%20the%20machines%20used%20humans%20as%20additional%20computing%20power%20instead%20of%20batteries.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Stanley%20Kubrick%27s%20%22Dr.%20Strangelove%22%20%281964%29%20originally%20ended%20with%20a%20large%20pie%20fight%20in%20the%20war%20room.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20one%20of%20these%20films%20are%20shot%20entirely%20in%20one-take%3F",
+        "correct_answer": "Russian%20Ark",
+        "incorrect_answers": [
+          "Good%20Will%20Hunting",
+          "Birdman",
+          "Schindler%27s%20List"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20movie%20contains%20the%20quote%2C%20%22Say%20hello%20to%20my%20little%20friend%21%22%3F",
+        "correct_answer": "Scarface",
+        "incorrect_answers": [
+          "Reservoir%20Dogs",
+          "Heat",
+          "Goodfellas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20Marvel%27s%20Avengers%20Endgame%3F",
+        "correct_answer": "The%20Russo%20Brothers",
+        "incorrect_answers": [
+          "Zack%20Synder",
+          "Josh%20Whedon",
+          "Kevin%20Feige"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%E2%80%9CThe%20Iron%20Giant%2C%E2%80%9D%20this%20character%20is%20the%20protagonist.",
+        "correct_answer": "Hogarth%20Hughes",
+        "incorrect_answers": [
+          "Kent%20Mansley",
+          "Dean%20McCoppin",
+          "Annie%20Hughes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Before%20getting%20the%20shotgun%2C%20what%20did%20the%20titular%20hobo%20in%20%27Hobo%20with%20a%20Shotgun%27%20want%20to%20purchase%3F",
+        "correct_answer": "a%20lawnmower",
+        "incorrect_answers": [
+          "a%20revolver",
+          "a%20guitar",
+          "a%20suit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Darth%20Vader%27s%20famous%20reveal%20to%20Luke%20is%20iconic.%20But%20which%20of%20these%20is%20the%20right%20one%3F",
+        "correct_answer": "%22No.%20I%20am%20your%20father.%22",
+        "incorrect_answers": [
+          "%22Luke%2C%20I%20am%20your%20father.%22",
+          "%22You%27re%20wrong.%20I%20am%20your%20father.%22",
+          "%22The%20truth%20is%20that%20I%20am%20your%20father.%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201979%20British%20film%20%22Quadrophenia%22%20what%20is%20the%20name%20of%20the%20seaside%20city%20the%20mods%20are%20visiting%3F",
+        "correct_answer": "Brighton",
+        "incorrect_answers": [
+          "Eastbourne",
+          "Mousehole",
+          "Bridlington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20character%20Nicolas%20Cage%20plays%20in%20the%20movie%20%22National%20Treasure%3F%22",
+        "correct_answer": "Benjamin%20Franklin%20Gates",
+        "incorrect_answers": [
+          "Thomas%20Jefferson%20Walker",
+          "George%20Washington%20Swanson",
+          "John%20Quincy%20Beckett"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20assassin%20in%20the%20first%20%22Hellboy%22%20movie%3F",
+        "correct_answer": "Karl%20Ruprecht%20Kroenen",
+        "incorrect_answers": [
+          "Klaus%20Werner%20von%20Krupt",
+          "Grigori%20Efimovich%20Rasputin",
+          "Ilsa%20Haupstein"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "About%20how%20much%20money%20did%20it%20cost%20for%20Tommy%20Wiseau%20to%20make%20his%20masterpiece%20%22The%20Room%22%20%282003%29%3F",
+        "correct_answer": "%246%20Million",
+        "incorrect_answers": [
+          "%2420%2C000",
+          "%241%20Million",
+          "%2410%20Million"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%22Cast%20Away%22%20the%20main%20protagonist%27s%20best%20friend%20while%20on%20the%20island%20is%20named",
+        "correct_answer": "Wilson",
+        "incorrect_answers": [
+          "Carson",
+          "Jackson",
+          "Willy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20city%20did%20the%20monster%20attack%20in%20the%20film%2C%20%22Cloverfield%22%3F",
+        "correct_answer": "New%20York%2C%20New%20York",
+        "incorrect_answers": [
+          "Las%20Vegas%2C%20Nevada",
+          "Chicago%2C%20Illinois",
+          "Orlando%2C%20Florida"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "How%20much%20money%20did%20the%202019%20Marvel%20movie%20%22Avengers%3A%20Endgame%22%20gross%20for%20it%27s%20record-breaking%20worldwide%20opening%20weekend%3F",
+        "correct_answer": "1.2%20billion%20USD",
+        "incorrect_answers": [
+          "640%20million%20USD",
+          "456%20million%20USD",
+          "392%20million%20USD"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%202002%20film%20%22Kung%20Pow%21%20Enter%20the%20Fist%22%2C%20why%20was%20Wimp%20Lo%20purposely%20trained%20wrong%3F",
+        "correct_answer": "As%20a%20joke",
+        "incorrect_answers": [
+          "For%20cheating",
+          "Revenge",
+          "To%20test%20him"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Peter%20Jackson%27s%20film%20series%20%22The%20Lord%20of%20the%20Rings%22%20was%20shot%20entirely%20in%20which%20country%3F",
+        "correct_answer": "New%20Zealand",
+        "incorrect_answers": [
+          "Scotland",
+          "Canada",
+          "Iceland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20Lord%20of%20the%20Rings%3A%20The%20Two%20Towers%2C%20where%20are%20the%20party%20of%20orcs%20taking%20the%20hobbits%3F",
+        "correct_answer": "Isengard",
+        "incorrect_answers": [
+          "Rivendell",
+          "Mordor",
+          "Moria"
+        ]
+      }
+    ]
+  }
+}

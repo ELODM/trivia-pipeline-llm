@@ -1,0 +1,596 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:56:51.958900+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20nickname%20of%20the%20US%20state%20of%20California%3F",
+        "correct_answer": "Golden%20State",
+        "incorrect_answers": [
+          "Sunshine%20State",
+          "Bay%20State",
+          "Treasure%20State"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20Scandinavian%20languages%2C%20the%20letter%20%C3%85%20means%20river.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20planet%20is%20not%20named%20after%20a%20Greek%20or%20Roman%20god%3F",
+        "correct_answer": "Earth",
+        "incorrect_answers": [
+          "Jupiter",
+          "Mars",
+          "Mercury"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Sitting%20for%20more%20than%20three%20hours%20a%20day%20can%20cut%20two%20years%20off%20a%20person%27s%20life%20expectancy.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20word%20%22astasia%22%20means%20which%20of%20the%20following%3F",
+        "correct_answer": "The%20inability%20to%20stand%20up",
+        "incorrect_answers": [
+          "The%20inability%20to%20make%20decisions",
+          "The%20inability%20to%20concentrate%20on%20anything",
+          "A%20feverish%20desire%20to%20rip%20one%27s%20clothes%20off"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Quran%20is%20the%20holy%20book%20of%20which%20Abrahamic%20religion%3F",
+        "correct_answer": "Islam",
+        "incorrect_answers": [
+          "Christianity",
+          "Judaism",
+          "Rastafarianism"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Located%20in%20Chile%2C%20El%20Teniente%20is%20the%20world%27s%20largest%20underground%20mine%20for%20what%20metal%3F",
+        "correct_answer": "Copper",
+        "incorrect_answers": [
+          "Iron",
+          "Nickel",
+          "Silver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20Quadrangularis%20Reversum%20is%20best%20described%20as%20which%20of%20the%20following%3F",
+        "correct_answer": "A%20percussion%20instrument",
+        "incorrect_answers": [
+          "A%20building%20in%20Oxford%20University",
+          "A%20chess%20move",
+          "A%20geometric%20theorem"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20the%20video-game%20franchise%20Kingdom%20Hearts%2C%20the%20main%20protagonist%2C%20carries%20a%20weapon%20with%20what%20shape%3F",
+        "correct_answer": "Key",
+        "incorrect_answers": [
+          "Sword",
+          "Pen",
+          "Cellphone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20perimeter%20of%20a%20circle%20more%20commonly%20known%20as%3F",
+        "correct_answer": "Circumference",
+        "incorrect_answers": [
+          "Diameter",
+          "Radius",
+          "Arc"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20very%20first%20video%20uploaded%20to%20YouTube%3F",
+        "correct_answer": "Me%20at%20the%20zoo",
+        "incorrect_answers": [
+          "tribute",
+          "carrie%20rides%20a%20truck",
+          "Her%20new%20puppy%20from%20great%20grandpa%20vern."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20notes%20are%20there%20on%20a%20standard%20grand%20piano%3F",
+        "correct_answer": "88",
+        "incorrect_answers": [
+          "98",
+          "108",
+          "78"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20Swedish%20word%20for%20%22window%22%3F",
+        "correct_answer": "F%C3%B6nster",
+        "incorrect_answers": [
+          "H%C3%A5l",
+          "Sk%C3%A4rm",
+          "Ruta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20is%20not%20the%20host%20of%20a%20program%20on%20NPR%3F",
+        "correct_answer": "Ben%20Shapiro",
+        "incorrect_answers": [
+          "Terry%20Gross",
+          "Ira%20Glass",
+          "Peter%20Sagal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20what%20year%20was%20McDonald%27s%20founded%3F",
+        "correct_answer": "1955",
+        "incorrect_answers": [
+          "1964",
+          "1951",
+          "1947"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "A%20scientific%20study%20on%20peanuts%20in%20bars%20found%20traces%20of%20over%20100%20unique%20specimens%20of%20urine.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Sun%20rises%20from%20the%20North.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20name%20given%20to%20Japanese%20military%20dictators%20who%20ruled%20the%20country%20through%20the%2012th%20and%2019th%20Century%3F",
+        "correct_answer": "Shogun",
+        "incorrect_answers": [
+          "Ninja",
+          "Samurai",
+          "Shinobi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20anatomical%20terms%20refers%20to%20the%20tail%20end%20of%20the%20creature%3F",
+        "correct_answer": "Caudal",
+        "incorrect_answers": [
+          "Ventral",
+          "Proximal",
+          "Coronal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20%E2%80%9Cfairy%E2%80%9D%20type%20made%20it%E2%80%99s%20debut%20in%20which%20generation%20of%20the%20Pokemon%20core%20series%20games%3F",
+        "correct_answer": "6th",
+        "incorrect_answers": [
+          "2nd",
+          "7th",
+          "4th"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20mitochondria%20is%20the%20powerhouse%20of%20the%20cell.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Astraphobia%20is%20the%20irrational%20fear%20of%20what%3F",
+        "correct_answer": "Thunder",
+        "incorrect_answers": [
+          "Rain",
+          "Wind",
+          "Snow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20the%20United%20States%27%20CDC%2C%20one%20in%20how%20many%20Americans%20die%20annually%20due%20to%20smoking%3F",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+          "Twenty",
+          "Ten",
+          "One%20hundred"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20Ivy%20League%20universities%20has%20its%20official%20motto%20in%20Hebrew%20as%20well%20as%20in%20Latin%3F",
+        "correct_answer": "Yale%20University",
+        "incorrect_answers": [
+          "Princeton%20University",
+          "Harvard%20University",
+          "Columbia%20University"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Nutella%20is%20produced%20by%20the%20German%20company%20Ferrero.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Water%20is%20naturally%20coloured%20blue.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20Bank%20of%20America%20originally%20established%20as%3F",
+        "correct_answer": "Bank%20of%20Italy",
+        "incorrect_answers": [
+          "Bank%20of%20Long%20Island",
+          "Bank%20of%20Pennsylvania",
+          "Bank%20of%20Charlotte"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20tall%20is%20the%20Burj%20Khalifa%3F",
+        "correct_answer": "2%2C722%20ft",
+        "incorrect_answers": [
+          "2%2C717%20ft",
+          "2%2C546%20ft",
+          "3%2C024%20ft"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20calories%20are%20in%20a%20355%20ml%20can%20of%20Pepsi%20Cola%3F",
+        "correct_answer": "150",
+        "incorrect_answers": [
+          "200",
+          "100",
+          "155"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Coleslaw%20originated%20from%20which%20European%20country%3F",
+        "correct_answer": "The%20Netherlands",
+        "incorrect_answers": [
+          "United%20Kingdom",
+          "Denmark",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20airspeed%20velocity%20of%20an%20unladen%20swallow%3F",
+        "correct_answer": "24%20MPH",
+        "incorrect_answers": [
+          "15%20MPH",
+          "20%20MPH",
+          "200%20MPH"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20the%20nursery%20rhyme%2C%20what%20fruit%20did%20Little%20Jack%20Horner%20pull%20out%20of%20his%20Christmas%20pie%3F",
+        "correct_answer": "Plum",
+        "incorrect_answers": [
+          "Apple",
+          "Peach",
+          "Pear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20year%20was%20Walt%20Disney%20born%3F",
+        "correct_answer": "1901",
+        "incorrect_answers": [
+          "1902",
+          "1903",
+          "1900"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20one%20of%20these%20Swedish%20companies%20was%20founded%20in%201943%3F",
+        "correct_answer": "IKEA",
+        "incorrect_answers": [
+          "H%20%26%20M",
+          "Lindex",
+          "Clas%20Ohlson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20country%20has%20the%20most%20Trappist%20breweries%3F",
+        "correct_answer": "Belgium",
+        "incorrect_answers": [
+          "Netherlands",
+          "France",
+          "USA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20best%20selling%20toy%20of%201983%20caused%20hysteria%2C%20resulting%20in%20riots%20breaking%20out%20in%20stores%3F",
+        "correct_answer": "Cabbage%20Patch%20Kids",
+        "incorrect_answers": [
+          "Transformers",
+          "Care%20Bears",
+          "Rubik%E2%80%99s%20Cube"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20sailors%20call%20the%20front%20of%20a%20boat%3F",
+        "correct_answer": "Bow",
+        "incorrect_answers": [
+          "Stern",
+          "Port",
+          "Starboard"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20British%20organisation%20CAMRA%20stands%20for%20The%20Campaign%20for%20Real%20Ale.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20what%20year%20did%20Halley%27s%20Comet%2C%20which%20will%20not%20appear%20again%20until%20the%20year%202061%2C%20previously%20approach%20Earth%3F",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+          "2001",
+          "1942",
+          "1909"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20the%20BBPA%2C%20what%20is%20the%20most%20common%20pub%20name%20in%20the%20UK%3F",
+        "correct_answer": "Red%20Lion",
+        "incorrect_answers": [
+          "Royal%20Oak",
+          "White%20Hart",
+          "King%27s%20Head"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20alcoholic%20beverage%20made%20from%20potatoes%20or%20grains%20that%20originates%20from%20Poland%20and%20Russia%3F",
+        "correct_answer": "Vodka",
+        "incorrect_answers": [
+          "Absinthe",
+          "Rum",
+          "Sake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20word%20%22abulia%22%20means%20which%20of%20the%20following%3F",
+        "correct_answer": "The%20inability%20to%20make%20decisions",
+        "incorrect_answers": [
+          "The%20inability%20to%20stand%20up",
+          "The%20inability%20to%20concentrate%20on%20anything",
+          "A%20feverish%20desire%20to%20rip%20one%27s%20clothes%20off"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Before%20the%2019th%20Century%2C%20the%20%22Living%20Room%22%20was%20originally%20called%20the...",
+        "correct_answer": "Parlor",
+        "incorrect_answers": [
+          "Open%20Room",
+          "Sitting%20Room",
+          "Loft"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20romanized%20Arabic%20word%20for%20%22moon%22%3F",
+        "correct_answer": "Qamar",
+        "incorrect_answers": [
+          "Najma",
+          "Kawkab",
+          "Shams"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20destination%20of%20the%20missing%20flight%20MH370%3F",
+        "correct_answer": "Beijing",
+        "incorrect_answers": [
+          "Kuala%20Lumpur",
+          "Singapore",
+          "Tokyo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20mountain%20has%20the%20highest%20peak%20in%20Australia%3F",
+        "correct_answer": "Mount%20Kosciuszko%2C%20New%20South%20Wales",
+        "incorrect_answers": [
+          "Mount%20Ossa%2C%20Tasmania",
+          "Mount%20Bartle%20Frere%2C%20Queensland",
+          "Mount%20Zeil%2C%20Northern%20Territory"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20on%20display%20in%20the%20Madame%20Tussaud%27s%20museum%20in%20London%3F",
+        "correct_answer": "Wax%20sculptures",
+        "incorrect_answers": [
+          "Designer%20clothing",
+          "Unreleased%20film%20reels",
+          "Vintage%20cars"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Bulls%20are%20attracted%20to%20the%20color%20red.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20company%20owns%20Outlook%3F",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+          "Google",
+          "Apple",
+          "Yahoo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "If%20someone%20said%20%22you%20are%20olid%22%2C%20what%20would%20they%20mean%3F",
+        "correct_answer": "You%20smell%20extremely%20unpleasant.",
+        "incorrect_answers": [
+          "You%20are%20out%20of%20shape%2Fweak.",
+          "Your%20appearance%20is%20repulsive.",
+          "You%20are%20incomprehensible%2Fan%20idiot."
+        ]
+      }
+    ]
+  }
+}

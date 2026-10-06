@@ -1,0 +1,606 @@
+{
+  "category_id": 11,
+  "fetched_at": "2026-10-06T09:58:26.023902+00:00",
+  "request": {
+    "amount": 50,
+    "category": 11,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20Batman%20in%20the%201997%20film%20%22Batman%20and%20Robin%22%3F",
+        "correct_answer": "George%20Clooney",
+        "incorrect_answers": [
+          "Michael%20Keaton",
+          "Val%20Kilmer",
+          "Christian%20Bale"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201986%20film%20%22The%20Wraith%22%2C%20what%20concept%20car%20is%20used%20for%20the%20Turbo%20Interceptor%3F",
+        "correct_answer": "Dodge%20M4S",
+        "incorrect_answers": [
+          "Pontiac%20Banshee",
+          "General%20Motors%20Firebird",
+          "Dodge%20Copperhead"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20original%20ending%20of%20%22Little%20Shop%20Of%20Horrors%22%20has%20the%20plants%20taking%20over%20the%20world.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%201994%20film%20did%20Roger%20Ebert%20famously%20despise%2C%20saying%20%22I%20hated%20hated%20hated%20hated%20hated%20this%20movie%22.",
+        "correct_answer": "North",
+        "incorrect_answers": [
+          "3%20Ninjas%20Kick%20Back",
+          "The%20Santa%20Clause",
+          "Richie%20Rich"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20the%20movie%20%22Alien%22%3F",
+        "correct_answer": "Ridley%20Scott",
+        "incorrect_answers": [
+          "Christopher%20Nolan",
+          "Michael%20Bay",
+          "James%20Cameron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20three%20movies%2C%20in%20order%20from%20release%20date%2C%20make%20up%20the%20%22Dollars%20Trilogy%22%3F",
+        "correct_answer": "%22A%20Fistful%20of%20Dollars%22%2C%20%22For%20a%20Few%20Dollars%20More%22%2C%20%22The%20Good%2C%20the%20Bad%2C%20and%20the%20Ugly%22",
+        "incorrect_answers": [
+          "%22The%20Good%2C%20the%20Bad%2C%20and%20the%20Ugly%22%2C%20%22For%20A%20Few%20Dollars%20More%22%2C%20%22A%20Fistful%20of%20Dollars%22",
+          "%22For%20a%20Few%20Dollars%20More%22%2C%20%22The%20Good%2C%20the%20Bad%2C%20and%20the%20Ugly%22%2C%20%22A%20Fistful%20of%20Dollars%22",
+          "%22For%20a%20Few%20Dollars%20More%22%2C%20%22A%20Fistful%20of%20Dollars%22%2C%20%22The%20Good%2C%20the%20Bad%2C%20and%20the%20Ugly%22"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Han%20Solo%27s%20co-pilot%20and%20best%20friend%2C%20%22Chewbacca%22%2C%20is%20an%20Ewok.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Before%20%22Jurassic%20Park%20III%22%20was%20finalized%20and%20the%20Spinosaurus%20was%20chosen%2C%20which%20dinosaur%20was%20going%20to%20be%20the%20star%3F",
+        "correct_answer": "Baryonyx",
+        "incorrect_answers": [
+          "Tyrannosaurus%20Rex",
+          "Velociraptor",
+          "Suchomimus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20actors%20does%20not%20play%20a%20role%20in%20the%20movie%20%22The%20Usual%20Suspects%3F%22",
+        "correct_answer": "Steve%20Buscemi",
+        "incorrect_answers": [
+          "Kevin%20Spacey",
+          "Benicio%20Del%20Toro",
+          "Gabriel%20Byrne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%22Scream%22%20who%20is%20Ghost%20Face%3F",
+        "correct_answer": "Billy%20Loomis%20and%20Stu%20Macher",
+        "incorrect_answers": [
+          "Dewey%20Riley",
+          "Sidney%20Prescott",
+          "Archie%20Prescott%20and%20Philip%20Marv"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20does%20TIE%20stand%20for%20in%20reference%20to%20the%20TIE%20Fighter%20in%20%22Star%20Wars%22%3F",
+        "correct_answer": "Twin%20Ion%20Engine",
+        "incorrect_answers": [
+          "Twin%20Iron%20Engine",
+          "Twin%20Intercepter%20Engine",
+          "Twin%20Inception%20Engine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20%22Jurassic%20World%22%2C%20which%20company%20purchases%20InGen%20and%20creates%20Jurassic%20World%3F",
+        "correct_answer": "Masrani%20Global%20Corporation%20",
+        "incorrect_answers": [
+          "Biology%20Synthetics%20Technologies",
+          "International%20Genetics%20Incorporated",
+          "International%20Genetic%20Technologies"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20The%20Lord%20of%20the%20Rings%3A%20The%20Fellowship%20of%20the%20Ring%2C%20which%20one%20of%20the%20following%20characters%20from%20the%20book%20was%20left%20out%20of%20the%20film%3F",
+        "correct_answer": "Tom%20Bombadil",
+        "incorrect_answers": [
+          "Strider",
+          "Barliman%20Butterbur",
+          "Celeborn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20former%20Star%20Trek%20actor%20directed%20Three%20Men%20and%20a%20Baby%20%281987%29%3F",
+        "correct_answer": "Leonard%20Nimoy",
+        "incorrect_answers": [
+          "William%20Shatner",
+          "George%20Takei",
+          "James%20Doohan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20animated%20film%20did%20Steven%20Lisberger%20direct%20in%201980%20before%20going%20on%20to%20direct%20Tron%3F",
+        "correct_answer": "Animalympics",
+        "incorrect_answers": [
+          "The%20Fox%20and%20the%20Hound",
+          "The%20Black%20Cauldron",
+          "The%20Great%20Mouse%20Detecive"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20film%20has%20been%20critically%20regarded%20as%20the%20best%20film%20of%20all%20time%3F",
+        "correct_answer": "Citizen%20Kane",
+        "incorrect_answers": [
+          "Avatar",
+          "The%20Godfather%20Part%20II",
+          "The%20Room"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20fictional%20retro-mod%20band%20starring%20Austin%20Powers%20as%20the%20lead%20vocalist%3F",
+        "correct_answer": "Ming%20Tea",
+        "incorrect_answers": [
+          "Cough%20Fi",
+          "Spear%20Mint",
+          "Mister%20E"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%202010%20Nightmare%20on%20Elm%20Street%20reboot%2C%20who%20played%20Freddy%20Kruger%3F",
+        "correct_answer": "Jackie%20Earle%20Haley",
+        "incorrect_answers": [
+          "Tyler%20Mane",
+          "Derek%20Mears",
+          "Gunnar%20Hansen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20movies%20was%20not%20based%20on%20a%20novel%20by%20Stephen%20King%3F%20",
+        "correct_answer": "The%20Thing",
+        "incorrect_answers": [
+          "Carrie",
+          "Misery",
+          "The%20Green%20Mile"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20Humphrey%20Bogart%27s%20middle%20name%3F",
+        "correct_answer": "DeForest",
+        "incorrect_answers": [
+          "DeWinter",
+          "Steven",
+          "Bryce"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20%22ALF%22%2C%20what%20was%20ALF%27s%20real%20name%3F",
+        "correct_answer": "Gordon%20Shumway",
+        "incorrect_answers": [
+          "Gordon%20Milipp",
+          "Gordon%20Foster",
+          "Gordon%20von%20Gam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "This%20movie%20contains%20the%20quote%2C%20%22I%20feel%20the%20need%20...%20the%20need%20for%20speed%21%22",
+        "correct_answer": "Top%20Gun",
+        "incorrect_answers": [
+          "Days%20of%20Thunder",
+          "The%20Color%20of%20Money",
+          "Cocktail"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20word%20%22Inception%22%20came%20from%20the%202010%20blockbuster%20hit%20%22Inception%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20killer%20in%20the%201981%20film%20%27My%20Bloody%20Valentine%27%20wears%20what%20sort%20of%20outfit%3F",
+        "correct_answer": "Mining%20gear",
+        "incorrect_answers": [
+          "Clown%20costume",
+          "Santa%20suit",
+          "Police%20uniform"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20name%20of%20the%20actor%20who%20played%20Leatherface%20in%20the%201974%20horror%20film%2C%20The%20Texas%20Chainsaw%20Massacre%3F",
+        "correct_answer": "Gunnar%20Hansen",
+        "incorrect_answers": [
+          "Edwin%20Neal",
+          "John%20Dugan",
+          "Joe%20Bill%20Hogan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20performed%20the%20opening%20theme%20song%20for%20the%20James%20Bond%20007%20movie%20%22Goldfinger%22%3F",
+        "correct_answer": "Shirley%20Basey",
+        "incorrect_answers": [
+          "Tom%20Jones",
+          "John%20Barry",
+          "Sheena%20Easton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20director%20directed%20the%20movie%20%22Pan%27s%20Labyrinth%22%3F",
+        "correct_answer": "Guillermo%20Del%20Toro",
+        "incorrect_answers": [
+          "Alfonso%20Cuar%C3%B3n",
+          "Alejandro%20Gonz%C3%A1lez%20I%C3%B1%C3%A1rritu",
+          "%20Alejandro%20Jodorowsky"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Avengers%3A%20Infinity%20War%2C%20where%20was%20the%20Soul%20Stone%20located%3F",
+        "correct_answer": "Vormir",
+        "incorrect_answers": [
+          "Xandar",
+          "Knowhere",
+          "Asgard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20singer%20is%20portrayed%20by%20Bruce%20Campbell%20in%20the%202002%20film%20%27Bubba%20Ho-Tep%27%3F",
+        "correct_answer": "Elvis%20Presley",
+        "incorrect_answers": [
+          "Johnny%20Cash",
+          "Hank%20Williams%2C%20Sr.",
+          "Buddy%20Holly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201999%20movie%20Fight%20Club%2C%20which%20of%20these%20is%20not%20a%20rule%20of%20the%20%22fight%20club%22%3F",
+        "correct_answer": "Always%20wear%20a%20shirt",
+        "incorrect_answers": [
+          "You%20do%20not%20talk%20about%20FIGHT%20CLUB",
+          "Only%20two%20guys%20to%20a%20fight",
+          "Fights%20will%20go%20on%20as%20long%20as%20they%20have%20to"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20was%20the%20director%20of%20%22Scott%20Pilgrim%20vs.%20the%20World%20%282010%29%22%3F",
+        "correct_answer": "Edgar%20Wright",
+        "incorrect_answers": [
+          "Phil%20Lord",
+          "Chris%20Miller",
+          "Seth%20Rogan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20movie%20includes%20a%20giant%20bunny-like%20spirit%20who%20has%20magic%20powers%20including%20growing%20trees%3F",
+        "correct_answer": "My%20Neighbor%20Totoro",
+        "incorrect_answers": [
+          "Hop",
+          "Rise%20of%20the%20Guardians",
+          "Alice%20in%20Wonderland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20voiced%20the%20character%20Draco%20in%20the%201996%20movie%20%27DragonHeart%27%3F",
+        "correct_answer": "Sean%20Connery",
+        "incorrect_answers": [
+          "Dennis%20Quaid",
+          "Pete%20Postlethwaite",
+          "Brian%20Thompson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20plays%20Alice%20in%20the%20Resident%20Evil%20movies%3F",
+        "correct_answer": "Milla%20Jovovich",
+        "incorrect_answers": [
+          "Madison%20Derpe",
+          "Milla%20Johnson",
+          "Kim%20Demp"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20movie%20released%20in%202016%20features%20Superman%20and%20Batman%20fighting%3F",
+        "correct_answer": "Batman%20v%20Superman%3A%20Dawn%20of%20Justice",
+        "incorrect_answers": [
+          "Batman%20v%20Superman%3A%20Superapocalypse",
+          "Batman%20v%20Superman%3A%20Black%20of%20Knight",
+          "Batman%20v%20Superman%3A%20Knightfall"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "%22The%20first%20rule%20is%3A%20you%20don%27t%20talk%20about%20it%22%20is%20a%20reference%20to%20which%20movie%3F",
+        "correct_answer": "Fight%20Club",
+        "incorrect_answers": [
+          "The%20Island",
+          "Unthinkable",
+          "American%20Pie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "This%20movie%20contains%20the%20quote%2C%20%22Houston%2C%20we%20have%20a%20problem.%22",
+        "correct_answer": "Apollo%2013",
+        "incorrect_answers": [
+          "The%20Right%20Stuff",
+          "Capricorn%20One",
+          "Marooned"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Tron%3A%20Legacy%2C%20Kevin%20Flynn%20wrote%20a%20program%20to%20create%20the%20perfect%20system.%20What%20was%20the%20program%27s%20name%3F",
+        "correct_answer": "Clu",
+        "incorrect_answers": [
+          "Tron",
+          "MCP",
+          "Quorra"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20provided%20a%20majority%20of%20the%20songs%20and%20lyrics%20for%20%22Spirit%3A%20Stallion%20of%20the%20Cimarron%22%3F",
+        "correct_answer": "Bryan%20Adams",
+        "incorrect_answers": [
+          "Smash%20Mouth",
+          "Oasis",
+          "Air%20Supply"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201984%20movie%20%22The%20Terminator%22%2C%20what%20model%20number%20is%20the%20Terminator%20portrayed%20by%20Arnold%20Schwarzenegger%3F",
+        "correct_answer": "T-800",
+        "incorrect_answers": [
+          "I-950",
+          "T-888",
+          "T-1000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20is%20frozen%20at%20the%20end%20of%20the%20movie%20%22Goldeneye%22%3F",
+        "correct_answer": "Boris%20Grishenko",
+        "incorrect_answers": [
+          "James%20Bond",
+          "Natalya%20Simonova",
+          "Alec%20Travelyan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20sci-fi%20cult%20films%20plot%20concerns%20aliens%20attempting%20to%20prevent%20humans%20from%20creating%20a%20doomsday%20weapon%3F",
+        "correct_answer": "Plan%209%20from%20Outer%20Space",
+        "incorrect_answers": [
+          "The%20Man%20from%20Planet%20X",
+          "It%20Came%20from%20Outer%20Space",
+          "The%20Day%20The%20Earth%20Stood%20Still"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20Artificial%20Intelligence%20system%20in%20the%201983%20film%2C%20%22WarGames%22%3F",
+        "correct_answer": "War%20Operation%20Plan%20Response",
+        "incorrect_answers": [
+          "Self%20Evolving%20Thought%20Helix",
+          "Master%20Control%20Program",
+          "West%20Campus%20Analog%20Computer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20correct%20phrase%20for%20the%20Latin%20saying%20%22Romanes%20Eunt%20Domus%22%20in%20Monty%20Python%27s%20Life%20of%20Brian%3F",
+        "correct_answer": "Romani%20Ite%20Domum",
+        "incorrect_answers": [
+          "Romans%20Go%20Home",
+          "Roxani%20Ite%20Domum",
+          "Tomate%20Ite%20Domum"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20movie%20%22Tron%22%20received%20an%20Oscar%20nomination%20for%20Best%20Visual%20Effects.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20historical%20time%20period%20was%20the%20center%20of%20the%20Assassin%E2%80%99s%20Creed%20movie%20%282016%29%3F",
+        "correct_answer": "Spanish%20Inquisition",
+        "incorrect_answers": [
+          "Victorian%20England",
+          "French%20Revolution",
+          "Colonial%20America"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20order%20to%20cut%20costs%2C%20what%20were%20most%20of%20the%20extras%20of%20Mad%20Max%20%281979%29%20paid%20with%3F",
+        "correct_answer": "Beer",
+        "incorrect_answers": [
+          "Fast%20food",
+          "Food%20stamps",
+          "They%20weren%27t%20paid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20Friday%20The%2013th%20series%2C%20what%20year%20did%20Jason%20drown%20in%3F",
+        "correct_answer": "1957",
+        "incorrect_answers": [
+          "1955",
+          "1953",
+          "1959"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20birth%20name%20of%20Michael%20Caine%3F",
+        "correct_answer": "Maurice%20Micklewhite",
+        "incorrect_answers": [
+          "Morris%20Coleman",
+          "Carl%20Myers",
+          "Martin%20Michaels"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20superhero%20has%20been%20played%20in%20film%20by%20actors%20Michael%20Keaton%2C%20Val%20Kilmer%2C%20George%20Clooney%20and%20Christian%20Bale%3F",
+        "correct_answer": "Batman",
+        "incorrect_answers": [
+          "Superman",
+          "Iron%20Man",
+          "Spiderman"
+        ]
+      }
+    ]
+  }
+}

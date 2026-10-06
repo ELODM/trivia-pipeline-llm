@@ -1,0 +1,606 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:10.867299+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20which%20one%20of%20these%20cities%20did%20the%20Great%20Stink%20of%201858%20occur%3F",
+        "correct_answer": "London",
+        "incorrect_answers": [
+          "Berlin",
+          "New%20York",
+          "Moscow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20Southeast%20Asian%20country%20was%20formerly%20known%20as%20%27Lan%20Xang%27%3F",
+        "correct_answer": "Laos",
+        "incorrect_answers": [
+          "Cambodia",
+          "Vietnam",
+          "Thailand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During%20the%20Spanish%20Civil%20War%20%281936%29%2C%20Francisco%20Franco%20fought%20for%20which%20political%20faction%3F",
+        "correct_answer": "Nationalist%20Spain",
+        "incorrect_answers": [
+          "Republican%20Spain",
+          "Popular%20Front",
+          "Papal%20State"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20Confederate%20general%20in%20the%20American%20Civil%20War%3F",
+        "correct_answer": "Robert%20E.%20Lee",
+        "incorrect_answers": [
+          "George%20A.%20Custer",
+          "Ulysses%20S.%20Grant",
+          "George%20B.%20McClellan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20country%20was%20Josef%20Stalin%20born%20in%3F",
+        "correct_answer": "Georgia",
+        "incorrect_answers": [
+          "Russia",
+          "Germany",
+          "Poland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20Norway%20get%20its%20constitution%3F",
+        "correct_answer": "1814",
+        "incorrect_answers": [
+          "1932",
+          "1905",
+          "1854"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20fourth%20funnel%20of%20the%20RMS%20Titanic%20was%20fake%20designed%20to%20make%20the%20ship%20look%20more%20powerful%20and%20symmetrical.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20Jamaica%20receive%20its%20independence%20from%20England%3F%20",
+        "correct_answer": "1962",
+        "incorrect_answers": [
+          "1492",
+          "1963",
+          "1987"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "According%20to%20scholarly%20estimates%2C%20what%20percentage%20of%20the%20world%20population%20at%20the%20time%20died%20due%20to%20Tamerlane%27s%20conquests%3F",
+        "correct_answer": "5%25",
+        "incorrect_answers": [
+          "1%25",
+          "3%25",
+          "%3C1%25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20First%20World%20War%20end%3F",
+        "correct_answer": "1918",
+        "incorrect_answers": [
+          "1914",
+          "1916",
+          "1912"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20what%20year%20was%20the%20M1911%20pistol%20designed%3F",
+        "correct_answer": "1911",
+        "incorrect_answers": [
+          "1907",
+          "1899",
+          "1917"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Theodore%20Roosevelt%20Jr.%20was%20the%20only%20General%20involved%20in%20the%20initial%20assault%20on%20D-Day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In%20which%20year%20did%20the%20Tokyo%20Subway%20Sarin%20Attack%20occur%3F",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+          "2001",
+          "2011",
+          "1991"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20was%20the%20Grand%20Patriotic%20War%20in%20the%20USSR%20concluded%3F",
+        "correct_answer": "May%209th%2C%201945",
+        "incorrect_answers": [
+          "September%202nd%2C%201945",
+          "August%209th%2C%201945",
+          "December%2011th%2C%201945"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20planned%20invasion%20of%20Japan%20towards%20the%20end%20of%20World%20War%20II%3F",
+        "correct_answer": "Operation%20Downfall",
+        "incorrect_answers": [
+          "Operation%20Boarding%20Party",
+          "Operation%20Ironclad",
+          "Operation%20Aflame"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Where%20was%20Portuguese%20explorer%20Ferdinand%20Magellan%20killed%20in%201521%3F",
+        "correct_answer": "The%20Phillipines",
+        "incorrect_answers": [
+          "Canary%20Islands",
+          "Guam",
+          "Argentina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20modern%20day%20country%20is%20the%20region%20that%20was%20known%20as%20Phrygia%20in%20ancient%20times%3F",
+        "correct_answer": "Turkey",
+        "incorrect_answers": [
+          "Syria",
+          "Greece",
+          "Egypt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How%20long%20did%20World%20War%20II%20last%3F",
+        "correct_answer": "6%20years",
+        "incorrect_answers": [
+          "4%20years",
+          "5%20years",
+          "7%20years"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20the%20United%20States%20formally%20declare%20war%20on%20Japan%2C%20entering%20World%20War%20II%3F",
+        "correct_answer": "December%208%2C%201941",
+        "incorrect_answers": [
+          "June%206%2C%201944",
+          "June%2022%2C%201941",
+          "September%201%2C%201939"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Herero%20genocide%20was%20perpetrated%20in%20Africa%20by%20which%20of%20the%20following%20colonial%20nations%3F",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+          "Britain",
+          "Belgium",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20was%20Napoleon%20Bonaparte%20crowned%20emperor%20of%20the%20French%3F%20",
+        "correct_answer": "%20December%202nd%201804",
+        "incorrect_answers": [
+          "%20July%203rd%201802",
+          "%20March%208th%201803",
+          "%20October%2015th%201804"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How%20old%20was%20the%20famous%20King%20Tutankhamen%20%28Tut%29%20when%20he%20died%3F",
+        "correct_answer": "19",
+        "incorrect_answers": [
+          "21",
+          "15",
+          "30"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Greek%20god%20was%20the%20god%20of%20the%20Sun%3F",
+        "correct_answer": "Helios",
+        "incorrect_answers": [
+          "Zeus",
+          "Hades",
+          "Poseidon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Korean%20War%20started%20in%20what%20year%3F",
+        "correct_answer": "1950",
+        "incorrect_answers": [
+          "1945",
+          "1960",
+          "1912"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In%20the%20Seven%20Wonders%20of%20the%20World%2C%20which%20wonder%20is%20the%20only%20that%20has%20survived%20to%20this%20day%3F",
+        "correct_answer": "Great%20Pyramid%20of%20Giza",
+        "incorrect_answers": [
+          "Colossus%20of%20Rhodes",
+          "Lighthouse%20of%20Alexandria",
+          "Statue%20of%20Zeus%20at%20Olympia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20transfer%20of%20disease%2C%20crops%2C%20and%20people%20across%20the%20Atlantic%20shortly%20after%20the%20discovery%20of%20the%20Americas%20called%3F",
+        "correct_answer": "The%20Columbian%20Exchange",
+        "incorrect_answers": [
+          "Triangle%20Trade",
+          "Transatlantic%20Slave%20Trade",
+          "The%20Silk%20Road"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20led%20the%20Communist%20Revolution%20of%20Russia%3F",
+        "correct_answer": "Vladimir%20Lenin",
+        "incorrect_answers": [
+          "Joseph%20Stalin",
+          "Vladimir%20Putin",
+          "Mikhail%20Gorbachev"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20O%2C%20Canada%20officially%20become%20the%20national%20anthem%3F",
+        "correct_answer": "1980",
+        "incorrect_answers": [
+          "1950",
+          "1920",
+          "1880"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20war%20did%20George%20Orwell%20famously%20volunteer%20for%20and%20nearly%20died%20in%3F",
+        "correct_answer": "Spanish%20Civil%20War",
+        "incorrect_answers": [
+          "World%20War%20I",
+          "World%20War%20II",
+          "Russian%20Civil%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20is%20widely%20considered%20to%20be%20the%20oldest%20civilization%20known%20to%20mankind%3F",
+        "correct_answer": "Sumeria",
+        "incorrect_answers": [
+          "Babylon",
+          "Assyria",
+          "Phoenicia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20rode%20on%20horseback%20to%20warn%20the%20Minutemen%20that%20the%20British%20were%20coming%20during%20the%20U.S.%20Revolutionary%20War%3F",
+        "correct_answer": "Paul%20Revere",
+        "incorrect_answers": [
+          "Thomas%20Paine",
+          "Henry%20Longfellow",
+          "Nathan%20Hale"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20the%20War%20of%20the%20Pacific%20%281879%20-%201883%29%2C%20Bolivia%20lost%20its%20access%20to%20the%20Pacific%20Ocean%20after%20being%20defeated%20by%20which%20South%20American%20country%3F",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+          "Peru",
+          "Brazil",
+          "Argentina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20did%20Albert%20Einstein%20win%20the%20Nobel%20Prize%20for%20in%201921%3F",
+        "correct_answer": "Photoelectric%20Effect",
+        "incorrect_answers": [
+          "Relativity",
+          "Wave-Particle%20Duality",
+          "Zero-Point%20Energy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Hagia%20Sophia%20was%20commissioned%20by%20which%20emperor%20of%20the%20Byzantine%20Empire%3F",
+        "correct_answer": "Justinian%20I",
+        "incorrect_answers": [
+          "Constantine%20IV",
+          "Arcadius",
+          "Theodosius%20the%20Great"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20name%20of%20the%20US%20Navy%20spy%20ship%20which%20was%20attacked%20and%20captured%20by%20North%20Korean%20forces%20in%201968%3F",
+        "correct_answer": "USS%20Pueblo",
+        "incorrect_answers": [
+          "USS%20North%20Carolina",
+          "USS%20Constitution",
+          "USS%20Indianapolis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20name%20of%20the%20famous%20Apache%20leader%20who%20died%20in%201909%20at%20the%20age%20of%2070%3F",
+        "correct_answer": "Geronimo",
+        "incorrect_answers": [
+          "Sitting%20Bull",
+          "Red%20Cloud",
+          "Crazy%20Horse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On%20which%20day%20did%20the%20attempted%20coup%20d%27etat%20of%201991%20in%20the%20Soviet%20Union%20begin%3F",
+        "correct_answer": "August%2019",
+        "incorrect_answers": [
+          "August%2021",
+          "December%2026",
+          "December%2024"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20Spitfire%20originated%20from%20a%20racing%20plane.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20last%20colony%20the%20UK%20ceded%20marking%20the%20end%20of%20the%20British%20Empire%3F",
+        "correct_answer": "Hong%20Kong",
+        "incorrect_answers": [
+          "India",
+          "Australia",
+          "Ireland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20German%20offensive%20operation%20in%20October%201941%20to%20take%20Moscow%20before%20winter%3F",
+        "correct_answer": "Operation%20Typhoon",
+        "incorrect_answers": [
+          "Operation%20Sunflower",
+          "Operation%20Barbarossa",
+          "Case%20Blue"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20majority%20of%20people%20that%20lived%20under%20the%20Byzantine%20Empire%20called%20themselves%20Romans.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20main%20objective%20of%20the%20German%20operation%20%22Case%20Blue%22%20during%20World%20War%20II%20was%20originally%20to%20capture%20what%3F",
+        "correct_answer": "Caucasus",
+        "incorrect_answers": [
+          "Stalingrad",
+          "Crimea",
+          "Voronezh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Fallingwater%20House%2C%20located%20in%20Pennsylvania%2C%20was%20designed%20by%20which%20architect%3F",
+        "correct_answer": "Frank%20Lloyd%20Wright",
+        "incorrect_answers": [
+          "Antoni%20Gaudi",
+          "Frank%20Gehry",
+          "Le%20Corbusier"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20did%20Australia%20become%20a%20federation%3F",
+        "correct_answer": "1901",
+        "incorrect_answers": [
+          "1910",
+          "1899",
+          "1911"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20countries%20was%20not%20an%20axis%20power%20during%20World%20War%20II%3F",
+        "correct_answer": "%20Soviet%20Union",
+        "incorrect_answers": [
+          "Italy",
+          "Germany",
+          "Japan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "After%20the%201516%20Battle%20of%20Marj%20Dabiq%2C%20the%20Ottoman%20Empire%20took%20control%20of%20Jerusalem%20from%20which%20sultanate%3F",
+        "correct_answer": "Mamluk",
+        "incorrect_answers": [
+          "Ayyubid",
+          "Ummayyad",
+          "Seljuq"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20the%20Crisis%20of%20the%20Third%20Century%20begin%3F",
+        "correct_answer": "235%20AD",
+        "incorrect_answers": [
+          "235%20BC",
+          "242%20AD",
+          "210%20AD"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Arab%20Spring%20was%20a%20series%20of%20protests%20and%20rebellions%20that%20began%20in%20which%20of%20these%20Arab%20nations%3F",
+        "correct_answer": "Tunisia",
+        "incorrect_answers": [
+          "Morocco",
+          "Syria",
+          "Egypt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "All%20of%20the%20following%20are%20names%20of%20the%20Seven%20Warring%20States%20EXCEPT%3A",
+        "correct_answer": "Zhai%20%28%E7%BF%9F%29",
+        "incorrect_answers": [
+          "Zhao%20%28%E8%B6%99%29",
+          "Qin%20%28%E7%A7%A6%29",
+          "Qi%20%28%E9%BD%8A%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20historical%20event%20was%20Tchaikovsky%27s%201812%20Overture%20referencing%3F",
+        "correct_answer": "The%20Napoleonic%20Wars",
+        "incorrect_answers": [
+          "The%20American%20War%20of%201812",
+          "The%20Russian%20Revolution",
+          "The%20Charge%20of%20the%20Light%20Brigade%20%28Crimean%20War%29"
+        ]
+      }
+    ]
+  }
+}

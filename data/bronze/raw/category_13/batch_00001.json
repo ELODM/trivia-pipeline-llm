@@ -1,0 +1,438 @@
+{
+  "category_id": 13,
+  "fetched_at": "2026-10-06T09:59:33.615803+00:00",
+  "request": {
+    "amount": 36,
+    "category": 13,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20Macbeth%2C%20the%20eyes%20of%20what%20animals%20were%20used%20in%20the%20Witches%27%20cauldron%3F",
+        "correct_answer": "Newts",
+        "incorrect_answers": [
+          "Humans",
+          "Sharks",
+          "Squids"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "What%20is%20the%20name%20of%20Broadway%27s%20first%20%22long-run%22%20musical%3F",
+        "correct_answer": "The%20Elves",
+        "incorrect_answers": [
+          "Wicked",
+          "Hamilton",
+          "The%20Book%20of%20Mormon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20musical%20has%20won%20the%20most%20Tony%20awards%3F",
+        "correct_answer": "The%20Producers",
+        "incorrect_answers": [
+          "Hamilton",
+          "Chicago",
+          "Phantom%20of%20the%20Opera"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20the%20play%20Oedipus%20Rex%2C%20Oedipus%20kills%20his%20father%20due%20to%20jealousy%20in%20loving%20his%20mother.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20wrote%20the%20musical%20%22Hamilton%22%3F",
+        "correct_answer": "Lin-Manuel%20Miranda",
+        "incorrect_answers": [
+          "Andrew%20Lloyd%20Webber",
+          "Nell%20Benjamin",
+          "Tom%20Kitt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20which%20Shakespearean%20play%20will%20you%20find%20the%20suicide%20of%20Ophelia%3F",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+          "Macbeth",
+          "Othello",
+          "King%20Lear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20played%20Marquis%20de%20Lafayette%20and%20Thomas%20Jefferson%20in%20the%20original%20Broadway%20run%20of%20Hamilton%3F",
+        "correct_answer": "Daveed%20Diggs",
+        "incorrect_answers": [
+          "Lin-Manuel%20Miranda",
+          "Javier%20Mu%C3%B1oz",
+          "Wayne%20Brady"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20is%20the%20musical%20director%20for%20the%20award%20winning%20musical%20%22Hamilton%22%3F",
+        "correct_answer": "Alex%20Lacamoire",
+        "incorrect_answers": [
+          "Lin-Manuel%20Miranda",
+          "Renee%20Elise-Goldberry",
+          "Leslie%20Odom%20Jr."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "After%20England%2C%20more%20Shakespeare%20plays%20are%20set%20in%20this%20present%20day%20country%20than%20in%20any%20other.",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+          "United%20States",
+          "Greece",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "The%20Andrew%20Lloyd%20Webber%20musical%20%22Cats%22%20is%20based%20off%20a%20book%20of%20poems%20written%20by%20which%20author%3F",
+        "correct_answer": "T.S.%20Elliot",
+        "incorrect_answers": [
+          "Andrew%20Lloyd%20Webber",
+          "Emily%20Dickenson",
+          "Robert%20Frost"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "The%20musical%20%22Dirty%20Rotten%20Scoundrels%22%20is%20set%20in%20what%20country%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "USA",
+          "Germany",
+          "Sweden"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "The%20protagonist%27s%20names%20in%20%27Who%27s%20Afraid%20of%20Virginia%20Woolf%27%2C%20George%20and%20Martha%2C%20were%20derived%20from%20George%20Washington%20and%20his%20wife.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "IMAX%20stands%20for%20Image%20Maximum.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "What%20play%20is%20the%20quote%20%22Hell%20is%20other%20people%22%20from%3F",
+        "correct_answer": "No%20Exit",
+        "incorrect_answers": [
+          "The%20Devil%20and%20the%20Good%20Lord",
+          "The%20Condemned%20of%20Altona",
+          "The%20Flies"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20Shakespeare%27s%20play%20Julius%20Caesar%2C%20Caesar%27s%20last%20words%20were...",
+        "correct_answer": "Et%20tu%2C%20Brute%3F%20",
+        "incorrect_answers": [
+          "Iacta%20alea%20est%21",
+          "Vidi%2C%20vini%2C%20vici.",
+          "Aegri%20somnia%20vana."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "The%20World%20Chess%20Championship%20in%20Chess%2C%20Act%201%20is%20set%20in%20which%20Italian%20city%3F",
+        "correct_answer": "Merano",
+        "incorrect_answers": [
+          "Venice",
+          "Milan",
+          "Rome"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20actor%20has%20NOT%20portrayed%20Billy%20Flynn%20in%20the%20musical%20%22Chicago%22%3F",
+        "correct_answer": "Christopher%20Walken",
+        "incorrect_answers": [
+          "David%20Hasselhoff",
+          "Jerry%20Springer",
+          "Patrick%20Swayze"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "What%20was%20George%20Bizet%27s%20last%20opera%3F",
+        "correct_answer": "Carmen",
+        "incorrect_answers": [
+          "Don%20Rodrigue",
+          "Gris%C3%A9lidis",
+          "Les%20p%C3%AAcheurs%20de%20perles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "%22Doctor%20Who%22%20star%20David%20Tennant%20performed%20in%20a%20rendition%20of%20which%20Shakespearean%20play%3F",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+          "The%20Tempest",
+          "Othello",
+          "The%20Taming%20of%20the%20Shrew"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20of%20these%20plays%20was%20famously%20first%20performed%20posthumously%20after%20the%20playwright%20committed%20suicide%3F",
+        "correct_answer": "4.48%20Psychosis",
+        "incorrect_answers": [
+          "Hamilton",
+          "Much%20Ado%20About%20Nothing",
+          "The%20Birthday%20Party"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20Jeff%20Wayne%27s%20Musical%20Version%20of%20War%20of%20the%20Worlds%2C%20the%20chances%20of%20anything%20coming%20from%20Mars%20are...",
+        "correct_answer": "A%20million%20to%20one",
+        "incorrect_answers": [
+          "A%20billion%20to%20one",
+          "A%20trillion%20to%20one",
+          "A%20hundred%20to%20one"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20serves%20as%20the%20speaker%20of%20the%20prologue%20in%20Shakespeare%27s%20Romeo%20and%20Juliet%3F",
+        "correct_answer": "Chorus",
+        "incorrect_answers": [
+          "Montague",
+          "Refrain",
+          "Capulet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "When%20was%20the%20play%20%22Macbeth%22%20written%3F",
+        "correct_answer": "1606",
+        "incorrect_answers": [
+          "1605",
+          "1723",
+          "1628"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20played%20%22Charlie%20Price%22%20in%20the%20musical%20%22Kinky%20Boots%22%20on%20Broadway%20in%20New%20York%20from%20May%2026th%20-%20Aug%206th%202017%3F",
+        "correct_answer": "Brendon%20Urie",
+        "incorrect_answers": [
+          "Ed%20Sheeren",
+          "Tom%20Cruise",
+          "Dallon%20Weekes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20wrote%20the%20lyrics%20for%20Leonard%20Bernstein%27s%201957%20Brodway%20musical%20West%20Side%20Story%3F",
+        "correct_answer": "Stephen%20Sondheim",
+        "incorrect_answers": [
+          "Himself",
+          "Oscar%20Hammerstein",
+          "Richard%20Rodgers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20which%20Shakespeare%20play%20does%20the%20character%20Marcellus%20say%2C%20%22Something%20is%20rotten%20in%20the%20state%20of%20Denmark%22%3F",
+        "correct_answer": "Hamlet",
+        "incorrect_answers": [
+          "Macbeth",
+          "King%20Lear",
+          "Twelfth%20Night"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20Shakespeare%20play%20features%20the%20stage%20direction%20%22Enter%20a%20messenger%2C%20with%20two%20heads%20and%20a%20hand%22%3F",
+        "correct_answer": "Titus%20Andronicus",
+        "incorrect_answers": [
+          "Othello",
+          "Macbeth",
+          "King%20Lear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20Shakespeare%20play%20inspired%20the%20musical%20%27West%20Side%20Story%27%3F",
+        "correct_answer": "Romeo%20%26%20Juliet",
+        "incorrect_answers": [
+          "Hamlet",
+          "Macbeth",
+          "Othello"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20of%20these%20musicals%20won%20the%20Tony%20Award%20for%20Best%20Musical%3F",
+        "correct_answer": "Rent",
+        "incorrect_answers": [
+          "The%20Color%20Purple",
+          "American%20Idiot",
+          "Newsies"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20piece%20from%20the%201950%27s%20musical%20West%20Side%20Story%3F",
+        "correct_answer": "The%20Back%20Alley",
+        "incorrect_answers": [
+          "Maria",
+          "Tonight",
+          "Mambo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20wrote%20the%20award%20winning%20musical%20%22In%20The%20Heights%22%3F",
+        "correct_answer": "Lin-Manuel%20Miranda",
+        "incorrect_answers": [
+          "Steven%20Sondheim",
+          "Francis%20Scott%20Key",
+          "John%20Phillips%20Sousa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "How%20many%20plays%20is%20Shakespeare%20generally%20considered%20to%20have%20written%3F",
+        "correct_answer": "37",
+        "incorrect_answers": [
+          "18",
+          "54",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "In%20Les%20Mis%C3%A9rables%2C%20who%20is%20Prison%20Code%2024601%3F",
+        "correct_answer": "Jean%20Valjean",
+        "incorrect_answers": [
+          "Marius%20Pontmercy",
+          "Javert",
+          "Jean%20Claude%20Van%20Damme"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "%22The%20Crucible%22%20was%20written%20by%20William%20Shakespeare.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "Who%20wrote%20the%20play%20%27Angels%20in%20America%27%3F",
+        "correct_answer": "Tony%20Kusher",
+        "incorrect_answers": [
+          "Tom%20Stoppard",
+          "Matthew%20Lopez",
+          "Anthony%20Neilson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Musicals%20%26%20Theatres",
+        "question": "What%20is%20Jean%20ValJean%27s%20first%20prisoner%20number%3F",
+        "correct_answer": "24601",
+        "incorrect_answers": [
+          "9430",
+          "1729",
+          "32769"
+        ]
+      }
+    ]
+  }
+}

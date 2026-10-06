@@ -1,0 +1,70 @@
+{
+  "category_id": 19,
+  "fetched_at": "2026-10-06T10:04:15.183628+00:00",
+  "request": {
+    "amount": 5,
+    "category": 19,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20mathematician%20Euler%27s%20first%20name%3F",
+        "correct_answer": "Leonhard",
+        "incorrect_answers": [
+          "Lionel",
+          "Andrin",
+          "Ajan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "If%20you%20could%20fold%20a%20piece%20of%20paper%20in%20half%2050%20times%2C%20its%27%20thickness%20will%20be%203%2F4th%20the%20distance%20from%20the%20Earth%20to%20the%20Sun.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Mathematics",
+        "question": "What%20is%20the%20least%20number%20of%20sides%20a%20polygon%20can%20have%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "1",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Mathematics",
+        "question": "A%20%27Millinillion%27%20is%20a%20real%20number.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Mathematics",
+        "question": "The%20decimal%20number%2031%20in%20hexadecimal%20would%20be%20what%3F",
+        "correct_answer": "1F",
+        "incorrect_answers": [
+          "3D",
+          "2E",
+          "1B"
+        ]
+      }
+    ]
+  }
+}

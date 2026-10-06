@@ -1,0 +1,129 @@
+{
+  "built_at": "2026-10-06T10:09:30.150266+00:00",
+  "raw_records": 5299,
+  "duplicates_removed": 1,
+  "unique_questions": 5298,
+  "api_verified_total": 5299,
+  "categories": [
+    {
+      "category_id": 9,
+      "api_verified": 469,
+      "collected": 469
+    },
+    {
+      "category_id": 10,
+      "api_verified": 120,
+      "collected": 120
+    },
+    {
+      "category_id": 11,
+      "api_verified": 301,
+      "collected": 301
+    },
+    {
+      "category_id": 12,
+      "api_verified": 495,
+      "collected": 495
+    },
+    {
+      "category_id": 13,
+      "api_verified": 36,
+      "collected": 36
+    },
+    {
+      "category_id": 14,
+      "api_verified": 196,
+      "collected": 196
+    },
+    {
+      "category_id": 15,
+      "api_verified": 1186,
+      "collected": 1186
+    },
+    {
+      "category_id": 16,
+      "api_verified": 78,
+      "collected": 78
+    },
+    {
+      "category_id": 17,
+      "api_verified": 299,
+      "collected": 299
+    },
+    {
+      "category_id": 18,
+      "api_verified": 192,
+      "collected": 192
+    },
+    {
+      "category_id": 19,
+      "api_verified": 80,
+      "collected": 79
+    },
+    {
+      "category_id": 20,
+      "api_verified": 71,
+      "collected": 71
+    },
+    {
+      "category_id": 21,
+      "api_verified": 176,
+      "collected": 176
+    },
+    {
+      "category_id": 22,
+      "api_verified": 383,
+      "collected": 383
+    },
+    {
+      "category_id": 23,
+      "api_verified": 411,
+      "collected": 411
+    },
+    {
+      "category_id": 24,
+      "api_verified": 77,
+      "collected": 77
+    },
+    {
+      "category_id": 25,
+      "api_verified": 59,
+      "collected": 59
+    },
+    {
+      "category_id": 26,
+      "api_verified": 53,
+      "collected": 53
+    },
+    {
+      "category_id": 27,
+      "api_verified": 99,
+      "collected": 99
+    },
+    {
+      "category_id": 28,
+      "api_verified": 87,
+      "collected": 87
+    },
+    {
+      "category_id": 29,
+      "api_verified": 79,
+      "collected": 79
+    },
+    {
+      "category_id": 30,
+      "api_verified": 40,
+      "collected": 40
+    },
+    {
+      "category_id": 31,
+      "api_verified": 204,
+      "collected": 204
+    },
+    {
+      "category_id": 32,
+      "api_verified": 108,
+      "collected": 108
+    }
+  ]
+}

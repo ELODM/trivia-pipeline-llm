@@ -1,0 +1,310 @@
+{
+  "category_id": 24,
+  "fetched_at": "2026-10-06T10:07:18.248491+00:00",
+  "request": {
+    "amount": 27,
+    "category": 24,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Berlin%20was%20the%20capital%20of%20two%20countries%20for%20about%2040%20years.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What%20are%20the%20first%20names%20of%20the%20first%20father%20and%20son%20pair%20that%20were%20both%20Prime%20Ministers%20of%20Canada%3F",
+        "correct_answer": "Justin%20and%20Pierre",
+        "incorrect_answers": [
+          "John%20and%20Louis",
+          "Brian%20and%20Justin",
+          "Brian%20and%20Pierre"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Despite%20being%20seperated%20into%20multiple%20countries%2C%20The%20Scandinavian%20countries%20are%20unified%20by%20all%20having%20the%20same%20monarch.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "During%20the%202016%20United%20States%20presidential%20election%2C%20the%20State%20of%20California%20possessed%20the%20most%20electoral%20votes%2C%20having%2055.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20was%20the%20only%20president%20to%20not%20be%20in%20office%20in%20Washington%20D.C%3F",
+        "correct_answer": "George%20Washington",
+        "incorrect_answers": [
+          "Abraham%20Lincoln",
+          "Richard%20Nixon",
+          "Thomas%20Jefferson"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Former%20president%20Theodore%20Roosevelt%20%281900-1908%29%20%20ran%20for%20another%20term%20under%20the%20Progressive%20Party%20in%201912.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Which%20of%20the%20following%20Pacific%20Islander%20countries%20is%20ruled%20by%20a%20constitutional%20monarchy%3F",
+        "correct_answer": "Tonga",
+        "incorrect_answers": [
+          "Palau",
+          "Fiji",
+          "Kiribati"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20became%20Prime%20Minister%20of%20the%20United%20Kingdom%20in%20July%202016%3F",
+        "correct_answer": "Theresa%20May",
+        "incorrect_answers": [
+          "Boris%20Johnson",
+          "David%20Cameron",
+          "Tony%20Blair"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "There%20was%20a%20satirical%20candidate%20named%20%22Deez%20Nuts%22%20running%20in%20the%202016%20US%20presidential%20elections.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Who%20was%20the%20longest-serving%20senator%20in%20US%20history%2C%20serving%20from%201959%20to%202010%3F",
+        "correct_answer": "Robert%20Byrd",
+        "incorrect_answers": [
+          "Daniel%20Inouye",
+          "Strom%20Thurmond",
+          "Joe%20Biden"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What%20is%20centralism%3F",
+        "correct_answer": "%20Concentration%20of%20power%20and%20authority%20in%20a%20central%20organization.",
+        "incorrect_answers": [
+          "Conforming%20to%20one%20single%20common%20political%20agenda.",
+          "Remaining%20politically%20neutral.",
+          "The%20grey%20area%20in%20the%20spectrum%20of%20political%20left%20and%20right."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "In%20France%2C%20a%20hunting%20license%20or%20a%20sport-shooting%20license%20is%20needed%20to%20purchase%20any%20firearm.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "George%20Clinton%2C%20Vice%20President%20of%20the%20United%20States%20%281805-1812%29%2C%20is%20an%20ancestor%20of%20President%20Bill%20Clinton.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Jeb%20Bush%20was%20elected%20as%20Governor%20of%20Florida%20in%202002%2C%20starting%20his%20political%20career.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Nazi%20Germany%20surrendered%20on%20Harry%20Truman%27s%20birthday%20while%20he%20was%20president.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Who%20was%20South%20Africa%27s%20first%20Black%20President%3F",
+        "correct_answer": "Nelson%20Mandela",
+        "incorrect_answers": [
+          "Mangosuthu%20Buthelezi",
+          "Steve%20Biko%20",
+          "Bishop%20Tutu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What%20is%20the%20name%20of%20Niccol%C3%B2%20Machiavelli%27s%20work%20that%20argued%20effective%20leaders%20needed%20to%20crush%20their%20opponents%20at%20all%20costs%3F",
+        "correct_answer": "The%20Prince",
+        "incorrect_answers": [
+          "The%20Rape%20of%20Lucrece",
+          "Will%20to%20Power",
+          "Love%27s%20Labours%20Lost"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "One%20of%20Donald%20Trump%27s%202016%20Presidential%20Campaign%20promises%20was%20to%20build%20a%20border%20wall%20between%20the%20United%20States%20and%20Mexico.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20letter%20do%20you%20need%20to%20have%20on%20a%20European%20driver%20license%20in%20order%20to%20ride%20any%20motorbikes%3F",
+        "correct_answer": "A",
+        "incorrect_answers": [
+          "X",
+          "D",
+          "B"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Donald%20Trump%20won%20the%20popular%20vote%20in%20the%202016%20United%20States%20presidential%20election.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Due%20to%20the%20Nagoya%20Resolution%2C%20China%20agreed%20to%20allow%20Taiwan%20to%20compete%20separately%20in%20international%20sporting%20events%20under%20what%20name%3F",
+        "correct_answer": "Chinese%20Taipei",
+        "incorrect_answers": [
+          "Chinese%20Taiwan",
+          "Republic%20of%20Taiwan",
+          "Republic%20of%20Taipei%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Starting%20from%202000%2C%20China%20banned%20manufacturing%20and%20sales%20of%20all%20video%20game%20consoles.%20On%20which%20year%20was%20this%20ban%20lifted%3F",
+        "correct_answer": "2015",
+        "incorrect_answers": [
+          "2012",
+          "2008",
+          "2017"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "%22Yes%2C%20America%20Can%21%22%20was%20this%20United%20States%20politician%27s%20de%20facto%20campaign%20slogan%20in%202004.",
+        "correct_answer": "George%20W.%20Bush",
+        "incorrect_answers": [
+          "John%20Kerry",
+          "Barack%20Obama",
+          "Al%20Gore"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "George%20W.%20Bush%20lost%20the%20popular%20vote%20in%20the%202004%20United%20States%20presidential%20election.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Theresa%20May%20was%20the%20first%20female%20Prime%20Minister%20of%20the%20United%20Kingdom.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20of%20the%20following%20Argentinian%20presidents%20was%20elected%20in%202015%3F",
+        "correct_answer": "Mauricio%20Macri",
+        "incorrect_answers": [
+          "Cristina%20Fernandez%20de%20Kirchner",
+          "Nestor%20Kirchner",
+          "Juan%20Domingo%20Peron"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Denmark%20has%20a%20monarch.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

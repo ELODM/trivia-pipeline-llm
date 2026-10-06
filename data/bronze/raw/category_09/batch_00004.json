@@ -1,0 +1,592 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:56:56.804763+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20a%20funambulist%20walk%20on%3F",
+        "correct_answer": "A%20Tight%20Rope",
+        "incorrect_answers": [
+          "Broken%20Glass",
+          "Balls",
+          "The%20Moon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20closest%20planet%20to%20our%20solar%20system%27s%20sun%3F",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+          "Mars",
+          "Jupiter",
+          "Earth"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Slovakia%20is%20a%20member%20of%20European%20Union-",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20you%20cry%20in%20space%2C%20your%20tears%20stick%20to%20your%20face.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20mountain%20has%20the%20highest%20peak%20in%20North%20America%3F",
+        "correct_answer": "Denali%2C%20USA",
+        "incorrect_answers": [
+          "Mount%20Saint%20Elias%2C%20US%2FCanada%20border",
+          "Mount%20Logan%2C%20Canada",
+          "Pico%20de%20Orizaba%2C%20Mexico"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Don%20Cheto%20is%20the%20host%20of%20the%20radio%20station%20%22East%20Los%20FM%22%20in%20GTA%20V.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20name%20of%20the%20WWF%20professional%20wrestling%20tag%20team%20made%20up%20of%20the%20wrestlers%20Ax%20and%20Smash%3F",
+        "correct_answer": "Demolition",
+        "incorrect_answers": [
+          "The%20Dream%20Team",
+          "The%20Bushwhackers",
+          "The%20British%20Bulldogs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20chemicals%20are%20found%20in%20eggplant%20seeds%3F",
+        "correct_answer": "Nicotine",
+        "incorrect_answers": [
+          "Mescaline",
+          "Cyanide",
+          "Psilocybin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20currency%20of%20Poland%3F",
+        "correct_answer": "Z%C5%82oty",
+        "incorrect_answers": [
+          "Ruble",
+          "Euro",
+          "Krone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20colours%20is%20NOT%20featured%20in%20the%20logo%20for%20Google%3F",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+          "Yellow",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20%22dabbing%22%3F",
+        "correct_answer": "A%20dance",
+        "incorrect_answers": [
+          "A%20medical%20procedure",
+          "A%20sport",
+          "A%20language"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20real%20name%20of%20viral%20internet%20meme%20Grumpy%20Cat%3F",
+        "correct_answer": "Tardar%20Sauce",
+        "incorrect_answers": [
+          "Lil%20Bub",
+          "Maru",
+          "Colonel%20Meow"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "There%20are%2086400%20seconds%20in%20a%20day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20website%20%22Shut%20Up%20%26%20Sit%20Down%22%20reviews%20which%20form%20of%20media%3F",
+        "correct_answer": "Board%20Games",
+        "incorrect_answers": [
+          "Television%20Shows",
+          "Video%20Games",
+          "Films"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Virgin%20Trains%2C%20Virgin%20Atlantic%20and%20Virgin%20Racing%2C%20are%20all%20companies%20owned%20by%20which%20famous%20entrepreneur%3F%20%20%20",
+        "correct_answer": "Richard%20Branson",
+        "incorrect_answers": [
+          "Alan%20Sugar",
+          "Donald%20Trump",
+          "Bill%20Gates"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20romanized%20Korean%20word%20for%20%22heart%22%3F",
+        "correct_answer": "Simjang",
+        "incorrect_answers": [
+          "Aejeong",
+          "Jeongsin",
+          "Segseu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "This%20Ghanaian%20entrepreneur%20is%20a%20pioneer%20of%20microlending.",
+        "correct_answer": "Esther%20Afua%20Ocloo",
+        "incorrect_answers": [
+          "Farida%20Bedwei",
+          "Ama%20Ata%20Aido",
+          "Sionne%20Neely"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20the%20Book%20of%20Genesis%20in%20the%20Old%20Testament%2C%20how%20many%20days%20did%20it%20take%20God%20to%20create%20the%20world%3F",
+        "correct_answer": "Six",
+        "incorrect_answers": [
+          "Seven",
+          "One",
+          "Twelve"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Five%20dollars%20is%20worth%20how%20many%20nickels%3F",
+        "correct_answer": "100",
+        "incorrect_answers": [
+          "50",
+          "25",
+          "69"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20US%20emergency%20hotline%20is%20911%20because%20of%20the%20September%2011th%20terrorist%20attacks.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20word%20%22aprosexia%22%20means%20which%20of%20the%20following%3F",
+        "correct_answer": "The%20inability%20to%20concentrate%20on%20anything",
+        "incorrect_answers": [
+          "The%20inability%20to%20make%20decisions",
+          "A%20feverish%20desire%20to%20rip%20one%27s%20clothes%20off",
+          "The%20inability%20to%20stand%20up"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20direction%20does%20the%20Statue%20of%20Liberty%20face%3F",
+        "correct_answer": "Southeast",
+        "incorrect_answers": [
+          "Southwest",
+          "Northwest",
+          "Northeast"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20country%20has%20the%20Union%20Jack%20in%20its%20flag%3F",
+        "correct_answer": "New%20Zealand",
+        "incorrect_answers": [
+          "South%20Africa",
+          "Canada",
+          "Hong%20Kong"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20the%20MMO%20RPG%20%22Realm%20of%20the%20Mad%20God%22%2C%20what%20dungeon%20is%20widely%20considered%20to%20be%20the%20most%20difficult%3F",
+        "correct_answer": "The%20Shatter%27s",
+        "incorrect_answers": [
+          "Snake%20Pit",
+          "The%20Tomb%20of%20the%20Acient%27s",
+          "The%20Puppet%20Master%27s%20Theater"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20one%20of%20the%20following%20rhythm%20games%20was%20made%20by%20Harmonix%3F",
+        "correct_answer": "Rock%20Band",
+        "incorrect_answers": [
+          "Meat%20Beat%20Mania",
+          "Guitar%20Hero%20Live",
+          "Dance%20Dance%20Revolution"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20a%20dead%20mall%3F",
+        "correct_answer": "A%20mall%20with%20high%20vacancy%20rates%20or%20low%20consumer%20foot%20traffic",
+        "incorrect_answers": [
+          "A%20mall%20with%20no%20stores",
+          "A%20mall%20that%20has%20been%20condemed",
+          "A%20mall%20after%20business%20hours"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Where%20is%20the%20train%20station%20%22Llanfair%C2%ADpwllgwyngyll%C2%ADgogery%C2%ADchwyrn%C2%ADdrobwll%C2%ADllan%C2%ADtysilio%C2%ADgogo%C2%ADgoch%22%3F",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+          "Moldova",
+          "Czech%20Republic",
+          "Denmark"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20French%20word%20to%20travel%20is%20%22Travail%22",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20syllables%20make%20up%20a%20haiku%3F",
+        "correct_answer": "17",
+        "incorrect_answers": [
+          "15",
+          "10",
+          "21"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Romanian%20belongs%20to%20the%20Romance%20language%20family%2C%20shared%20with%20French%2C%20Spanish%2C%20Portuguese%20and%20Italian.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20organ%20of%20the%20body%20produces%20bile%3F",
+        "correct_answer": "Liver",
+        "incorrect_answers": [
+          "Gallbladder",
+          "Pancreas",
+          "Stomach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20most%20frequently%20used%20letter%20in%20the%20english%20alphabet%3F",
+        "correct_answer": "E",
+        "incorrect_answers": [
+          "A",
+          "I",
+          "O"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20is%20not%20another%20name%20for%20the%20eggplant%3F",
+        "correct_answer": "Potimarron",
+        "incorrect_answers": [
+          "Brinjal",
+          "Guinea%20Squash",
+          "Melongene"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20style%20of%20beer%20will%20typically%20have%20a%20higher%20than%20average%20hop%20content%3F",
+        "correct_answer": "India%20Pale%20Ale",
+        "incorrect_answers": [
+          "Stout",
+          "Extra%20Special%20Bitter",
+          "Scotch%20Ale"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "A%20pencil%27s%20lead%20is%20typically%20made%20from%20graphite%2C%20not%20lead",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20pickled%20gherkin%20was%20first%20added%20to%20hamburgers%20because%20a%20US%20health%20law%20required%20all%20fast-food%20to%20include%20a%20source%20of%20Vitamin%20C.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20element%20has%20the%20chemical%20symbol%20Kr%3F",
+        "correct_answer": "Krypton",
+        "incorrect_answers": [
+          "Kerosine",
+          "Kineticium",
+          "Curium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20the%20founder%20of%20%22The%20Lego%20Group%22%3F",
+        "correct_answer": "Ole%20Kirk%20Christiansen",
+        "incorrect_answers": [
+          "%20Jens%20Niels%20Christiansen",
+          "Kirstine%20Christiansen",
+          "%20Gerhardt%20Kirk%20Christiansen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20a%20co-founder%20of%20music%20streaming%20service%20Spotify%3F",
+        "correct_answer": "Daniel%20Ek",
+        "incorrect_answers": [
+          "Sean%20Parker",
+          "Felix%20Miller",
+          "Michael%20Breidenbruecker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20Mexican%20Beer%20%22Corona%22%20is%20what%20type%20of%20beer%3F",
+        "correct_answer": "Pale%20Lager",
+        "incorrect_answers": [
+          "India%20Pale%20Ale",
+          "Pilfsner",
+          "Baltic%20Porter"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "All%20strawberries%20are%20red.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20Half-Life%2C%20what%20is%20the%20name%20of%20the%20alien%20that%20attaches%20to%20heads%3F",
+        "correct_answer": "Headcrab",
+        "incorrect_answers": [
+          "Bullsquid",
+          "Vortigaunt",
+          "Facehugger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20%22Resident%20Evil%203%22%2C%20how%20many%20inventory%20slots%20does%20Jill%20have%20at%20the%20start%20of%20the%20game%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "6",
+          "10",
+          "12"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20antagonist%20group%20in%20Danganronpa%20Another%20Episode%3A%20Ultra%20Despair%20Girls%3F",
+        "correct_answer": "Warriors%20of%20Hope",
+        "incorrect_answers": [
+          "The%20Monokubs",
+          "Warriors%20of%20Despair",
+          "The%20Ultimate%20Despair"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20Nintendo%20founded%3F",
+        "correct_answer": "September%2023rd%2C%201889",
+        "incorrect_answers": [
+          "October%2019th%2C%201891",
+          "March%204th%2C%201887",
+          "December%2027th%2C%201894"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Who%20founded%20the%20Khan%20Academy%3F",
+        "correct_answer": "Sal%20Khan",
+        "incorrect_answers": [
+          "Ben%20Khan",
+          "Kitt%20Khan",
+          "Adel%20Khan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20someone%20is%20cowardly%2C%20they%20are%20said%20to%20have%20what%20color%20belly%3F",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+          "Green",
+          "Red",
+          "Blue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20American%20president%20appears%20on%20a%20one%20dollar%20bill%3F",
+        "correct_answer": "George%20Washington",
+        "incorrect_answers": [
+          "Thomas%20Jefferson",
+          "Abraham%20Lincoln",
+          "Benjamin%20Franklin"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Ecuador%20uses%20the%20Mexican%20Peso%20as%20its%20currency.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20zodiac%20sign%20is%20represented%20by%20a%20pair%20of%20scales%3F",
+        "correct_answer": "Libra",
+        "incorrect_answers": [
+          "Aries",
+          "Capricorn",
+          "Sagittarius"
+        ]
+      }
+    ]
+  }
+}

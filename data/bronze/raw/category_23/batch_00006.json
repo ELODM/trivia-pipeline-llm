@@ -1,0 +1,598 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:42.108440+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20World%20War%20II%2C%20Hawker%20Typhoons%20served%20in%20the%20Pacific%20theater.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20Presidents%20of%20the%20United%20States%20was%20assassinated%3F",
+        "correct_answer": "William%20McKinley",
+        "incorrect_answers": [
+          "Lyndon%20Johnson",
+          "Chester%20Arthur",
+          "Franklin%20Roosevelt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20famous%20military%20commander%20marched%20an%20army%2C%20which%20included%20war%20elephants%2C%20over%20the%20Alps%20during%20the%20Second%20Punic%20War%3F",
+        "correct_answer": "Hannibal",
+        "incorrect_answers": [
+          "Garmanicus",
+          "Alexander%20the%20Great",
+          "Tiberius"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20day%20did%20World%20War%20I%20begin%3F",
+        "correct_answer": "July%2028",
+        "incorrect_answers": [
+          "January%2028",
+          "June%2028",
+          "April%2028"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20wife%20of%20King%20Henry%20VIII%3F",
+        "correct_answer": "Catherine%20of%20Aragon",
+        "incorrect_answers": [
+          "Jane%20Seymour",
+          "Anne%20Boleyn",
+          "Anne%20of%20Cleves"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20was%20the%20%22Siege%20of%20Leningrad%22%20lifted%20during%20World%20War%20II%3F",
+        "correct_answer": "January%201944",
+        "incorrect_answers": [
+          "September%201943",
+          "November%201943",
+          "March%201944"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20World%20War%20I%2C%20what%20was%20the%20name%20of%20the%20alliance%20of%20Germany%2C%20Austria-Hungary%2C%20the%20Ottoman%20Empire%2C%20and%20Bulgaria%3F",
+        "correct_answer": "The%20Central%20Powers",
+        "incorrect_answers": [
+          "The%20Axis%20Powers",
+          "The%20Federation%20of%20Empires",
+          "Authoritarian%20Alliance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20Prime%20Minister%20of%20the%20United%20Kingdom%20for%20most%20of%20World%20War%20II%3F",
+        "correct_answer": "Winston%20Churchill",
+        "incorrect_answers": [
+          "Neville%20Chamberlain",
+          "Harold%20Macmillan",
+          "Edward%20Heath"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Panama%20Canal%20was%20finished%20under%20the%20administration%20of%20which%20U.S.%20president%3F",
+        "correct_answer": "Woodrow%20Wilson",
+        "incorrect_answers": [
+          "Franklin%20Delano%20Roosevelt",
+          "Herbert%20Hoover",
+          "Theodore%20Roosevelt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20country%20did%20the%20Eureka%20Rebellion%2C%20an%201856%20battle%20against%20colonial%20rule%2C%20take%20place%20in%3F",
+        "correct_answer": "Australia",
+        "incorrect_answers": [
+          "India",
+          "Canada",
+          "Brazil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When%20did%20the%20Byzantine%20Empire%20collapse%3F",
+        "correct_answer": "1453",
+        "incorrect_answers": [
+          "1299",
+          "1353",
+          "1498"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20were%20the%20first%20states%20to%20break%20away%20from%20Yugoslavia%3F",
+        "correct_answer": "Slovenia%2C%20Croatia",
+        "incorrect_answers": [
+          "Macedonia%2C%20Montenegro",
+          "Slovenia%2C%20Macedonia",
+          "Montenegro%2C%20Slovenia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20Chancellor%20of%20a%20united%20Germany%20in%201871%3F%20",
+        "correct_answer": "Otto%20Von%20Bismark",
+        "incorrect_answers": [
+          "Kaiser%20Wilhelm%20",
+          "Fredrick%20the%202nd",
+          "Robert%20Koch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20did%20the%20Battle%20of%20Agincourt%20take%20place%3F",
+        "correct_answer": "1415",
+        "incorrect_answers": [
+          "1463",
+          "1401",
+          "1422"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "When%20is%20the%20Ides%20of%20March%3F",
+        "correct_answer": "March%2015",
+        "incorrect_answers": [
+          "March%2014",
+          "March%2031",
+          "March%201"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Fourth%20Crusade%20lasted%20from%201095-1099%20AD.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Tsar%20Bomba%2C%20the%20most%20powerful%20nuclear%20bomb%20ever%20tested%2C%20had%20a%20yield%20of%2050%20megatons%20but%20theoretically%20had%20a%20maximum%20yield%20of%20how%20much%3F",
+        "correct_answer": "100%20Megatons",
+        "incorrect_answers": [
+          "200%20Megatons",
+          "75%20Megatons",
+          "150%20Megatons"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20which%20year%20was%20Nelson%20Mandela%20released%20from%20prison",
+        "correct_answer": "1990",
+        "incorrect_answers": [
+          "1994",
+          "1992",
+          "1980"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20French%20Kingdom%20helped%20the%20United%20States%20gain%20their%20independence%20over%20Great%20Britain%20during%20the%20Revolutionary%20War.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How%20did%20the%20Vikings%20call%20their%20short-lived%20colony%20in%20today%27s%20Canada%3F",
+        "correct_answer": "V%C3%ADnland",
+        "incorrect_answers": [
+          "F%C3%B8royar",
+          "H%C3%A5logaland",
+          "Sk%C3%A5ne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20mammal%20successfully%20launched%20into%20Earth%27s%20orbit%3F",
+        "correct_answer": "Laika%2C%20the%20dog",
+        "incorrect_answers": [
+          "Ham%2C%20the%20chimpanzee",
+          "Baker%2C%20the%20monkey",
+          "Belka%2C%20the%20dog"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20succeded%20Josef%20Stalin%20as%20the%20leader%20of%20the%20Soviet%20Union%3F",
+        "correct_answer": "Nikita%20Krushchev",
+        "incorrect_answers": [
+          "Lavrentiy%20Beria",
+          "Vyacheslav%20Molotov",
+          "Georgy%20Malenkov"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20was%20the%20United%20States%20National%20Security%20Agency%20established%3F",
+        "correct_answer": "November%204%2C%201952",
+        "incorrect_answers": [
+          "July%2026%2C%201908",
+          "%20July%201%2C%201973",
+          "%20November%2025%2C%202002"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20led%20France%20during%20the%20%22Reign%20of%20Terror%22%20%3F",
+        "correct_answer": "Maximilien%20Robespierre",
+        "incorrect_answers": [
+          "Napoleon%20Bonaparte",
+          "Jean-Paul%20Marat",
+          "Louis%20XVI"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20assassinated%20President%20James%20A.%20Garfield%3F",
+        "correct_answer": "Charles%20Guiteau",
+        "incorrect_answers": [
+          "Sirhan%20Sirhan",
+          "Leon%20Czolgosz",
+          "John%20Wilkes%20Booth"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20leader%20of%20Sweden%20in%20the%20Great%20Northern%20War%3F",
+        "correct_answer": "Charles%20XII",
+        "incorrect_answers": [
+          "Per%20Albin%20Hansson",
+          "Peter%20the%20Great",
+          "Gustavus%20Adolphus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20day%20did%20the%20Battle%20of%20Gettysburg%20begin%3F",
+        "correct_answer": "July%201%2C%201863",
+        "incorrect_answers": [
+          "September%2017%2C%201862",
+          "July%2021%2C%201861",
+          "Apr%2030%2C%201863"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20was%20the%20SS%20or%20Schutzstaffel%20established%3F",
+        "correct_answer": "April%204th%2C%201925",
+        "incorrect_answers": [
+          "September%201st%2C%201941",
+          "March%208th%2C%201935",
+          "February%2021st%2C%201926"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20original%20Roman%20alphabet%20lacked%20the%20following%20letters%20EXCEPT%3A",
+        "correct_answer": "X",
+        "incorrect_answers": [
+          "W",
+          "U",
+          "J"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Adolf%20Hitler%20was%20tried%20at%20the%20Nuremberg%20trials.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20prison%20was%20Adolf%20Hitler%20held%20in%201924%3F",
+        "correct_answer": "Landsberg%20Prison",
+        "incorrect_answers": [
+          "Spandau%20Prison",
+          "Ebrach%20Abbey",
+          "Hohenasperg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How%20old%20was%20Lyndon%20B.%20Johnson%20when%20he%20assumed%20the%20role%20of%20President%20of%20the%20United%20States%3F",
+        "correct_answer": "55",
+        "incorrect_answers": [
+          "50",
+          "60",
+          "54"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20Battle%20of%20Verdun%20take%20place%3F",
+        "correct_answer": "1916",
+        "incorrect_answers": [
+          "1917",
+          "1915",
+          "1918"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20physicists%20did%20NOT%20work%20on%20the%20Manhattan%20project%3F",
+        "correct_answer": "Murray%20Gell-Mann",
+        "incorrect_answers": [
+          "Richard%20Feynman",
+          "J.%20Robert%20Oppenheimer",
+          "John%20Von-Neumann"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20Canada%27s%20first%20capital%3F",
+        "correct_answer": "Kingston",
+        "incorrect_answers": [
+          "Toronto",
+          "Ottawa",
+          "Montreal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20ruler%20of%20Haiti%20after%20the%20country%20had%20gained%20its%20independence%3F",
+        "correct_answer": "Jean-Jacques%20Dessalines",
+        "incorrect_answers": [
+          "Toussaint%20Louverture",
+          "Henri%20Christophe",
+          "Alexandre%20Petion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20tutored%20Alexander%20the%20Great%3F",
+        "correct_answer": "Aristotle",
+        "incorrect_answers": [
+          "Socrates",
+          "Plato",
+          "King%20Philip"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20United%20States%20was%20a%20member%20of%20the%20League%20of%20Nations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20assassination%20of%20which%20royal%20led%20to%20the%20start%20of%20World%20War%20I%3F",
+        "correct_answer": "Archduke%20Franz%20Ferdinand",
+        "incorrect_answers": [
+          "Louis%20Mountbatten",
+          "King%20Charles%20I",
+          "Nicholas%20II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20date%20was%20the%20first%20flight%20of%20the%20P-40%20Warhawk%3F",
+        "correct_answer": "October%2014%201938",
+        "incorrect_answers": [
+          "August%2021%201939",
+          "January%2012%201940",
+          "June%201%201939"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20real%20name%20of%20the%20Albanian%20national%20leader%20Skanderbeg%3F",
+        "correct_answer": "Gjergj%20Kastrioti",
+        "incorrect_answers": [
+          "Diturak%20Zhulati",
+          "Iskander%20Bejko",
+          "Mirash%20Krasniki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Pol%20Pot%20was%20the%20former%20dictator%20of%20which%20country%3F",
+        "correct_answer": "Cambodia",
+        "incorrect_answers": [
+          "Laos",
+          "North%20Korea",
+          "Vietnam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20these%20facilities%20was%20not%20present%20on%20the%20Titanic%3F",
+        "correct_answer": "Fainting%20room",
+        "incorrect_answers": [
+          "Turkish%20bath",
+          "Kennel",
+          "Squash%20court"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In%20addition%20to%20his%20career%20as%20an%20astrologer%20and%20%22prophet%22%2C%20Nostradamus%20published%20a%201555%20treatise%20that%20included%20a%20section%20on%20what%3F",
+        "correct_answer": "Making%20jams%20and%20jellies",
+        "incorrect_answers": [
+          "Teaching%20parrots%20to%20talk",
+          "Cheating%20at%20card%20games",
+          "Digging%20graves"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%201967%2C%20a%20magazine%20published%20a%20story%20about%20extracting%20hallucinogenic%20chemicals%20from%20bananas%20to%20raise%20moral%20questions%20about%20banning%20drugs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20was%20the%20last%20natural%20case%20of%20smallpox%20documented%3F",
+        "correct_answer": "1977",
+        "incorrect_answers": [
+          "1982",
+          "1980",
+          "1990"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Kingdom%20of%20Prussia%20briefly%20held%20land%20in%20Estonia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20modern%20country%20is%20known%20as%20%22The%20Graveyard%20of%20Empires%22%3F",
+        "correct_answer": "Afghanistan",
+        "incorrect_answers": [
+          "China",
+          "Iraq",
+          "Russia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20the%20Battle%20of%20the%20Bulge%20end%3F",
+        "correct_answer": "January%2025%2C%201945",
+        "incorrect_answers": [
+          "August%206%2C%201945",
+          "December%207%2C%201941",
+          "December%2016%2C%201944"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20World%20War%20ll%2C%20Great%20Britian%20used%20inflatable%20tanks%20on%20the%20ports%20of%20Great%20Britain%20to%20divert%20Hitler%20away%20from%20Normandy%2FD-day%20landing.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:15.912718+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20idea%20of%20Socialism%20was%20articulated%20and%20advanced%20by%20whom%3F",
+        "correct_answer": "Karl%20Marx",
+        "incorrect_answers": [
+          "Vladimir%20Lenin",
+          "Joseph%20Stalin",
+          "Vladimir%20Putin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20is%20the%20name%20of%20the%20Boeing%20B-29%20that%20dropped%20the%20%27Little%20Boy%27%20atomic%20bomb%20on%20Hiroshima%3F",
+        "correct_answer": "Enola%20Gay",
+        "incorrect_answers": [
+          "Necessary%20Evil",
+          "The%20Great%20Artiste",
+          "Full%20House"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20ontological%20argument%20for%20the%20proof%20of%20God%27s%20existence%20is%20first%20attributed%20to%20whom%3F",
+        "correct_answer": "Anselm%20of%20Canterbury",
+        "incorrect_answers": [
+          "Ren%C3%A9%20Descartes",
+          "Immanuel%20Kant",
+          "Aristotle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20collapse%20of%20the%20Soviet%20Union%20took%20place%20in%20which%20year%3F",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+          "1992",
+          "1891",
+          "1990"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20president%20of%20the%20United%20States%3F",
+        "correct_answer": "George%20Washington",
+        "incorrect_answers": [
+          "James%20Madison",
+          "Thomas%20Jefferson",
+          "James%20K.%20Polk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20bloodiest%20single-day%20battle%20during%20the%20American%20Civil%20War%3F",
+        "correct_answer": "The%20Battle%20of%20Antietam",
+        "incorrect_answers": [
+          "The%20Siege%20of%20Vicksburg",
+          "The%20Battle%20of%20Gettysburg",
+          "The%20Battles%20of%20Chancellorsville"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%201845%2C%20a%20series%20of%20wars%20named%20after%20which%20indigenous%20people%20began%20in%20New%20Zealand%3F",
+        "correct_answer": "M%C4%81ori",
+        "incorrect_answers": [
+          "Papuans",
+          "Aborigines",
+          "Polynesians"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Adolf%20Hitler%20was%20born%20on%20which%20date%3F",
+        "correct_answer": "April%2020%2C%201889",
+        "incorrect_answers": [
+          "June%2012%2C%201889",
+          "February%206%2C%201889",
+          "April%2016%2C%201889"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20famously%20coined%20the%20phrase%20%22I%20think%2C%20therefore%20I%20am%22%3F",
+        "correct_answer": "Descartes",
+        "incorrect_answers": [
+          "Plato",
+          "Aristotle",
+          "Shakespeare"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20happened%20on%20June%206%2C%201944%3F",
+        "correct_answer": "D-Day",
+        "incorrect_answers": [
+          "Atomic%20bombings%20of%20Hiroshima%20and%20Nagasaki",
+          "Attack%20on%20Pearl%20Harbor",
+          "The%20Liberation%20of%20Paris"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20dialogue%20did%20Socrates%20defend%20himself%20to%20the%20court%20of%20Athens%3F%20",
+        "correct_answer": "The%20Apology",
+        "incorrect_answers": [
+          "The%20Euthyphro",
+          "The%20Laws",
+          "The%20Republic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Under%20which%20name%20was%20Rodrigo%20Borgia%20made%20Pope%3F",
+        "correct_answer": "Alexander%20VI",
+        "incorrect_answers": [
+          "Rodrigo%20I",
+          "John%20Paul%20II",
+          "Pius%20VII"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Oxford%20University%20is%20older%20than%20the%20Aztec%20Empire.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20of%20these%20landmarks%20is%20not%20included%20in%20the%20original%20%27Seven%20Wonders%20of%20the%20Ancient%20World%27%3F",
+        "correct_answer": "Great%20Wall%20of%20China",
+        "incorrect_answers": [
+          "Great%20Pyramid%20of%20Giza",
+          "Colossus%20of%20Rhodes",
+          "Hanging%20Gardens%20of%20Babylon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Ottoman%20Empire%20was%20created%20in%201299.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During%20the%20Roman%20Triumvirate%20of%2042%20BCE%2C%20what%20region%20of%20the%20Roman%20Republic%20was%20given%20to%20Lepidus%3F",
+        "correct_answer": "Hispania%20",
+        "incorrect_answers": [
+          "Italia",
+          "Gallia",
+          "Asia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20son%20of%20which%20pope%20supposedly%20held%20a%20lecherous%20f%C3%AAte%20involving%2050%20courtesans%20in%20the%20papal%20palace%3F",
+        "correct_answer": "Alexander%20VI",
+        "incorrect_answers": [
+          "Innocent%20V",
+          "Urban%20II",
+          "Pius%20III"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20one%20of%20these%20was%20not%20a%20beach%20landing%20site%20in%20the%20Invasion%20of%20Normandy%3F",
+        "correct_answer": "Silver",
+        "incorrect_answers": [
+          "Gold",
+          "Juno",
+          "Sword"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20man%20that%20shot%20Alexander%20Hamilton%20was%20named%20Aaron%20Burr.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How%20many%20times%20was%20Albert%20Einstein%20married%20in%20his%20lifetime%3F",
+        "correct_answer": "Twice",
+        "incorrect_answers": [
+          "Five",
+          "Thrice",
+          "Once"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20English%20king%20was%20married%20to%20Eleanor%20of%20Aquitaine%3F",
+        "correct_answer": "Henry%20II",
+        "incorrect_answers": [
+          "Richard%20I",
+          "Henry%20I",
+          "Henry%20V"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20South%20American%20country%20fought%20Great%20Britain%20over%20the%20Falkland%20Islands%20in%201982%3F",
+        "correct_answer": "Argentina",
+        "incorrect_answers": [
+          "Brazil",
+          "Chile",
+          "Venezuela"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "America%27s%20Strategic%20Defense%20System%20during%20the%20Cold%20War%20was%20nicknamed%20after%20this%20famous%20movie.",
+        "correct_answer": "Star%20Wars",
+        "incorrect_answers": [
+          "Jaws",
+          "Blade%20Runner",
+          "Alien"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20was%20the%20city%20of%20Rome%2C%20Italy%20founded%3F",
+        "correct_answer": "753%20BCE",
+        "incorrect_answers": [
+          "902%20BCE",
+          "524%20BCE",
+          "697%20BCE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20Soviet%20revolutionaries%20was%20exiled%20from%20the%20USSR%20and%20later%20assassinated%20in%201940%20for%20criticizing%20Stalinism%3F",
+        "correct_answer": "Leon%20Trotsky",
+        "incorrect_answers": [
+          "Lev%20Kamenev",
+          "Mikhail%20Kalinin",
+          "Vladimir%20Lenin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "King%20Henry%20VIII%20was%20the%20second%20monarch%20of%20which%20European%20royal%20house%3F",
+        "correct_answer": "Tudor",
+        "incorrect_answers": [
+          "York",
+          "Stuart",
+          "Lancaster"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On%20what%20day%20did%20Germany%20invade%20Poland%3F",
+        "correct_answer": "September%201%2C%201939",
+        "incorrect_answers": [
+          "December%207%2C%201941",
+          "June%2022%2C%201941",
+          "July%207%2C%201937"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Toussaint%20Louverture%20led%20a%20successful%20slave%20revolt%20in%20which%20country%3F",
+        "correct_answer": "Haiti",
+        "incorrect_answers": [
+          "France",
+          "Cuba",
+          "United%20States"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20ancient%20Near%20Eastern%20peoples%20still%20exists%20as%20a%20modern%20ethnic%20group%3F",
+        "correct_answer": "Assyrians",
+        "incorrect_answers": [
+          "Babylonians",
+          "Hittites",
+          "Elamites"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20spy%20ring%20that%20helped%20the%20United%20States%20win%20the%20Revolutionary%20War%3F",
+        "correct_answer": "Culper%20Ring",
+        "incorrect_answers": [
+          "New%20York%20Spy%20Ring",
+          "Washington%27s%20Spies",
+          "Unnamed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20famous%20world%20leader%20is%20famed%20for%20the%20saying%2C%20%22Let%20them%20eat%20cake%22%2C%20yet%20is%20rumored%20that%20he%2Fshe%20never%20said%20it%20at%20all%3F",
+        "correct_answer": "Marie%20Antoinette",
+        "incorrect_answers": [
+          "Czar%20Nicholas%20II",
+          "Elizabeth%20I",
+          "Henry%20VIII"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20Great%20Northern%20War%2C%20between%20Russia%20and%20Sweden%2C%20end%3F",
+        "correct_answer": "1721",
+        "incorrect_answers": [
+          "1726",
+          "1727",
+          "1724"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20crowned%20Charlemagne%20as%20Holy%20Roman%20Emperor%20on%20Christmas%20Day%20in%20800%3F",
+        "correct_answer": "Pope%20Leo%20III",
+        "incorrect_answers": [
+          "Pope%20Urban%20IV",
+          "Pope%20Stephen%20V",
+          "Pope%20Valentine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20was%20the%20official%20German%20currency%20until%202002%3F",
+        "correct_answer": "Mark",
+        "incorrect_answers": [
+          "Frank",
+          "Pound%20sterling",
+          "Reichtoken"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20Tiananmen%20Square%20protests%20of%201989%20were%20held%20in%20Hong%20Kong.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20national%20hero%20of%20the%20Philippines%20who%20inspired%20and%20lead%20the%20Philippine%20Revolution%20against%20colonial%20Spain%3F",
+        "correct_answer": "Jos%C3%A9%20Rizal",
+        "incorrect_answers": [
+          "Sim%C3%B3n%20Bol%C3%ADvar",
+          "Benito%20Ju%C3%A1rez",
+          "Jos%C3%A9%20de%20San%20Mart%C3%ADn"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "There%20are%2013%20months%20in%20the%20Ethiopian%20calendar.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "In%201547%20who%20became%20the%201st%20Tsar%20of%20Russia",
+        "correct_answer": "Ivan%20the%20Terrible",
+        "incorrect_answers": [
+          "Alexis%20of%20Russia",
+          "Mikhail%20Romanov",
+          "Peter%20the%20Great"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20countries%20participated%20in%20the%20Lobster%20War%3F",
+        "correct_answer": "France%20and%20Brazil",
+        "incorrect_answers": [
+          "Canada%20and%20Norway",
+          "Australia%20and%20New%20Zealand",
+          "United%20States%20and%20England"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Vikings%20were%20the%20first%20Europeans%20to%20discover%20North%20America.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20Prime%20Minister%20of%20Japan%20when%20Japan%20declared%20war%20on%20the%20US%3F",
+        "correct_answer": "Hideki%20Tojo",
+        "incorrect_answers": [
+          "Michinomiya%20Hirohito",
+          "Isoroku%20Yamamoto",
+          "Fumimaro%20Konoe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20emperor%20of%20Rome%3F",
+        "correct_answer": "Augustus%20",
+        "incorrect_answers": [
+          "Julius%20Caesar",
+          "Pompey%20Magnus",
+          "Claudius"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20does%20the%20United%20States%20of%20America%20celebrate%20during%20the%204th%20of%20July%3F",
+        "correct_answer": "The%20signing%20of%20the%20Declaration%20of%20Independence",
+        "incorrect_answers": [
+          "The%20anniversary%20of%20the%20Battle%20of%20Gettysburg",
+          "The%20crossing%20of%20the%20Delaware%20River",
+          "The%20ratification%20of%20the%20Constitution"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During%20World%20War%20I%2C%20which%20nation%27s%20monarchs%20were%20blood%20related%3F",
+        "correct_answer": "England%2C%20Germany%2C%20Russia",
+        "incorrect_answers": [
+          "France%2C%20Russia%2C%20Germany",
+          "Serbia%2C%20Russia%2C%20Croatia",
+          "Germany%2C%20Spain%2C%20Austria"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20King%20of%20England%20was%20faced%20with%20the%20Peasants%27%20Revolt%20in%201381%3F",
+        "correct_answer": "Richard%20II",
+        "incorrect_answers": [
+          "Edward%20III",
+          "Edward%20II",
+          "Henry%20IV"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "United%20States%20President%20John%20F.%20Kennedy%20was%20assassinated%20during%20his%20presidential%20motorcade%20in%20Atlanta%2C%20Georgia%20on%20November%2022nd%2C%201963.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How%20many%20manned%20moon%20landings%20have%20there%20been%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "1",
+          "3",
+          "7"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20Wall%20Street%20Crash%20take%20place%3F",
+        "correct_answer": "1929",
+        "incorrect_answers": [
+          "1932",
+          "1930",
+          "1925"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20was%20William%20Frederick%20Cody%20better%20known%20as%3F",
+        "correct_answer": "Buffalo%20Bill",
+        "incorrect_answers": [
+          "Billy%20the%20Kid",
+          "Wild%20Bill%20Hickok",
+          "Pawnee%20Bill"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20dictator%20killed%20the%20most%20people%3F",
+        "correct_answer": "Mao%20Zedong",
+        "incorrect_answers": [
+          "Joseph%20Stalin",
+          "Adolf%20Hitler",
+          "Kim%20Il%20Sung"
+        ]
+      }
+    ]
+  }
+}

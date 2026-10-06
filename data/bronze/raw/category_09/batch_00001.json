@@ -1,0 +1,594 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:56:41.581307+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Gouda%20cheese%20is%20from%20which%20European%20country%3F",
+        "correct_answer": "The%20Netherlands",
+        "incorrect_answers": [
+          "Belgium",
+          "Germany",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20%22YouTube%22%20founded%3F",
+        "correct_answer": "February%2014%2C%202005",
+        "incorrect_answers": [
+          "May%2022%2C%202004",
+          "September%2012%2C%202005",
+          "July%2019%2C%202009"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20largest%20living%20species%20of%20penguin%3F",
+        "correct_answer": "Emperor",
+        "incorrect_answers": [
+          "King",
+          "Gentoo",
+          "Adele"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20Swedish%20word%20%22Grunka%22%20means%20what%20in%20English%3F",
+        "correct_answer": "Thing",
+        "incorrect_answers": [
+          "People",
+          "Place",
+          "Pineapple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20famed%20architect%2C%20who%20died%20in%202019%20aged%20102%2C%20designed%20the%20glass%20pyramid%20at%20the%20Louvre%20museum%20in%20Paris%3F",
+        "correct_answer": "I.%20M.%20Pei",
+        "incorrect_answers": [
+          "Pascale%20Gu%C3%A9dot",
+          "Frank%20Gehry",
+          "Wang%20Shu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20company%20in%20Lethal%20Company%3F",
+        "correct_answer": "The%20Company",
+        "incorrect_answers": [
+          "Planet%20Scrap%20Co.",
+          "Lethal%20Robotics",
+          "Gordian%20Shipping%20Co."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Pluto%20is%20a%20planet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Computer%20manufacturer%20Compaq%20was%20acquired%20for%20%2425%20billion%20dollars%20in%202002%20by%20which%20company%3F",
+        "correct_answer": "Hewlett-Packard",
+        "incorrect_answers": [
+          "Toshiba",
+          "Asus",
+          "Dell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20sailors%20call%20the%20right%20side%20of%20a%20boat%3F",
+        "correct_answer": "Starboard",
+        "incorrect_answers": [
+          "Port",
+          "Stern",
+          "Bow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20alcoholic%20drink%20is%20mainly%20made%20from%20juniper%20berries%3F",
+        "correct_answer": "Gin",
+        "incorrect_answers": [
+          "Vodka",
+          "Rum",
+          "Tequila"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20past%20times%2C%20what%20would%20a%20gentleman%20keep%20in%20his%20fob%20pocket%3F",
+        "correct_answer": "Watch",
+        "incorrect_answers": [
+          "Money",
+          "Keys",
+          "Notebook"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20a%20milliner%20make%20and%20sell%3F",
+        "correct_answer": "Hats",
+        "incorrect_answers": [
+          "Shoes",
+          "Belts",
+          "Shirts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20fruit%20is%20a%20traditional%20ingredient%20of%20a%20Black%20Forest%20Gateau%3F",
+        "correct_answer": "Cherries",
+        "incorrect_answers": [
+          "Apricots",
+          "Raisins",
+          "Apples"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20H2O%3F",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+          "Oxygen",
+          "Hydrogen",
+          "None"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20poker%20hand%20containing%20three%20of%20a%20kind%20and%20a%20pair%3F",
+        "correct_answer": "Full%20House",
+        "incorrect_answers": [
+          "Flush",
+          "Straight",
+          "High%20card"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20nations%20was%20NOT%20a%20belligerent%20in%20World%20War%20I%3F",
+        "correct_answer": "Denmark",
+        "incorrect_answers": [
+          "Portugal",
+          "Greece",
+          "Romania"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20bikini%20is%20named%20after%20the%20%22Bikini%20Atoll%22%2C%20an%20island%20where%20the%20United%20States%20conducted%20tests%20on%20atomic%20bombs.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "All%20Souls%20and%20Merton%20are%20constituent%20colleges%20of%20what%20university%3F",
+        "correct_answer": "Oxford",
+        "incorrect_answers": [
+          "Cambridge",
+          "Manchester",
+          "Leeds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20banks%20are%20NOT%20authorized%20to%20issue%20currency%20notes%20in%20Hong%20Kong%3F",
+        "correct_answer": "OCBC",
+        "incorrect_answers": [
+          "HSBC",
+          "Standard%20Chartered",
+          "Bank%20of%20China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20shape%20of%20the%20toy%20invented%20by%20Hungarian%20professor%20Ern%C5%91%20Rubik%3F",
+        "correct_answer": "Cube",
+        "incorrect_answers": [
+          "Sphere",
+          "Cylinder",
+          "Pyramid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20language%20is%20most%20widely%20spoken%20in%20Switzerland%3F",
+        "correct_answer": "German",
+        "incorrect_answers": [
+          "French",
+          "Italian",
+          "Swiss"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20year%20was%20Apple%20Inc.%20founded%3F",
+        "correct_answer": "1976",
+        "incorrect_answers": [
+          "1978",
+          "1980",
+          "1974"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20the%20website%20reddit%20founded%20%3F",
+        "correct_answer": "2005",
+        "incorrect_answers": [
+          "2008",
+          "2004",
+          "2006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20holidays%20is%20NOT%20usually%20celebrated%20in%20the%20month%20of%20December%3F",
+        "correct_answer": "Thanksgiving",
+        "incorrect_answers": [
+          "Christmas",
+          "Kwanzaa",
+          "Hanukkah"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20average%20woman%20is%205%20inches%20%2F%2013%20centimeters%20shorter%20than%20the%20average%20man.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20languages%20does%20NOT%20use%20gender%20as%20a%20part%20of%20its%20grammar%3F",
+        "correct_answer": "Turkish",
+        "incorrect_answers": [
+          "German",
+          "Danish",
+          "Polish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Where%20is%20Apple%20Inc.%20headquartered%3F",
+        "correct_answer": "Cupertino%2C%20California",
+        "incorrect_answers": [
+          "Redwood%20City%2C%20California",
+          "Redmond%2C%20Washington",
+          "Santa%20Monica%2C%20CA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20step%20in%20cellular%20respiration%20forms%20ATP%3F",
+        "correct_answer": "Oxidative%20Phosphorylation",
+        "incorrect_answers": [
+          "Glycolysis",
+          "Pyruvate%20Oxidation",
+          "Calvin%20Cycle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20sailors%20call%20the%20left%20side%20of%20a%20boat%3F",
+        "correct_answer": "Port",
+        "incorrect_answers": [
+          "Starboard",
+          "Bow",
+          "Stern"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20word%20%22dozen%22%20usually%20refers%20to%20a%20group%20of%20how%20many%20objects%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "6",
+          "20",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20is%20the%20most%20popular%20spoken%20language%20in%20the%20Southern%20Hemisphere%3F",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+          "English%20",
+          "Spanish",
+          "French"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%202010%2C%20Twitter%20and%20the%20United%20States%20Library%20of%20Congress%20partnered%20together%20to%20archive%20every%20tweet%20by%20American%20citizens.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Scotch%20whisky%20and%20Drambuie%20make%20up%20which%20cocktail%3F",
+        "correct_answer": "Rusty%20Nail",
+        "incorrect_answers": [
+          "Screwdriver",
+          "Sex%20on%20the%20Beach",
+          "Manhattan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "SCP-173%20was%20the%20first%20SCP%20article%20written%20for%20the%20web-based%20collaborative%20fiction%20project%20known%20as%20the%20%22SCP%20Foundation%22",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20%22Katamari%20Damacy%22%2C%20you%20control%20a%20character%20known%20as%3A",
+        "correct_answer": "The%20Prince",
+        "incorrect_answers": [
+          "Fujio",
+          "Ichigo%20",
+          "Foomin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20ancient%20Greece%2C%20if%20your%20job%20were%20a%20%22hippeus%22%20which%20of%20these%20would%20you%20own%3F",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+          "Weave",
+          "Guitar",
+          "Boat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20invented%20the%20first%20ever%20chocolate%20bar%2C%20in%201847%3F",
+        "correct_answer": "Joseph%20Fry",
+        "incorrect_answers": [
+          "Andrew%20Johnson",
+          "John%20Cadbury",
+          "John%20Tyler"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Terry%20Gilliam%20was%20an%20animator%20that%20worked%20with%20which%20British%20comedy%20group%3F",
+        "correct_answer": "Monty%20Python",
+        "incorrect_answers": [
+          "The%20Goodies%E2%80%8E",
+          "The%20League%20of%20Gentlemen%E2%80%8E",
+          "The%20Penny%20Dreadfuls"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20full%20meaning%20of%20RAM%3F",
+        "correct_answer": "Random%20Access%20Memory",
+        "incorrect_answers": [
+          "Random%20Assist%20Memory",
+          "Rand%20Assist%20Mandate",
+          "Ram"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20alcoholic%20drink%20is%20made%20from%20molasses%3F",
+        "correct_answer": "Rum",
+        "incorrect_answers": [
+          "Gin",
+          "Vodka",
+          "Whisky"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20color%20orange%20is%20named%20after%20the%20fruit.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20National%20Animal%20of%20Scotland%20is%20the%20Unicorn.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Linus%20Pauling%2C%20one%20of%20the%20only%20winners%20of%20multiple%20Nobel%20Prizes%2C%20earned%20his%20Nobel%20Prizes%20in%20Chemistry%20and%20what%3F",
+        "correct_answer": "Peace",
+        "incorrect_answers": [
+          "Physics",
+          "Economics",
+          "Physiology%2FMedicine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20largest%20organ%20of%20the%20human%20body%3F",
+        "correct_answer": "Skin",
+        "incorrect_answers": [
+          "Heart",
+          "large%20Intestine",
+          "Liver"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Is%20a%20dog%20a%20mammal%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "%20In%20which%20country%20was%20the%20Michelin%20tire%20company%20founded%20in%201889%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "United%20Kingdom",
+          "Italy",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20Indian%20languages%20is%20not%20part%20of%20the%20Indo-European%20language%20family%3F",
+        "correct_answer": "Tamil",
+        "incorrect_answers": [
+          "Hindi",
+          "Punjabi",
+          "Urdu"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Francis%20Bacon%20died%20from%20a%20fatal%20case%20of%20pneumonia%20while%20he%20was%20attempting%20to%20preserve%20meat%20by%20stuffing%20a%20chicken%20with%20snow.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20full%20title%20of%20the%20Prime%20Minister%20of%20the%20UK%3F",
+        "correct_answer": "First%20Lord%20of%20the%20Treasury",
+        "incorrect_answers": [
+          "Duke%20of%20Cambridge",
+          "Her%20Majesty%27s%20Loyal%20Opposition",
+          "Manager%20of%20the%20Crown%20Estate"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "%22Number%2016%20Bus%20Shelter%22%20was%20a%20child%27s%20name%20that%20was%20approved%20by%20the%20New%20Zealand%20government.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

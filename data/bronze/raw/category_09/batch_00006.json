@@ -1,0 +1,592 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:57:07.372812+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Dihydrogen%20Monoxide%20is%20a%20dangerous%20chemical.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Originally%20another%20word%20for%20poppy%2C%20coquelicot%20is%20a%20shade%20of%20what%3F",
+        "correct_answer": "Red",
+        "incorrect_answers": [
+          "Green",
+          "Blue",
+          "Pink"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20geometric%20shape%20is%20generally%20used%20for%20stop%20signs%3F",
+        "correct_answer": "Octagon",
+        "incorrect_answers": [
+          "Hexagon",
+          "Circle",
+          "Triangle"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Kraft%20%22Cheez%20Whiz%22%20contains%20cheese%20culture%2C%20but%20doesn%27t%20actually%20contain%20cheese",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20which%20fast%20food%20chain%20can%20you%20order%20a%20Jamocha%20Shake%3F",
+        "correct_answer": "Arby%27s",
+        "incorrect_answers": [
+          "McDonald%27s",
+          "Burger%20King",
+          "Wendy%27s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20church%27s%20interior%20in%20Vatican%20City%20was%20designed%20in%201503%20by%20renaissance%20architects%20including%20Bramante%2C%20Michelangelo%20and%20Bernini%3F",
+        "correct_answer": "St.%20Peter%27s%20Basilica",
+        "incorrect_answers": [
+          "Catania%20Cathedral",
+          "St.%20Mark%E2%80%99s%20Basilica",
+          "The%20Duomo%20of%20Florence"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Apple%20co-founder%20Steve%20Jobs%20died%20from%20complications%20of%20which%20form%20of%20cancer%3F",
+        "correct_answer": "Pancreatic",
+        "incorrect_answers": [
+          "Bone",
+          "Liver",
+          "Stomach"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "An%20eggplant%20is%20a%20vegetable.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Crystal%20Pepsi%20was%20first%20sold%20in%20US%20markets%20in%201993.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "NCIS%20stands%20for%20%22Navy%20Corps%20Investigative%20Service%22",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20the%20Morse%20code%2C%20which%20letter%20is%20indicated%20by%203%20dots%3F%20",
+        "correct_answer": "S",
+        "incorrect_answers": [
+          "O",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20do%20sailors%20call%20the%20back%20of%20a%20boat%3F",
+        "correct_answer": "Stern",
+        "incorrect_answers": [
+          "Bow",
+          "Starboard",
+          "Port"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20early%20part%20of%20which%20decade%2C%20did%20the%20Goth%20Subculture%20begin%3F",
+        "correct_answer": "1980s",
+        "incorrect_answers": [
+          "1990s",
+          "2000s",
+          "1970s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Area%2051%20is%20located%20in%20which%20US%20state%3F",
+        "correct_answer": "Nevada",
+        "incorrect_answers": [
+          "Arizona",
+          "New%20Mexico",
+          "Utah"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20candy%20is%20NOT%20made%20by%20Mars%3F",
+        "correct_answer": "Almond%20Joy",
+        "incorrect_answers": [
+          "M%26M%27s",
+          "Twix",
+          "Snickers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20file%20hosting%20service%2C%20%22Google%20Drive%22%20was%20launched%20on%20what%20day%3F",
+        "correct_answer": "April%2024%2C%202012",
+        "incorrect_answers": [
+          "January%2012%2C%202014",
+          "November%2014%2C%202008",
+          "January%2020%2C%202010"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20scientific%20name%20for%20the%20Southern%20Lights%20is%20Aurora%20Australis%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Hyundai%20Motor%20Company%20was%20founded%20in%20which%20country%3F",
+        "correct_answer": "South%20Korea",
+        "incorrect_answers": [
+          "Russia",
+          "Japan",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Waluigi%27s%20first%20appearance%20was%20in%20what%20game%3F",
+        "correct_answer": "Mario%20Tennis%2064%20%28N64%29",
+        "incorrect_answers": [
+          "Wario%20Land%3A%20Super%20Mario%20Land%203",
+          "Mario%20Party%20%28N64%29",
+          "Super%20Smash%20Bros.%20Ultimate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%202013%20how%20much%20money%20was%20lost%20by%20Nigerian%20scams%3F",
+        "correct_answer": "%2412.7%20Billion",
+        "incorrect_answers": [
+          "%2495%20Million",
+          "%24956%20Million",
+          "%242.7%20Billion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20Portuguese%20word%20for%20%22Brazil%22%3F",
+        "correct_answer": "Brasil",
+        "incorrect_answers": [
+          "Brazil",
+          "Brasilia",
+          "Bras%C3%ADl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20weight%20of%20a%20Gold%20Bar%20in%20Fallout%3A%20New%20Vegas%3F",
+        "correct_answer": "35%20Pounds",
+        "incorrect_answers": [
+          "30%20Pounds",
+          "40%20Pounds",
+          "32.50%20Pounds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20country%20has%20had%20prime%20ministers%20named%20Eden%2C%20Major%2C%20Peel%2C%20Law%2C%20Brown%20and%20Heath%3F",
+        "correct_answer": "United%20Kingdom",
+        "incorrect_answers": [
+          "Australia",
+          "New%20Zealand",
+          "Canada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20Tasmania%3F",
+        "correct_answer": "An%20Australian%20State",
+        "incorrect_answers": [
+          "A%20flavor%20of%20Ben%20and%20Jerry%27s%20ice-cream",
+          "A%20Psychological%20Disorder",
+          "The%20Name%20of%20a%20Warner%20Brothers%20Cartoon%20Character"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Whose%20greyscale%20face%20is%20on%20the%20kappa%20emoticon%20on%20Twitch%3F",
+        "correct_answer": "Josh%20DeSeno",
+        "incorrect_answers": [
+          "Justin%20DeSeno",
+          "John%20DeSeno",
+          "Jimmy%20DeSeno"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20Marvel%20games%20was%20released%20on%20the%20Playstation%202%3F",
+        "correct_answer": "Spider-Man%202",
+        "incorrect_answers": [
+          "Silver%20Surfer",
+          "Howard%20the%20Duck",
+          "Wolverine%3A%20Adamantium%20Rage"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20extra%20pedal%20on%20a%20manual%20or%20standard%20transmission%20car%3F",
+        "correct_answer": "Clutch",
+        "incorrect_answers": [
+          "Shifter",
+          "Booster",
+          "Parking%20Brake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20words%20refers%20to%20something%20made%2C%20distributed%2C%20or%20sold%20illegally%3F",
+        "correct_answer": "Bootleg",
+        "incorrect_answers": [
+          "Bootblack",
+          "Bootlace",
+          "Bootstrap"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20longest%20bridge%20in%20the%20world%3F",
+        "correct_answer": "Danyang%E2%80%93Kunshan%20Grand%20Bridge%2C%20China",
+        "incorrect_answers": [
+          "Lake%20Pontchartrain%20Causeway%2C%20United%20States",
+          "King%20Fahd%20Causeway%20Bridge%20I%2C%20Saudi%20Arabia",
+          "Sultan%20Abdul%20Halim%20Muadzam%20Shah%20Bridge%2C%20Malaysia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20drug%20cartel%20run%20by%20Pablo%20Escobar%20originated%20in%20which%20South%20American%20city%3F",
+        "correct_answer": "Medell%C3%ADn",
+        "incorrect_answers": [
+          "Bogot%C3%A1",
+          "Quito",
+          "Cali"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20someone%20is%20inexperienced%20they%20are%20said%20to%20be%20what%20color%3F",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20shortest%20month%20of%20the%20year%3F",
+        "correct_answer": "February",
+        "incorrect_answers": [
+          "December",
+          "April",
+          "September"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "King%20Gizzard%20%26%20The%20Lizard%20Wizard%27s%20album%20%22Nonagon%20Infinity%22%20can%20be%20looped%20seamlessly.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20main%20Character%20from%20the%20Series%3A%20Dead%20Space%3F",
+        "correct_answer": "Isaac%20Clarke",
+        "incorrect_answers": [
+          "Ellen%20Ripley",
+          "Commander%20Shepard",
+          "Captain%20Kirk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20nickname%20given%20to%20the%20Hughes%20H-4%20Hercules%2C%20a%20heavy%20transport%20flying%20boat%20which%20achieved%20flight%20in%201947%3F",
+        "correct_answer": "Spruce%20Goose",
+        "incorrect_answers": [
+          "Noah%27s%20Ark",
+          "Fat%20Man",
+          "Trojan%20Horse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20technology%20is%20named%20after%20a%20tenth-century%20ruler%20of%20Denmark%20and%20Norway%3F",
+        "correct_answer": "Bluetooth",
+        "incorrect_answers": [
+          "Wi-Fi",
+          "GPS",
+          "Internet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Sciophobia%20is%20the%20fear%20of%20what%3F",
+        "correct_answer": "Shadows",
+        "incorrect_answers": [
+          "Eating",
+          "Bright%20lights",
+          "Transportation"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Albert%20Einstein%20had%20trouble%20with%20mathematics%20when%20he%20was%20in%20school.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20term%20%22Spam%22%20came%20before%20the%20food%20product%20%22Spam%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Out%20of%20these%20four%20buildings%2C%20which%20one%20is%20the%20tallest%2C%20with%20a%20height%20of%201%2C483%20ft%20%28451.9%20m%29%3F",
+        "correct_answer": "Petronas%20Twin%20Towers%2C%20Malaysia",
+        "incorrect_answers": [
+          "Zifeng%20Tower%2C%20China",
+          "Trump%20Intl.%20Hotel%20%26%20Tower%2C%20United%20States",
+          "Al%20Hamra%20Tower%2C%20Kuwait"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20French%20word%20for%20%22hat%22%3F",
+        "correct_answer": "Chapeau",
+        "incorrect_answers": [
+          "Bonnet",
+          "%20%C3%89charpe",
+          "%20Casque"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20Poland%20in%20Polish%3F",
+        "correct_answer": "Polska",
+        "incorrect_answers": [
+          "Pupcia",
+          "Polszka",
+          "P%C3%B3land"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20which%20year%20did%20Ghana%20gain%20independence%3F",
+        "correct_answer": "1957",
+        "incorrect_answers": [
+          "1947",
+          "1960",
+          "1958"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "This%20field%20is%20sometimes%20known%20as%20%E2%80%9CThe%20Dismal%20Science.%E2%80%9D",
+        "correct_answer": "Economics",
+        "incorrect_answers": [
+          "Philosophy",
+          "Politics",
+          "Physics"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "%22A3%22%2C%20%22B1%22%2C%20and%20%22Legal%22%20are%20typical%20names%20of%20sizes%20for%20what%20object%3F",
+        "correct_answer": "Paper",
+        "incorrect_answers": [
+          "Airplanes",
+          "Law%20books",
+          "Phone%20screens"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Where%20in%20La%20Coru%C3%B1a%20%28Spain%29%20is%20the%20headquarters%20of%20%22Inditex%22%2C%20the%20biggest%20fashion%20group%20in%20the%20world%3F",
+        "correct_answer": "Arteijo",
+        "incorrect_answers": [
+          "Sanjenjo",
+          "Mug%C3%ADa",
+          "%C3%93rdenes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20Hubba%20Bubba%20first%20introduced%3F",
+        "correct_answer": "1979",
+        "incorrect_answers": [
+          "1984",
+          "1972",
+          "1980"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "You%20can%20legally%20drink%20alcohol%20while%20driving%20in%20Mississippi.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20presidents%20is%20not%20on%20Mount%20Rushmore%3F",
+        "correct_answer": "John%20F.%20Kennedy",
+        "incorrect_answers": [
+          "Theodore%20Roosevelt",
+          "Abraham%20Lincoln",
+          "Thomas%20Jefferson"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Lego%20Group%20was%20founded%20in%201932.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

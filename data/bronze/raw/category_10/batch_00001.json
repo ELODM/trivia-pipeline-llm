@@ -1,0 +1,604 @@
+{
+  "category_id": 10,
+  "fetched_at": "2026-10-06T09:57:38.987315+00:00",
+  "request": {
+    "amount": 50,
+    "category": 10,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "By%20what%20nickname%20is%20Jack%20Dawkins%20known%20in%20the%20Charles%20Dickens%20novel%2C%20%27Oliver%20Twist%27%3F",
+        "correct_answer": "The%20Artful%20Dodger",
+        "incorrect_answers": [
+          "Fagin",
+          "Bull%E2%80%99s-eye",
+          "Mr.%20Fang"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "George%20Orwell%20wrote%20this%20book%2C%20which%20is%20often%20considered%20a%20statement%20on%20government%20oversight.",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+          "The%20Old%20Man%20and%20the%20Sea",
+          "Catcher%20and%20the%20Rye",
+          "To%20Kill%20a%20Mockingbird"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20position%20does%20Harry%20Potter%20play%20in%20Quidditch%3F",
+        "correct_answer": "Seeker",
+        "incorrect_answers": [
+          "Beater",
+          "Chaser",
+          "Keeper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20Eragon%27s%20dragon%20in%20%22Eragon%22%3F",
+        "correct_answer": "Saphira",
+        "incorrect_answers": [
+          "Glaedr",
+          "Thorn",
+          "Arya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20novel%20%22Lord%20of%20the%20Rings%22%2C%20how%20many%20rings%20of%20power%20were%20given%20to%20the%20race%20of%20man%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "5",
+          "11",
+          "13"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20%22Little%20Women%22%2C%20which%20of%20the%20March%20sisters%20married%20Laurie%3F",
+        "correct_answer": "Amy",
+        "incorrect_answers": [
+          "Beth",
+          "Jo",
+          "Meg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20was%20the%20name%20of%20Captain%20Nemo%27s%20submarine%20in%20%2220%2C000%20Leagues%20Under%20the%20Sea%22%3F",
+        "correct_answer": "The%20Nautilus",
+        "incorrect_answers": [
+          "The%20Neptune",
+          "The%20Poseidon%20%20",
+          "The%20Atlantis"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "%22Elementary%2C%20my%20dear%20Watson%22%20is%20a%20phrase%20that%20is%20never%20truly%20said%20within%20the%20Conan%20Doyle%20books%20of%20Sherlock%20Holmes.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20of%20these%20book%20series%20is%20by%20James%20Patterson%3F",
+        "correct_answer": "Maximum%20Ride",
+        "incorrect_answers": [
+          "Harry%20Potter",
+          "The%20Legend%20of%20Xanth",
+          "The%20Bartemaeus%20Trilogy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "The%20novel%20%22Jane%20Eyre%22%20was%20written%20by%20what%20author%3F%20",
+        "correct_answer": "Charlotte%20Bront%C3%AB",
+        "incorrect_answers": [
+          "Emily%20Bront%C3%AB",
+          "Jane%20Austen",
+          "Louisa%20May%20Alcott"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "The%20Harry%20Potter%20series%20of%20books%2C%20combined%2C%20are%20over%201%2C000%2C000%20words%20in%20length.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20Harry%20Potter%20universe%2C%20who%20does%20Draco%20Malfoy%20end%20up%20marrying%3F",
+        "correct_answer": "Astoria%20Greengrass",
+        "incorrect_answers": [
+          "Pansy%20Parkinson",
+          "Millicent%20Bulstrode",
+          "Hermione%20Granger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20the%20gang%20that%20Ponyboy%20is%20a%20part%20of%20in%20the%20book%2C%20The%20Outsiders%3F",
+        "correct_answer": "The%20Greasers",
+        "incorrect_answers": [
+          "The%20Outsiders",
+          "The%20Mafia",
+          "The%20Socs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20make%20and%20model%20of%20the%20tour%20vehicles%20in%20%22Jurassic%20Park%22%20%281990%29%3F",
+        "correct_answer": "1989%20Toyota%20Land%20Cruiser",
+        "incorrect_answers": [
+          "1989%20Jeep%20Wrangler%20YJ%20Sahar",
+          "1989%20Ford%20Explorer%20XLT",
+          "Mercedes%20M-Class"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20was%20the%20first%20ever%20entry%20written%20for%20the%20SCP%20Foundation%20collaborative%20writing%20project%3F",
+        "correct_answer": "SCP-173",
+        "incorrect_answers": [
+          "SCP-001",
+          "SCP-999",
+          "SCP-1459"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20Magic%3A%20The%20Gathering%20universe%2C%20which%20plane%20does%20the%20Homelands%20expansion%20take%20place%20in%3F",
+        "correct_answer": "Ulgrotha",
+        "incorrect_answers": [
+          "Bant",
+          "Llanowar",
+          "Tazeem"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "The%20title%20of%20Adolf%20Hitler%27s%20autobiography%20%22Mein%20Kampf%22%20is%20what%20when%20translated%20to%20English%3F",
+        "correct_answer": "My%20Struggle",
+        "incorrect_answers": [
+          "My%20Hatred",
+          "My%20Sadness",
+          "My%20Desire"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "Harry%20Potter%20was%20born%20on%20July%2031st%2C%201980.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Who%20wrote%20the%20%22A%20Song%20of%20Ice%20And%20Fire%22%20fantasy%20novel%20series%3F",
+        "correct_answer": "George%20R.%20R.%20Martin",
+        "incorrect_answers": [
+          "George%20Lucas",
+          "George%20Orwell",
+          "George%20Eliot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Who%20is%20the%20protagonist%20of%20the%20book%3A%20%22The%20Catcher%20in%20the%20Rye%22%20by%20J.D.%20Salinger",
+        "correct_answer": "Holden%20Caulfield",
+        "incorrect_answers": [
+          "Holden%20David",
+          "Jerome%20Caulfield",
+          "Jerome%20David"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20Harry%20Potter%20and%20the%20Deathly%20Hallows%2C%20Hermione%20destroyed%20the%20fourth%20Horcrux%20by%20stabbing%20it%20with%20the%20Sword%20of%20Gryffindor.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20of%20the%20following%20is%20the%20world%27s%20best-selling%20book%3F",
+        "correct_answer": "The%20Lord%20of%20the%20Rings",
+        "incorrect_answers": [
+          "The%20Little%20Prince",
+          "Harry%20Potter%20and%20the%20Philosopher%27s%20Stone",
+          "The%20Da%20Vinci%20Code"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20the%20author%20of%20book%20series%20%27Percy%20Jackson%27%3F",
+        "correct_answer": "Rick%20Riordan",
+        "incorrect_answers": [
+          "J.K.%20Rowling",
+          "Sandra%20Bullock%20",
+          "Roald%20Dahl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20of%20the%20following%20authors%20was%20not%20born%20in%20England%3F%20",
+        "correct_answer": "Arthur%20Conan%20Doyle",
+        "incorrect_answers": [
+          "Graham%20Greene",
+          "H%20G%20Wells",
+          "Arthur%20C%20Clarke"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Who%20wrote%20the%201967%20horror%20novel%20%22Rosemary%27s%20Baby%22%3F",
+        "correct_answer": "Ira%20Levin",
+        "incorrect_answers": [
+          "Stephen%20King",
+          "Robert%20Bloch",
+          "Mary%20Shelley"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20work%20authored%20by%20Fyodor%20Dostoevsky%3F",
+        "correct_answer": "Anna%20Karenina",
+        "incorrect_answers": [
+          "Notes%20from%20the%20Underground",
+          "Crime%20and%20Punishment",
+          "The%20Brothers%20Karamazov"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20the%20protagonist%20of%20J.D.%20Salinger%27s%20novel%20Catcher%20in%20the%20Rye%3F",
+        "correct_answer": "Holden%20Caulfield",
+        "incorrect_answers": [
+          "Fletcher%20Christian",
+          "Jay%20Gatsby",
+          "Randall%20Flagg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20the%20town%20in%20which%20Lily%20and%20James%20Potter%20are%20buried%3F",
+        "correct_answer": "Godric%27s%20Hollow",
+        "incorrect_answers": [
+          "Hogsmeade",
+          "Ottery%20St.%20Catchpole",
+          "Little%20Hangleton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20which%20classic%20novel%20is%20there%20a%20character%20named%20Homer%20Simpson%3F",
+        "correct_answer": "The%20Day%20of%20the%20Locust",
+        "incorrect_answers": [
+          "Catch-22",
+          "Of%20Mice%20and%20Men",
+          "A%20Separate%20Peace"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20was%20the%20name%20of%20the%20Mysterious%20Island%2C%20in%20Jules%20Verne%27s%20%22The%20Mysterious%20Island%22%3F",
+        "correct_answer": "Lincoln%20Island",
+        "incorrect_answers": [
+          "Vulcania%20Island",
+          "Prometheus%20Island",
+          "Neptune%20Island"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20Terry%20Pratchett%27s%20Discworld%20novel%20%27Wyrd%20Sisters%27%2C%20which%20of%20these%20are%20not%20one%20of%20the%20three%20main%20witches%3F",
+        "correct_answer": "Winny%20Hathersham",
+        "incorrect_answers": [
+          "Granny%20Weatherwax",
+          "Nanny%20Ogg",
+          "Magrat%20Garlick"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20fictional%20English%20county%20was%20the%20setting%20for%20Thomas%20Hardy%27s%20novels%3F",
+        "correct_answer": "Wessex",
+        "incorrect_answers": [
+          "Barsetshire",
+          "Fulchester",
+          "Ambridge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20Magic%3A%20The%20Gathering%20universe%2C%20the%20Fallen%20Empires%20expansion%20takes%20place%20on%20which%20continent%3F",
+        "correct_answer": "Sarpadia",
+        "incorrect_answers": [
+          "Otaria",
+          "Terisiare",
+          "Shiv"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Mary%20Shelley%20is%20the%20author%20of%20what%20classic%20horror%20story%3F",
+        "correct_answer": "Frankenstein",
+        "incorrect_answers": [
+          "Dracula",
+          "Strange%20Case%20of%20Dr%20Jekyll%20and%20Mr%20Hyde",
+          "The%20Legend%20of%20Sleepy%20Hollow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "Who%20wrote%20the%20novel%20%22Moby-Dick%22%3F",
+        "correct_answer": "Herman%20Melville",
+        "incorrect_answers": [
+          "William%20Golding",
+          "William%20Shakespeare",
+          "J.%20R.%20R.%20Tolkien"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20The%20Lies%20Of%20Locke%20Lamora%2C%20what%20does%20%22Lamora%22%20mean%20in%20Throne%20Therin%3F",
+        "correct_answer": "Shadow",
+        "incorrect_answers": [
+          "Thievery",
+          "Justice",
+          "Chaos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "J.K.%20Rowling%20completed%20%22Harry%20Potter%20and%20the%20Deathly%20Hallows%22%20in%20which%20hotel%20in%20Edinburgh%2C%20Scotland%3F",
+        "correct_answer": "The%20Balmoral",
+        "incorrect_answers": [
+          "The%20Dunstane%20Hotel",
+          "Hotel%20Novotel",
+          "Sheraton%20Grand%20Hotel%20%26%20Spa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20the%20fourth%20book%20in%20Stephen%20King%27s%20The%20Dark%20Tower%20series%3F",
+        "correct_answer": "Wizard%20and%20Glass",
+        "incorrect_answers": [
+          "Wolves%20of%20the%20Calla",
+          "Hearts%20in%20Atlantis",
+          "The%20Dark%20Half"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "%22Green%20Eggs%20and%20Ham%22%20consists%20of%20only%2050%20different%20words.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20of%20these%20does%20Charlie%20NOT%20read%20in%20The%20Perks%20of%20Being%20a%20Wallflower%3F",
+        "correct_answer": "The%20Grapes%20of%20Wrath",
+        "incorrect_answers": [
+          "Hamlet",
+          "The%20Great%20Gatsby",
+          "Peter%20Pan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20%22Harry%20Potter%22%20novels%2C%20what%20must%20a%20Hogwarts%20student%20do%20to%20enter%20the%20Ravenclaw%20Common%20Room%3F",
+        "correct_answer": "Answer%20a%20riddle",
+        "incorrect_answers": [
+          "Rhythmically%20tap%20barrels%20with%20a%20wand",
+          "Speak%20a%20password",
+          "Knock%20in%20sequence"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "Who%20was%20the%20author%20of%20the%201954%20novel%2C%20%22Lord%20of%20the%20Flies%22%3F",
+        "correct_answer": "William%20Golding",
+        "incorrect_answers": [
+          "Stephen%20King",
+          "F.%20Scott%20Fitzgerald",
+          "Hunter%20Fox"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20classic%20book%20opens%20with%20the%20line%20%22Call%20me%20Ishmael%22%3F",
+        "correct_answer": "Moby%20Dick",
+        "incorrect_answers": [
+          "A%20Tale%20of%20Two%20Cities",
+          "Kidnapped",
+          "Wuthering%20Heights"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20Sherlock%20Holmes%27s%20brother%3F",
+        "correct_answer": "Mycroft%20Holmes",
+        "incorrect_answers": [
+          "Mederi%20Holmes",
+          "Martin%20Holmes",
+          "Herbie%20Hancock%20Holmes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "The%20book%20%22Fahrenheit%20451%22%20was%20written%20by%20whom%3F",
+        "correct_answer": "Ray%20Bradbury",
+        "incorrect_answers": [
+          "R.%20L.%20Stine",
+          "Wolfgang%20Amadeus%20Mozart",
+          "Stephen%20King"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "Who%20wrote%20%22The%20Scarlet%20Letter%22%2C%20published%20in%201850%3F",
+        "correct_answer": "Nathaniel%20Hawthorne",
+        "incorrect_answers": [
+          "Washington%20Irving",
+          "James%20Fenimore%20Cooper",
+          "Catherine%20Maria%20Sedgwick"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "According%20to%20Bram%20Stoker%27s%20novel%2C%20in%20which%20British%20coastal%20town%20did%20Dracula%20come%20ashore%3F",
+        "correct_answer": "Whitby",
+        "incorrect_answers": [
+          "Scarborough",
+          "Brighton",
+          "Portsmouth"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20book%20series%20%22Odd%20Thomas%22%2C%20Danny%20Jessup%20has%20what%20genetic%20disease%3F%20",
+        "correct_answer": "%20Osteogenesis%20Imperfecta",
+        "incorrect_answers": [
+          "Spinocerebellar%20ataxia",
+          "Adrenoleukodystrophy",
+          "Cystic%20Fibrosis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20of%20these%20books%20was%20NOT%20written%20by%20the%20Czech%20author%20Karel%20%C4%8Capek%3F",
+        "correct_answer": "Journey%20to%20the%20Center%20of%20the%20Earth",
+        "incorrect_answers": [
+          "The%20War%20with%20the%20Newts",
+          "R.U.R.%20%28Rossum%27s%20Universal%20Robots%29",
+          "Dashenka%2C%20or%20the%20Life%20of%20a%20Puppy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20which%20classic%20novel%20by%20Mark%20Twain%20did%20a%20beggar%20and%20Prince%20of%20Wales%20switch%20clothes%2C%20and%20learn%20about%20social%20class%20inequality%3F",
+        "correct_answer": "The%20Prince%20and%20the%20Pauper",
+        "incorrect_answers": [
+          "Hamlet",
+          "Wealthy%20Boy%20and%20the%20Schmuck",
+          "A%20Modern%20Twain%20Story"
+        ]
+      }
+    ]
+  }
+}

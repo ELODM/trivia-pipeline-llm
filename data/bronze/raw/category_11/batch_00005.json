@@ -1,0 +1,604 @@
+{
+  "category_id": 11,
+  "fetched_at": "2026-10-06T09:58:20.594323+00:00",
+  "request": {
+    "amount": 50,
+    "category": 11,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20first%20James%20Bond%20film%3F",
+        "correct_answer": "Dr.%20No",
+        "incorrect_answers": [
+          "Goldfinger",
+          "From%20Russia%20With%20Love",
+          "Thunderball"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "According%20to%20%22Star%20Wars%22%20lore%2C%20which%20planet%20does%20Obi-Wan%20Kenobi%20come%20from%3F",
+        "correct_answer": "Stewjon",
+        "incorrect_answers": [
+          "Alderaan",
+          "Tatooine",
+          "Naboo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20the%20Cenobite%20called%20%22Pinhead%22%20in%20the%20original%20Hellraiser%20films%3F",
+        "correct_answer": "Doug%20Bradley",
+        "incorrect_answers": [
+          "Doug%20Jones",
+          "Doug%20Savant",
+          "Doug%20Benson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20year%20was%20the%20first%20official%20Youtube%20Rewind%20released%3F",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+          "2012",
+          "2011",
+          "2013"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20make%20and%20model%20of%20the%20tour%20vehicles%20in%20%22Jurassic%20Park%22%20%281993%29%3F",
+        "correct_answer": "1992%20Ford%20Explorer%20XLT",
+        "incorrect_answers": [
+          "1992%20Toyota%20Land%20Cruiser",
+          "1992%20Jeep%20Wrangler%20YJ%20Sahar",
+          "Mercedes%20M-Class"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20is%20the%20director%20of%20the%201991%20film%20%22Silence%20of%20the%20Lambs%22%3F",
+        "correct_answer": "Jonathan%20Demme",
+        "incorrect_answers": [
+          "Stanley%20Kubrick",
+          "Frank%20Darabont",
+          "Michael%20Bay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actress%20danced%20the%20twist%20with%20John%20Travolta%20in%20%27Pulp%20Fiction%27%3F",
+        "correct_answer": "Uma%20Thurman",
+        "incorrect_answers": [
+          "Kathy%20Griffin",
+          "Pam%20Grier",
+          "Bridget%20Fonda"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "George%20Lucas%20directed%20the%20entire%20original%20Star%20Wars%20trilogy.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20Batman%20villain%20is%20Mark%20Hamill%20known%20for%20having%20voiced%3F",
+        "correct_answer": "The%20Joker",
+        "incorrect_answers": [
+          "Two-Face",
+          "Bane",
+          "Hush"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Johnny%20Depp%20made%20his%20big-screen%20acting%20debut%20in%20which%20film%3F",
+        "correct_answer": "A%20Nightmare%20on%20Elm%20Street",
+        "incorrect_answers": [
+          "My%20Bloody%20Valentine",
+          "Halloween",
+          "Friday%20the%2013th"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20island%20that%20%22Jurassic%20Park%22%20is%20built%20on%3F",
+        "correct_answer": "Isla%20Nublar",
+        "incorrect_answers": [
+          "Isla%20Sorna",
+          "Isla%20Muerta",
+          "Isla%20Pena"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20Marilyn%20Monroe%60s%20character%27s%20first%20name%20in%20the%20film%20%22Some%20Like%20It%20Hot%22%3F",
+        "correct_answer": "Sugar",
+        "incorrect_answers": [
+          "Honey",
+          "Caramel",
+          "Candy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20first%20%22Star%20Wars%22%20film%20by%20release%20order%3F",
+        "correct_answer": "A%20New%20Hope",
+        "incorrect_answers": [
+          "The%20Phantom%20Menace",
+          "The%20Force%20Awakens",
+          "Revenge%20of%20the%20Sith"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201995%20film%20%22Balto%22%2C%20who%20are%20Steele%27s%20accomplices%3F",
+        "correct_answer": "Kaltag%2C%20Nikki%2C%20and%20Star",
+        "incorrect_answers": [
+          "Dusty%2C%20Kirby%2C%20and%20Ralph",
+          "Nuk%2C%20Yak%2C%20and%20Sumac",
+          "Jenna%2C%20Sylvie%2C%20and%20Dixie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20Disney%20classics%20was%20released%20in%201970%3F",
+        "correct_answer": "The%20Aristocats",
+        "incorrect_answers": [
+          "One%20Hundred%20and%20One%20Dalmatians",
+          "The%20Fox%20and%20the%20Hound",
+          "The%20Little%20Mermaid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20last%20Marx%20Brothers%20film%20to%20feature%20Zeppo%3F",
+        "correct_answer": "Duck%20Soup",
+        "incorrect_answers": [
+          "A%20Night%20at%20the%20Opera",
+          "A%20Day%20at%20the%20Races",
+          "Monkey%20Business"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20Finding%20Nemo%2C%20what%20was%20the%20name%20of%20Nemo%27s%20mom%3F",
+        "correct_answer": "Coral",
+        "incorrect_answers": [
+          "Sandy",
+          "Pearl",
+          "Shelly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%201996%20film%20%27Fargo%27%20is%20primarily%20set%20in%20which%20US%20state%3F",
+        "correct_answer": "Minnesota",
+        "incorrect_answers": [
+          "North%20Dakota",
+          "South%20Dakota",
+          "Wisconsin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20Lilo%27s%20last%20name%20from%20Lilo%20and%20Stitch%3F",
+        "correct_answer": "Pelekai",
+        "incorrect_answers": [
+          "Anoa%CA%BBi",
+          "Kealoha",
+          "Ku%CA%BBulei"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20movies%20is%20NOT%20considered%20to%20be%20part%20of%20the%20Marvel%20Cinematic%20Universe%3F",
+        "correct_answer": "Fantastic%20Four%20%282015%29",
+        "incorrect_answers": [
+          "%20Spider-Man%3A%20Homecoming%20%282017%29",
+          "The%20Incredible%20Hulk%20%282008%29",
+          "Captain%20Marvel%20%282019%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20first%20feature-length%20computer-animated%20movie%3F",
+        "correct_answer": "Toy%20Story",
+        "incorrect_answers": [
+          "Tron",
+          "Lion%20king",
+          "101%20Dalmatians"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20famous%20singer%20was%20portrayed%20by%20actor%20Kevin%20Spacey%20in%20the%202004%20biographical%20film%20%22Beyond%20the%20Sea%22%3F",
+        "correct_answer": "Bobby%20Darin",
+        "incorrect_answers": [
+          "Louis%20Armstrong",
+          "Frank%20Sinatra",
+          "Dean%20Martin"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Samuel%20L.%20Jackson%20had%20the%20words%2C%20%27Bad%20Motherf%2Acker%27%20in-scripted%20on%20his%20lightsaber%20during%20the%20filming%20of%20Star%20Wars.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20one%20of%20these%20actors%20is%20said%20to%20be%20cut%20from%20the%20film%20%27E.T.%20the%20Extra-Terrestrial%27%3F",
+        "correct_answer": "Harrison%20Ford",
+        "incorrect_answers": [
+          "Michael%20J.%20Fox",
+          "Andy%20Kaufman",
+          "Arnold%20Schwarzenegger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20orange%20and%20white%20bot%27s%20name%20in%20%22Star%20Wars%3A%20The%20Force%20Awakens%22%3F",
+        "correct_answer": "BB-8",
+        "incorrect_answers": [
+          "BB-3",
+          "AA-A",
+          "R2-D2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20Bruce%20Campbell%27s%20iconic%20one-liner%20after%20getting%20a%20chainsaw%20hand%20in%20Evil%20Dead%202%3F",
+        "correct_answer": "Groovy.",
+        "incorrect_answers": [
+          "Gnarly.",
+          "Perfect.",
+          "Nice."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "After%20India%2C%20which%20country%20produces%20the%20second%20most%20movies%20per%20year%3F",
+        "correct_answer": "Nigeria",
+        "incorrect_answers": [
+          "United%20States",
+          "China",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%202012%2C%20which%20movie%20won%20every%20category%20in%20the%2032nd%20%22Golden%20Raspberry%20Awards%22%3F",
+        "correct_answer": "Jack%20and%20Jill",
+        "incorrect_answers": [
+          "The%20Girl%20with%20the%20Dragon%20Tattoo",
+          "Thor",
+          "The%20King%27s%20Speech"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20what%20Disney%20movie%20can%20you%20spot%20the%20character%20%22Pac-Man%22%20in%20if%20you%20look%20closely%20enough%20in%20some%20scenes%3F",
+        "correct_answer": "Tron",
+        "incorrect_answers": [
+          "Big%20Hero%206",
+          "Fantasia",
+          "Monsters%2C%20Inc."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Sean%20Connery%20wasn%27t%20in%20%22Indiana%20Jones%20and%20the%20Kingdom%20of%20the%20Crystal%20Skull%22%20because%20he%20found%20retirement%20too%20enjoyable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20retired%20American%20football%20quarterback%20played%20himself%20in%20%27Ace%20Ventura%3A%20Pet%20Detective%27%20and%20%27Little%20Nicky%27%3F",
+        "correct_answer": "Dan%20Marino",
+        "incorrect_answers": [
+          "John%20Elway",
+          "Tom%20Brady",
+          "Joe%20Montana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20boxer%20was%20famous%20for%20striking%20the%20gong%20in%20the%20introduction%20to%20J.%20Arthur%20Rank%20films%3F",
+        "correct_answer": "Bombardier%20Billy%20Wells",
+        "incorrect_answers": [
+          "Freddie%20Mills",
+          "Terry%20Spinks",
+          "Don%20Cockell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20iconic%20character%20is%20featured%20in%20movies%20such%20as%20%22The%20Enforcer%22%2C%20%22Sudden%20Impact%22%2C%20and%20%22The%20Dead%20Pool%22%3F",
+        "correct_answer": "Dirty%20Harry",
+        "incorrect_answers": [
+          "Indiana%20Jones",
+          "James%20Bond",
+          "Harry%20Potter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20queen%27s%20pet%20in%20A%20Bug%27s%20Life%3F",
+        "correct_answer": "Aphie",
+        "incorrect_answers": [
+          "Flik",
+          "Hopper",
+          "Dot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20musical%20artist%20had%20a%20prominent%20role%20in%20the%202017%20film%20%22Kingsman%3A%20The%20Golden%20Circle%22%3F",
+        "correct_answer": "Elton%20John",
+        "incorrect_answers": [
+          "Lady%20Gaga",
+          "Rihanna",
+          "Justin%20Bieber"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20robot%20in%20the%201951%20science%20fiction%20film%20classic%20%27The%20Day%20the%20Earth%20Stood%20Still%27%3F",
+        "correct_answer": "Gort",
+        "incorrect_answers": [
+          "Robby",
+          "Colossus",
+          "Box"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%20Queen%20song%20%60A%20Kind%20Of%20Magic%60%20is%20featured%20in%20which%201986%20film%3F",
+        "correct_answer": "Highlander",
+        "incorrect_answers": [
+          "Flash%20Gordon",
+          "Labyrinth",
+          "Howard%20the%20Duck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20plays%20the%20Nemesis%20in%20the%20Resident%20Evil%20movies%3F",
+        "correct_answer": "Matthew%20Taylor",
+        "incorrect_answers": [
+          "Jason%20Dip",
+          "Eric%20Mabius",
+          "Jimmy%20Matts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20%22Mean%20Girls%22%2C%20who%20has%20breasts%20that%20tell%20when%20it%27s%20raining%3F",
+        "correct_answer": "Karen%20Smith",
+        "incorrect_answers": [
+          "Gretchen%20Weiners",
+          "Janice%20Ian",
+          "Cady%20Heron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20is%20the%20protagonist%20of%20the%202002%20film%20%22Kung%20Pow%21%20Enter%20the%20Fist%22%3F",
+        "correct_answer": "Chosen%20One",
+        "incorrect_answers": [
+          "Dragon%20King",
+          "Iron%20Monkey",
+          "Master%20Tang"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20%22Jurassic%20Park%22%20universe%2C%20what%20is%20the%20name%20of%20the%20island%20that%20contains%20InGen%27s%20Site%20B%3F",
+        "correct_answer": "Isla%20Sorna",
+        "incorrect_answers": [
+          "Isla%20Nublar",
+          "Isla%20Pena",
+          "Isla%20Muerta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20film%20%22Harry%20Potter%20and%20the%20Order%20of%20The%20Phoenix%22%2C%20why%20was%20Harry%20Potter%27s%20scream%2C%20after%20Sirius%20Black%20died%2C%20muted%3F",
+        "correct_answer": "Too%20Agonizing",
+        "incorrect_answers": [
+          "Too%20Loud",
+          "Too%20Harsh",
+          "Too%20Violent"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "YouTube%20personality%20Jenna%20Marbles%20served%20as%20an%20executive%20producer%20of%20the%20film%20Maximum%20Ride%20%282016%29.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20starred%20as%20Bruce%20Wayne%20and%20Batman%20in%20Tim%20Burton%27s%201989%20movie%20%22Batman%22%3F",
+        "correct_answer": "Michael%20Keaton",
+        "incorrect_answers": [
+          "George%20Clooney",
+          "Val%20Kilmer",
+          "Adam%20West"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20film%20%22Requiem%20for%20a%20Dream%22%2C%20what%20drug%20does%20Jared%20Leto%27s%20character%20get%20addicted%20to%3F",
+        "correct_answer": "Heroin",
+        "incorrect_answers": [
+          "Cocaine",
+          "Marijuana",
+          "Oxycodone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201974%20Christmas%20flick%20%22The%20Year%20Without%20a%20Santa%20Claus%2C%22%20what%20are%20the%20names%20of%20the%20two%20elves%20who%20help%20Mrs.%20Claus%20save%20Christmas%3F",
+        "correct_answer": "Jingle%20%26%20Jangle",
+        "incorrect_answers": [
+          "Buddy%20%26%20Bobby",
+          "Holly%20%26%20Jolly",
+          "Snowflake%20%26%20Icicle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20in%20Pulp%20Fiction%20says%20%22No%2C%20they%20got%20the%20metric%20system%20there%2C%20they%20wouldn%27t%20know%20what%20the%20f%2A%2A%2A%20a%20Quarter%20Pounder%20is.%22",
+        "correct_answer": "Vincent%20Vega",
+        "incorrect_answers": [
+          "Jules%20Winnfield",
+          "Jimmie%20Dimmick",
+          "Butch%20Coolidge"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "%22Minions%22%20was%20released%20on%20the%20June%2010th%2C%202015.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20movies%20did%20Jeff%20Bridges%20not%20star%20in%3F",
+        "correct_answer": "The%20Hateful%20Eight",
+        "incorrect_answers": [
+          "Tron%3A%20Legacy",
+          "The%20Giver",
+          "True%20Grit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Velma%20Kelly%20and%20Roxie%20Hart%20are%20the%20protagonists%20of%20which%20Oscar%20winning%20movie%3F",
+        "correct_answer": "Chicago",
+        "incorrect_answers": [
+          "Dreamgirls",
+          "Cabaret",
+          "All%20That%20Jazz"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "category_id": 18,
+  "fetched_at": "2026-10-06T10:03:17.649773+00:00",
+  "request": {
+    "amount": 50,
+    "category": 18,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20programming%20language%20shares%20its%20name%20with%20an%20island%20in%20Indonesia%3F",
+        "correct_answer": "Java",
+        "incorrect_answers": [
+          "Python",
+          "C",
+          "Jakarta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20SQL%20keyword%20is%20used%20to%20fetch%20data%20from%20a%20database%3F",
+        "correct_answer": "SELECT",
+        "incorrect_answers": [
+          "INDEX",
+          "VALUES",
+          "EXEC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20%22MP%22%20stand%20for%20in%20MP3%3F",
+        "correct_answer": "Moving%20Picture",
+        "incorrect_answers": [
+          "Music%20Player",
+          "Multi%20Pass",
+          "Micro%20Point"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "%22Windows%20NT%22%20is%20a%20monolithic%20kernel.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20commonly%20used%20keyboard%20shortcut%20for%20the%20%27Copy%27%20function%20on%20Windows%20OS%3F",
+        "correct_answer": "Ctrl%20%2B%20C",
+        "incorrect_answers": [
+          "Ctrl%20%2B%20X",
+          "Alt%20%2B%20C",
+          "Alt%20%2B%20X"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "It%27s%20not%20possible%20to%20format%20a%20write-protected%20DVD-R%20Hard%20Disk.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20bits%20make%20up%20the%20significand%20portion%20of%20a%20single%20precision%20floating%20point%20number%3F",
+        "correct_answer": "23",
+        "incorrect_answers": [
+          "8",
+          "53",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20bytes%20are%20in%20a%20single%20Kibibyte%3F",
+        "correct_answer": "1024",
+        "incorrect_answers": [
+          "2400",
+          "1000",
+          "1240"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20name%20given%20to%20layer%204%20of%20the%20Open%20Systems%20Interconnection%20%28ISO%29%20model%3F",
+        "correct_answer": "Transport",
+        "incorrect_answers": [
+          "Session",
+          "Data%20link",
+          "Network"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20programming%2C%20the%20ternary%20operator%20is%20mostly%20defined%20with%20what%20symbol%28s%29%3F",
+        "correct_answer": "%3F%3A",
+        "incorrect_answers": [
+          "%3F%3F",
+          "if%20then",
+          "%3F"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "On%20Twitter%2C%20what%20was%20the%20original%20character%20limit%20for%20a%20Tweet%3F",
+        "correct_answer": "140",
+        "incorrect_answers": [
+          "120",
+          "160",
+          "100"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20Windows%20OS%20was%20delevoped%20by%20which%20company%3F",
+        "correct_answer": "Microsoft",
+        "incorrect_answers": [
+          "Apple",
+          "Nokia",
+          "IBM"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20first%20dual-core%20CPU%20was%20the%20Intel%20Pentium%20D.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20common%20software-programming%20acronym%20%22I18N%22%20comes%20from%20the%20term%20%22Interlocalization%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20first%20commerically%20available%20computer%20processor%3F",
+        "correct_answer": "Intel%204004",
+        "incorrect_answers": [
+          "Intel%20486SX",
+          "TMS%201000",
+          "AMD%20AM386"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20Prt%20Sc%20button%20do%3F",
+        "correct_answer": "Captures%20what%27s%20on%20the%20screen%20and%20copies%20it%20to%20your%20clipboard",
+        "incorrect_answers": [
+          "Nothing",
+          "Saves%20a%20.png%20file%20of%20what%27s%20on%20the%20screen%20in%20your%20screenshots%20folder%20in%20photos",
+          "Closes%20all%20windows"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20the%20following%20is%20the%20oldest%20of%20these%20computers%20by%20release%20date%3F",
+        "correct_answer": "TRS-80",
+        "incorrect_answers": [
+          "Commodore%2064",
+          "ZX%20Spectrum",
+          "Apple%203"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "CMOS%20is%20tech%20used%20for%20constructing%20integrated%20circuits.%20What%20does%20CMOS%20stand%20for%3F",
+        "correct_answer": "Complementary%20metal%E2%80%93oxide%E2%80%93semiconductor",
+        "incorrect_answers": [
+          "Complementary%20magnetic-ohms-semiconductor",
+          "Computer-made%20operating%20system",
+          "Computer-made%20oscillating%20static"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20name%20of%20Layer%207%20of%20the%20OSI%20model%3F",
+        "correct_answer": "Application",
+        "incorrect_answers": [
+          "Session",
+          "Network",
+          "Present"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20logo%20for%20Snapchat%20is%20a%20Bell.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20term%20GPU%20stand%20for%3F",
+        "correct_answer": "Graphics%20Processing%20Unit",
+        "incorrect_answers": [
+          "Gaming%20Processor%20Unit",
+          "Graphite%20Producing%20Unit",
+          "Graphical%20Proprietary%20Unit"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "To%20bypass%20US%20Munitions%20Export%20Laws%2C%20the%20creator%20of%20the%20PGP%20published%20all%20the%20source%20code%20in%20book%20form.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20LTS%20stand%20for%20in%20the%20software%20market%3F",
+        "correct_answer": "Long%20Term%20Support",
+        "incorrect_answers": [
+          "Long%20Taco%20Service",
+          "Ludicrous%20Transfer%20Speed",
+          "Ludicrous%20Turbo%20Speed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20data%20structure%20does%20FILO%20apply%20to%3F",
+        "correct_answer": "Stack",
+        "incorrect_answers": [
+          "Queue",
+          "Heap",
+          "Tree"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20correct%20term%20for%20the%20metal%20object%20in%20between%20the%20CPU%20and%20the%20CPU%20fan%20within%20a%20computer%20system%3F",
+        "correct_answer": "Heat%20Sink",
+        "incorrect_answers": [
+          "CPU%20Vent",
+          "Temperature%20Decipator",
+          "Heat%20Vent"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Android%20versions%20are%20named%20in%20alphabetical%20order.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20most%20preferred%20image%20format%20used%20for%20logos%20in%20the%20Wikimedia%20database%3F",
+        "correct_answer": ".svg",
+        "incorrect_answers": [
+          ".png",
+          ".jpeg",
+          ".gif"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20first%20computer%20bug%20was%20formed%20by%20faulty%20wires.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20values%20can%20a%20single%20byte%20represent%3F",
+        "correct_answer": "256",
+        "incorrect_answers": [
+          "8",
+          "1",
+          "1024"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20type%20of%20sound%20chip%20does%20the%20Super%20Nintendo%20Entertainment%20System%20%28SNES%29%20have%3F",
+        "correct_answer": "ADPCM%20Sampler",
+        "incorrect_answers": [
+          "FM%20Synthesizer",
+          "Programmable%20Sound%20Generator%20%28PSG%29",
+          "PCM%20Sampler"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20is%20not%20a%20key%20value%20of%20Agile%20software%20development%3F",
+        "correct_answer": "Comprehensive%20documentation",
+        "incorrect_answers": [
+          "Individuals%20and%20interactions",
+          "Customer%20collaboration",
+          "Responding%20to%20change"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20AD%20stand%20for%20in%20relation%20to%20Windows%20Operating%20Systems%3F%20",
+        "correct_answer": "Active%20Directory",
+        "incorrect_answers": [
+          "Alternative%20Drive",
+          "Automated%20Database",
+          "Active%20Department"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20computer%20software%20acronym%20JVM%20stand%20for%3F",
+        "correct_answer": "Java%20Virtual%20Machine",
+        "incorrect_answers": [
+          "Java%20Vendor%20Machine",
+          "Java%20Visual%20Machine",
+          "Just%20Virtual%20Machine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20computing%20terms%2C%20typically%20what%20does%20CLI%20stand%20for%3F",
+        "correct_answer": "Command%20Line%20Interface",
+        "incorrect_answers": [
+          "Common%20Language%20Input",
+          "Control%20Line%20Interface",
+          "Common%20Language%20Interface"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20five%20letter%20word%20is%20the%20motto%20of%20the%20IBM%20Computer%20company%3F",
+        "correct_answer": "Think",
+        "incorrect_answers": [
+          "Click",
+          "Logic",
+          "Pixel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Originally%20used%20in%20PCM%20adapters%2C%20what%20frequency%20is%20the%20standard%20for%20sampling%20audio%20in%20the%20Compact%20Disc%20Digital%20Audio%20format%3F",
+        "correct_answer": "44.1%20kHz",
+        "incorrect_answers": [
+          "32.0%20kHz",
+          "1.5%20MHz",
+          "20.5%20kHz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "On%20which%20day%20did%20the%20World%20Wide%20Web%20go%20online%3F",
+        "correct_answer": "December%2020%2C%201990",
+        "incorrect_answers": [
+          "December%2017%2C%201996",
+          "November%2012%2C%201990",
+          "November%2024%2C%201995"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Time%20on%20Computers%20is%20measured%20via%20the%20EPOX%20System.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20name%20of%20the%20image%20that%20features%20as%20the%20default%20background%20wallpaper%20for%20Windows%20XP%3F",
+        "correct_answer": "Bliss",
+        "incorrect_answers": [
+          "Azul",
+          "Red%20moon%20desert",
+          "Tulips"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Australia%2C%20Japan%2C%20and%20Southeast%20Asia%20are%20in%20which%20ITU%20Region%3F",
+        "correct_answer": "Region%203",
+        "incorrect_answers": [
+          "Region%201",
+          "Region%202",
+          "Region%204"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "When%20did%20the%20online%20streaming%20service%20%22Mixer%22%20launch%3F",
+        "correct_answer": "2016",
+        "incorrect_answers": [
+          "2013",
+          "2009",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20computer%20hardware%20device%20provides%20an%20interface%20for%20all%20other%20connected%20devices%20to%20communicate%3F",
+        "correct_answer": "Motherboard",
+        "incorrect_answers": [
+          "Central%20Processing%20Unit",
+          "Hard%20Disk%20Drive",
+          "Random%20Access%20Memory"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20computing%2C%20what%20does%20MIDI%20stand%20for%3F",
+        "correct_answer": "Musical%20Instrument%20Digital%20Interface",
+        "incorrect_answers": [
+          "Musical%20Interface%20of%20Digital%20Instruments",
+          "Modular%20Interface%20of%20Digital%20Instruments",
+          "Musical%20Instrument%20Data%20Interface"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20name%20of%20the%20process%20that%20sends%20one%20qubit%20of%20information%20using%20two%20bits%20of%20classical%20information%3F",
+        "correct_answer": "Quantum%20Teleportation",
+        "incorrect_answers": [
+          "Super%20Dense%20Coding",
+          "Quantum%20Entanglement",
+          "Quantum%20Programming"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "A%20Mac%20is%20not%20a%20PC",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20International%20System%20of%20Quantities%20refer%201024%20bytes%20as%3F",
+        "correct_answer": "Kibibyte",
+        "incorrect_answers": [
+          "Kylobyte",
+          "Kilobyte",
+          "Kelobyte"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "When%20Gmail%20first%20launched%2C%20how%20much%20storage%20did%20it%20provide%20for%20your%20email%3F",
+        "correct_answer": "1GB",
+        "incorrect_answers": [
+          "512MB",
+          "5GB",
+          "Unlimited"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20very%20first%20recorded%20computer%20%22bug%22%20was%20a%20moth%20found%20inside%20a%20Harvard%20Mark%20II%20computer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20%22Hexadecimal%22%2C%20what%20color%20would%20be%20displayed%20from%20the%20color%20code%3F%20%22%2300FF00%22%3F",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20web%20design%2C%20what%20does%20CSS%20stand%20for%3F",
+        "correct_answer": "Cascading%20Style%20Sheet",
+        "incorrect_answers": [
+          "Counter%20Strike%3A%20Source",
+          "Corrective%20Style%20Sheet",
+          "Computer%20Style%20Sheet"
+        ]
+      }
+    ]
+  }
+}

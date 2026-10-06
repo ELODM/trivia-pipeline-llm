@@ -1,0 +1,50 @@
+{
+  "category_id": 26,
+  "fetched_at": "2026-10-06T10:07:39.089270+00:00",
+  "request": {
+    "amount": 3,
+    "category": 26,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Neil%20Hamburger%20is%20played%20by%20which%20comedian%3F",
+        "correct_answer": "Gregg%20Turkington",
+        "incorrect_answers": [
+          "Nathan%20Fielder",
+          "Tim%20Heidecker",
+          "Todd%20Glass"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "What%20does%20film%20maker%20Dan%20Bell%20typically%20focus%20his%20films%20on%3F",
+        "correct_answer": "Abandoned%20Buildings%20and%20Dead%20Malls",
+        "incorrect_answers": [
+          "Historic%20Landmarks",
+          "Action%20Films",
+          "Documentaries%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Celebrities",
+        "question": "Aubrey%20Graham%20is%20better%20known%20as",
+        "correct_answer": "Drake",
+        "incorrect_answers": [
+          "Travis%20Scott",
+          "Lil%20Wayne",
+          "2%20Chainz"
+        ]
+      }
+    ]
+  }
+}

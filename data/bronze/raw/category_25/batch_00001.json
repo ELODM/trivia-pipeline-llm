@@ -1,0 +1,598 @@
+{
+  "category_id": 25,
+  "fetched_at": "2026-10-06T10:07:23.795468+00:00",
+  "request": {
+    "amount": 50,
+    "category": 25,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "When%20was%20Salvador%20Dali%27s%20painting%2C%20%22The%20Persistence%20of%20Memory%2C%22%20completed%3F",
+        "correct_answer": "1931",
+        "incorrect_answers": [
+          "1932",
+          "1929",
+          "1934"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Who%20painted%20%22American%20Gothic%22%3F",
+        "correct_answer": "Grant%20Wood",
+        "incorrect_answers": [
+          "Anita%20Malfatti",
+          "Pablo%20Picasso",
+          "Marc%20Chagall"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which%20artist%20painted%20the%20late%2015th%20century%20mural%20%27The%20Last%20Supper%27%3F",
+        "correct_answer": "Leonardo%20da%20Vinci",
+        "incorrect_answers": [
+          "Piero%20della%20Francesca",
+          "Paolo%20Uccello",
+          "Luca%20Pacioli"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What%20is%20the%20name%20of%20the%20Japanese%20art%20of%20folding%20paper%20into%20decorative%20shapes%20and%20figures%3F",
+        "correct_answer": "Origami",
+        "incorrect_answers": [
+          "Sumi-e",
+          "Ukiyo-e",
+          "Haiku"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who%20painted%20%22The%20Scream%22%3F",
+        "correct_answer": "Edvard%20Munch",
+        "incorrect_answers": [
+          "Vincent%20Van%20Gogh",
+          "Picasso",
+          "Henri%20Matisse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20French%20sculptor%20designed%20the%20Statue%20of%20Liberty%3F%20",
+        "correct_answer": "Fr%C3%A9d%C3%A9ric%20Auguste%20Bartholdi",
+        "incorrect_answers": [
+          "Jean-L%C3%A9on%20G%C3%A9r%C3%B4me",
+          "Auguste%20Rodin",
+          "Henri%20Matisse"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Leonardo%20da%20Vinci%20was%20not%20the%20creator%20of%20the%20Mona%20Lisa.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20The%20Starry%20Night%3F",
+        "correct_answer": "Vincent%20van%20Gogh",
+        "incorrect_answers": [
+          "Pablo%20Picasso",
+          "Leonardo%20da%20Vinci",
+          "Michelangelo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The%20painting%20%22Guernica%22%20by%20Pablo%20Picasso%20expressed%20emotions%20of%20dread%20in%20response%20to%20which%20war%3F",
+        "correct_answer": "Spanish%20Civil%20War",
+        "incorrect_answers": [
+          "World%20War%20I",
+          "The%20Crimean%20War",
+          "Spanish-American%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "%20What%20color%20is%20produced%20by%20mixing%20black%20and%20white%3F",
+        "correct_answer": "Grey",
+        "incorrect_answers": [
+          "Black",
+          "Brown",
+          "White"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20sculpted%20the%20statue%20of%20David%3F",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+          "Gian%20Lorenzo%20Bernini",
+          "Auguste%20Rodin",
+          "Donatello"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20the%20Sistine%20Chapel%3F",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+          "Leonardo%20da%20Vinci",
+          "Pablo%20Picasso",
+          "Raphael"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "A%20typical%20trait%20of%20the%20Expressionist%20art%20movement%20is%20to%20distort%20the%20world%20radically%20for%20emotional%20effect.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20artist%27s%20style%20was%20to%20use%20small%20different%20colored%20dots%20to%20create%20a%20picture%3F",
+        "correct_answer": "Georges%20Seurat",
+        "incorrect_answers": [
+          "Paul%20C%C3%A9zanne",
+          "Vincent%20Van%20Gogh",
+          "Henri%20Rousseau"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20nationality%20was%20the%20famous%20artist%20Pablo%20Picasso%3F",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+          "French",
+          "Italian",
+          "German"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20the%20biblical%20fresco%20The%20Creation%20of%20Adam%3F",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+          "Leonardo%20da%20Vinci",
+          "Caravaggio",
+          "Rembrandt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "What%20were%20Marcel%20Duchamp%27s%20readymades%3F",
+        "correct_answer": "utilitarian%20objects%20elevated%20to%20the%20status%20of%20art",
+        "incorrect_answers": [
+          "a%20series%20focused%20on%20color%20and%20light%20as%20opposed%20to%20line%20and%20shape",
+          "paintings%20with%20a%20barely%20visible%20outlined%20square",
+          "a%20group%20of%20identical%20steel%20boxes%20jutting%20from%20the%20wall%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20was%20the%20first%20successful%20and%20commercially%20viable%20photographic%20technique%3F",
+        "correct_answer": "The%20Daguerreotype",
+        "incorrect_answers": [
+          "Collodion%20process",
+          "The%20Turin%20Shroud",
+          "Kodachrome%20film"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which%20painting%20was%20not%20made%20by%20Vincent%20Van%20Gogh%3F",
+        "correct_answer": "The%20Ninth%20Wave",
+        "incorrect_answers": [
+          "Caf%C3%A9%20Terrace%20at%20Night",
+          "Bedroom%20In%20Arles",
+          "Starry%20Night"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20time%20signature%20is%20commonly%20known%20as%20%E2%80%9CCut%20Time%3F%E2%80%9D",
+        "correct_answer": "2%2F2",
+        "incorrect_answers": [
+          "4%2F4",
+          "6%2F8",
+          "3%2F4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20of%20these%20paintings%20did%20Johannes%20Vermeer%20not%20paint%3F",
+        "correct_answer": "Bacchus",
+        "incorrect_answers": [
+          "Girl%20with%20a%20Pearl%20Earring",
+          "The%20Milkmaid",
+          "The%20Lacemaker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which%20artist%20is%20famous%20for%20cutting%20off%20his%20ear%3F",
+        "correct_answer": "Vincent%20van%20Gogh",
+        "incorrect_answers": [
+          "Salvador%20Dali",
+          "Rembrandt",
+          "Michelangelo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What%20is%20a%20fundamental%20element%20of%20the%20Gothic%20style%20of%20architecture%3F",
+        "correct_answer": "pointed%20arch",
+        "incorrect_answers": [
+          "coffered%20ceilings",
+          "fa%C3%A7ades%20surmounted%20by%20a%20pediment%20",
+          "internal%20frescoes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who%20designed%20the%20Chupa%20Chups%20logo%3F",
+        "correct_answer": "Salvador%20Dali",
+        "incorrect_answers": [
+          "Pablo%20Picasso",
+          "Andy%20Warhol",
+          "Vincent%20van%20Gogh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Who%20painted%20the%20epic%20mural%20Guernica%3F",
+        "correct_answer": "Pablo%20Picasso",
+        "incorrect_answers": [
+          "Francisco%20Goya",
+          "Leonardo%20da%20Vinci",
+          "Henri%20Matisse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Which%20art%20movement%20was%20Pablo%20Picasso%20known%20for%20co-founding%3F",
+        "correct_answer": "Cubism",
+        "incorrect_answers": [
+          "Futurism",
+          "Expressionism",
+          "Impressionism"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Which%20Van%20Gogh%20painting%20depicts%20the%20view%20from%20his%20asylum%20in%20Saint-R%C3%A9my-de-Provence%20in%20southern%20France%3F",
+        "correct_answer": "The%20Starry%20Night",
+        "incorrect_answers": [
+          "Wheatfields%20with%20Crows",
+          "The%20Sower%20with%20Setting%20Sun",
+          "The%20Church%20at%20Auvers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20year%20was%20the%20Mona%20Lisa%20finished%3F",
+        "correct_answer": "1504",
+        "incorrect_answers": [
+          "1487",
+          "1523",
+          "1511"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The%20name%20%22Impressionsim%22%20was%20first%20given%20to%20that%20art%20movement%20by%20a%20critic%27s%20satirical%20review%20of%20a%20Monet%20painting.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20%22The%20Starry%20Night%22%3F",
+        "correct_answer": "Vincent%20van%20Gogh",
+        "incorrect_answers": [
+          "Edvard%20Munch",
+          "Pablo%20Picasso",
+          "Claude%20Monet"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Pablo%20Picasso%20is%20one%20of%20the%20founding%20fathers%20of%20%22Cubism.%22",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20nationality%20was%20the%20famous%20artist%20Van%20Gogh%3F",
+        "correct_answer": "Dutch",
+        "incorrect_answers": [
+          "French",
+          "Russian",
+          "Polish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20of%20these%20are%20the%20name%20of%20a%20famous%20marker%20brand%3F",
+        "correct_answer": "Copic",
+        "incorrect_answers": [
+          "Dopix",
+          "Cofix",
+          "Marx"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Which%20of%20these%20is%20not%20an%20additional%20variation%20of%20the%20color%20purple%3F",
+        "correct_answer": "Kobicha",
+        "incorrect_answers": [
+          "Byzantium",
+          "Pomp%20and%20Power",
+          "Palatinate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20the%20Mona%20Lisa%3F",
+        "correct_answer": "Leonardo%20da%20Vinci",
+        "incorrect_answers": [
+          "Pablo%20Picasso",
+          "Claude%20Monet",
+          "Vincent%20van%20Gogh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20%22Swans%20Reflecting%20Elephants%22%2C%20%22Sleep%22%2C%20and%20%22The%20Persistence%20of%20Memory%22%3F",
+        "correct_answer": "Salvador%20Dali",
+        "incorrect_answers": [
+          "Jackson%20Pollock",
+          "Vincent%20van%20Gogh",
+          "Edgar%20Degas"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Ancient%20Greek%20and%20Roman%20sculptors%20often%20colored%20their%20statues.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20artist%E2%80%99s%20studio%20was%20known%20as%20%27The%20Factory%27%3F",
+        "correct_answer": "Andy%20Warhol",
+        "incorrect_answers": [
+          "Roy%20Lichtenstein",
+          "David%20Hockney",
+          "Peter%20Blake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Paul%20Gauguin%20moved%20to%20which%20country%20in%201895%3F",
+        "correct_answer": "Tahiti",
+        "incorrect_answers": [
+          "France",
+          "Atuona",
+          "Lithuania"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Vincent%20van%20Gogh%20cut%20off%20one%20of%20his%20ears.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Leonardo%20da%20Vinci%27s%20Mona%20Lisa%20does%20not%20have%20eyebrows.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "The%20Statue%20of%20Liberty%27s%20official%20name%20is%20%E2%80%9CLiberty%20Enlightening%20the%20World%E2%80%9D.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "Painter%20Piet%20Mondrian%20%281872%20-%201944%29%20was%20a%20part%20of%20what%20movement%3F",
+        "correct_answer": "Neoplasticism",
+        "incorrect_answers": [
+          "Precisionism",
+          "Cubism",
+          "Impressionism"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "Who%20painted%20the%20Mona%20Lisa%3F",
+        "correct_answer": "Leonardo%20da%20Vinci%20",
+        "incorrect_answers": [
+          "Pablo%20Picasso",
+          "%20Vincent%20van%20Gogh",
+          "Michelangelo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20one%20of%20these%20paintings%20is%20not%20by%20Caspar%20David%20Friedrich%3F",
+        "correct_answer": "The%20Black%20Sea",
+        "incorrect_answers": [
+          "The%20Sea%20of%20Ice",
+          "Wanderer%20above%20the%20Sea%20of%20Fog",
+          "The%20Monk%20by%20the%20Sea"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What%20is%20another%20name%20for%20La%20Gioconda%20%2F%20La%20Joconde%3F",
+        "correct_answer": "The%20Mona%20Lisa",
+        "incorrect_answers": [
+          "The%20Girl%20with%20a%20Pearl%20Earring",
+          "The%20Starry%20Night",
+          "Sunflowers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Art",
+        "question": "What%20is%20the%20world%27s%20oldest%20known%20piece%20of%20fiction%3F",
+        "correct_answer": "Epic%20of%20Gilgamesh",
+        "incorrect_answers": [
+          "Papyrus%20of%20Ani",
+          "Code%20of%20Hammurabi",
+          "Rosetta%20Stone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Art",
+        "question": "What%20was%20the%20major%20distinction%20between%20the%20English%20and%20French%20Gothic%20styles%20of%20architecture%3F",
+        "correct_answer": "Fan%20vaulting",
+        "incorrect_answers": [
+          "Pinnacles",
+          "Gargoyles",
+          "Hemispherical%20Domes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20artist%20painted%20%E2%80%9CThe%20Treachery%20of%20Images%2C%E2%80%9D%20a%20painting%20of%20a%20pipe%20with%20the%20description%20%22this%20is%20not%20a%20pipe%22%3F",
+        "correct_answer": "Magritte",
+        "incorrect_answers": [
+          "Matisse",
+          "Modigliani",
+          "Munch%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Art",
+        "question": "Which%20one%20of%20these%20colors%20are%20not%20featured%20in%20Mondrian%27s%20Broadway%20Boogie-Woogie%3F",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Blue",
+          "Yellow",
+          "Red"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:49.687197+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Africa%20is%20a%20country.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20countries%20share%20a%20land%20border%20with%20Luxembourg%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "4",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20Mediterranian%20islands%20is%20under%20the%20sovereign%20rule%20of%20France%3F",
+        "correct_answer": "Corsica",
+        "incorrect_answers": [
+          "Majorca",
+          "Sardinia",
+          "Malta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Colchester%20Overpass%2C%20otherwise%20known%20as%20%22Bunny%20Man%20Bridge%22%2C%20is%20located%20where%3F",
+        "correct_answer": "Fairfax%20County%2C%20Virginia",
+        "incorrect_answers": [
+          "Medford%2C%20Oregon",
+          "Braxton%20County%2C%20Virgina",
+          "Lemon%20Grove%2C%20California"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20official%20language%20of%20Bhutan%3F",
+        "correct_answer": "Dzongkha",
+        "incorrect_answers": [
+          "Ladakhi",
+          "Karen",
+          "Groma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where%20is%20the%20city%20of%20Haarlem%20located%3F",
+        "correct_answer": "The%20Netherlands",
+        "incorrect_answers": [
+          "Germany",
+          "United%20States",
+          "Switzerland"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Toronto%20is%20the%20capital%20city%20of%20the%20North%20American%20country%20of%20Canada.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20area%20of%20Eastern%20Europe%20is%20famous%20for%20its%20association%20with%20vampires%3F",
+        "correct_answer": "Transylvania",
+        "incorrect_answers": [
+          "Silesia",
+          "Macedonia",
+          "Slovakia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Santorini%20is%20an%20island%20belonging%20to%20what%20European%20Country%3F",
+        "correct_answer": "Greece",
+        "incorrect_answers": [
+          "Italy",
+          "Spain",
+          "Turkey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20Svalbard%20Archipelago%20is%20a%20dependency%20of%20which%20country%3F",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+          "Denmark",
+          "Iceland",
+          "Russia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "There%20is%20a%20city%20called%20Rome%20in%20every%20continent%20on%20Earth.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "%20What%20is%20the%20only%20nation%20that%20borders%20both%20Uruguay%20and%20Venezuela%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "Mexico",
+          "Chile",
+          "Panama"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20country%20is%20not%20a%20part%20of%20Scandinavia%3F",
+        "correct_answer": "Finland",
+        "incorrect_answers": [
+          "Norway",
+          "Sweden",
+          "Denmark"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20was%20the%20African%20nation%20of%20Zimbabwe%20formerly%20known%20as%3F",
+        "correct_answer": "Rhodesia",
+        "incorrect_answers": [
+          "Zambia",
+          "Mozambique",
+          "%20Bulawayo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "On%20which%20continent%2Fs%20is%20the%20entire%20country%20of%20Spain%20specifically%20located%20when%20taking%20into%20account%20all%20of%20its%20territory%3F",
+        "correct_answer": "Europe%20and%20Africa",
+        "incorrect_answers": [
+          "Europe%2C%20Africa%20and%20Asia",
+          "Europe",
+          "Europe%20and%20Asia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Argentina%27s%20name%20comes%20from%20the%20latin%20name%20for%20Silver.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Vatican%20City%2C%20the%20smallest%20country%20in%20the%20world%2C%20is%20fully%20enclosed%20by%20which%20country%3F",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+          "France",
+          "Spain",
+          "Germany"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20flag%20of%20Belarus%20has%20a%20red%20and%20white%20embroidery%20pattern%20on%20the%20hoist%20side.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20smallest%20country%20in%20South%20America%20by%20area%3F",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+          "Brazil",
+          "Uruguay",
+          "Chile"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20body%20of%20the%20Egyptian%20Sphinx%20was%20based%20on%20which%20animal%3F",
+        "correct_answer": "Lion",
+        "incorrect_answers": [
+          "Bull",
+          "Horse",
+          "Dog"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20is%20the%20longest%20river%20in%20Europe%3F",
+        "correct_answer": "Volga",
+        "incorrect_answers": [
+          "Danube",
+          "Ural",
+          "Dnieper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20Finnish%20word%20for%20%22Finland%22%3F",
+        "correct_answer": "Suomi",
+        "incorrect_answers": [
+          "Eesti",
+          "Magyarorsz%C3%A1g",
+          "Sverige"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Lithuania%3F",
+        "correct_answer": "Vilnius",
+        "incorrect_answers": [
+          "Tallinn",
+          "Helsinki",
+          "Riga"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20northernmost%20human%20settlement%20with%20year%20round%20inhabitants%3F",
+        "correct_answer": "Alert%2C%20Canada",
+        "incorrect_answers": [
+          "Nagurskoye%2C%20Russia",
+          "McMurdo%20Station%2C%20Antarctica%20",
+          "Honningsv%C3%A5g%2C%20Norway"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20is%20not%20a%20country%20in%20Africa%3F",
+        "correct_answer": "Guyana",
+        "incorrect_answers": [
+          "Senegal",
+          "Liberia",
+          "Somalia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Ouagadougou%20is%20the%20capital%20of%20which%20African%20country%3F",
+        "correct_answer": "Burkina%20Faso",
+        "incorrect_answers": [
+          "Central%20African%20Republic",
+          "Senegal",
+          "Zambia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20is%20the%20largest%20city%20in%20Morocco%3F",
+        "correct_answer": "Casablanca",
+        "incorrect_answers": [
+          "Rabat",
+          "Fes",
+          "Sale"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20these%20places%20is%20a%20location%20in%20Cornwall%3F",
+        "correct_answer": "Barcelona",
+        "incorrect_answers": [
+          "Madrid",
+          "Alicante",
+          "Lisbon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In%20the%20Canadian%20province%20of%20Alberta%2C%20the%20city%20of%20Calgary%20is%20located%20further%20north%20than%20the%20city%20of%20Edmonton.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20Oceanian%20nation%20is%20known%20in%20M%C4%81ori%20as%20Aotearoa%3F",
+        "correct_answer": "New%20Zealand",
+        "incorrect_answers": [
+          "Australia",
+          "Solomon%20Islands",
+          "New%20Caledonia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20English%20county%20will%20you%20find%20the%20University%20of%20East%20Anglia%3F",
+        "correct_answer": "Norfolk",
+        "incorrect_answers": [
+          "Suffolk",
+          "Essex",
+          "Cambridgeshire"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20these%20African%20regions%20does%20%2Anot%2A%20directly%20border%20the%20Democratic%20Republic%20of%20The%20Congo%3F",
+        "correct_answer": "Sudan",
+        "incorrect_answers": [
+          "Central%20African%20Republic",
+          "Tanzania",
+          "Zambia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20is%20the%20ancient%20city%20of%20Petra%20located%3F",
+        "correct_answer": "Jordan",
+        "incorrect_answers": [
+          "Egypt",
+          "Israel",
+          "Italy"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Gothenburg%20is%20the%20capital%20of%20Sweden.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20Arab%20countries%20does%20NOT%20have%20a%20flag%20containing%20only%20Pan-Arab%20colours%3F",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+          "Kuwait",
+          "United%20Arab%20Emirates",
+          "Jordan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20are%20the%20four%20corner%20states%20of%20the%20US%3F",
+        "correct_answer": "Utah%2C%20Colorado%2C%20Arizona%2C%20New%20Mexico",
+        "incorrect_answers": [
+          "Oregon%2C%20Idaho%2C%20Nevada%2C%20Utah",
+          "Kansas%2C%20Oklahoma%2C%20Arkansas%2C%20Louisiana",
+          "South%20Dakota%2C%20Minnesota%2C%20Nebraska%2C%20Iowa"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "A%20group%20of%20islands%20is%20called%20an%20%27archipelago%27.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20country%20has%20three%20capital%20cities%3F",
+        "correct_answer": "South%20Africa",
+        "incorrect_answers": [
+          "Somalia",
+          "China",
+          "United%20Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20cities%20is%20NOT%20in%20England%3F",
+        "correct_answer": "Edinburgh",
+        "incorrect_answers": [
+          "Oxford",
+          "Manchester",
+          "Southampton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "All%20of%20the%20following%20countries%20have%20official%20claims%20to%20territory%20in%20Antartica%20EXCEPT%3A",
+        "correct_answer": "United%20States",
+        "incorrect_answers": [
+          "Australia",
+          "Chile",
+          "Norway"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20area%20of%20Vatican%20City%3F",
+        "correct_answer": "0.44km%5E2",
+        "incorrect_answers": [
+          "0.10km%5E2",
+          "0.86km%5E2",
+          "12.00km%5E2"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Tokyo%20is%20the%20capital%20of%20Japan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How%20many%20countries%20does%20Mexico%20border%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "2",
+          "4",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Finland%3F",
+        "correct_answer": "Helsinki",
+        "incorrect_answers": [
+          "Jabraltar",
+          "Macedonia",
+          "Oslo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where%20is%20Fort%20Marlborough%20located%3F",
+        "correct_answer": "Bengkulu",
+        "incorrect_answers": [
+          "Singapore",
+          "London",
+          "Dover"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20Canada%27s%20smallest%20province%3F",
+        "correct_answer": "Prince%20Edward%20Island",
+        "incorrect_answers": [
+          "New%20Brunswick",
+          "Nova%20Scotia",
+          "Yukon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20official%20language%20of%20Costa%20Rica%3F",
+        "correct_answer": "Spanish",
+        "incorrect_answers": [
+          "English",
+          "Portuguese",
+          "Creole"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20is%20a%20castle%3F",
+        "correct_answer": "Elizabeth%20Castle",
+        "incorrect_answers": [
+          "Frank%20Castle",
+          "Richard%20Castle",
+          "Olivia%20Castle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20rivers%20are%20in%20Saudi%20Arabia%3F",
+        "correct_answer": "0",
+        "incorrect_answers": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20country%20ranks%20first%20in%20the%20number%20of%20historically%20active%20volcanoes%3F",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+          "Japan",
+          "USA",
+          "India"
+        ]
+      }
+    ]
+  }
+}

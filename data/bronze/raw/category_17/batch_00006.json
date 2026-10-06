@@ -1,0 +1,590 @@
+{
+  "category_id": 17,
+  "fetched_at": "2026-10-06T10:03:12.990942+00:00",
+  "request": {
+    "amount": 49,
+    "category": 17,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Burning%20which%20of%20these%20metals%20will%20produce%20a%20bright%20white%20flame%3F",
+        "correct_answer": "Magnesium",
+        "incorrect_answers": [
+          "Copper",
+          "Lithium",
+          "Lead"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20mathematical%20formula%20of%20Ohm%27s%20law%3F",
+        "correct_answer": "V%20%3D%20I%2AR",
+        "incorrect_answers": [
+          "I%20%3D%20V%2AR",
+          "R%20%3D%20V%2AI",
+          "V%20%3D%20I%20%2F%20R"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "On%20which%20mission%20did%20the%20Space%20Shuttle%20Columbia%20break%20up%20upon%20re-entry%3F",
+        "correct_answer": "STS-107",
+        "incorrect_answers": [
+          "STS-51-L",
+          "STS-61-C",
+          "STS-109"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20animals%20belongs%20in%20class%20Chondrichthyes%3F",
+        "correct_answer": "Great%20white%20shark",
+        "incorrect_answers": [
+          "Octopus",
+          "Killer%20whale",
+          "Catfish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20chemical%20symbol%20for%20lead%3F",
+        "correct_answer": "Pb",
+        "incorrect_answers": [
+          "Ld",
+          "Le",
+          "Pm"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Centripetal%20force%20is%20an%20apparent%20force%20that%20acts%20outward%20on%20a%20body%20moving%20around%20a%20center%2C%20arising%20from%20the%20body%27s%20inertia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20much%20radiation%20does%20a%20banana%20emit%3F",
+        "correct_answer": "0.1%20Microsievert",
+        "incorrect_answers": [
+          "0.3%20Microsievert",
+          "0.5%20Microsievert",
+          "0.7%20Microsievert"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20is%20a%20semiconductor%20amplifying%20device%3F",
+        "correct_answer": "transistor",
+        "incorrect_answers": [
+          "tube",
+          "diode",
+          "P-N%20junction"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Doppler%20effect%20applies%20to%20light.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "At%20what%20depth%20should%20you%20make%20a%20decompression%20stop%2C%20or%20safety%20stop%2C%20on%20a%20typical%20scuba%20dive%3F",
+        "correct_answer": "15%20Feet%20%2F%205%20Meters",
+        "incorrect_answers": [
+          "25%20Feet%20%2F%207.5%20Meters",
+          "50%20Feet%20%2F%2015%20Meters",
+          "75%20Feet%20%2F%2023%20Meters"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20Chemistry%2C%20how%20many%20isomers%20does%20Butanol%20%28C4H9OH%29%20have%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20one%20of%20these%20scientists%20conducted%20the%20Gold%20Foil%20Experiment%20which%20concluded%20that%20atoms%20are%20mostly%20made%20of%20empty%20space%3F",
+        "correct_answer": "Ernest%20Rutherford",
+        "incorrect_answers": [
+          "Joseph%20John%20Thomson",
+          "Archimedes",
+          "Niels%20Henrik%20David%20Bohr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20%22powerhouse%22%20of%20the%20Eukaryotic%20animal%20cell%3F",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+          "Nucleus",
+          "Chloroplast",
+          "Endoplasmic%20Reticulum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20the%20yellow%20diamond%20on%20the%20NFPA%20704%20fire%20diamond%20represent%3F",
+        "correct_answer": "Reactivity",
+        "incorrect_answers": [
+          "Health",
+          "Flammability",
+          "Radioactivity"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20portion%20of%20the%20Marijuana%20plant%20produces%20the%20psychoactive%20substance%20known%20as%20THC%3F",
+        "correct_answer": "Female%20Flower",
+        "incorrect_answers": [
+          "Leaves",
+          "Male%20Flower",
+          "Root%20Ball"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20medication%20was%20once%20commonly%20used%20as%20rat%20poison%3F",
+        "correct_answer": "Coumadin",
+        "incorrect_answers": [
+          "Aspirin",
+          "Eliquis",
+          "Tylenol"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Who%20discovered%20the%20Law%20of%20Gravity%3F",
+        "correct_answer": "Sir%20Isaac%20Newton",
+        "incorrect_answers": [
+          "Galileo%20Galilei",
+          "Charles%20Darwin",
+          "Albert%20Einstein"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20unit%20of%20electrical%20resistance%3F",
+        "correct_answer": "Ohm",
+        "incorrect_answers": [
+          "Mho",
+          "Tesla",
+          "Joule"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Axiom%20of%20Preventive%20Medicine%20states%20that%20people%20with%20___%20risk%20for%20a%20disease%20should%20be%20screened%20and%20we%20should%20treat%20___%20of%20those%20people.",
+        "correct_answer": "low%2C%20all",
+        "incorrect_answers": [
+          "low%2C%20some",
+          "high%2C%20all",
+          "high%2C%20some"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "About%20what%20percentage%20of%20the%20Earth%27s%20surface%20is%20water%3F%20",
+        "correct_answer": "70%25",
+        "incorrect_answers": [
+          "30%25",
+          "50%25",
+          "90%25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20the%20scientific%20name%20of%20the%20Cambrian-Period%20sea%20creature%20Anomalocaris%20mean%3F",
+        "correct_answer": "Abnormal%20Shrimp",
+        "incorrect_answers": [
+          "Deformed%20Fish",
+          "Strange%20Crab",
+          "Anomalous%20Clam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20physics%20principle%20relates%20the%20net%20electric%20flux%20out%20of%20a%20closed%20surface%20to%20the%20charge%20enclosed%20by%20that%20surface%3F",
+        "correct_answer": "Gauss%27s%20Law",
+        "incorrect_answers": [
+          "Faraday%27s%20Law",
+          "Ampere%27s%20Law",
+          "Biot-Savart%20Law"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20bones%20are%20in%20the%20human%20body%3F",
+        "correct_answer": "206",
+        "incorrect_answers": [
+          "203",
+          "209",
+          "200"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20was%20the%20name%20of%20the%20first%20artificial%20Earth%20satellite%2C%20launched%20by%20the%20Soviet%20Union%20in%201957%3F",
+        "correct_answer": "Sputnik%201",
+        "incorrect_answers": [
+          "Soyuz%207K-OK",
+          "Zenit-2",
+          "Voskhod%203KV"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20gas%20forms%20about%2078%25%20of%20the%20Earth%E2%80%99s%20atmosphere%3F",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+          "Oxygen",
+          "Argon",
+          "Carbon%20Dioxide"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20medical%20term%20for%20low%20blood%20sugar%3F",
+        "correct_answer": "Hypoglycemia",
+        "incorrect_answers": [
+          "Hypothyroidism",
+          "Hypothermia",
+          "Hypoxia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "If%20you%20planted%20the%20seeds%20of%20Quercus%20robur%20what%20would%20grow%3F",
+        "correct_answer": "Trees",
+        "incorrect_answers": [
+          "Flowers",
+          "Vegtables",
+          "Grains"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20major%20extinction%20event%20was%20caused%20by%20an%20asteroid%20collision%20and%20eliminated%20the%20majority%20of%20non-avian%20dinosaurs%3F",
+        "correct_answer": "Cretaceous-Paleogene",
+        "incorrect_answers": [
+          "Triassic%E2%80%93Jurassic",
+          "Permian%E2%80%93Triassic",
+          "Ordovician%E2%80%93Silurian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20%27Islets%20of%20Langerhans%27%20is%20found%20in%20which%20human%20organ%3F",
+        "correct_answer": "Pancreas",
+        "incorrect_answers": [
+          "Kidney",
+          "Liver",
+          "Brain"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Type%201%20diabetes%20is%20a%20result%20of%20the%20liver%20working%20improperly.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20Elements%20is%20a%20metalloid%3F",
+        "correct_answer": "Antimony",
+        "incorrect_answers": [
+          "Tin",
+          "Bromine",
+          "Rubidium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20scientific%20unit%20is%20named%20after%20an%20Italian%20nobleman%3F",
+        "correct_answer": "Volt",
+        "incorrect_answers": [
+          "Pascal",
+          "Ohm",
+          "Hertz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20primary%20addictive%20substance%20found%20in%20tobacco%3F",
+        "correct_answer": "Nicotine",
+        "incorrect_answers": [
+          "Cathinone",
+          "Ephedrine",
+          "Glaucine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20is%20the%20chemical%20name%20of%20H2O%3F",
+        "correct_answer": "Dihydrogen%20Monoxide",
+        "incorrect_answers": [
+          "Ammonium%20chloride",
+          "Anhydrous%20Sodium%20Carbonate",
+          "Manganese%20dioxide"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "It%20was%20once%20believed%20that%20injecting%20shark%20cartilage%20into%20people%20would%20prevent%20them%20from%20contracting%20cancer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20powerhouse%20of%20the%20cell%3F",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+          "Ribosome",
+          "Redbull",
+          "Nucleus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20is%20a%20stop%20codon%20in%20DNA%3F",
+        "correct_answer": "TAA",
+        "incorrect_answers": [
+          "ACT",
+          "ACA",
+          "GTA"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Shrimp%20can%20swim%20backwards.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20polymer%20is%20used%20to%20make%20CDs%2C%20safety%20goggles%20and%20riot%20shields%3F",
+        "correct_answer": "Polycarbonate",
+        "incorrect_answers": [
+          "Rubber",
+          "Nylon",
+          "Bakelite"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20human%20right%20lung%20has%20how%20many%20lobes%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "4",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20causes%20Lyme%20disease%3F",
+        "correct_answer": "A%20bacteria",
+        "incorrect_answers": [
+          "A%20virus",
+          "A%20parasitic%20worm",
+          "An%20amoeba"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20SI%20unit%20for%20temperature%3F",
+        "correct_answer": "Kelvin",
+        "incorrect_answers": [
+          "Fahrenheit",
+          "Celsius",
+          "Rankine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20chemical%20element%20has%20the%20lowest%20boiling%20point%3F",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+          "Hydrogen",
+          "Neon",
+          "Nitrogen"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20planet%20Mars%20has%20two%20moons%20orbiting%20it.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20SI%20unit%20for%20time%3F",
+        "correct_answer": "Second",
+        "incorrect_answers": [
+          "Minute",
+          "Hour",
+          "Day"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20planets%20make%20up%20our%20Solar%20System%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "7",
+          "9",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20officially%20recognized%20dwarf%20planets%20in%20the%20solar%20system%20are%20named%20after%20Polynesian%20deities%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "0",
+          "1",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20CPR%2C%20the%20emergency%20procedure%20to%20assist%20someone%20who%20has%20suffered%20cardiac%20arrest%2C%20stand%20for%3F",
+        "correct_answer": "Cardiopulmonary%20resuscitation",
+        "incorrect_answers": [
+          "Chronic%20pain%20relief",
+          "Cancer%20pain%20release",
+          "Contraceptive%20prevalence%20rate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20word%20%22science%22%20stems%20from%20the%20word%20%22scire%22%20meaning%20what%3F",
+        "correct_answer": "To%20know",
+        "incorrect_answers": [
+          "To%20measure",
+          "To%20live",
+          "To%20count"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:07.673644+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Where%20was%20the%20Sniper%20character%20in%20Team%20Fortress%202%20born%3F",
+        "correct_answer": "New%20Zealand",
+        "incorrect_answers": [
+          "South%20Africa",
+          "Antarctica",
+          "Australia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Super%20Mario%20Sunshine%22%2C%20how%20do%20you%20unlock%20the%20%22Corona%20Mountain%22%20level%3F",
+        "correct_answer": "By%20clearing%20every%207th%20episode",
+        "incorrect_answers": [
+          "By%20obtaining%2070%20Shines",
+          "By%20clearing%20every%20episode%20involving%20a%20%22Secret%22",
+          "By%20unlocking%20every%20nozzle%20F.L.U.D.D%20can%20use"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20Wii%20consoles%20were%20sold%20worldwide%3F",
+        "correct_answer": "101%2C630%2C000",
+        "incorrect_answers": [
+          "67%2C000%2C000",
+          "148%2C000%2C000",
+          "80%2C000%2C000"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20main%20protagonist%20in%20%22Xenoblade%20Chronicles%22%3F",
+        "correct_answer": "Shulk",
+        "incorrect_answers": [
+          "Reyn",
+          "Fiora",
+          "Dunban"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Dead%20Space%202%2C%20the%20%27Hand%20Cannon%27%20is%20a%20large%20foam%20finger.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20times%20do%20you%20fight%20the%20Imprisoned%20in%20The%20Legend%20of%20Zelda%3A%20Skyward%20Sword%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "2",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20world%20strategy%20game%20%27Sid%20Meier%27s%20Civilization%27%2C%20a%20programming%20bug%20caused%20the%20AI%20depiction%20of%20Gandhi%20to%20do%20which%20of%20the%20following%3F",
+        "correct_answer": "Become%20aggressive%20and%20launch%20nuclear%20strikes",
+        "incorrect_answers": [
+          "Begin%20speaking%20in%20German%20",
+          "Become%20friendly%20and%20trade%20his%20entire%20wealth",
+          "Launch%20attacks%20on%20his%20own%20cities%20and%20assets"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20total%20monsters%20appear%20in%20Monster%20Hunter%20Generations%3F",
+        "correct_answer": "105",
+        "incorrect_answers": [
+          "100",
+          "98",
+          "73"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20Mudokons%20are%20rescuable%20in%20%22Oddworld%3A%20New%20%27N%27%20Tasty%22%3F",
+        "correct_answer": "299",
+        "incorrect_answers": [
+          "301",
+          "50",
+          "300"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Yo%21%20Noid%202%2C%22%20The%20Noid%20can%20perform%20what%20special%20move%3F",
+        "correct_answer": "Dab",
+        "incorrect_answers": [
+          "Pizza%20Throw",
+          "Dodge%20Roll",
+          "Spin%20Dash"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20survival%20horror%20game%2C%20%22Cry%20of%20Fear%2C%22%20what%20was%20the%20name%20of%20Simon%27s%20close%20friend%2Fpotential%20love%20interest%3F",
+        "correct_answer": "Sophie",
+        "incorrect_answers": [
+          "Olivia",
+          "Jessica",
+          "Alice"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20was%20the%20first%20time%20Mario%20was%20voiced%20by%20Charles%20Martinet%3F",
+        "correct_answer": "Mario%27s%20Game%20Gallery",
+        "incorrect_answers": [
+          "Super%20Mario%2064",
+          "Mario%20Tennis",
+          "Dr.%20Mario%2064"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22The%20Elder%20Scrolls%203%3A%20Morrowind%22%2C%20which%20of%20the%20following%20factions%20is%20not%20joinable%3F",
+        "correct_answer": "The%20Dark%20Brotherhood",
+        "incorrect_answers": [
+          "Fighters%20Guild",
+          "Mages%20Guild",
+          "Thieves%20Guild"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20which%20map%20features%20the%20%22Fly%20Trap%22%20easter%20egg%3F",
+        "correct_answer": "Der%20Riese",
+        "incorrect_answers": [
+          "Tranzit",
+          "Call%20Of%20The%20Dead",
+          "Shi%20No%20Numa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20differently%20shaped%20Tetris%20pieces%20are%20there%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "5",
+          "6",
+          "8"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%204th%20boss%20in%20the%201997%20video%20game%20%22Crash%20Bandicoot%202%3A%20Cortex%20Strikes%20Back%22%3F",
+        "correct_answer": "Dr.%20N.%20Gin",
+        "incorrect_answers": [
+          "Dr.%20Neo%20Cortex",
+          "Komodo%20Brothers",
+          "Tiny%20Tiger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20does%20Solid%20Snake%20use%20to%20hide%20himself%20with%3F",
+        "correct_answer": "Cardboard%20Box",
+        "incorrect_answers": [
+          "Cloaking%20Device",
+          "Metal%20Crate",
+          "Cardboard%20cut-out"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Kingdom%20Hearts%22%2C%20what%20mission%20are%20Donald%20and%20Goofy%20assigned%20by%20King%20Mickey%3F",
+        "correct_answer": "To%20find%20the%20Key%20bearer%20and%20stick%20with%20him%21",
+        "incorrect_answers": [
+          "To%20find%20the%20Key%20bearer%20and%20steal%20the%20key%21",
+          "To%20find%20the%20Key%20bearer%20and%20report%20back%21",
+          "To%20find%20the%20Key%20bearer%20and%20kill%20him%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20were%20the%20first%20two%20Pok%C3%A9mon%20games%20released%3F",
+        "correct_answer": "Red%20and%20Green",
+        "incorrect_answers": [
+          "Red%20and%20Blue",
+          "Green%20and%20Blue",
+          "Red%20and%20Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20first%20Left%204%20Dead%2C%20you%20can%20play%20as%20either%20of%20these%20four%20characters.",
+        "correct_answer": "Francis%2C%20Bill%2C%20Zoey%2C%20and%20Louis",
+        "incorrect_answers": [
+          "Bender%2C%20Andrew%2C%20Allison%2C%20and%20Brian",
+          "Coach%2C%20Ellis%2C%20Nick%2C%20and%20Rochelle",
+          "Harry%2C%20Ron%2C%20Hermione%20and%20Dumbledore"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20Gabe%20Newell%27s%20favorite%20class%20in%20Team%20Fortress%202%3F",
+        "correct_answer": "Spy",
+        "incorrect_answers": [
+          "Heavy",
+          "Medic",
+          "Pyro"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20operators%20from%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20has%20the%20ability%20to%20damage%20reinforced%20walls%3F",
+        "correct_answer": "Jordan%20%22Thermite%22%20Trace",
+        "incorrect_answers": [
+          "Eliza%20%22Ash%22%20Cohen",
+          "Seamus%20%22Sledge%22%20Cowden",
+          "Dominic%20%22Bandit%22%20Brunsmeier"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20first%20%22Metal%20Gear%22%20game%20was%20released%20for%20the%20PlayStation%201.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20weapon%20that%20was%20cut%20from%20the%20game%20%22Half%20Life%202%22%20was%20going%20to%20replace%20the%20crowbar%3F",
+        "correct_answer": "Ice%20Axe",
+        "incorrect_answers": [
+          "Fire%20Axe",
+          "Wrench",
+          "Hunting%20Knife"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Dead%20By%20Daylight%2C%22%20which%20character%20starts%20with%20the%20perk%20%22Bond%22.",
+        "correct_answer": "Dwight%20Fairfield",
+        "incorrect_answers": [
+          "Claudette%20Morell",
+          "Meg%20Thomas",
+          "Jake%20Park"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20PAYDAY%20series%2C%20where%20did%20Dallas%20start%20his%20criminal%20career%3F",
+        "correct_answer": "Chicago%2C%20Illinois",
+        "incorrect_answers": [
+          "Dallas%2C%20Texas",
+          "New%20York%20City%2C%20New%20York",
+          "Boston%2C%20Massachusetts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20last%20name%20of%20the%20primary%20female%20protagonist%20of%20Final%20Fantasy%20VIII%3F",
+        "correct_answer": "Heartilly",
+        "incorrect_answers": [
+          "Loire",
+          "Almasy",
+          "Trepe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20the%20digital%20distribution%20platform%20Steam%3F",
+        "correct_answer": "Valve",
+        "incorrect_answers": [
+          "Pixeltail%20Games",
+          "Ubisoft",
+          "Electronic%20Arts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20characters%20is%20NOT%20a%20female%20marriage%20candidate%20in%20the%20game%20Stardew%20Valley%3F",
+        "correct_answer": "Caroline",
+        "incorrect_answers": [
+          "Abigail",
+          "Haley",
+          "Leah"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Danganronpa%202%3A%20Goodbye%20Despair%20featured%20all%20of%20the%20surviving%20students%20from%20the%20first%20game.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Minecraft%2C%20what%20types%20of%20sound%20files%20are%20required%20for%20custom%20SFX%20to%20work%20in%20resource%20packs%3F",
+        "correct_answer": ".ogg",
+        "incorrect_answers": [
+          ".wav",
+          ".mp3",
+          ".class"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20%22Metal%20Gear%20Solid%22%20released%20in%20North%20America%3F",
+        "correct_answer": "1998",
+        "incorrect_answers": [
+          "1987",
+          "2001",
+          "2004"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Undertale%22%2C%20the%20main%20character%20of%20the%20game%20is%20Sans.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20%22System%20Shock%22%20released%3F",
+        "correct_answer": "1994",
+        "incorrect_answers": [
+          "1995",
+          "2000",
+          "1998"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20series%20%22Disgaea%22%2C%20what%20word%20does%20the%20character%20Prinny%20have%20to%20include%20in%20all%20sentences%20they%20speak%3F",
+        "correct_answer": "%22Dood%22",
+        "incorrect_answers": [
+          "%22Master%22",
+          "%22Plip%22",
+          "%22Boom%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22The%20Binding%20of%20Isaac%22%2C%20which%20item%20instantly%20kills%20Mom%20and%20Mom%27s%20Heart%3F",
+        "correct_answer": "The%20Bible",
+        "incorrect_answers": [
+          "The%20Halo",
+          "Brimstone",
+          "Book%20of%20Shadows"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%204-armed%20Chaos%20Witch%20from%20the%202016%20video%20game%20%22Battleborn%22%3F",
+        "correct_answer": "Orendi",
+        "incorrect_answers": [
+          "Orendoo",
+          "Oranda",
+          "Randy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Tom%20Clancy%27s%20Rainbow%206%20Siege%2C%20what%20organization%20is%20Valkyrie%20from%3F",
+        "correct_answer": "Navy%20Seals",
+        "incorrect_answers": [
+          "S.A.S",
+          "G.I.G.N",
+          "F.B.I"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20%22Fallout%3A%20New%20Vegas%22%20quest%20is%20NOT%20named%20after%20a%20real-life%20song%3F",
+        "correct_answer": "They%20Went%20That-a-Way",
+        "incorrect_answers": [
+          "Come%20Fly%20With%20Me",
+          "Ain%27t%20That%20a%20Kick%20in%20the%20Head",
+          "Ring-a-Ding%20Ding"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Activision%20created%20Battlefield%201.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20what%20is%20the%20name%20of%20the%20Pack-A-Punched%20Crossbow%3F",
+        "correct_answer": "Awful%20Lawton",
+        "incorrect_answers": [
+          "Longinus",
+          "V-R11",
+          "Predator"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20Humongous%20Entertainment%20game%20franchise%3F",
+        "correct_answer": "Commander%20Keen",
+        "incorrect_answers": [
+          "Pajama%20Sam",
+          "Putt-Putt",
+          "Freddi%20Fish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Final%20Fantasy%20VI%20was%20originally%20released%20outside%20Japan%20under%20what%20name%3F",
+        "correct_answer": "Final%20Fantasy%20III",
+        "incorrect_answers": [
+          "Final%20Fantasy%20VI",
+          "Final%20Fantasy%20V",
+          "Final%20Fantasy%20II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20original%20Star%20Wars%3A%20Battlefront%20II%20released%3F",
+        "correct_answer": "October%2031%2C%202005",
+        "incorrect_answers": [
+          "December%2018%2C%202004",
+          "November%2021%2C%202006",
+          "September%209%2C%202007"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Danganronpa%3A%20Happy%20Trigger%20Havoc%2C%20the%20character%20Aoi%20Asahina%27s%20ultimate%20ability%20is%20what%3F",
+        "correct_answer": "Ultimate%20Swimmer",
+        "incorrect_answers": [
+          "Ultimate%20Detective",
+          "Ultimate%20Gambler",
+          "Ultimate%20Dancer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Left%204%20Dead%2C%20what%20is%20the%20name%20of%20the%20virus%2C%20as%20designated%20by%20CEDA%2C%20that%20causes%20most%20humans%20to%20turn%20into%20the%20Infected%3F",
+        "correct_answer": "Green%20Flu",
+        "incorrect_answers": [
+          "Yellow%20Fever",
+          "T-Virus",
+          "Raspberry%20Sniffles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%27s%20Mists%20of%20Pandaria%20expansion%2C%20What%20was%20the%20level%20cap%3F",
+        "correct_answer": "90",
+        "incorrect_answers": [
+          "85",
+          "80",
+          "75"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Final%20Fantasy%20VI%22%2C%20what%20is%20the%20name%20of%20%28summoned%29%20Gilgamesh%27s%20weakest%20attack%3F",
+        "correct_answer": "Excalipoor",
+        "incorrect_answers": [
+          "Excalibore",
+          "Excalisnore",
+          "Excalisore"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20these%20is%20NOT%20an%20official%20map%20in%20Counter-Strike%3A%20Global%20Offensive%3F",
+        "correct_answer": "de_season",
+        "incorrect_answers": [
+          "de_sugarcane",
+          "de_canals",
+          "de_militia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20much%20does%20the%20%27AWP%27%20cost%20in%20Counter-Strike%3A%20Global%20Offensive%3F",
+        "correct_answer": "%244750",
+        "incorrect_answers": [
+          "%244500",
+          "%244650",
+          "%245000"
+        ]
+      }
+    ]
+  }
+}

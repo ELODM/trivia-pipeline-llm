@@ -1,0 +1,600 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:57:17.727912+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20first%20book%20of%20the%20Old%20Testament%3F",
+        "correct_answer": "Genesis",
+        "incorrect_answers": [
+          "Exodus",
+          "Leviticus",
+          "Numbers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20most%20commonly%20used%20noun%20in%20the%20English%20language%3F",
+        "correct_answer": "Time",
+        "incorrect_answers": [
+          "Home",
+          "Water",
+          "Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "A%20criminal%20who%20has%20%E2%80%9Ccooked%20the%20books%E2%80%9D%20has%20engaged%20in%20what%20kind%20of%20illegal%20behavior%3F",
+        "correct_answer": "Accounting%20Fraud",
+        "incorrect_answers": [
+          "Money%20Laundering",
+          "Extortion",
+          "Blackmail"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20mountain%20has%20the%20highest%20peak%20in%20Africa%3F",
+        "correct_answer": "Mount%20Kilimanjaro%2C%20Tanzania",
+        "incorrect_answers": [
+          "Mount%20Kenya%2C%20Kenya",
+          "Mount%20Stanley%2C%20DR%20Congo%2FUganda",
+          "Mount%20Speke%2C%20Uganda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20the%20youngest%20person%20to%20receive%20a%20Nobel%20Prize%3F",
+        "correct_answer": "Malala%20Yousafzai",
+        "incorrect_answers": [
+          "Lawrence%20Bragg",
+          "Werner%20Heisenberg",
+          "Yasser%20Arafat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "A%20statue%20of%20Charles%20Darwin%20sits%20in%20what%20London%20museum%3F",
+        "correct_answer": "Natural%20History%20Museum",
+        "incorrect_answers": [
+          "Tate",
+          "British%20Museum",
+          "Science%20Museum"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Studies%20suggest%20that%20approximately%2040%25%20of%20the%20world%20population%20is%20left-handed.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "When%20did%20the%20website%20%22Facebook%22%20launch%3F",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "2005",
+          "2003",
+          "2006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20American-owned%20brewery%20led%20the%20country%20in%20sales%20by%20volume%20in%202015%3F",
+        "correct_answer": "D.%20G.%20Yuengling%20and%20Son%2C%20Inc",
+        "incorrect_answers": [
+          "Anheuser%20Busch",
+          "Boston%20Beer%20Company",
+          "Miller%20Coors"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20Fair%20Works%20Australia%2C%20how%20long%20do%20you%20have%20to%20work%20to%20get%20Long%20Service%20Leave%3F",
+        "correct_answer": "7%20years",
+        "incorrect_answers": [
+          "2%20years",
+          "8%20years",
+          "6%20months"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20film%20star%20has%20his%20statue%20in%20Leicester%20Square%3F",
+        "correct_answer": "Charlie%20Chaplin",
+        "incorrect_answers": [
+          "Paul%20Newman",
+          "Rowan%20Atkinson%20",
+          "Alfred%20Hitchcock"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Samhainophobia%20is%20the%20term%20used%20for%20an%20abnormal%20and%20persistent%20fear%20of%20halloween.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "De%20Eemhof%2C%20Port%20Zelande%20and%20Het%20Heijderbos%20are%20holiday%20villas%20owned%20by%20what%20company%3F",
+        "correct_answer": "Center%20Parcs",
+        "incorrect_answers": [
+          "Yelloh%20Village",
+          "Keycamp",
+          "Villa%20Plus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20country%20developed%20the%20AK-47%20assault%20rifle%3F",
+        "correct_answer": "Soviet%20Union",
+        "incorrect_answers": [
+          "Iran",
+          "Israel",
+          "Poland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20fast%20food%20chain%20has%20the%20most%20locations%20globally%3F%20",
+        "correct_answer": "Subway",
+        "incorrect_answers": [
+          "Starbucks",
+          "McDonalds",
+          "KFC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20official%20language%20in%20Barcelona%20beside%20Spanish%3F",
+        "correct_answer": "Catalan",
+        "incorrect_answers": [
+          "%20Galician",
+          "French",
+          "Basque"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Spoon%20theory%20is%20a%20theory%2C%20utilizing%20%22Spoons%22%20as%20a%20metaphor%20for%20energy%20they%20can%20use%20in%20a%20day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Kissing%20someone%20for%20one%20minute%20burns%20about%202%20calories.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "A%20doctor%20with%20a%20PhD%20is%20a%20doctor%20of%20what%3F",
+        "correct_answer": "Philosophy",
+        "incorrect_answers": [
+          "Psychology",
+          "Phrenology",
+          "Physical%20Therapy"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "%2227%20Club%22%20is%20a%20term%20used%20to%20refer%20to%20a%20list%20of%20famous%20actors%2C%20musicians%2C%20and%20artists%20who%20died%20at%20the%20age%20of%2027.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20is%20an%20existing%20family%20in%20%22The%20Sims%22%3F",
+        "correct_answer": "The%20Goth%20Family",
+        "incorrect_answers": [
+          "The%20Family",
+          "The%20Simoleon%20Family",
+          "The%20Proud%20Family"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Going%20by%20the%20International%20Code%20of%20Signals%2C%20which%20single%20flag%20is%20interpreted%20as%20%22I%20require%20assistance%20%28not%20distress%29%22%3F",
+        "correct_answer": "Victor",
+        "incorrect_answers": [
+          "Kilo",
+          "Papa",
+          "Delta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20kind%20of%20aircraft%20was%20developed%20by%20Igor%20Sikorsky%20in%20the%20United%20States%20in%201942%3F",
+        "correct_answer": "Helicopter",
+        "incorrect_answers": [
+          "Stealth%20Blimp",
+          "Jet",
+          "Space%20Capsule"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Which%20product%20did%20Nokia%2C%20the%20telecommunications%20company%2C%20originally%20sell%3F",
+        "correct_answer": "Paper",
+        "incorrect_answers": [
+          "Phones",
+          "Computers",
+          "Processors"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20canal%20connects%20the%20Mediterranean%20Sea%20with%20the%20Red%20Sea%3F",
+        "correct_answer": "Suez%20Canal",
+        "incorrect_answers": [
+          "Panama%20Canal",
+          "Sinai%20Canal",
+          "Qaraqum%20Canal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20%22Battle%20Cats%22%2C%20what%20is%20Moneko%20%2F%20MISS%20Moneko%27s%20critical%20percentage%20rate%3F",
+        "correct_answer": "15%25",
+        "incorrect_answers": [
+          "20%25",
+          "10%25",
+          "25%25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20Fields%20Medal%2C%20one%20of%20the%20most%20sought%20after%20awards%20in%20mathematics%2C%20is%20awarded%20every%20how%20many%20years%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Death%20Valley%27s%20Badwater%20Basin%20is%20North%20America%27s%20point%20of%20lowest%20elevation%20at%20how%20many%20feet%20below%20sea%20level%3F",
+        "correct_answer": "282%20feet",
+        "incorrect_answers": [
+          "79%20feet",
+          "1%2C640%20feet",
+          "12%2C092%20feet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20what%20year%20did%20Canada%20stop%20producing%20the%20penny%3F",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2013",
+          "2011",
+          "2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20nuts%20are%20used%20in%20the%20production%20of%20marzipan%3F",
+        "correct_answer": "Almonds",
+        "incorrect_answers": [
+          "Peanuts",
+          "Walnuts",
+          "Pistachios"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "On%20a%20dartboard%2C%20what%20number%20is%20directly%20opposite%20No.%201%3F",
+        "correct_answer": "19",
+        "incorrect_answers": [
+          "20",
+          "12",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Where%20did%20the%20pineapple%20plant%20originate%3F",
+        "correct_answer": "South%20America",
+        "incorrect_answers": [
+          "Hawaii",
+          "Europe",
+          "Asia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20a%20standard%20set%20of%20playing%20cards%2C%20which%20is%20the%20only%20king%20without%20a%20moustache%3F",
+        "correct_answer": "Hearts",
+        "incorrect_answers": [
+          "Spades",
+          "Diamonds",
+          "Clubs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20average%20life%20span%20of%20a%20garden%20ant%3F",
+        "correct_answer": "15%20years",
+        "incorrect_answers": [
+          "24%20hours",
+          "1%20week",
+          "3%20years"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20month%20is%20Black%20History%20Month%20in%20the%20US%3F",
+        "correct_answer": "February",
+        "incorrect_answers": [
+          "May",
+          "November",
+          "August"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20item%20of%20clothing%20is%20usually%20worn%20by%20a%20Scotsman%20at%20a%20wedding%3F",
+        "correct_answer": "Kilt",
+        "incorrect_answers": [
+          "Skirt",
+          "Dress",
+          "Rhobes"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Adolf%20Hitler%20was%20born%20in%20Australia.%20",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20are%20Panama%20hats%20made%20out%20of%3F",
+        "correct_answer": "Straw",
+        "incorrect_answers": [
+          "Silk",
+          "Hemp",
+          "Flax"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20depicted%20on%20the%20US%20hundred%20dollar%20bill%3F",
+        "correct_answer": "Benjamin%20Franklin",
+        "incorrect_answers": [
+          "George%20Washington",
+          "Abraham%20Lincoln",
+          "Thomas%20Jefferson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20blood%20component%20forms%20a%20plug%20at%20the%20site%20of%20injuries%3F",
+        "correct_answer": "Platelets",
+        "incorrect_answers": [
+          "Red%20blood%20cells",
+          "White%20blood%20cells",
+          "Blood%20plasma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20%22Shrek%22%2C%20what%20comedic%20actor%20voices%20Donkey%3F",
+        "correct_answer": "Eddie%20Murphy",
+        "incorrect_answers": [
+          "Chris%20Rock",
+          "Richard%20Pryor",
+          "Bernie%20Mac"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20German%20word%20for%20%22spoon%22%3F",
+        "correct_answer": "L%C3%B6ffel",
+        "incorrect_answers": [
+          "Gabel",
+          "Messer",
+          "Essst%C3%A4bchen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20which%20cardinal%20direction%20does%20the%20Sun%20rise%20from%3F",
+        "correct_answer": "East",
+        "incorrect_answers": [
+          "West",
+          "North",
+          "South"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20new%20One%20World%20Trade%20Center%20in%20Manhattan%2C%20New%20York%20City%20was%20designed%20by%20which%20architect%3F%20",
+        "correct_answer": "David%20Childs",
+        "incorrect_answers": [
+          "Bjarke%20Ingels",
+          "Michael%20Arad",
+          "Fumihiko%20Maki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20is%20NOT%20considered%20to%20be%20a%20colour%20that%20makes%20up%20the%20rainbow%3F",
+        "correct_answer": "Pink",
+        "incorrect_answers": [
+          "Blue",
+          "Violet",
+          "Orange"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Canadian%20%241%20coin%20is%20colloquially%20known%20as%20a%20what%3F",
+        "correct_answer": "Loonie",
+        "incorrect_answers": [
+          "Boolie",
+          "Foolie",
+          "Moodie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20mountain%20has%20the%20highest%20peak%20in%20Europe%3F",
+        "correct_answer": "Mount%20Elbrus%2C%20Russia",
+        "incorrect_answers": [
+          "Shkhara%2C%20Georgia",
+          "Mount%20Ararat%2C%20Turkey",
+          "Mont%20Blanc%2C%20France"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Video%20streaming%20website%20YouTube%20was%20purchased%20in%20it%27s%20entirety%20by%20Facebook%20for%20US%241.65%20billion%20in%20stock.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20mountain%20has%20the%20highest%20peak%20in%20South%20America%3F",
+        "correct_answer": "Aconcagua%2C%20Argentina",
+        "incorrect_answers": [
+          "Ojos%20del%20Salado%2C%20Argentina%2FChile%20border",
+          "Monte%20Pissis%2C%20Argentina",
+          "Huascar%C3%A1n%2C%20Peru"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "In%20a%201994%20CBS%20interview%2C%20Microsoft%20co-founder%20Bill%20Gates%20performed%20what%20unusual%20trick%20on%20camera%3F",
+        "correct_answer": "Jumping%20over%20an%20office%20chair",
+        "incorrect_answers": [
+          "Jumping%20backwards%20over%20a%20desk",
+          "Standing%20on%20his%20head",
+          "Typing%20on%20a%20keyboard%20during%20a%20handstand"
+        ]
+      }
+    ]
+  }
+}

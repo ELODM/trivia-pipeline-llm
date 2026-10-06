@@ -1,0 +1,602 @@
+{
+  "category_id": 21,
+  "fetched_at": "2026-10-06T10:04:52.796532+00:00",
+  "request": {
+    "amount": 50,
+    "category": 21,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Tennis%20was%20once%20known%20as%20Racquetball.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20Italian%20footballer%20told%20Neuer%20where%20he%27s%20putting%20his%20shot%20and%20dragging%20it%20wide%2C%20during%20the%20match%20Italy-Germany%2C%20UEFA%20EURO%202016%3F",
+        "correct_answer": "Pelle",
+        "incorrect_answers": [
+          "Insigne",
+          "Barzagli",
+          "Giaccherini"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In%202008%2C%20Usain%20Bolt%20set%20the%20world%20record%20for%20the%20100%20meters%20with%20one%20shoelace%20untied.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20was%20the%20British%20professional%20wrestler%20Shirley%20Crabtree%20better%20known%20as%3F",
+        "correct_answer": "Big%20Daddy",
+        "incorrect_answers": [
+          "Giant%20Haystacks",
+          "Kendo%20Nagasaki",
+          "Masambula"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20portuguese%20island%20is%20soccer%20player%20Cristiano%20Ronaldo%20from%3F",
+        "correct_answer": "Madeira",
+        "incorrect_answers": [
+          "Terceira",
+          "Santa%20Maria",
+          "Porto%20Santo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20the%20following%20player%20scored%20a%20hat-trick%20during%20their%20Manchester%20United%20debut%3F",
+        "correct_answer": "Wayne%20Rooney",
+        "incorrect_answers": [
+          "Cristiano%20Ronaldo",
+          "Robin%20Van%20Persie",
+          "David%20Beckham"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20won%20the%20premier%20league%20title%20in%20the%202015-2016%20season%20following%20a%20fairy%20tale%20run%3F",
+        "correct_answer": "Leicester%20City",
+        "incorrect_answers": [
+          "Tottenham%20Hotspur",
+          "Watford",
+          "Stoke%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "In%20Formula%201%2C%20the%20Virtual%20Safety%20Car%20was%20introduced%20following%20the%20fatal%20crash%20of%20which%20driver%3F",
+        "correct_answer": "Jules%20Bianchi",
+        "incorrect_answers": [
+          "Ayrton%20Senna",
+          "Ronald%20Ratzenberger",
+          "Gilles%20Villeneuve"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who%20scored%20the%20injury%20time%20winning%20goal%20in%20the%201999%20UEFA%20Champions%20League%20final%20between%20Manchester%20United%20and%20Bayern%20Munich%3F",
+        "correct_answer": "Ole%20Gunnar%20Solskj%C3%A6r",
+        "incorrect_answers": [
+          "Dwight%20Yorke",
+          "Andy%20Cole",
+          "David%20Beckham"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20country%20produced%20football%20players%20such%20as%20Cafu%2C%20Roberto%20Carlos%20and%20Pel%C3%A9%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "Argentina",
+          "Portugal",
+          "Spain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20was%20the%20first%20footballer%20to%20score%20200%20goals%20in%20the%20English%20Premier%20League%3F",
+        "correct_answer": "Alan%20Shearer",
+        "incorrect_answers": [
+          "Wayne%20Rooney",
+          "Robbie%20Fowler",
+          "Thierry%20Henry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Hockey%20player%20Wayne%20Gretzky%20was%20born%20in%20what%20Canadian%20province%3F",
+        "correct_answer": "Ontario",
+        "incorrect_answers": [
+          "British%20Columbia",
+          "Quebec",
+          "Alberta"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "There%20are%20a%20total%20of%2020%20races%20in%20Formula%20One%202016%20season.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who%20did%20Drew%20Brees%20pass%20in%20all%20time%20NFL%20passing%20yards%20in%202018%3F",
+        "correct_answer": "Peyton%20Manning",
+        "incorrect_answers": [
+          "Tom%20Brady",
+          "Dan%20Marino",
+          "Joe%20Montana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20male%20player%20won%20the%20gold%20medal%20of%20table%20tennis%20singles%20in%202016%20Olympics%20Games%3F",
+        "correct_answer": "Ma%20Long%20%28China%29",
+        "incorrect_answers": [
+          "Zhang%20Jike%20%28China%29",
+          "Jun%20Mizutani%20%28Japan%29",
+          "Vladimir%20Samsonov%20%28Belarus%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Where%20was%20the%20Games%20of%20the%20XXII%20Olympiad%20held%3F",
+        "correct_answer": "Moscow",
+        "incorrect_answers": [
+          "Barcelona",
+          "Tokyo",
+          "Los%20Angeles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who%20won%20the%201998%20Daytona%20500%3F",
+        "correct_answer": "Dale%20Earnhardt",
+        "incorrect_answers": [
+          "John%20Anderson",
+          "Jeff%20Gordon",
+          "Michael%20Walltrip"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20is%20the%20name%20of%20Manchester%20United%27s%20home%20stadium%3F",
+        "correct_answer": "Old%20Trafford",
+        "incorrect_answers": [
+          "Anfield",
+          "City%20of%20Manchester%20Stadium",
+          "St%20James%20Park"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20year%20was%20the%20third%20Super%20Bowl%20held%3F",
+        "correct_answer": "1969",
+        "incorrect_answers": [
+          "1968",
+          "1971",
+          "1970"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Formula%20E%20is%20an%20auto%20racing%20series%20that%20uses%20hybrid%20electric%20race%20cars.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How%20many%20premier%20league%20trophies%20did%20Sir%20Alex%20Ferguson%20win%20during%20his%20time%20at%20Manchester%20United%3F",
+        "correct_answer": "13",
+        "incorrect_answers": [
+          "11",
+          "20",
+          "22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "What%20is%20the%20full%20name%20of%20the%20footballer%20%22Cristiano%20Ronaldo%22%3F",
+        "correct_answer": "Cristiano%20Ronaldo%20dos%20Santos%20Aveiro",
+        "incorrect_answers": [
+          "Cristiano%20Ronaldo%20los%20Santos%20Diego",
+          "Cristiano%20Armando%20Diego%20Ronaldo",
+          "Cristiano%20Luis%20Armando%20Ronaldo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20won%20the%20%22Champions%20League%22%20in%201999%3F",
+        "correct_answer": "Manchester%20United",
+        "incorrect_answers": [
+          "Barcelona",
+          "Bayern%20Munich",
+          "Liverpool"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "When%20was%20the%20first%20official%20international%20game%20played%3F",
+        "correct_answer": "1872",
+        "incorrect_answers": [
+          "1880",
+          "1863",
+          "1865"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Wilt%20Chamberlain%20scored%20his%20infamous%20100-point-game%20against%20the%20New%20York%20Knicks%20in%201962.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20of%20these%20European%20cities%20was%20the%20first%20to%20host%20the%20modern%20Summer%20Olympic%20Games%20three%20times%3F",
+        "correct_answer": "London",
+        "incorrect_answers": [
+          "Paris",
+          "Athens",
+          "Rome"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20city%20features%20all%20of%20their%20professional%20sports%20teams%27%20jersey%27s%20with%20the%20same%20color%20scheme%3F",
+        "correct_answer": "Pittsburgh",
+        "incorrect_answers": [
+          "New%20York",
+          "Seattle",
+          "Tampa%20Bay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20car%20manufacturer%20won%20the%202016%2024%20Hours%20of%20Le%20Mans%3F",
+        "correct_answer": "Porsche",
+        "incorrect_answers": [
+          "Toyota",
+          "Audi",
+          "Ferrari"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20country%20is%20hosting%20the%202022%20FIFA%20World%20Cup%3F",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+          "Uganda",
+          "Vietnam",
+          "Bolivia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20won%20the%202011%20Stanley%20Cup%3F",
+        "correct_answer": "Boston%20Bruins",
+        "incorrect_answers": [
+          "Montreal%20Canadiens",
+          "New%20York%20Rangers",
+          "Toronto%20Maple%20Leafs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20is%20Manchester%20United%27s%20top%20premier%20league%20goal%20scorer%3F",
+        "correct_answer": "Wayne%20Rooney",
+        "incorrect_answers": [
+          "Sir%20Bobby%20Charlton",
+          "Ryan%20Giggs",
+          "David%20Beckham"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20won%20the%20UEFA%20Champions%20League%20in%202016%3F",
+        "correct_answer": "Real%20Madrid%20C.F.",
+        "incorrect_answers": [
+          "FC%20Bayern%20Munich",
+          "Atletico%20Madrid",
+          "Manchester%20City%20F.C."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20soccer%20team%20won%20the%20Copa%20Am%C3%A9rica%202015%20Championship%20%3F",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+          "Argentina",
+          "Brazil",
+          "Paraguay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20of%20these%20teams%20has%20Jaromir%20Jagr%20not%20played%20for%3F",
+        "correct_answer": "New%20York%20Islanders",
+        "incorrect_answers": [
+          "Calgary%20Flames",
+          "New%20Jersey%20Devils",
+          "Dallas%20Stars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20NBA%20player%20won%20Most%20Valuable%20Player%20for%20the%201999-2000%20season%3F",
+        "correct_answer": "Shaquille%20O%27Neal",
+        "incorrect_answers": [
+          "Allen%20Iverson",
+          "Kobe%20Bryant",
+          "Paul%20Pierce"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "In%20Rugby%20League%2C%20performing%20a%20%2240-20%22%20is%20punished%20by%20a%20free%20kick%20for%20the%20opposing%20team.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20has%20played%20the%20most%20tournaments%20in%20the%20German%20national%20soccer%20team%3F",
+        "correct_answer": "Lothar%20Matth%C3%A4us",
+        "incorrect_answers": [
+          "Miroslav%20Klose",
+          "Philipp%20Lahm",
+          "Oliver%20Kahn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20player%20holds%20the%20NHL%20record%20of%202%2C857%20points%3F",
+        "correct_answer": "Wayne%20Gretzky",
+        "incorrect_answers": [
+          "Mario%20Lemieux%20",
+          "Sidney%20Crosby",
+          "Gordie%20Howe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20football%20manager%20won%20more%20trophies%20than%20any%20other%20during%20his%20tenure%20at%20English%20football%20club%20Manchester%20United%3F",
+        "correct_answer": "Sir%20Alex%20Ferguson",
+        "incorrect_answers": [
+          "David%20Moyes",
+          "Louis%20van%20Gaal",
+          "Jos%C3%A9%20Mourinho"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20country%20won%20the%202018%20FIFA%20World%20Cup%20hosted%20in%20Russia%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "Croatia",
+          "Belgium",
+          "England"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20driver%20has%20been%20the%20Formula%201%20world%20champion%20for%20a%20record%207%20times%3F",
+        "correct_answer": "Michael%20Schumacher",
+        "incorrect_answers": [
+          "Ayrton%20Senna",
+          "Fernando%20Alonso",
+          "Jim%20Clark"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20is%20the%20oldest%20team%20in%20the%20NFL%3F",
+        "correct_answer": "Arizona%20Cardinals",
+        "incorrect_answers": [
+          "Chicago%20Bears",
+          "Green%20Bay%20Packers",
+          "New%20York%20Giants"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20city%20did%20the%20former%20NHL%20team%20%22The%20Nordiques%22%20originiate%20from%3F",
+        "correct_answer": "Quebec%20City",
+        "incorrect_answers": [
+          "Houston",
+          "Montreal",
+          "New%20York"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Prior%20to%202018%2C%20which%20car%20company%20is%20the%20only%20Japanese%20company%20which%20won%20the%2024%20Hours%20of%20Le%20Mans%3F",
+        "correct_answer": "Mazda",
+        "incorrect_answers": [
+          "Toyota",
+          "Subaru",
+          "Nissan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20was%20Sir%20Donald%20Bradman%27s%20batting%20average%20in%20test%20matches%3F",
+        "correct_answer": "99.94",
+        "incorrect_answers": [
+          "100",
+          "69.51",
+          "44.78"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20national%20team%20won%20the%20first%20UEFA%20Nations%20League%3F",
+        "correct_answer": "Portugal",
+        "incorrect_answers": [
+          "Netherlands",
+          "England",
+          "Switzerland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20player%20has%20scored%20the%20most%20goals%20in%20the%20England%20Premier%20League%20%28EPL%29%3F",
+        "correct_answer": "Alan%20Shearer",
+        "incorrect_answers": [
+          "Wayne%20Rooney",
+          "Lionel%20Messi",
+          "Didier%20Drogba"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20won%20NFL%20Super%20Bowl%20LI%3F%20%2851%29",
+        "correct_answer": "Patriots",
+        "incorrect_answers": [
+          "Falcons",
+          "Broncos",
+          "Eagles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20team%20did%20England%20beat%20to%20win%20in%20the%201966%20World%20Cup%20final%3F",
+        "correct_answer": "West%20Germany",
+        "incorrect_answers": [
+          "Soviet%20Union",
+          "Portugal",
+          "Brazil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20NBA%20player%20has%20the%20most%20games%20played%20over%20the%20course%20of%20their%20career%3F",
+        "correct_answer": "Robert%20Parish",
+        "incorrect_answers": [
+          "Kareem%20Abdul-Jabbar",
+          "Kevin%20Garnett",
+          "Kobe%20Bryant"
+        ]
+      }
+    ]
+  }
+}

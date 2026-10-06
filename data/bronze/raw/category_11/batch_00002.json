@@ -1,0 +1,598 @@
+{
+  "category_id": 11,
+  "fetched_at": "2026-10-06T09:57:59.778554+00:00",
+  "request": {
+    "amount": 50,
+    "category": 11,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Actor%20Tommy%20Chong%20served%20prison%20time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20portrayed%20Han%20Solo%20in%20the%20Star%20Wars%20main%20film%20series%3F",
+        "correct_answer": "Harrison%20Ford",
+        "incorrect_answers": [
+          "Peter%20Cushing",
+          "Mark%20Hamill",
+          "Alec%20Guinness"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20the%202017%20movie%20%22The%20Shape%20of%20Water%22%3F",
+        "correct_answer": "Guillermo%20del%20Toro",
+        "incorrect_answers": [
+          "Steven%20Spielberg",
+          "James%20Cameron",
+          "Martin%20Scorsese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20which%201973%20film%20does%20Yul%20Brynner%20play%20a%20robotic%20cowboy%20who%20malfunctions%20and%20goes%20on%20a%20killing%20spree%3F",
+        "correct_answer": "Westworld",
+        "incorrect_answers": [
+          "Runaway",
+          "Android",
+          "The%20Terminators"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20original%20Star%20Wars%20trilogy%2C%20David%20Prowse%20was%20the%20actor%20who%20physically%20portrayed%20Darth%20Vader.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Shaquille%20O%27Neal%20appeared%20in%20the%201997%20film%20%22Space%20Jam%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "There%20aren%27t%20any%20live-action%20clones%20in%20%22Star%20Wars%3A%20Episode%20III%20-%20Revenge%20of%20the%20Sith%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Matt%20Damon%20played%20an%20astronaut%20stranded%20on%20an%20extraterrestrial%20planet%20in%20both%20of%20the%20movies%20Interstellar%20and%20The%20Martian.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%202002%20film%20%2228%20Days%20Later%22%20is%20mainly%20set%20in%20which%20European%20country%3F",
+        "correct_answer": "United%20Kingdom",
+        "incorrect_answers": [
+          "France",
+          "Italy",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20Baron%20Victor%20Frankestein%20in%20the%201957%20Hammer%20horror%20film%20%22The%20Curse%20of%20Frankenstein%22%3F",
+        "correct_answer": "Peter%20Cushing",
+        "incorrect_answers": [
+          "Boris%20Karloff",
+          "Vincent%20Price",
+          "Lon%20Chaney%20Jr."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Bela%20Lugosi%20was%20a%20Hungarian-American%20actor%20best%20known%20for%20his%20starring%20role%20of%20what%201931%20horror%20film%3F",
+        "correct_answer": "Count%20Dracula",
+        "incorrect_answers": [
+          "Dr%20Frankenstein",
+          "Werewolf",
+          "The%20Creature%20from%20the%20Black%20Lagoon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%2090%27s%20comedy%20cult%20classic%20features%20cameos%20appearances%20from%20Meat%20Loaf%2C%20Alice%20Cooper%20and%20Chris%20Farley%3F",
+        "correct_answer": "Wayne%27s%20World",
+        "incorrect_answers": [
+          "Bill%20%26%20Ted%27s%20Excellent%20Adventure",
+          "Dumb%20and%20Dumber",
+          "Austin%20Powers%3A%20International%20Man%20of%20Mystery"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20the%20movies%20%22Pulp%20Fiction%22%2C%20%22Reservoir%20Dogs%22%20and%20%22Django%20Unchained%22%3F",
+        "correct_answer": "Quentin%20Tarantino",
+        "incorrect_answers": [
+          "Martin%20Scorcese",
+          "Steven%20Spielberg",
+          "James%20Cameron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20movie%20sequel%20had%20improved%20box%20office%20results%20compared%20to%20its%20original%20film%3F",
+        "correct_answer": "Toy%20Story%202",
+        "incorrect_answers": [
+          "Sin%20City%3A%20A%20Dame%20to%20Kill%20For",
+          "Speed%202%3A%20Cruise%20Control",
+          "Son%20of%20the%20Mask"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20the%20first%20monster%20to%20appear%20alongside%20Godzilla%3F",
+        "correct_answer": "Anguirus",
+        "incorrect_answers": [
+          "King%20Kong",
+          "Mothra",
+          "King%20Ghidora"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20movie%20did%20NOT%20feature%20the%20late%20actor%20John%20Candy%3F",
+        "correct_answer": "Ghostbusters",
+        "incorrect_answers": [
+          "Little%20Shop%20Of%20Horrors",
+          "Home%20Alone",
+          "Planes%20Trains%20and%20Automobiles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "When%20does%20%22Rogue%20One%3A%20A%20Star%20Wars%20Story%22%20take%20place%20chronologically%20in%20the%20series%3F",
+        "correct_answer": "Between%20Episode%203%20and%204",
+        "incorrect_answers": [
+          "After%20Episode%206",
+          "Before%20Episode%201",
+          "Between%20Episode%204%20and%205"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20directed%20the%202015%20movie%20%22The%20Revenant%22%3F",
+        "correct_answer": "Alejandro%20G.%20I%C3%B1%C3%A1rritu",
+        "incorrect_answers": [
+          "Christopher%20Nolan",
+          "David%20Fincher",
+          "Wes%20Anderson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20name%20of%20the%20foley%20artist%20who%20designed%20the%20famous%20sounds%20of%20Star%20Wars%2C%20including%20Chewbacca%27s%20roar%20and%20R2-D2%27s%20beeps%20and%20whistles%3F",
+        "correct_answer": "Ben%20Burtt",
+        "incorrect_answers": [
+          "Ken%20Burns",
+          "Ralph%20McQuarrie",
+          "Miranda%20Keyes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20which%20African%20country%20was%20the%202006%20film%20%27Blood%20Diamond%27%20mostly%20set%20in%3F",
+        "correct_answer": "Sierra%20Leone",
+        "incorrect_answers": [
+          "Liberia",
+          "Burkina%20Faso",
+          "Central%20African%20Republic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%202012%20film%2C%20%22The%20Lorax%22%2C%20who%20is%20the%20antagonist%3F",
+        "correct_answer": "Aloysius%20O%27Hare",
+        "incorrect_answers": [
+          "Ted%20Wiggins",
+          "The%20Once-Ler",
+          "Grammy%20Norma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20one%20of%20these%20films%20did%20David%20Lynch%20direct%2C%20but%20not%20write%3F",
+        "correct_answer": "The%20Straight%20Story",
+        "incorrect_answers": [
+          "Inland%20Empire",
+          "Lost%20Highway",
+          "Twin%20Peaks%20Fire%20Walk%20With%20Me"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Max%20Schreck%2C%20a%20famous%20German%20silent%20film%20actor%2C%20plays%20a%20famous%20monster%20in%20which%201922%20film%3F",
+        "correct_answer": "Nosferatu",
+        "incorrect_answers": [
+          "Frankenstein%20",
+          "The%20Headless%20Horseman",
+          "H%C3%A4xan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20movie%20starring%20Bruce%20Willis%20contains%20the%20line%20%22I%20see%20dead%20people%22%3F%20",
+        "correct_answer": "The%20Sixth%20Sense",
+        "incorrect_answers": [
+          "The%20Fifth%20Element",
+          "Die%20Hard",
+          "Armageddon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20Movies%20was%20NOT%20released%20in%201996%3F",
+        "correct_answer": "Gladiator",
+        "incorrect_answers": [
+          "Independence%20Day",
+          "The%20Rock",
+          "Mission%3A%20Impossible"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%201994%20movie%20%22Speed%22%2C%20what%20is%20the%20minimum%20speed%20the%20bus%20must%20go%20to%20prevent%20to%20bomb%20from%20exploding%3F",
+        "correct_answer": "50%20mph",
+        "incorrect_answers": [
+          "60%20mph",
+          "40%20mph",
+          "70%20mph"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%202010%20film%20%22The%20Social%20Network%22%20is%20a%20biographical%20drama%20film%20about%20MySpace%20founder%20Tom%20Anderson.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20what%20year%20was%20the%20movie%20%22Police%20Academy%22%20released%3F",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+          "1986",
+          "1985",
+          "1983"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20Thanos%20in%20Avengers%3A%20Infinity%20War%20and%20Avengers%3A%20End%20Game%3F",
+        "correct_answer": "Josh%20Brolin",
+        "incorrect_answers": [
+          "Tom%20Hiddleston",
+          "Adam%20Sandler",
+          "Sean%20Gunn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20%22V%20for%20Vendetta%2C%22%20what%20is%20the%20date%20that%20masked%20vigilante%20%22V%22%20urges%20people%20to%20remember%3F",
+        "correct_answer": "November%205th",
+        "incorrect_answers": [
+          "November%206th",
+          "November%204th",
+          "September%205th"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20correct%20spelling%20of%20the%20protagonist%20of%20the%20book%20in%20The%20NeverEnding%20Story%20%281984%29%3F",
+        "correct_answer": "Atreyu",
+        "incorrect_answers": [
+          "Atrayu",
+          "Atraiyu",
+          "Atraeyu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20Friday%20The%2013th%20series%2C%20what%20is%20Jason%27s%20mother%27s%20first%20name%3F",
+        "correct_answer": "Pamela",
+        "incorrect_answers": [
+          "Mary",
+          "Christine",
+          "Angeline"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20was%20the%20first%20of%20Alfred%20Hitchcock%27s%20movies%20to%20be%20filmed%20in%20colour%3F",
+        "correct_answer": "Rope",
+        "incorrect_answers": [
+          "Psycho",
+          "Vertigo",
+          "Rebecca"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20films%20is%20NOT%20set%20in%20Los%20Angeles%3F",
+        "correct_answer": "RoboCop",
+        "incorrect_answers": [
+          "Blade%20Runner",
+          "The%20Terminator",
+          "Predator%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20film%20%22Interstellar%22%2C%20how%20long%20did%20they%20spend%20on%20Miller%27s%20planet%3F",
+        "correct_answer": "23%20years%2C%204%20months%2C%20and%208%20days",
+        "incorrect_answers": [
+          "15%20years%2C%202%20months%2C%20and%2015%20days",
+          "10%20months%20and%206%20days",
+          "26%20years%2C%204%20months%2C%20and%2010%20days"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "The%202016%20Disney%20animated%20film%20%27Moana%27%20is%20based%20on%20which%20culture%3F",
+        "correct_answer": "Polynesian",
+        "incorrect_answers": [
+          "Native%20American",
+          "Japanese",
+          "Nordic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20quote%20from%20the%201942%20film%20Casablanca%3F%20",
+        "correct_answer": "%22Frankly%2C%20my%20dear%2C%20I%20don%27t%20give%20a%20damn.%22",
+        "incorrect_answers": [
+          "%22Here%27s%20lookin%27%20at%20you%2C%20kid.%22",
+          "%E2%80%9COf%20all%20the%20gin%20joints%2C%20in%20all%20the%20towns%2C%20in%20all%20the%20world%2C%20she%20walks%20into%20mine%E2%80%A6%E2%80%9D",
+          "%22Round%20up%20the%20usual%20suspects.%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20DC%20superhero%20was%20NOT%20included%20in%20the%202017%20movie%20%22Justice%20League%22%3F",
+        "correct_answer": "Green%20Arrow",
+        "incorrect_answers": [
+          "Batman",
+          "Cyborg",
+          "Wonder%20Woman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20another%20suggested%20name%20for%2C%20the%201985%20film%2C%20Back%20to%20the%20Future%3F",
+        "correct_answer": "Spaceman%20From%20Pluto",
+        "incorrect_answers": [
+          "Hill%20Valley%20Time%20Travelers",
+          "The%20Time%20Travelers",
+          "The%20Lucky%20Man"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Joan%20Cusack%20starred%20in%20the%202009%20disaster%20movie%2C%20%222012%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20actor%20auditioned%20for%20the%20role%20of%20Luke%20Skywalker%3F",
+        "correct_answer": "Kurt%20Russell",
+        "incorrect_answers": [
+          "Christopher%20Lambert",
+          "Laurence%20Fishburne",
+          "James%20Remar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Which%20of%20these%20actors%20does%20NOT%20appear%20in%20the%201998%20movie%20%22Saving%20Private%20Ryan%22%3F",
+        "correct_answer": "Ralph%20Fiennes",
+        "incorrect_answers": [
+          "Tom%20Hanks",
+          "Vin%20Diesel",
+          "Matt%20Damon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Daniel%20Radcliffe%20became%20a%20global%20star%20in%20the%20film%20industry%20due%20to%20his%20performance%20in%20which%20film%20franchise%3F",
+        "correct_answer": "Harry%20Potter",
+        "incorrect_answers": [
+          "Ted",
+          "Spy%20Kids",
+          "Pirates%20of%20the%20Caribbean%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20what%20year%20was%20the%20first%20Transformers%20movie%20released%3F",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+          "2007",
+          "1984",
+          "2009"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20the%20movie%20Gremlins%2C%20after%20what%20time%20of%20day%20should%20you%20not%20feed%20Mogwai%3F",
+        "correct_answer": "Midnight",
+        "incorrect_answers": [
+          "Evening",
+          "Morning",
+          "Afternoon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Film",
+        "question": "%22Cube%22%2C%20%22Cube%202%3A%20Hypercube%22%20and%20%22Cube%20Zero%22%20were%20directed%20by%20the%20same%20person.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "Who%20played%20Deputy%20Marshal%20Samuel%20Gerard%20in%20the%201993%20film%20%22The%20Fugitive%22%3F",
+        "correct_answer": "Tommy%20Lee%20Jones",
+        "incorrect_answers": [
+          "Harrison%20Ford",
+          "Harvey%20Keitel",
+          "Martin%20Landau"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20was%20Dorothy%27s%20surname%20in%20%27The%20Wizard%20Of%20Oz%27%3F",
+        "correct_answer": "Gale",
+        "incorrect_answers": [
+          "Perkins",
+          "Day",
+          "Parker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "In%20which%201955%20film%20does%20Frank%20Sinatra%20play%20Nathan%20Detroit%3F",
+        "correct_answer": "Guys%20and%20Dolls",
+        "incorrect_answers": [
+          "Anchors%20Aweigh",
+          "From%20Here%20to%20Eternity",
+          "High%20Society"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Film",
+        "question": "What%20is%20the%20birth%20name%20of%20Michael%20Keaton%3F",
+        "correct_answer": "Michael%20Douglas",
+        "incorrect_answers": [
+          "Michael%20Fox",
+          "Michael%20Richards",
+          "Michael%20Kane"
+        ]
+      }
+    ]
+  }
+}

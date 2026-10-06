@@ -1,0 +1,596 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:26.397775+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Ellen%20McLain%2C%20the%20voice%20of%20GLaDOS%20in%20the%20Portal%20game%20series%2C%20is%20married%20to%20the%20voice%20actor%20for%20which%20Team%20Fortress%202%20character%3F",
+        "correct_answer": "Sniper",
+        "incorrect_answers": [
+          "Heavy",
+          "Soldier",
+          "Scout"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Hollow%20Knight%2C%20how%20many%20Precepts%20does%20Zote%20have%3F",
+        "correct_answer": "Fifty-Seven",
+        "incorrect_answers": [
+          "Sixty-Nine",
+          "Fourty-Three",
+          "Ninety-One"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20%22Call%20of%20Duty%22%20game%20are%20the%20%22Apothicons%22%20introduced%20in%20the%20Zombies%20mode%3F",
+        "correct_answer": "Call%20Of%20Duty%3A%20Black%20Ops%20III",
+        "incorrect_answers": [
+          "Call%20Of%20Duty%3A%20Black%20Ops",
+          "Call%20Of%20Duty%3A%20World%20At%20War",
+          "Call%20Of%20Duty%3A%20Black%20Ops%20II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20was%20NOT%20a%20launch%20title%20for%20the%20Nintendo%2064%3F",
+        "correct_answer": "Mario%20Kart%2064",
+        "incorrect_answers": [
+          "Super%20Mario%2064",
+          "Pilotwings%2064",
+          "Saiky%C5%8D%20Habu%20Sh%C5%8Dgi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20unlockable%20character%20in%20Super%20Smash%20Bros.%20For%20Wii%20U%20and%203DS%20does%20not%20have%20to%20be%20fought%20to%20be%20unlocked%3F",
+        "correct_answer": "Mii%20Fighters",
+        "incorrect_answers": [
+          "Ness",
+          "R.O.B.",
+          "Mewtwo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20episode%20of%20the%20Phantasy%20Star%20Online%20series%20is%20exclusive%20to%20the%20Nintendo%20Gamecube%3F",
+        "correct_answer": "Episode%20III",
+        "incorrect_answers": [
+          "Episode%20I",
+          "Episode%20II",
+          "Episode%20IV"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20main%20playable%20character%20in%20%22Grand%20Theft%20Auto%20V%22%3F",
+        "correct_answer": "Lamar",
+        "incorrect_answers": [
+          "Trevor",
+          "Michael",
+          "Franklin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20a%20character%20in%20the%20game%2C%20%22Lethal%20League%22%3F",
+        "correct_answer": "Rex",
+        "incorrect_answers": [
+          "Switch",
+          "Candyman",
+          "Sonata"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Minecraft%22%2C%20gold%20tools%20are%20faster%20than%20diamond%20tools.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20a%20DLC%20vehicle%20in%20%22Mario%20Kart%208%22%3F",
+        "correct_answer": "Wild%20Wiggler",
+        "incorrect_answers": [
+          "Bone%20Rattler",
+          "B%20Dasher",
+          "300%20SL%20Roadster"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20character%20in%20Undertale%20tells%20you%20that%20you%27re%20%22gonna%20have%20a%20bad%20time%22%3F",
+        "correct_answer": "Sans",
+        "incorrect_answers": [
+          "Undyne",
+          "Asgore",
+          "Asriel%20Dreemurr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20popular%20MOBA%20League%20of%20Legends%2C%20which%20of%20the%20following%20champions%20is%20nicknamed%20%22the%20Virtuoso%22%3F",
+        "correct_answer": "Jhin",
+        "incorrect_answers": [
+          "Kayle",
+          "Ezreal",
+          "Camille"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20games%20was%20not%20a%20launch%20title%20for%20the%20Nintendo%20Gamecube%3F",
+        "correct_answer": "Super%20Mario%20Sunshine",
+        "incorrect_answers": [
+          "Luigi%E2%80%99s%20Mansion",
+          "Star%20Wars%20Rogue%20Squadron%20II",
+          "Disney%E2%80%99s%20Tarzan%20Untamed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Nintendo%2064%20game%20did%20NOT%20have%20Luigi%20in%20it%3F",
+        "correct_answer": "Super%20Mario%2064",
+        "incorrect_answers": [
+          "Mario%20Party%202",
+          "Paper%20Mario",
+          "Super%20Smash%20Bros."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20of%20Duty%3A%20Black%20Ops%20III%22%20Zombies%2C%20what%20does%20completing%20all%20the%20main%20easter%20eggs%20reward%20you%20with%3F",
+        "correct_answer": "1%2C000%2C000%20XP",
+        "incorrect_answers": [
+          "Juggernog%20at%20the%20start%20of%20each%20game",
+          "50%20Liquid%20Diviniums",
+          "All%20three%20options."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20game%20in%20the%20%22Battlefield%22%20series%3F",
+        "correct_answer": "Battlefield%201942",
+        "incorrect_answers": [
+          "Battlefield%20Vietnam",
+          "Battlefield%202",
+          "Battlefield%201"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Rincewind%20from%20the%201995%20Discworld%20game%20was%20voiced%20by%20which%20member%20of%20Monty%20Python%3F",
+        "correct_answer": "Eric%20Idle",
+        "incorrect_answers": [
+          "John%20Cleese",
+          "Terry%20Gilliam",
+          "Michael%20Palin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20province%20you%20explore%20in%20Runescape%3F",
+        "correct_answer": "Gielinor",
+        "incorrect_answers": [
+          "Mordor",
+          "Kopar",
+          "Ashendale"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20%231%20selling%20game%20on%20Steam%20by%20revenue%20in%202016%3F",
+        "correct_answer": "Sid%20Meier%27s%20Civilization%20VI",
+        "incorrect_answers": [
+          "Grand%20Theft%20Auto%20V",
+          "Counter%20Strike%3A%20Global%20Offensive",
+          "Dark%20Souls%20III"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20highest%20level%20that%20you%20can%20reach%20in%20%22The%20Elder%20Scrolls%204%3A%20Oblivion%22%20without%20considering%20skill%20levels%2C%20class%2C%20and%20birthsign%3F",
+        "correct_answer": "50",
+        "incorrect_answers": [
+          "No%20limit",
+          "80",
+          "100"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20original%20release%20date%20of%20Grand%20Theft%20Auto%20V%3F",
+        "correct_answer": "September%2017%2C%202013",
+        "incorrect_answers": [
+          "August%2017%2C%202013",
+          "April%2014%2C%202015",
+          "November%2018%2C%202014"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Spyro%20the%20Dragon%2C%20what%20is%20Spyro%27s%20dragonfly%20friend%20called%3F",
+        "correct_answer": "Sparx",
+        "incorrect_answers": [
+          "Sam",
+          "Sparky",
+          "Spinkles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Overwatch%2C%22%20what%20are%20the%20names%20of%20the%20two%20Australian%20criminals%20from%20the%20Junkers%20faction%3F",
+        "correct_answer": "Junkrat%20and%20Roadhog",
+        "incorrect_answers": [
+          "Roadrat%20and%20Junkhog",
+          "Ana%20and%20Pharah",
+          "McCree%20and%20Deadeye"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20year%20was%20League%20of%20Legends%20released%3F",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+          "2010",
+          "2003",
+          "2001"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20video%20game%20genre%20were%20the%20original%20Warcraft%20games%3F",
+        "correct_answer": "RTS%20%28Real%20Time%20Strategy%29",
+        "incorrect_answers": [
+          "RPG%20%28Role%20Playing%20Game%29",
+          "TBS%20%28Turn%20Based%20Strategy%29",
+          "MMO%20%28Massively%20Multiplayer%20Online%29"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20song%20%22Megalovania%22%20by%20Toby%20Fox%20made%20its%20third%20appearence%20in%20the%202015%20RPG%20%22Undertale%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Transistor%22%2C%20%22Red%22%20is%20the%20name%20of%20the%20main%20character.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Grand%20Theft%20Auto%3A%20V%2C%20what%20wanted%20level%20does%20the%20player%20receive%20if%20they%20enter%20Zancudo%20Army%20Base%20north%20of%20Los%20Santos%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "3",
+          "5",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Capcom%27s%20survival%20horror%20title%20Dead%20Rising%2C%20canonically%20starts%20on%20what%20day%20of%20September%202006%3F",
+        "correct_answer": "September%2019th",
+        "incorrect_answers": [
+          "September%2021st",
+          "September%2030th",
+          "September%2014th"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Season%20One%20Championship%20of%20%22League%20of%20Legends%22%2C%20the%20highest%20achievable%20rank%20was%20Diamond.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Pok%C3%A9mon%20series%2C%20what%20is%20Palkia%27s%20hidden%20ability%3F",
+        "correct_answer": "Telepathy",
+        "incorrect_answers": [
+          "Pressure",
+          "Water%20Bubble",
+          "Hydration"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Pok%C3%A9mon%20Sun%20and%20Moon%2C%20a%20male%20Salandit%20can%20evolve%20to%20a%20Salazzle.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Mass%20Effect%20trilogy%2C%20who%20is%20the%20main%20protagonist%3F",
+        "correct_answer": "Shepard",
+        "incorrect_answers": [
+          "Mordin",
+          "Garrus",
+          "Thane"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Overwatch%22%2C%20which%20hero%20is%20able%20to%20wallride%3F",
+        "correct_answer": "Lucio",
+        "incorrect_answers": [
+          "Reinhardt",
+          "Sombra",
+          "Mercy"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Ace%20Attorney%20trilogy%20was%20suppose%20to%20end%20with%20%22Phoenix%20Wright%3A%20Ace%20Attorney%20%E2%88%92%20Trials%20and%20Tribulations%22%20as%20its%20final%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Kingdom%20Hearts%20game%20featured%20the%20cast%20of%20%22The%20World%20Ends%20With%20You%22%3F",
+        "correct_answer": "Dream%20Drop%20Distance",
+        "incorrect_answers": [
+          "Birth%20By%20Sleep",
+          "365%2F2%20Days",
+          "Re%3AChain%20of%20Memories"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Fiat%20Multipla%20is%20a%20drivable%20car%20in%20%22Forza%20Horizon%203%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Metal%20Gear%20Solid%22%2C%20what%20did%20Revolver%20Ocelot%20consider%20the%20greatest%20handgun%20ever%20made%3F",
+        "correct_answer": "Colt%20Single%20Action%20Army",
+        "incorrect_answers": [
+          "Colt%20Python",
+          "Colt%20M1892",
+          "Colt%201851%20Navy%20Revolver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20name%20of%20a%20city%20in%20the%20main%20island%20of%20PLAYERUNKNOWN%27S%20BATTLEGROUNDS%3F",
+        "correct_answer": "Belushya%20Guba",
+        "incorrect_answers": [
+          "Yasnaya%20Polyana",
+          "Pochinki",
+          "Georgopol"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20are%20the%20original%20creators%20of%20Rachet%20%26%20Clank%3F",
+        "correct_answer": "Insomniac%20Games",
+        "incorrect_answers": [
+          "PixelTail%20Games",
+          "Rare",
+          "Bethesda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20creeper%20in%20Minecraft%20was%20the%20result%20of%20a%20bug%20while%20implementing%20which%20creature%3F",
+        "correct_answer": "Pig",
+        "incorrect_answers": [
+          "Zombie",
+          "Chicken",
+          "Cow"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Blue%20Reflection%22%2C%20the%20main%20protagonist%2C%20Hinako%20Shirai%2C%20was%20a%20ballet%20dancer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20characters%20is%20NOT%20playable%20in%20%22Resident%20Evil%206%22%3F",
+        "correct_answer": "Jill%20Valentine",
+        "incorrect_answers": [
+          "Chris%20Redfield",
+          "Sherry%20Birkin",
+          "Helena%20Harper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20protagonist%20of%20%22Ace%20Combat%20Zero%3A%20The%20Belkan%20War%22%3F",
+        "correct_answer": "Cipher",
+        "incorrect_answers": [
+          "Mobius%201",
+          "Blaze",
+          "Pixy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20made%20the%20Japanese%20RPG%20%22Dragon%20Quest%22%3F",
+        "correct_answer": "Square%20Enix",
+        "incorrect_answers": [
+          "Capcom",
+          "Konami",
+          "Blizzard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20.hack%20game%3F",
+        "correct_answer": ".hack%2F%2FInfection",
+        "incorrect_answers": [
+          ".hack%2F%2FZero",
+          ".hack%2F%2FSign",
+          ".hack%2F%2FLiminality"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Copy%20Abilities%20was%20only%20featured%20in%20%22Kirby%20%26%20The%20Amazing%20Mirror%22%3F",
+        "correct_answer": "Mini",
+        "incorrect_answers": [
+          "Magic",
+          "Smash",
+          "Missile"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Half-Life%202%2C%20if%20you%20play%20the%20zombies%27%20speech%20in%20reverse%2C%20they%20actually%20speak%20coherent%20English.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Sonic%20the%20Hedgehog%202%22%20for%20the%20Sega%20Genesis%2C%20what%20do%20you%20input%20in%20the%20sound%20test%20screen%20to%20access%20the%20secret%20level%20select%3F",
+        "correct_answer": "The%20Lead%20Programmer%27s%20birthday",
+        "incorrect_answers": [
+          "The%20first%20release%20date%20of%20%22Sonic%20the%20Hedgehog%22",
+          "The%20date%20Sonic%20Team%20was%20founded",
+          "The%20first%20release%20date%20of%20%22Sonic%20the%20Hedgehog%202%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20perk%20that%20was%20introduced%20in%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%2C%20%22Mob%20Of%20The%20Dead%22%3F",
+        "correct_answer": "Electric%20Cherry",
+        "incorrect_answers": [
+          "Quick%20Revive",
+          "Vulture%20Aid",
+          "Tombstone"
+        ]
+      }
+    ]
+  }
+}

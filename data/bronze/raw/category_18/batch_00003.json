@@ -1,0 +1,594 @@
+{
+  "category_id": 18,
+  "fetched_at": "2026-10-06T10:03:28.078075+00:00",
+  "request": {
+    "amount": 50,
+    "category": 18,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20computing%2C%20how%20many%20bits%20are%20in%20a%20nibble%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "16",
+          "32",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20acronym%20CDN%20stand%20for%20in%20terms%20of%20networking%3F",
+        "correct_answer": "Content%20Delivery%20Network",
+        "incorrect_answers": [
+          "Content%20Distribution%20Network",
+          "Computational%20Data%20Network",
+          "Compressed%20Data%20Network"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "How%20long%20is%20an%20IPv6%20address%3F",
+        "correct_answer": "128%20bits",
+        "incorrect_answers": [
+          "32%20bits",
+          "64%20bits",
+          "128%20bytes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20HTML%2C%20which%20non-standard%20tag%20used%20to%20be%20be%20used%20to%20make%20elements%20scroll%20across%20the%20viewport%3F",
+        "correct_answer": "%3Cmarquee%3E%3C%2Fmarquee%3E",
+        "incorrect_answers": [
+          "%3Cscroll%3E%3C%2Fscroll%3E",
+          "%3Cmove%3E%3C%2Fmove%3E",
+          "%3Cslide%3E%3C%2Fslide%3E"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20programming%20language%20was%20GitHub%20written%20in%3F",
+        "correct_answer": "Ruby",
+        "incorrect_answers": [
+          "JavaScript",
+          "Python",
+          "Lua"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "All%20of%20the%20following%20programs%20are%20classified%20as%20raster%20graphics%20editors%20EXCEPT%3A",
+        "correct_answer": "Inkscape",
+        "incorrect_answers": [
+          "Paint.NET",
+          "GIMP",
+          "Adobe%20Photoshop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Who%20is%20the%20original%20author%20of%20the%20realtime%20physics%20engine%20called%20PhysX%3F",
+        "correct_answer": "NovodeX",
+        "incorrect_answers": [
+          "Ageia",
+          "Nvidia",
+          "AMD"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Color%20model%20CMYK%20stands%20for%3F",
+        "correct_answer": "Cyan%2C%20Magenta%2C%20Yellow%2C%20and%20Black",
+        "incorrect_answers": [
+          "Cream%2C%20Maroon%2C%20Yellow%2C%20and%20Black",
+          "Cyan%2C%20Magenta%2C%20Yellow%2C%20and%20Khaki",
+          "Cream%2C%20Maroon%2C%20Yellow%2C%20and%20Khaki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20people%20was%20NOT%20a%20founder%20of%20Apple%20Inc%3F",
+        "correct_answer": "Jonathan%20Ive",
+        "incorrect_answers": [
+          "Steve%20Jobs",
+          "Ronald%20Wayne",
+          "Steve%20Wozniak"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20computing%2C%20what%20does%20LAN%20stand%20for%3F",
+        "correct_answer": "Local%20Area%20Network",
+        "incorrect_answers": [
+          "Long%20Antenna%20Node",
+          "Light%20Access%20Node",
+          "Land%20Address%20Navigation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "The%20Harvard%20architecture%20for%20micro-controllers%20added%20which%20additional%20bus%3F",
+        "correct_answer": "Instruction",
+        "incorrect_answers": [
+          "Address",
+          "Data",
+          "Control"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Dutch%20computer%20scientist%20Mark%20Overmars%20is%20known%20for%20creating%20which%20game%20development%20engine%3F",
+        "correct_answer": "Game%20Maker",
+        "incorrect_answers": [
+          "Stencyl",
+          "Construct",
+          "Torque%202D"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20largely%20considered%20the%20precursor%20to%20the%20USB%20format%3F",
+        "correct_answer": "PS%2F2",
+        "incorrect_answers": [
+          "SVGA",
+          "PCIe",
+          "FireWire"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "A%20Boolean%20value%20of%20%220%22%20represents%20which%20of%20these%20words%3F",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20SSD%20stand%20for%3F",
+        "correct_answer": "Solid%20State%20Drive",
+        "incorrect_answers": [
+          "Solution%20Source%20Disk",
+          "Solid%20State%20Disk",
+          "Source%20Solution%20Drive"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20language%20does%20Node.js%20use%3F",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+          "Java",
+          "Java%20Source",
+          "Joomla%20Source%20Code"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20number%20of%20keys%20on%20a%20standard%20Windows%20Keyboard%3F",
+        "correct_answer": "104",
+        "incorrect_answers": [
+          "64",
+          "94",
+          "76"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20open%20source%20program%20Redis%20is%20a%20relational%20database%20server.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "How%20many%20cores%20does%20the%20Intel%20i7-6950X%20have%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "12",
+          "8",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20these%20names%20was%20an%20actual%20codename%20for%20a%20cancelled%20Microsoft%20project%3F",
+        "correct_answer": "Neptune",
+        "incorrect_answers": [
+          "Enceladus",
+          "Pollux",
+          "Saturn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20the%20term%20USB%20stand%20for%3F",
+        "correct_answer": "Universal%20Serial%20Bus",
+        "incorrect_answers": [
+          "Universal%20Simtex%20Blot",
+          "Unified%20Signal%20Bus",
+          "Unityped%20Semtex%20Backer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20any%20programming%20language%2C%20what%20is%20the%20most%20common%20way%20to%20iterate%20through%20an%20array%3F",
+        "correct_answer": "%27For%27%20loops",
+        "incorrect_answers": [
+          "%27If%27%20Statements",
+          "%27Do-while%27%20loops",
+          "%27While%27%20loops"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20programming%20language%20%27Swift%27%20was%20created%20to%20replace%20what%20other%20programming%20language%3F",
+        "correct_answer": "Objective-C",
+        "incorrect_answers": [
+          "C%23",
+          "Ruby",
+          "C%2B%2B"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Linux%20was%20first%20created%20as%20an%20alternative%20to%20Windows%20XP.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20HTML5%20standard%20was%20published%20in%202014.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20one%20of%20these%20is%20not%20an%20official%20development%20name%20for%20a%20Ubuntu%20release%3F",
+        "correct_answer": "Mystic%20Mansion",
+        "incorrect_answers": [
+          "Trusty%20Tahr",
+          "Utopic%20Unicorn",
+          "Wily%20Werewolf"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20Electron%20computer%20was%20released%20in%20Britain%20during%201983%20for%20the%20home%20computing%20market%2C%20by%20which%20company%3F%20",
+        "correct_answer": "Acorn%20Computers",
+        "incorrect_answers": [
+          "Sinclair%20Research",
+          "Amstrad%20PLC",
+          "Commodore%20Business%20Machines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20main%20CPU%20is%20the%20Sega%20Mega%20Drive%20%2F%20Sega%20Genesis%3F",
+        "correct_answer": "Motorola%2068000",
+        "incorrect_answers": [
+          "Zilog%20Z80",
+          "Yamaha%20YM2612",
+          "Intel%208088"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "On%20which%20computer%20hardware%20device%20is%20the%20BIOS%20chip%20located%3F",
+        "correct_answer": "Motherboard",
+        "incorrect_answers": [
+          "Hard%20Disk%20Drive",
+          "Central%20Processing%20Unit",
+          "Graphics%20Processing%20Unit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "If%20you%20were%20to%20code%20software%20in%20this%20language%20you%27d%20only%20be%20able%20to%20type%200%27s%20and%201%27s.",
+        "correct_answer": "Binary",
+        "incorrect_answers": [
+          "JavaScript",
+          "C%2B%2B",
+          "Python"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20coding%20language%20was%20the%20%231%20programming%20language%20in%20terms%20of%20usage%20on%20GitHub%20in%202015%3F",
+        "correct_answer": "JavaScript",
+        "incorrect_answers": [
+          "C%23",
+          "Python",
+          "PHP"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Early%20RAM%20was%20directly%20seated%20onto%20the%20motherboard%20and%20could%20not%20be%20easily%20removed.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20NVidia%20GTX%201080%20gets%20its%20name%20because%20it%20can%20only%20render%20at%20a%201920x1080%20screen%20resolution.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "In%20most%20programming%20languages%2C%20the%20operator%20%2B%2B%20is%20equivalent%20to%20the%20statement%20%22%2B%3D%201%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "According%20to%20the%20International%20System%20of%20Units%2C%20how%20many%20bytes%20are%20in%20a%20kilobyte%20of%20RAM%3F",
+        "correct_answer": "1000",
+        "incorrect_answers": [
+          "512",
+          "1024",
+          "500"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "The%20internet%20domain%20.fm%20is%20the%20country-code%20top-level%20domain%20for%20which%20Pacific%20Ocean%20island%20nation%3F",
+        "correct_answer": "Micronesia",
+        "incorrect_answers": [
+          "Fiji",
+          "Tuvalu",
+          "Marshall%20Islands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "While%20Apple%20was%20formed%20in%20California%2C%20in%20which%20western%20state%20was%20Microsoft%20founded%3F",
+        "correct_answer": "New%20Mexico",
+        "incorrect_answers": [
+          "Washington",
+          "Colorado",
+          "Arizona"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20the%20following%20languages%20is%20used%20as%20a%20scripting%20language%20in%20the%20Unity%203D%20game%20engine%3F",
+        "correct_answer": "C%23",
+        "incorrect_answers": [
+          "Java",
+          "C%2B%2B",
+          "Objective-C"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20name%20of%20the%20programming%20language%20AWK%20is%20abbreviated%20from%20the%20names%20of%20the%20developers%20%E2%80%93%20Aho%2C%20Weinberger%2C%20and%20Kernighan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20codename%20of%20the%20eighth%20generation%20Intel%20Core%20micro-architecture%20launched%20in%20October%202017%3F",
+        "correct_answer": "Coffee%20Lake",
+        "incorrect_answers": [
+          "Sandy%20Bridge",
+          "Skylake",
+          "Broadwell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "When%20was%20the%20programming%20language%20%22C%23%22%20released%3F",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+          "1998",
+          "1999",
+          "2001"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "What%20is%20the%20maximum%20value%20of%20a%2032-bit%20signed%20binary%20integer%3F",
+        "correct_answer": "2%2C147%2C483%2C647",
+        "incorrect_answers": [
+          "255",
+          "2048",
+          "9%2C223%2C372%2C036%2C854%2C775%2C807"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20of%20the%20following%20computer%20components%20can%20be%20built%20using%20only%20NAND%20gates%3F",
+        "correct_answer": "ALU",
+        "incorrect_answers": [
+          "CPU",
+          "RAM",
+          "Register"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "The%20%27Raspberry%20Pi%27%20series%20of%20single-board%20computers%20were%20created%20in%20the%20United%20States.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20the%20server%20hosting%20industry%20IaaS%20stands%20for...",
+        "correct_answer": "Infrastructure%20as%20a%20Service",
+        "incorrect_answers": [
+          "Internet%20as%20a%20Service",
+          "Internet%20and%20a%20Server",
+          "Infrastructure%20as%20a%20Server"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20does%20%22LCD%22%20stand%20for%3F",
+        "correct_answer": "Liquid%20Crystal%20Display",
+        "incorrect_answers": [
+          "Language%20Control%20Design",
+          "Last%20Common%20Difference",
+          "Long%20Continuous%20Design"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "The%20first%20IBM%20PC%20was%20released%20in%201981.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "In%20CSS%2C%20which%20of%20these%20values%20CANNOT%20be%20used%20with%20the%20%22position%22%20property%3F",
+        "correct_answer": "center",
+        "incorrect_answers": [
+          "static",
+          "absolute",
+          "relative"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%3A%20Computers",
+        "question": "Which%20computer%20language%20would%20you%20associate%20Django%20framework%20with%3F",
+        "correct_answer": "Python",
+        "incorrect_answers": [
+          "C%23",
+          "C%2B%2B",
+          "Java"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%3A%20Computers",
+        "question": "What%20was%20the%20first%20Android%20version%20specifically%20optimized%20for%20tablets%3F",
+        "correct_answer": "Honeycomb",
+        "incorrect_answers": [
+          "Eclair",
+          "Froyo",
+          "Marshmellow"
+        ]
+      }
+    ]
+  }
+}

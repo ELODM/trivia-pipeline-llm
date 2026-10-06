@@ -1,0 +1,600 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:59:23.219084+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20not%20a%20song%20on%20the%20album%20Graduation%20by%20Kanye%20West%3F",
+        "correct_answer": "Waves",
+        "incorrect_answers": [
+          "I%20Wonder",
+          "Big%20Brother",
+          "The%20Glory"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20band%20featured%20Sting%2C%20Stewart%20Copeland%20and%20Andy%20Summers%3F",
+        "correct_answer": "The%20Police",
+        "incorrect_answers": [
+          "Def%20Leppard",
+          "The%20Cure",
+          "Bon%20Jovi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20Kendrick%20Lamar%27s%202012%20album%2C%20%22Good%20Kid%2C%20M.A.A.D%20City%22%2C%20the%20album%27s%20story%20takes%20place%20in%20which%20city%3F",
+        "correct_answer": "Compton",
+        "incorrect_answers": [
+          "Detroit",
+          "New%20York",
+          "Baltimore"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%201993%2C%20Prince%20changed%20his%20name%20to%20an%20unpronounceable%20symbol%20because%20he%20was%20unhappy%20with%20his%20contract%20with%20Warner%20Bros.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20Queen%20songs%20were%20sampled%20for%20the%20baseline%20in%20Vanilla%20%22Ice%27s%20Ice%20Ice%20Baby%3F%22",
+        "correct_answer": "Under%20Pressure",
+        "incorrect_answers": [
+          "Don%27t%20Stop%20Me%20Now",
+          "Brighton%20Rock",
+          "Lazing%20On%20A%20Sunday%20Afternoon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20Red%20Hot%20Chili%20Pepper%20song%20%22Give%20It%20Away%22%20is%20from%20what%20album%3F",
+        "correct_answer": "Blood%20Sugar%20Sex%20Magik",
+        "incorrect_answers": [
+          "One%20Hot%20Minute",
+          "By%20the%20Way",
+          "Stadium%20Arcadium"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Soulja%20Boy%27s%20%27Crank%20That%27%20won%20a%20Grammy%20for%20Best%20Rap%20Song%20in%202007.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20artists%20do%20NOT%20originate%20from%20France%3F",
+        "correct_answer": "The%20Chemical%20Brothers",
+        "incorrect_answers": [
+          "Air",
+          "Justice",
+          "Daft%20Punk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20copies%20have%20Metallica%20album%20%22Metallica%22%20%28A.K.A%20The%20Black%20Album%29%20sold%20worldwide%20%28in%20Millions%20of%20Copies%29%3F",
+        "correct_answer": "20.5",
+        "incorrect_answers": [
+          "19.5",
+          "22.5",
+          "25.5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20famous%20artist%20featured%20on%20Rowdy%20Rebel%27s%202015%20song%20%22Computers%22%3F",
+        "correct_answer": "Bobby%20Shmurda%20",
+        "incorrect_answers": [
+          "Lil%20Wayne",
+          "Will.I.AM",
+          "Kendrick%20Lamar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20artists%20has%20NOT%20been%20a%20member%20of%20dancehall%20group%20Major%20Lazer%3F",
+        "correct_answer": "Skrillex",
+        "incorrect_answers": [
+          "Diplo",
+          "Jillionaire",
+          "Walshy%20Fire"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "From%20which%20album%20is%20the%20Gorillaz%20song%2C%20%22On%20Melancholy%20Hill%22%20featured%20in%3F",
+        "correct_answer": "Plastic%20Beach",
+        "incorrect_answers": [
+          "Demon%20Days",
+          "Humanz",
+          "The%20Fall"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Johnny%20Cash%20did%20a%20cover%20of%20this%20song%20written%20by%20lead%20singer%20of%20Nine%20Inch%20Nails%2C%20Trent%20Reznor.",
+        "correct_answer": "Hurt",
+        "incorrect_answers": [
+          "Closer",
+          "A%20Warm%20Place",
+          "Big%20Man%20with%20a%20Gun"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Panic%21%20At%20the%20Disco%27s%20sixth%20album%20%22Pray%20For%20The%20Wicked%22%20was%20released%20on%20which%20date%3F",
+        "correct_answer": "June%2022%2C%202018",
+        "incorrect_answers": [
+          "May%209%2C%202018",
+          "March%2013%2C%202018",
+          "February%2021%2C%202018"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20iconic%20album%20cover%20features%20the%20pulsar%20waves%20of%20CP%201919%20placed%20in%20the%20center%20of%20the%20cover%3F",
+        "correct_answer": "Unknown%20Pleasures",
+        "incorrect_answers": [
+          "The%20Dark%20Side%20of%20the%20Moon",
+          "London%20Calling",
+          "The%20Velvet%20Underground%20%26%20Nico"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "American%20rapper%20Dr.%20Dre%20actually%20has%20a%20Ph.D.%20doctorate.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20a%20pioneer%20of%20%22Minimal%20Music%22%20in%201960s%3F",
+        "correct_answer": "Steve%20Reich",
+        "incorrect_answers": [
+          "Wolfgang%20Amadeus%20Mozart",
+          "Brian%20Eno",
+          "Sigur%20R%C3%B3s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20artist%20released%20the%202012%20single%20%22Harlem%20Shake%22%2C%20which%20was%20used%20in%20numerous%20YouTube%20videos%20in%202013%3F",
+        "correct_answer": "Baauer",
+        "incorrect_answers": [
+          "RL%20Grime",
+          "NGHTMRE",
+          "Flosstradamus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Beatles%20album%20does%20NOT%20feature%20any%20of%20the%20band%20members%20on%20it%27s%20cover%3F",
+        "correct_answer": "The%20Beatles%20%28White%20Album%29",
+        "incorrect_answers": [
+          "Rubber%20Soul",
+          "Abbey%20Road",
+          "Magical%20Mystery%20Tour"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20the%20name%20of%20an%20album%20released%20by%20American%20rapper%20Viper%3F",
+        "correct_answer": "The%20Life%20of%20Pablo",
+        "incorrect_answers": [
+          "Kill%20Urself%20My%20Man",
+          "You%27ll%20Cowards%20Don%27t%20Even%20Smoke%20Crack",
+          "Yo%20Wife%20Handcuffin%27%20Me"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20Proclaimers%20-%20I%27m%20Gonna%20Be%20%28500%20Miles%29%20reached%20what%20position%20on%20the%20US%20Hot%20100%20Charts%20in%201993%3F",
+        "correct_answer": "3rd",
+        "incorrect_answers": [
+          "8th",
+          "1st",
+          "5th"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20recorded%20the%20album%20called%20%22Down%20to%20the%20Moon%22%20in%201986%3F",
+        "correct_answer": "Andreas%20Vollenweider",
+        "incorrect_answers": [
+          "Jean-Michel%20Jarre",
+          "Bing%20Crosby",
+          "Enya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20term%20best%20describes%20the%20connection%20of%20two%20sections%20of%20a%20musical%20piece%20through%20a%20transitional%20passage%3F",
+        "correct_answer": "Bridge",
+        "incorrect_answers": [
+          "Coda",
+          "Capo",
+          "Binary%20Form"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20real%20name%20of%20American%20rapper%20Eminem%2C%20also%20known%20as%20Slim%20Shady%3F",
+        "correct_answer": "Marshall%20Mathers",
+        "incorrect_answers": [
+          "Calvin%20Broadus",
+          "Shawn%20Carter",
+          "Nasir%20Jones"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20in%20Drake%27s%20%22Views%22%20features%20Future%3F",
+        "correct_answer": "Grammys",
+        "incorrect_answers": [
+          "Too%20Good",
+          "Faithful",
+          "Pop%20Style"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%202023%20Beatles%20song%20%22Now%20and%20Then%22%20originated%20from%20an%20unfinished%20demo%20recorded%20by%20which%20Beatle%3F",
+        "correct_answer": "John%20Lennon",
+        "incorrect_answers": [
+          "Paul%20McCartney",
+          "George%20Harrison",
+          "Ringo%20Starr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20a%20song%20on%20The%20Beatles%27%201968%20self%20titled%20album%2C%20also%20known%20as%20the%20White%20album%3F",
+        "correct_answer": "Being%20For%20The%20Benefit%20Of%20Mr.%20Kite%21",
+        "incorrect_answers": [
+          "Why%20Don%27t%20We%20Do%20It%20in%20the%20Road%3F",
+          "Everybody%27s%20Got%20Something%20to%20Hide%20Except%20Me%20and%20My%20Monkey",
+          "The%20Continuing%20Story%20of%20Bungalow%20Bill"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20%22Old%20Town%20Road%22%20by%20American%20rapper%20Lil%20Nas%20X%20samples%20the%20song%20%2234%20Ghosts%20IV%22%20by%20which%20band%3F",
+        "correct_answer": "Nine%20Inch%20Nails",
+        "incorrect_answers": [
+          "Death%20Grips",
+          "Iron%20Maiden",
+          "Animal%20Collective"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Canadian%20reggae%20musician%20had%20a%201993%20hit%20with%20the%20song%20%27Informer%27%3F",
+        "correct_answer": "Snow",
+        "incorrect_answers": [
+          "Rain",
+          "Hail",
+          "Sleet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20classical%20composer%20wrote%20the%20%22Moonlight%20Sonata%22%3F",
+        "correct_answer": "Ludvig%20Van%20Beethoven",
+        "incorrect_answers": [
+          "Chief%20Keef",
+          "Wolfgang%20Amadeus%20Mozart",
+          "Johannes%20Brahms"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Scatman%20John%27s%20real%20name%20was%20John%20Paul%20Larkin.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20lyric%20is%20about%20Red%20Hot%20Chili%20Peppers%20frontman%20Anthony%20Kiedis%3F",
+        "correct_answer": "%22A%20rainy%20Lithuanian%20%2F%20Is%20dancing%20as%20an%20Indian%22",
+        "incorrect_answers": [
+          "%22Fly%20away%20on%2C%20my%20zephyr%20%2F%20I%20feel%20it%20more%20than%20ever%22",
+          "%22And%20I%20liked%20the%20dimple%20in%20your%20chin%20%2F%20Your%20pale%20blue%20eyes%22",
+          "%22You%20used%20to%20be%20so%20warm%20and%20affectionate...but%20now%20you%27re%20quick%20to%20get%20into%20your%20regret%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20a%20song%20featured%20on%20the%20Lockjaw%20EP%20released%20in%202013%20by%20Flume%20%26%20Chet%20Faker%3F",
+        "correct_answer": "Left%20Alone",
+        "incorrect_answers": [
+          "What%20About%20Us",
+          "This%20Song%20Is%20Not%20About%20A%20Girl",
+          "Drop%20The%20Game"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20famous%2090%27s%20rap%20album%20is%20commonly%20referred%20to%20as%20%22The%20Bible%20of%20Hip%20Hop%22%3F",
+        "correct_answer": "Illmatic",
+        "incorrect_answers": [
+          "The%20Low%20End%20Theory",
+          "The%20Chronic",
+          "Enter%20The%20Wu-Tang%20%2836%20Chambers%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20guitarists%20recorded%20an%20album%20as%20a%20member%20of%20the%20Red%20Hot%20Chili%20Peppers%3F",
+        "correct_answer": "Dave%20Navarro",
+        "incorrect_answers": [
+          "Tom%20Morello%20",
+          "Billy%20Corgan",
+          "Ed%20O%27Brien"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20band%2C%20HEALTH%2C%20is%20called%20HEALTH%20because%20they%20wanted%20to%20choose%20an%20everyday%20word%20for%20the%20band%20name.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%27We%20Built%20This%20City%27%20was%20a%20number%20one%20hit%20for%20which%20American%20rock%20band%20in%201985%3F",
+        "correct_answer": "Starship",
+        "incorrect_answers": [
+          "Kansas",
+          "Jefferson%20Airplane",
+          "Aerosmith"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Rick%20Astley%27s%20hit%20song%20%22Never%20Gonna%20Give%20You%20Up%22%20was%20released%20in%20what%20year%3F",
+        "correct_answer": "1987",
+        "incorrect_answers": [
+          "1985",
+          "1986",
+          "1988"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Daft%20Punk%20album%20is%20the%20song%20%22Harder%2C%20Better%2C%20Faster%2C%20Stronger%22%20from%3F",
+        "correct_answer": "Discovery",
+        "incorrect_answers": [
+          "Homework",
+          "Random%20Access%20Memories",
+          "Human%20After%20All"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20artists%20did%20NOT%20remix%20the%20song%20%22Faded%22%20by%20Alan%20Walker%3F",
+        "correct_answer": "Skrillex",
+        "incorrect_answers": [
+          "Ti%C3%ABsto",
+          "Slushii",
+          "Dash%20Berlin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20company%20did%20the%20animation%20for%20Peter%20Gabriel%27s%20Video%20Sledgehammer%20%281986%29%3F",
+        "correct_answer": "Aardman%20Animations",
+        "incorrect_answers": [
+          "HIT%20Entertainment",
+          "Illumination%20Entertainment",
+          "VIZ%20Media"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20popular%20jazz%20standard%20begins%20with%20the%20line%20%22Someday%2C%20when%20I%27m%20awfully%20low%22%3F",
+        "correct_answer": "The%20Way%20You%20Look%20Tonight",
+        "incorrect_answers": [
+          "Autumn%20Leaves",
+          "Dream%20a%20Little%20Dream%20of%20Me",
+          "All%20the%20Things%20You%20Are"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20band%20Muse%20released%20their%20first%20album%2C%20Showbiz%2C%20in%20what%20year%3F",
+        "correct_answer": "1999",
+        "incorrect_answers": [
+          "1998",
+          "2000",
+          "2001"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Bon%20Iver%27s%20debut%20album%20released%20in%202007%3F",
+        "correct_answer": "For%20Emma%2C%20Forever%20Ago",
+        "incorrect_answers": [
+          "Bon%20Iver%2C%20Bon%20Iver",
+          "22%2C%20A%20Million",
+          "Blood%20Bank%20EP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20genre%20of%20Hip%20Hop%20does%20MC%20Frontalot%20rap%3F",
+        "correct_answer": "Nerdcore",
+        "incorrect_answers": [
+          "Horrorcore",
+          "Christian",
+          "Crunk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%27s%20the%20most%20common%20time%20signature%20for%20rock%20songs%3F",
+        "correct_answer": "4%2F4",
+        "incorrect_answers": [
+          "1%2F2",
+          "8%2F12",
+          "2%2F4"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%201969%20Frank%20Sinatra%20Song%20%22My%20Way%22%20was%20ironically%20not%20written%20by%20him.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20is%20the%20longest%20active%20band%20in%20the%20world%20with%20no%20breaks%20or%20line-up%20changes%3F",
+        "correct_answer": "U2",
+        "incorrect_answers": [
+          "Radiohead",
+          "Rush",
+          "Rolling%20Stones"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pete%20Townshend%27s%20solo%20album%2C%20%22White%20City%3A%20A%20Novel%22%2C%20is%20set%20in%20the%20metropolitan%20area%20of%20Chicago.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20title%20of%20ABBA%60s%20first%20UK%20hit%20single%3F",
+        "correct_answer": "Waterloo",
+        "incorrect_answers": [
+          "Mamma%20Mia",
+          "Fernando",
+          "Dancing%20Queen"
+        ]
+      }
+    ]
+  }
+}

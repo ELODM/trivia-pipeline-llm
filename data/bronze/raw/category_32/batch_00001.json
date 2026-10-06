@@ -1,0 +1,604 @@
+{
+  "category_id": 32,
+  "fetched_at": "2026-10-06T10:09:13.906122+00:00",
+  "request": {
+    "amount": 50,
+    "category": 32,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20Teenage%20Mutant%20Ninja%20Turtle%20traditionally%20wears%20an%20orange%20bandana%3F",
+        "correct_answer": "Michelangelo",
+        "incorrect_answers": [
+          "Leonardo",
+          "Donatello",
+          "Raphael"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20characters%20from%20%22SpongeBob%20SquarePants%22%20is%20not%20a%20squid%3F",
+        "correct_answer": "Gary",
+        "incorrect_answers": [
+          "Orvillie",
+          "Squidward",
+          "Squidette"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20voices%20for%20Ruby%20in%20the%20animated%20series%20RWBY%3F",
+        "correct_answer": "Lindsay%20Jones",
+        "incorrect_answers": [
+          "Tara%20Strong",
+          "Jessica%20Nigri",
+          "Hayden%20Panettiere"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20the%20following%20films%20was%20Don%20Bluth%20both%20the%20writer%2C%20director%2C%20and%20producer%20for%3F",
+        "correct_answer": "All%20Dogs%20Go%20To%20Heaven",
+        "incorrect_answers": [
+          "Titan%20A.E.",
+          "Anastasia",
+          "The%20Land%20Before%20Time"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20created%20%22RWBY%22%3F",
+        "correct_answer": "Monty%20Oum",
+        "incorrect_answers": [
+          "Miles%20Luna",
+          "Kerry%20Shawcross",
+          "Shane%20Newville"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20name%20of%20the%20city%20that%20The%20Flintstones%20is%20based%20in%3F",
+        "correct_answer": "Bedrock",
+        "incorrect_answers": [
+          "Stoneville",
+          "Rockhampton",
+          "Boulder%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20the%20following%20did%20not%20feature%20in%20the%20cartoon%20%27Wacky%20Races%27%3F",
+        "correct_answer": "The%20Dragon%20Wagon",
+        "incorrect_answers": [
+          "The%20Bouldermobile",
+          "The%20Crimson%20Haybailer",
+          "The%20Compact%20Pussycat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20show%20%22Foster%27s%20Home%20For%20Imaginary%20Friends%22%2C%20which%20character%20had%20an%20obsession%20with%20basketball%3F",
+        "correct_answer": "Wilt",
+        "incorrect_answers": [
+          "Coco",
+          "Mac",
+          "Cheese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20name%20of%20Sid%27s%20dog%20in%20%22Toy%20Story%22%3F",
+        "correct_answer": "Scud",
+        "incorrect_answers": [
+          "Buster",
+          "Whiskers",
+          "Mr.%20Jones"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20Cartoon%20Network%20show%20aired%20its%20first%20episode%20on%20November%204th%2C%202013%3F",
+        "correct_answer": "Steven%20Universe",
+        "incorrect_answers": [
+          "Regular%20Show",
+          "Adventure%20Time",
+          "The%20Amazing%20World%20of%20Gumball"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20was%20the%20name%20of%20the%20sea%20witch%20in%20the%201989%20Disney%20film%20%22The%20Little%20Mermaid%22%3F",
+        "correct_answer": "Ursula",
+        "incorrect_answers": [
+          "Madam%20Mim",
+          "Maleficent",
+          "Lady%20Tremaine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20voice%20acted%20the%20character%20Hiccup%20in%20the%20movie%20%22How%20to%20Train%20Your%20Dragon%22%3F",
+        "correct_answer": "Jay%20Baruchel",
+        "incorrect_answers": [
+          "Jack%20Brauchel",
+          "John%20Powell",
+          "Gerard%20Butler"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Nickelodeon%20rejected%20the%20pilot%20to%20Adventure%20Time.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20type%20of%20animal%20is%20Disney%27s%20Bambi%3F",
+        "correct_answer": "Deer",
+        "incorrect_answers": [
+          "Elephant",
+          "Wolf",
+          "Mouse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "When%20did%20the%20last%20episode%20of%20%22Futurama%22%20air%20before%20returning%20in%202023%3F",
+        "correct_answer": "September%204%2C%202013",
+        "incorrect_answers": [
+          "December%2025%2C%202010",
+          "March%2028%2C%201999",
+          "November%204%2C%202021"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20relationship%20between%20Rick%20and%20Morty%20in%20the%20show%20%22Rick%20and%20Morty%22%3F",
+        "correct_answer": "Grandfather%20and%20Grandson",
+        "incorrect_answers": [
+          "Father%20and%20Son",
+          "Best%20Friends",
+          "Crimefighting%20Partners"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20episode%20from%20The%20Amazing%20World%20Of%20Gumball%20won%20the%20Childrens%20Choice%20Award%20at%20the%20British%20Animation%20Awards%20in%202016%3F",
+        "correct_answer": "The%20Shell",
+        "incorrect_answers": [
+          "The%20Limit",
+          "The%20Kids",
+          "The%20Gripes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20Dipper%27s%20real%20name%20from%20%22Gravity%20Falls%22%3F",
+        "correct_answer": "Mason%20Pines",
+        "incorrect_answers": [
+          "Mable%20Pines",
+          "Jason%20Pines",
+          "Mark%20Pines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Nickelodeon%20is%20owned%20by%20what%20parent%20company%3F",
+        "correct_answer": "Viacom",
+        "incorrect_answers": [
+          "CBS",
+          "FOX",
+          "ABC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20My%20Little%20Pony%2C%20what%20is%20the%20name%20of%20Applejack%27s%20younger%20sister%3F",
+        "correct_answer": "Apple%20Bloom",
+        "incorrect_answers": [
+          "Red%20Delicious",
+          "Apple%20Sweets",
+          "Apple%20Fritter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "The%20character%20White%20Diamond%20from%20Steven%20Universe%2C%20is%20voiced%20by%20who%3F",
+        "correct_answer": "Christine%20Ebersole",
+        "incorrect_answers": [
+          "Ellen%20McLain",
+          "Aly%20Michalka",
+          "Rihanna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20created%20the%20Cartoon%20Network%20series%20%22Regular%20Show%22%3F",
+        "correct_answer": "J.%20G.%20Quintel",
+        "incorrect_answers": [
+          "Ben%20Bocquelet",
+          "Pendleton%20Ward",
+          "Rebecca%20Sugar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20standard%20frame%20rate%20for%20animation%3F",
+        "correct_answer": "24%20FPS",
+        "incorrect_answers": [
+          "12%20FPS",
+          "30%20FPS",
+          "60%20FPS"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20what%20year%20did%20the%20anime%20adaptation%20of%20%22March%20Comes%20In%20Like%20A%20Lion%22%20air%3F",
+        "correct_answer": "2016",
+        "incorrect_answers": [
+          "2017",
+          "2018",
+          "2015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20town%20was%20%22Springfield%22%20from%20%22The%20Simpsons%22%20originally%20named%20after%3F",
+        "correct_answer": "Springfield%2C%20Oregon",
+        "incorrect_answers": [
+          "Springfield%2C%20Missouri",
+          "Springfield%2C%20Illinois",
+          "Springfield%2C%20Massachusetts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20of%20these%20characters%20live%20in%20a%20pineapple%20under%20the%20sea%20in%20the%20cartoon%20%22SpongeBob%20SquarePants%22.",
+        "correct_answer": "SpongeBob%20SquarePants%20",
+        "incorrect_answers": [
+          "Patrick%20Star",
+          "Squidward%20Tentacles",
+          "Mr.%20Krabs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20name%20of%20the%20Alligator%20that%20The%20Simpsons%20%22killed%22%20in%20the%20episode%20%22Kill%20The%20Alligator%20and%20Run%22%3F",
+        "correct_answer": "Captain%20Jack",
+        "incorrect_answers": [
+          "Captain%20Jake",
+          "Captain%20Hector",
+          "Captain%20Flynn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Before%20becoming%20the%20Autobot%20leader%2C%20Optimus%20Prime%20was%20known%20by%20what%20name%20on%20Cybertron%3F",
+        "correct_answer": "Orion%20Pax",
+        "incorrect_answers": [
+          "Long%20Haul",
+          "P-138",
+          "Teletran-1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22The%20Simpsons%22%2C%20where%20did%20Homer%20and%20Marge%20first%20meet%3F",
+        "correct_answer": "At%20Summer%20Camp",
+        "incorrect_answers": [
+          "At%20High%20School",
+          "At%20Church",
+          "At%20742%20Evergreen%20Terrace"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Waylon%20Smithers%20from%20%22The%20Simpsons%22%20was%20originally%20black%20when%20he%20first%20appeared%20in%20the%20series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "The%20stop%20motion%20comedy%20show%20%22Robot%20Chicken%22%20was%20created%20by%20which%20of%20the%20following%3F",
+        "correct_answer": "Seth%20Green",
+        "incorrect_answers": [
+          "Seth%20MacFarlane",
+          "Seth%20Rogen",
+          "Seth%20Rollins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Butters%20Stotch%2C%20Pip%20Pirrup%2C%20and%20Wendy%20Testaburger%20are%20all%20characters%20in%20which%20long%20running%20animated%20TV%20series%3F",
+        "correct_answer": "South%20Park",
+        "incorrect_answers": [
+          "The%20Simpsons",
+          "Family%20Guy",
+          "Bob%27s%20Burgers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20year%20was%20the%20Disney%20film%20%22A%20Goofy%20Movie%22%20released%3F",
+        "correct_answer": "1995",
+        "incorrect_answers": [
+          "1999",
+          "2001",
+          "1997"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20name%20of%20the%20creatures%20that%20the%20protagonists%20of%20the%20webshow%20RWBY%20fight%20against%3F",
+        "correct_answer": "Grimm",
+        "incorrect_answers": [
+          "Reavers",
+          "Heartless",
+          "Dark%20Ones"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20show%20%22Fat%20Albert%20and%20the%20Cosby%20Kids%22%2C%20what%20is%20the%20name%20of%20the%20characters%27%20fictional%20gang%3F",
+        "correct_answer": "The%20Junkyard%20Gang",
+        "incorrect_answers": [
+          "The%20Trash%20Troupe",
+          "The%20Scrapyard%20Seven",
+          "The%20Rotten%20Posse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20was%20the%20villain%20of%20%27%27The%20Lion%20King%27%27%3F",
+        "correct_answer": "Scar",
+        "incorrect_answers": [
+          "Fred",
+          "Jafar",
+          "Vada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%201968%20Cartoon%20Show%20%22Wacky%20Races%22%20what%20was%20the%20name%20of%20cavemen%20duo%20who%20rode%20in%20The%20Boulder%20Mobile%3F",
+        "correct_answer": "The%20Slag%20Brothers",
+        "incorrect_answers": [
+          "The%20Slate%20Brothers",
+          "The%20Rock%20Brothers",
+          "The%20Stone%20Brothers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22Avatar%3A%20The%20Last%20Airbender%22%2C%20which%20element%20does%20Aang%20begin%20to%20learn%20after%20being%20defrosted%3F",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+          "Air",
+          "Earth",
+          "Fire"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20%27Family%20Guy%27%20character%20got%20his%20own%20spin-off%20show%20in%202009%3F",
+        "correct_answer": "Cleveland%20Brown",
+        "incorrect_answers": [
+          "Glenn%20Quagmire",
+          "Joe%20Swanson",
+          "The%20Greased-up%20Deaf%20Guy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20voiced%20Finn%20in%20Adventure%20Time%3F",
+        "correct_answer": "Jeremy%20Shada",
+        "incorrect_answers": [
+          "Nolan%20North",
+          "John%20DiMaggio",
+          "Tom%20Kenny"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20%22Shrek%22%20film%20franchise%2C%20Donkey%20is%20played%20by%20Eddie%20Murphy.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20city%20did%20Anger%20berate%20for%20ruining%20pizza%20in%20%22Inside%20Out%22%3F",
+        "correct_answer": "San%20Francisco",
+        "incorrect_answers": [
+          "Minnesota",
+          "Washington",
+          "California"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20%22Gravity%20Falls%22%2C%20what%20does%20Quentin%20Trembley%20do%20when%20he%20is%20driven%20out%20from%20the%20White%20House%3F",
+        "correct_answer": "Eat%20a%20salamander%20and%20jump%20out%20the%20window.",
+        "incorrect_answers": [
+          "Leave%20in%20peace.",
+          "Jump%20out%20the%20window.",
+          "Release%201%2C000%20captive%20salamanders%20into%20the%20white%20house."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "The%20first%20ever%20episode%20of%20Family%20Guy%2C%20%22Death%20Has%20A%20Shadow%2C%22%20aired%20on%20January%201st%2C%202002.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Donald%20Duck%20played%20the%20role%20of%20Bob%20Cratchit%20in%20Disney%27s%201983%20adaptation%20of%20A%20Christmas%20Carol.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "What%20is%20the%20surname%20of%20one%20of%20the%20male%20teachers%20in%20the%20BBC%20series%20Postman%20Pat%3F",
+        "correct_answer": "Pringle",
+        "incorrect_answers": [
+          "Walker",
+          "Dorito",
+          "Lays"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Which%20singer%20provided%20the%20voice%20of%20Metroid%27s%20Mother%20Brain%20in%20the%20animated%20series%20%22Captain%20N%3A%20The%20Game%20Master%22%3F",
+        "correct_answer": "Levi%20Stubbs",
+        "incorrect_answers": [
+          "Freddie%20Mercury",
+          "Janet%20Jackson",
+          "Joan%20Jett"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "The%20song%20%27Little%20April%20Shower%27%20features%20in%20which%20Disney%20cartoon%20film%3F",
+        "correct_answer": "Bambi",
+        "incorrect_answers": [
+          "Cinderella",
+          "Pinocchio",
+          "The%20Jungle%20Book"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "Who%20played%20Stan%27s%20dog%20in%20the%20South%20Park%20episode%20%22Big%20Gay%20Al%27s%20Big%20Gay%20Boat%20Ride%22%3F",
+        "correct_answer": "George%20Clooney",
+        "incorrect_answers": [
+          "Jay%20Leno",
+          "Matt%20Stone",
+          "Robert%20Smith"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Cartoon%20%26%20Animations",
+        "question": "In%20the%20Dreamworks%20animated%20movie%20%22Madagascar%2C%22%20who%20voices%20Maurice%20the%20lemur%3F",
+        "correct_answer": "Cedric%20the%20Entertainer",
+        "incorrect_answers": [
+          "Jack%20Black",
+          "Sacha%20Baron%20Cohen",
+          "Chris%20Rock"
+        ]
+      }
+    ]
+  }
+}

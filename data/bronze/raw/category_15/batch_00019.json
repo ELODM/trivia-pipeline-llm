@@ -1,0 +1,602 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:54.436828+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20do%20you%20tame%20a%20horse%20in%20Minecraft%3F",
+        "correct_answer": "By%20continually%20mounting%20it",
+        "incorrect_answers": [
+          "By%20feeding%20it%20Wheat",
+          "By%20feeding%20it%20Sugar",
+          "By%20petting%20it"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22PUBATTLEGROUNDS%22%20which%20ammo%20type%20does%20the%20M24%20use%3F",
+        "correct_answer": "7.62mm",
+        "incorrect_answers": [
+          "5.56mm",
+          "9mm",
+          ".300%20Magnum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20series%20%22The%20Legend%20of%20Zelda%22%2C%20what%20was%20the%20first%203D%20game%3F",
+        "correct_answer": "Ocarina%20of%20Time",
+        "incorrect_answers": [
+          "Majora%27s%20Mask",
+          "A%20Link%20to%20the%20Past",
+          "The%20Wind%20Waker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20following%20weapon%20or%20equipment%20exists%20in%20Counter%20Strike%20but%20not%20in%20Counter%20Strike%3A%20Source%3F",
+        "correct_answer": "Tactical%20Shield",
+        "incorrect_answers": [
+          "Molotov%20Cocktail",
+          "MP5%20Navy",
+          "TMP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20covert%20groups%20employs%20Sam%20Fisher%20to%20work%20as%20a%20Splinter%20Cell%3F",
+        "correct_answer": "Third%20Echelon",
+        "incorrect_answers": [
+          "Voron",
+          "Black%20Arrow",
+          "The%20Engineers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Why%20were%20only%20only%20300%2C000%20copies%20of%20Uniracers%20were%20produced%3F",
+        "correct_answer": "DMA%20Designs%20was%20sued%20by%20Pixar%2C%20preventing%20more%20copies%20from%20being%20produced",
+        "incorrect_answers": [
+          "There%20was%20a%20disagreement%20between%20DMA%20Designs%20and%20Nintendo",
+          "It%20didn%27t%20sell%20well%20due%20to%20poor%20review%20scores",
+          "No%20public%20information%20is%20available"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Minecraft%201.0%20released%3F",
+        "correct_answer": "November%2018%2C%202011",
+        "incorrect_answers": [
+          "May%2017%2C%202009",
+          "December%2010%2C%202014",
+          "September%2013%2C%202012"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Super%20Mario%20Bros.%20was%20the%20first%20video%20game%20ever%20created.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Magicka%22%2C%20which%20two%20elements%20are%20combined%20to%20cast%20the%20spell%2C%20%22Nullify%22%3F",
+        "correct_answer": "Arcane%20%2B%20Shield",
+        "incorrect_answers": [
+          "Lightning%20%2B%20Shield",
+          "Lightning%20%2B%20Life",
+          "Arcane%20%2B%20Life"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Where%20are%20Terror%20Fiends%20more%20commonly%20found%20in%20the%20Nintendo%20game%20Miitopia%3F",
+        "correct_answer": "New%20Lumos",
+        "incorrect_answers": [
+          "Peculia",
+          "The%20Sky%20Scraper",
+          "Otherworld"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Slay%20the%20Spire%2C%20which%20of%20the%20following%20is%20NOT%20a%20playable%20character%3F",
+        "correct_answer": "Stoneheart",
+        "incorrect_answers": [
+          "Silent",
+          "Defect",
+          "Ironclad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20playable%20character%20in%20%22Left%204%20Dead%22%3F",
+        "correct_answer": "Nick",
+        "incorrect_answers": [
+          "Louis",
+          "Zoey",
+          "Bill"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20block%20in%20Minecraft%20has%20the%20highest%20blast%20resistance%3F",
+        "correct_answer": "Barrier",
+        "incorrect_answers": [
+          "Obsidian",
+          "Bedrock",
+          "Block%20of%20Diamond"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20is%20not%20a%20playable%20character%20in%20the%202005%20video%20game%20Killer7%3F",
+        "correct_answer": "Frank%20Smith",
+        "incorrect_answers": [
+          "Mask%20de%20Smith",
+          "Dan%20Smith",
+          "Coyote%20Smith"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20Star%20Spirits%20do%20you%20rescue%20in%20the%20Nintendo%2064%20video%20game%20%22Paper%20Mario%22%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "5",
+          "10",
+          "12"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Pok%C3%A9mon%20series%2C%20which%20type%20is%20Sudowoodo%2C%20the%20Imitation%20Pok%C3%A9mon%3F",
+        "correct_answer": "Rock",
+        "incorrect_answers": [
+          "Grass",
+          "Bug",
+          "Ground"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20The%20World%20Ends%20With%20You%2C%20all%20of%20these%20characters%20act%20as%20a%20game%20partner%20with%20Neku%20for%20a%20week%20except%3A",
+        "correct_answer": "Rhyme",
+        "incorrect_answers": [
+          "Shiki",
+          "Joshua",
+          "Beat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Warhammer%3A%20End%20Times%20-%20Vermintide%22%2C%20what%20is%20the%20name%20of%20the%20rat%20faction%20you%20fight%20in%20the%20game%3F",
+        "correct_answer": "Skaven",
+        "incorrect_answers": [
+          "Ratmen",
+          "The%20Horde",
+          "Chaos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20a%20popular%20franchise%20that%20includes%20placing%20blocks%20down%20and%20surviving%20in%20an%20open%20world%3F%20",
+        "correct_answer": "Minecraft",
+        "incorrect_answers": [
+          "Unturned",
+          "Roblox",
+          "Grand%20Theft%20Auto%20V"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Of%20the%20following%20space%20shooter%20games%2C%20which%20came%20out%20first%3F",
+        "correct_answer": "Space%20Invaders",
+        "incorrect_answers": [
+          "Galaxian",
+          "Galaga",
+          "Sinistar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20first%20game%20in%20the%20Touhou%20Project%2C%20%22Highly%20Responsive%20to%20Prayers%22%2C%20is%20part%20of%20which%20genre%3F",
+        "correct_answer": "Breakout%2FArkanoid",
+        "incorrect_answers": [
+          "Shoot%20%27em%20Up",
+          "Puzzle",
+          "Fighter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Portal%22%20series%2C%20who%20was%20Cave%20Johnson%27s%20personal%20assistant%3F",
+        "correct_answer": "Caroline",
+        "incorrect_answers": [
+          "Heather",
+          "Melissa",
+          "Jane"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Until%20Dawn%2C%20both%20characters%20Sam%20and%20Mike%20cannot%20be%20killed%20under%20any%20means%20until%20the%20final%20chapter%20of%20the%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20songs%20does%20NOT%20play%20during%20the%20Ruins%20segments%20of%20the%202015%20game%20%22Undertale%22%3F",
+        "correct_answer": "Another%20Medium",
+        "incorrect_answers": [
+          "Anticipation",
+          "Unnecessary%20Tension",
+          "Ruins"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20end%20credits%20sequence%20in%20Grand%20Theft%20Auto%205%20is%20over%20half%20an%20hour%20long.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20major%20event%20caused%20the%20events%20of%20Half-Life%201%3F",
+        "correct_answer": "The%20Resonance%20Cascade%20",
+        "incorrect_answers": [
+          "The%20Blue%20Shift",
+          "The%20Seven%20Hour%20War",
+          "The%20Narbacular%20Drop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20franchise%20does%20the%20creature%20%22Slowpoke%22%20originate%20from%3F",
+        "correct_answer": "Pokemon",
+        "incorrect_answers": [
+          "Dragon%20Ball",
+          "Sonic%20The%20Hedgehog",
+          "Yugioh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Pokemon%20Types%20was%20present%20in%20the%20original%20games%2C%20Red%20and%20Blue%3F",
+        "correct_answer": "Ice",
+        "incorrect_answers": [
+          "Steel",
+          "Dark",
+          "Fairy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20in%20the%20video%20game%20%22Just%20Cause%203%22%3F",
+        "correct_answer": "Rico%20Rodriguez",
+        "incorrect_answers": [
+          "Tom%20Sheldon",
+          "Marcus%20Holloway",
+          "Mario%20Frigo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20car%20did%20not%20appear%20in%20the%202002%20Lego%20Game%3A%20Drome%20Racers%3F",
+        "correct_answer": "Wasp",
+        "incorrect_answers": [
+          "Raptor",
+          "Hornet",
+          "Behemoth"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Super%20Mario%20Bros.%20Series%2C%20what%20is%20Yoshi%27s%20scientific%20name%3F",
+        "correct_answer": "T.%20Yoshisaur%20Munchakoopas",
+        "incorrect_answers": [
+          "Yoshi",
+          "T.%20Yoshisotop%20Munchakoopas",
+          "Yossy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Pokemon%20generation%20did%20the%20fan-named%20%22Masuda%20Method%22%20first%20appear%20in%3F%20",
+        "correct_answer": "Diamond%2FPearl",
+        "incorrect_answers": [
+          "Ruby%2FSapphire",
+          "Black%2FWhite",
+          "X%2FY"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20video%20game%20engine%20does%20the%20videogame%20Quake%202%20run%20in%3F",
+        "correct_answer": "iD%20Tech%202",
+        "incorrect_answers": [
+          "iD%20Tech%203",
+          "iD%20Tech%201",
+          "Unreal%20Engine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20car%20is%20NOT%20featured%20in%20%22Need%20for%20Speed%3A%20Hot%20Pursuit%202%22%3F",
+        "correct_answer": "Toyota%20MR2",
+        "incorrect_answers": [
+          "Ford%20Crown%20Victoria",
+          "BMW%20Z8",
+          "McLaren%20F1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20musical%20artist%20was%20NOT%20featured%20as%20playable%20avatars%20in%20the%20game%20%22DJ%20Hero%22%3F",
+        "correct_answer": "Dr.%20Dre",
+        "incorrect_answers": [
+          "DJ%20Shadow",
+          "Daft%20Punk",
+          "Grandmaster%20Flash"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Pokemon%20GO%20released%20in%20North%20America%3F",
+        "correct_answer": "July%206th%2C%202016",
+        "incorrect_answers": [
+          "June%205th%2C%202016",
+          "May%2024th%2C%202016",
+          "January%202nd%2C%202017"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20symbols%20can%20be%20seen%20on%20the%20shirt%20of%20the%201993%20video%20game%20character%2C%20Bubsy%20T.%20Bobcat%3F",
+        "correct_answer": "An%20exclamation%20point",
+        "incorrect_answers": [
+          "A%20question%20mark",
+          "The%20letter%20B",
+          "Nothing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20not%20a%20playable%20race%20in%20%22Final%20Fantasy%20XIV%3A%20A%20Realm%20Reborn%22%3F",
+        "correct_answer": "Hume",
+        "incorrect_answers": [
+          "Miqo%27te",
+          "Lalafell",
+          "Roegadyn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20engine%20did%20the%20original%20%22Half-Life%22%20run%20on%3F",
+        "correct_answer": "GoldSrc",
+        "incorrect_answers": [
+          "Source",
+          "Quake",
+          "Unreal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Without%20enchantments%2C%20which%20pickaxe%20in%20minecraft%20mines%20blocks%20the%20quickest.",
+        "correct_answer": "Golden%20",
+        "incorrect_answers": [
+          "Diamond",
+          "Iron",
+          "Obsidian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20team%20won%20the%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20Invitational%20Event%20February%202017%20in%20the%20PC%20Category%3F",
+        "correct_answer": "Continuum",
+        "incorrect_answers": [
+          "GIFU",
+          "Santos%20Dexterity",
+          "eRa%20Eternity"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Super%20Mario%20Bros.%20series%2C%20what%20game%20is%20the%20%20%22Carrot%22%20power-up%20from%3F",
+        "correct_answer": "Super%20Mario%20Land%202%3A%20The%206%20Golden%20Coins",
+        "incorrect_answers": [
+          "Super%20Mario%20World",
+          "Super%20Mario%20Land",
+          "Super%20Mario%203D%20Land"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20country%20was%20Eliza%20%22Ash%22%20Cohen%20from%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20born%20in%3F",
+        "correct_answer": "Israel",
+        "incorrect_answers": [
+          "United%20States%20of%20America",
+          "Mexico",
+          "Canada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20town%20was%20Seamus%20%22Sledge%22%20Cowden%20from%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20born%20in%3F",
+        "correct_answer": "John%20O%27Groats",
+        "incorrect_answers": [
+          "Brawl",
+          "Kearvaig",
+          "Talmine"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Monster%20Hunter%20Series%2C%20it%20is%20possible%20to%20capture%20Elder%20Dragons.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20game%20%22Battlefield%201%22%20takes%20place%20during%20World%20War%20I.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20%22Origins%22%2C%20how%20many%20numbered%20power%20generators%20are%20there%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "8",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Nintendo%20Game%20Splatoon%202%2C%20what%20is%20Marina%27s%20screen%20name%3F",
+        "correct_answer": "DJ_Hyperfresh",
+        "incorrect_answers": [
+          "MC.princess",
+          "Kidnotsquid123",
+          "I%3C30ffTh3H00k"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "A%20cancelled%20Call%20Of%20Duty%20title%20would%20have%20taken%20place%20in%20ancient%20Rome.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20most%20expensive%20weapon%20in%20Counter-Strike%3A%20Global%20Offensive%3F",
+        "correct_answer": "Scar-20%2FG3SG1",
+        "incorrect_answers": [
+          "M4A1",
+          "AWP",
+          "R8%20Revolver"
+        ]
+      }
+    ]
+  }
+}

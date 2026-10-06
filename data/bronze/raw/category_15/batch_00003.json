@@ -1,0 +1,592 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:14.993855+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20developed%20the%202016%20farming%20RPG%20%22Stardew%20Valley%22%3F",
+        "correct_answer": "Eric%20Barone",
+        "incorrect_answers": [
+          "Daisuke%20Amaya",
+          "Jasper%20Byrne",
+          "Lucas%20Pope"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20ones%20of%20these%20Mario%20Kart%20games%20was%20made%20for%20the%20Gameboy%20Advance%3F",
+        "correct_answer": "Mario%20Kart%3A%20Super%20Circuit",
+        "incorrect_answers": [
+          "Mario%20Kart%3A%20Double%20Dash",
+          "Mario%20Kart%2064",
+          "Super%20Mario%20Kart"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20in%20the%20Dance%20Dance%20Revolution%20series%20introduced%20the%20Extra%20Stage%3F",
+        "correct_answer": "DDR",
+        "incorrect_answers": [
+          "DDR%20Solo%202000",
+          "DDRMAX",
+          "DDR%20EXTREME"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Paradox%20Interactive%20game%20%22Stellaris%22%20was%20released%20in%202016.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Valve%27s%20%22Portal%22%20and%20%22Half-Life%22%20franchises%20exist%20within%20the%20same%20in-game%20universe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%202002%20video%20game%20%22Kingdom%20Hearts%22%2C%20how%20many%20playable%20worlds%20were%20there%3F",
+        "correct_answer": "14",
+        "incorrect_answers": [
+          "13",
+          "16",
+          "11"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20Nintendo%20game%20console%3F",
+        "correct_answer": "Dreamcast",
+        "incorrect_answers": [
+          "SNES",
+          "Wii",
+          "Switch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20normal%20endings%20are%20there%20in%20Cry%20Of%20Fear%27s%20campaign%20mode%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "5",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20character%20in%20most%20of%20the%20games%20of%20the%20YS%20series%3F",
+        "correct_answer": "Adol%20Christin%20",
+        "incorrect_answers": [
+          "Character%20doesn%27t%20have%20a%20name",
+          "Estelle%20Bright",
+          "Roger%20Wilco"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Ace%20Attorney%22%20series%2C%20what%20is%20the%20relationship%20between%20Apollo%20Justice%20and%20Trucy%20Wright%3F",
+        "correct_answer": "They%27re%20half-siblings",
+        "incorrect_answers": [
+          "They%27re%20co-workers",
+          "They%27re%20friends",
+          "They%27re%20both%20attorneys"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20sets%20of%20grandmaster%20witcher%20gear%20are%20in%20The%20Witcher%203%27s%20Blood%20and%20Wine%20DLC%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "3",
+          "6",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "If%20a%20%22360%20no-scope%22%20is%20one%20full%20rotation%20before%20shooting%2C%20how%20many%20rotations%20would%20a%20%221080%20no-scope%22%20be%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "4",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20in%20the%20%22Halo%22%20series%20has%20the%20strongest%20iteration%20of%20the%20shotgun%3F",
+        "correct_answer": "Halo%3A%20Combat%20Evolved",
+        "incorrect_answers": [
+          "Halo%202",
+          "Halo%203",
+          "Halo%3A%20Reach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20level%20do%20you%20have%20to%20be%20to%20get%20a%20service%20medal%20on%20CS%3AGO%3F",
+        "correct_answer": "40",
+        "incorrect_answers": [
+          "50",
+          "30",
+          "20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20you%20can%20upgrade%20the%20%22Apothicon%20Servant%22%20in%20the%20%22Shadows%20Of%20Evil%22%20map.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20games%20was%20NOT%20a%20Nintendo%20Switch%20launch%20title%20in%20the%20United%20States%3F%20",
+        "correct_answer": "Voez",
+        "incorrect_answers": [
+          "Just%20Dance%202017",
+          "Snipperclips",
+          "Fast%20RMX"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Portal%202%2C%20how%20did%20CEO%20of%20Aperture%20Science%2C%20Cave%20Johnson%2C%20presumably%20die%3F",
+        "correct_answer": "Moon%20Rock%20Poisoning",
+        "incorrect_answers": [
+          "Accidentally%20sending%20a%20portal%20to%20the%20Moon",
+          "Slipped%20in%20the%20shower",
+          "Asbestos%20Poisoning"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Splatoon%202%27s%20Hero%20Mode%2C%20which%20agent%20does%20the%20player%20take%20the%20role%20of%3F",
+        "correct_answer": "Agent%204",
+        "incorrect_answers": [
+          "Agent%201",
+          "Agent%202",
+          "Agent%203"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20numbers%20did%20Sayaka%20Maizono%20write%20on%20the%20wall%20in%20Dangan%20Ronpa%20Trigger%20Happy%20Havoc%3F",
+        "correct_answer": "11037",
+        "incorrect_answers": [
+          "4%2C%208%2C%2015%2C%2016%2C%2023%2C%2042",
+          "55730",
+          "3%2C%209%2C%2011%2C%2012%2C%2015%2C%2017%2C"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20founder%20of%20Team%20Fortress%202%27s%20fictional%20company%20%22Mann%20Co%22%3F",
+        "correct_answer": "Zepheniah%20Mann",
+        "incorrect_answers": [
+          "Cave%20Johnson",
+          "Wallace%20Breem",
+          "Saxton%20Hale"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20main%20character%20in%20the%20video%20game%20VA-11%20HALL-A%3A%20Cyberpunk%20Bartender%20Action%3F",
+        "correct_answer": "Jill",
+        "incorrect_answers": [
+          "Dana",
+          "Alma",
+          "Anna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20machine%20that%20fails%20and%20essentially%20dooms%20mankind%20in%20the%20beginning%20of%20the%20first%20Half-Life%20game%3F",
+        "correct_answer": "Anti-mass%20spectrometer",
+        "incorrect_answers": [
+          "Oscillation%20generator",
+          "Dark%20fusion%20reactor",
+          "Dark%20fusion%20resonator"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20code%20name%20for%20the%20%22Nintendo%20Gamecube%22%3F",
+        "correct_answer": "Dolphin",
+        "incorrect_answers": [
+          "Nitro",
+          "Revolution",
+          "Atlantis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20original%20name%20of%20Crash%20Bandicoot%3F",
+        "correct_answer": "Willie%20Wombat",
+        "incorrect_answers": [
+          "Coco%20Bandicoot",
+          "Marvelous%20Mole",
+          "Wally%20Wombat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20was%20the%20mascot%20of%20SEGA%20before%20%22Sonic%20the%20Hedgehog%22%3F",
+        "correct_answer": "Alex%20Kidd",
+        "incorrect_answers": [
+          "Opa%20Opa",
+          "NiGHTS",
+          "Ristar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20plane%20of%20existence%20in%20MicroProse%27s%201997%20%22Magic%20the%20Gathering%22%3F",
+        "correct_answer": "Shandalar",
+        "incorrect_answers": [
+          "Theros",
+          "Ravnica",
+          "Amonkhet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20games%20in%20the%20Crash%20Bandicoot%20series%20were%20released%20on%20the%20original%20Playstation%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "4",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20games%20are%20there%20in%20the%20%22Colony%20Wars%22%20series%20for%20the%20PlayStation%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "2",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20original%20Planetside%20was%20released%20in%20North%20America%20on...",
+        "correct_answer": "May%2020%2C%202003",
+        "incorrect_answers": [
+          "June%2017%2C%202001",
+          "September%2029%2C%202003",
+          "January%2014%2C%202005"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20Mario%20game%20did%20the%20Mega%20Mushroom%20make%20its%20debut%3F",
+        "correct_answer": "Mario%20Party%204",
+        "incorrect_answers": [
+          "New%20Super%20Mario%20Bros.",
+          "Mario%20Kart%20Wii",
+          "Super%20Mario%203D%20World"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20last%20boss%20in%20Night%20In%20The%20Woods%27%20Demontower%20minigame%3F",
+        "correct_answer": "The%20Blood%20Thief",
+        "incorrect_answers": [
+          "Mega%20Hairball%20",
+          "King%20Skellie%20",
+          "Krampus%20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Resident%20Evil%204%20was%20originally%20meant%20to%20be%20a%20Nintendo%20GameCube%20exclusive.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Halo%22%20series%2C%20what%20is%20the%20name%20of%20the%20race%20of%20aliens%20humans%20refer%20to%20as%20%22Grunts%22%3F",
+        "correct_answer": "Unggoy",
+        "incorrect_answers": [
+          "Huragok",
+          "Sangheili",
+          "Yanme%27e"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Tony%20Hawk%27s%20extreme%20sports%20videogames%20revolve%20around%20performing%20professional%20BMX%20tricks.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Super%20Mario%20series%2C%20the%20character%20Pauline%20is%20a%20Princess%20like%20Princess%20Peach.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Resident%20Evil%207%22%20is%20the%20first%20first-person%20Resident%20Evil%20game.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Rainbow%206%20Siege%2C%20what%20is%20Ela%20and%20Zofia%27s%20last%20name%3F",
+        "correct_answer": "Bosak",
+        "incorrect_answers": [
+          "Kessikbayev",
+          "Zenaviev",
+          "Melnikova"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20completing%20which%20map%27s%20easter%20egg%20will%20reward%20you%20with%20the%20achievement%2C%20%22Time%20Travel%20Will%20Tell%22%3F",
+        "correct_answer": "Shangri-La",
+        "incorrect_answers": [
+          "Ascension",
+          "Moon",
+          "Die%20Rise"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Brawlhalla%22%2C%20what%20species%20is%20the%20character%20B%C3%B6dvar%20is%3F",
+        "correct_answer": "Half%20Human%20%2F%20Half%20Bear",
+        "incorrect_answers": [
+          "A%20Human",
+          "Half%20Wolf%20%2F%20Half%20Bear",
+          "Half%20Tiger%20%2F%20%20Half%20Human"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20mainly%20favored%20rifle%20is%20used%20by%20the%20Terrorists%20in%20Counter%20Strike%3A%20Global%20Offensive%3F",
+        "correct_answer": "AK-47",
+        "incorrect_answers": [
+          "AK-74",
+          "M4A4",
+          "CZ-75%20AUTO"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Pok%C3%A9mon%20Go%20is%20a%20location-based%20augmented%20reality%20game%20developed%20and%20published%20by%20which%20company%3F",
+        "correct_answer": "Niantic",
+        "incorrect_answers": [
+          "Rovio",
+          "Zynga",
+          "Supercell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Halo%22%20franchise%2C%20in%20what%20country%20is%20New%20Mombasa%3F",
+        "correct_answer": "Kenya",
+        "incorrect_answers": [
+          "India",
+          "Turkey",
+          "Slovakia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Terran%20units%20from%20the%20RTS%20game%20Starcraft%20was%20first%20introduced%20in%20the%20expansion%20Brood%20War%3F",
+        "correct_answer": "Medic",
+        "incorrect_answers": [
+          "Wraith",
+          "Science%20Vessel",
+          "SCV"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22World%20of%20Warcraft%2C%22%20what%20dragon%20appears%20in%20the%20human%20guise%20of%20Lord%20Victor%20Nefarius%3F",
+        "correct_answer": "Nefarian",
+        "incorrect_answers": [
+          "Nefarius",
+          "Neltharion",
+          "Nefaran"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20game%20%22Galaga%22%20was%20a%20sequel%20to%3F",
+        "correct_answer": "Galaxian",
+        "incorrect_answers": [
+          "Galactica",
+          "Space%20Invaders",
+          "Galactic%20Wars"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Rollercoaster%20Tycoon%201%20and%202%20were%20developed%20by%20Chris%20Sawyer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Tetris%20is%20the%20%231%20best-selling%20video%20game%20of%20all-time.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "English%20new%20wave%20musician%20Gary%20Numan%20founded%20the%20video%20game%20development%20company%20Facepunch%20Studios%20in%20March%202009.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Disgaea%20series%2C%20any%20character%20can%20equip%20any%20weapon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20protagonist%27s%20first%20Persona%20in%20%22Persona%205%22%3F",
+        "correct_answer": "Arsene",
+        "incorrect_answers": [
+          "Mara",
+          "Izanagi",
+          "Sandaphlon"
+        ]
+      }
+    ]
+  }
+}

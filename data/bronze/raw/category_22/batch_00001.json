@@ -1,0 +1,600 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:08.093149+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20country%20has%20the%20abbreviation%20%22CH%22%3F",
+        "correct_answer": "Switzerland",
+        "incorrect_answers": [
+          "China",
+          "Canada",
+          "No%20Country"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20the%20U.S.%20state%20Texas%3F",
+        "correct_answer": "Austin",
+        "incorrect_answers": [
+          "Dallas",
+          "Santa%20Fe",
+          "Houston"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20Muslim%20country%20in%20the%20world%3F",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+          "Pakistan",
+          "Saudi%20Arabia",
+          "Iran"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "There%20are%20no%20roads%20in%2Fout%20of%20Juneau%2C%20Alaska.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "In%20which%20country%20is%20the%20city%20of%20Rio%20de%20Janeiro%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "Peru",
+          "Chile",
+          "Venezuela"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20Andaman%20and%20Nicobar%20Islands%20in%20South%20East%20Asia%20are%20controlled%20by%20which%20country%3F",
+        "correct_answer": "India",
+        "incorrect_answers": [
+          "Vietnam",
+          "Thailand",
+          "Indonesia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20nation%20claims%20ownership%20of%20Antarctica%3F",
+        "correct_answer": "No%20one%2C%20but%20there%20are%20claims.",
+        "incorrect_answers": [
+          "United%20States%20of%20America",
+          "United%20Nations",
+          "Australia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Frankenmuth%2C%20a%20US%20city%20nicknamed%20%22Little%20Bavaria%22%2C%20is%20located%20in%20what%20state%3F",
+        "correct_answer": "Michigan",
+        "incorrect_answers": [
+          "Pennsylvania",
+          "Kentucky",
+          "Virginia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "In%20which%20Indian%20city%20can%20the%20Taj%20Mahal%20be%20found%3F",
+        "correct_answer": "Agra",
+        "incorrect_answers": [
+          "Mumbai",
+          "Faridabad",
+          "Thane"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20small%20country%20is%20located%20between%20the%20borders%20of%20France%20and%20Spain%3F",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+          "San%20Marino",
+          "Vatican%20City",
+          "Lichtenstein"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Colombia%20is%20named%20after%20Christopher%20Columbus.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20European%20country%20is%20not%20a%20part%20of%20the%20EU%3F",
+        "correct_answer": "Norway",
+        "incorrect_answers": [
+          "Lithuania",
+          "Ireland",
+          "Czechia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20mountainous%20Khyber%20Pass%20connects%20which%20of%20the%20two%20following%20countries%3F",
+        "correct_answer": "Afghanistan%20and%20Pakistan",
+        "incorrect_answers": [
+          "India%20and%20Nepal",
+          "Pakistan%20and%20India",
+          "Tajikistan%20and%20Kyrgyzstan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20former%20country%20that%20was%20succeeded%20by%20countries%20such%20as%20Serbia%2C%20Croatia%20and%20Slovenia%3F",
+        "correct_answer": "Yugoslavia",
+        "incorrect_answers": [
+          "Czechoslovakia",
+          "Abkhazia",
+          "South%20Ossetia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20Hunua%20Ranges%20is%20located%20in...",
+        "correct_answer": "New%20Zealand",
+        "incorrect_answers": [
+          "Nepal",
+          "China",
+          "Mexico"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20official%20German%20name%20of%20the%20Swiss%20Federal%20Railways%3F",
+        "correct_answer": "Schweizerische%20Bundesbahnen",
+        "incorrect_answers": [
+          "Schweizerische%20Nationalbahnen",
+          "Bundesbahnen%20der%20Schweiz",
+          "Schweizerische%20Staatsbahnen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20capital%20of%20Turkey%3F",
+        "correct_answer": "Ankara",
+        "incorrect_answers": [
+          "Istanbul",
+          "Izmir",
+          "Bursa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20city%20is%20the%20Terracotta%20Army%20located%20in%3F",
+        "correct_answer": "Xi%27an",
+        "incorrect_answers": [
+          "Beijing",
+          "Shanghai",
+          "Hong%20Kong"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20land%20connecting%20North%20America%20and%20South%20America%3F",
+        "correct_answer": "Isthmus%20of%20Panama",
+        "incorrect_answers": [
+          "Isthmus%20of%20Suez",
+          "Urals",
+          "Australasia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20lake%20in%20the%20African%20continent%3F",
+        "correct_answer": "Lake%20Victoria",
+        "incorrect_answers": [
+          "Lake%20Tanganyika",
+          "Lake%20Malawi",
+          "Lake%20Turkana"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "South%20Africa%20has%20more%20than%20one%20capital%20city",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "With%20which%20country%20does%20France%20share%20its%20largest%20land%20border",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "Germany",
+          "Spain",
+          "Canada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20continent%20is%20considered%20the%20largest%20and%20most%20populous%20continent%20in%20the%20world%3F",
+        "correct_answer": "Asia",
+        "incorrect_answers": [
+          "Africa",
+          "Europe",
+          "North%20America"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Greenland%3F",
+        "correct_answer": "Nuuk",
+        "incorrect_answers": [
+          "Sisimiut",
+          "Narsaq",
+          "Maniitsoq"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20capital%20of%20Indonesia%20is%20Bali.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20prefix%20Sino-%20%28As%20in%20Sino-American%29%20is%20used%20to%20refer%20to%20what%20nationality%3F",
+        "correct_answer": "Chinese",
+        "incorrect_answers": [
+          "Japanese",
+          "Russian",
+          "Indian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Scotland%3F",
+        "correct_answer": "Edinburgh",
+        "incorrect_answers": [
+          "Glasgow",
+          "Dundee",
+          "London"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Until%201939%2C%20Laos%20was%20called%20Siam.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "If%20soccer%20is%20called%20football%20in%20England%2C%20what%20is%20American%20football%20called%20in%20England%3F",
+        "correct_answer": "American%20football",
+        "incorrect_answers": [
+          "Combball",
+          "Handball",
+          "Touchdown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20second-largest%20city%20in%20Lithuania%3F",
+        "correct_answer": "Kaunas",
+        "incorrect_answers": [
+          "Panev%C4%97%C5%BEys",
+          "Vilnius",
+          "Klaip%C4%97da"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20only%20remaining%20Grand%20Duchy%20in%20the%20world%20%3F",
+        "correct_answer": "Luxembourg",
+        "incorrect_answers": [
+          "Montenegro",
+          "Liechtenstein",
+          "Andorra"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20historical%20city%20Timbuktu%20is%20located%20in%20which%20West%20African%20country%3F",
+        "correct_answer": "Mali",
+        "incorrect_answers": [
+          "Senegal",
+          "Niger",
+          "Burkina%20Faso"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20official%20language%20in%20Liechtenstein%3F",
+        "correct_answer": "German",
+        "incorrect_answers": [
+          "French",
+          "English",
+          "Italian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "On%20which%20continent%20does%20the%20Andes%20mountain%20range%20lie%3F",
+        "correct_answer": "South%20America",
+        "incorrect_answers": [
+          "Europe",
+          "Asia",
+          "Africa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20the%20American%20state%20of%20Arizona%3F",
+        "correct_answer": "Phoenix",
+        "incorrect_answers": [
+          "Montgomery",
+          "Tallahassee",
+          "Raleigh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20country%20is%20the%20home%20of%20the%20largest%20Japanese%20population%20outside%20of%20Japan%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "China",
+          "Russia",
+          "The%20United%20States"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20largest%20city%20and%20commercial%20capital%20of%20Sri%20Lanka%3F",
+        "correct_answer": "Colombo",
+        "incorrect_answers": [
+          "Moratuwa",
+          "Negombo",
+          "Kandy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20NOT%20a%20part%20of%20the%20Asian%20continent%3F",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+          "Georgia",
+          "Russia",
+          "Singapore"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20third%20largest%20country%20%28by%20square%20kilometres%29%20in%20South%20America%20is%20Colombia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Cyprus%3F",
+        "correct_answer": "Nicosia",
+        "incorrect_answers": [
+          "Paphos",
+          "Limassol",
+          "Larnaca"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20two%20modern-day%20countries%20used%20to%20be%20known%20as%20the%20region%20of%20Rhodesia%20between%20the%201890s%20and%201980%3F",
+        "correct_answer": "Zambia%20%26%20Zimbabwe",
+        "incorrect_answers": [
+          "Togo%20%26%20Benin",
+          "Lesotho%20%26%20Swaziland",
+          "Rwanda%20%26%20Burundi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "%20What%20Texas%20city%20is%20nicknamed%20%22The%20Yellow%20Rose%20of%20Texas%22%3F",
+        "correct_answer": "Amarillo",
+        "incorrect_answers": [
+          "Corpus%20Christi",
+          "Frisco",
+          "Houston"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Into%20which%20basin%20does%20the%20Jordan%20River%20flow%20into%3F",
+        "correct_answer": "Dead%20Sea",
+        "incorrect_answers": [
+          "Aral%20Sea",
+          "Caspian%20Sea",
+          "Salton%20Sea"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20event%20led%20to%20Liechenstein%20adding%20a%20crown%20to%20its%20flag%3F",
+        "correct_answer": "The%201936%20Olympics",
+        "incorrect_answers": [
+          "Coronation%20of%20Prince%20Johann%20I%20Joseph%20in%201805",
+          "Charles%20VI%27s%20decree%20in%201719",
+          "Signing%20of%20the%201862%20Constitution%20of%20Liechtenstein"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20is%20the%20Volga%20River%3F",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+          "Bulgaria",
+          "India",
+          "Sweden"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Switzerland%20has%20four%20national%20languages%2C%20English%20being%20one%20of%20them.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%2015th%20letter%20of%20the%20Greek%20alphabet%3F",
+        "correct_answer": "Omicron%20%28%CE%9F%29",
+        "incorrect_answers": [
+          "Sigma%20%28%CE%A3%29",
+          "Pi%20%28%CE%A0%29",
+          "Nu%20%28%CE%9D%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20are%20the%20Nazca%20Lines%20located%3F",
+        "correct_answer": "Peru",
+        "incorrect_answers": [
+          "Brazil",
+          "Colombia",
+          "Ecuador"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In%20which%20English%20county%20is%20the%20city%20of%20Portsmouth%3F",
+        "correct_answer": "Hampshire",
+        "incorrect_answers": [
+          "Oxfordshire",
+          "Buckinghamshire",
+          "Surrey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20was%20the%20most%20populous%20city%20in%20the%20Americas%20in%202015%3F",
+        "correct_answer": "S%C3%A3o%20Paulo",
+        "incorrect_answers": [
+          "New%20York",
+          "Mexico%20City",
+          "Los%20Angeles"
+        ]
+      }
+    ]
+  }
+}

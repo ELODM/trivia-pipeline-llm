@@ -1,0 +1,596 @@
+{
+  "category_id": 14,
+  "fetched_at": "2026-10-06T09:59:38.594988+00:00",
+  "request": {
+    "amount": 50,
+    "category": 14,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20Nickelodeon%20game%20shows%20aired%20first%3F",
+        "correct_answer": "Double%20Dare",
+        "incorrect_answers": [
+          "Nick%20Arcade",
+          "Finders%20Keepers",
+          "Nickelodeon%20Guts"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20characters%20in%20%22Stranger%20Things%22%20has%20the%20power%20of%20Telekinesis%3F",
+        "correct_answer": "Eleven",
+        "incorrect_answers": [
+          "Mike",
+          "Lucas",
+          "Karen"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20White%20Ranger%20was%20the%20leader%20of%20the%20Power%20Rangers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20which%20British%20seaside%20town%20was%20the%20BBC%20sitcom%20%22Fawlty%20Towers%22%20set%3F",
+        "correct_answer": "Torquay",
+        "incorrect_answers": [
+          "Blackpool",
+          "Bournemouth",
+          "Great%20Yarmouth"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "From%20what%20show%20is%20the%20character%20%22James%20Doakes%22%3F%20",
+        "correct_answer": "Dexter",
+        "incorrect_answers": [
+          "Marvel%27s%20Daredevil",
+          "Boardwalk%20Empire",
+          "The%20Walking%20Dead"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20company%20has%20exclusive%20rights%20to%20air%20episodes%20of%20the%20%22The%20Grand%20Tour%22%3F",
+        "correct_answer": "Amazon",
+        "incorrect_answers": [
+          "Netflix",
+          "BBC",
+          "CCTV"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "%22The%20A%20Team%22%20first%20aired%20in%20the%20USA%20and%20in%20the%20UK%20in%20what%20year%3F",
+        "correct_answer": "1983",
+        "incorrect_answers": [
+          "1981",
+          "1985",
+          "1987"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20the%20first%20ever%20actor%20to%20play%20%22The%20Doctor%22%20on%20%22Doctor%20Who%22%3F",
+        "correct_answer": "William%20Hartnell",
+        "incorrect_answers": [
+          "David%20Tennant",
+          "Peter%20Capaldi",
+          "Tom%20Baker"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20animated%20series%20Futurama%2C%20the%20character%20Phllip%20J.%20Fry%20is%20his%20own%20grandfather.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20actor%20portrays%20%22Walter%20White%22%20in%20the%20series%20%22Breaking%20Bad%22%3F",
+        "correct_answer": "%20Bryan%20Cranston",
+        "incorrect_answers": [
+          "Andrew%20Lincoln",
+          "Aaron%20Paul",
+          "RJ%20Mitte"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20TV%20Show%20%22Donkey%20Kong%20Country%22%2C%20which%20episode%20did%20the%20song%20%22Eddie%2C%20Let%20Me%20Go%20Back%20To%20My%20Home%22%20play%20in%3F",
+        "correct_answer": "It%27s%20a%20Wonderful%20Life",
+        "incorrect_answers": [
+          "Message%20In%20A%20Bottle%20Show",
+          "To%20The%20Moon%20Baboon",
+          "Ape-Nesia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Game%20of%20Thrones%2C%20what%20is%20Littlefinger%27s%20real%20name%3F",
+        "correct_answer": "Petyr%20Baelish",
+        "incorrect_answers": [
+          "Podrick%20Payne",
+          "Lancel%20Lannister",
+          "Torrhen%20Karstark"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20which%20year%20did%20the%20British%20television%20series%20%22The%20Bill%22%20end%3F",
+        "correct_answer": "2010",
+        "incorrect_answers": [
+          "2001",
+          "2007",
+          "2012"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%20Stranger%20Things%2C%20what%20is%20Eleven%27s%20favorite%20breakfast%20food%3F",
+        "correct_answer": "Eggo%20Waffles",
+        "incorrect_answers": [
+          "Toast",
+          "Captain%20Crunch",
+          "Bacon%20and%20Eggs"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "%22The%20Simpsons%22%20family%20is%20named%20after%20creator%20Matt%20Groening%27s%20real%20family.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20show%20is%20known%20for%20the%20songs%20%22You%20are%20a%20Pirate%22%2C%20%22Cooking%20by%20the%20Book%22%20and%20%22We%20Are%20Number%20One%22%3F",
+        "correct_answer": "LazyTown",
+        "incorrect_answers": [
+          "Sofia%20the%20First",
+          "DuckTales",
+          "Tom%20and%20Jerry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20TV%20show%20%22Mad%20Men%22%2C%20what%20was%20Donald%20Draper%27s%20birthname%3F",
+        "correct_answer": "Richard%20%22Dick%22%20Whitman",
+        "incorrect_answers": [
+          "Donald%20Draper",
+          "John%20Ashbury",
+          "Michael%20%22Mikey%22%20Wilhelm"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "When%20did%20Spongebob%20Squarepants%20first%20air%3F",
+        "correct_answer": "May%201%2C%201999",
+        "incorrect_answers": [
+          "July%2020%2C%202000",
+          "February%206%2C%202003",
+          "June%2027%2C%201997"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20Nickelodeon%27s%20original%20name%3F",
+        "correct_answer": "Pinwheel",
+        "incorrect_answers": [
+          "MTVKids",
+          "KidsTV",
+          "Splat%21"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "An%20episode%20of%20%22The%20Simpsons%22%20is%20dedicated%20to%20Moe%20Szyslak%27s%20bar%20rag.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20Klingons%20are%20commonly%20referred%20to%20as%20%22Black%20Elves%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20television%20show%20Doctor%20Who%20first%20aired%20in%201963.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20the%20following%20won%20the%20first%20season%20of%20American%20Idol%20in%202002%3F",
+        "correct_answer": "Kelly%20Clarkson",
+        "incorrect_answers": [
+          "Justin%20Guarini",
+          "Ruben%20Studdard",
+          "Chris%20Daughtry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20who%20was%20the%20founder%20of%20the%20Klingon%20Empire%20and%20its%20philosophy%3F",
+        "correct_answer": "Kahless%20the%20Unforgettable",
+        "incorrect_answers": [
+          "Lady%20Lukara%20of%20the%20Great%20Hall",
+          "Molor%20the%20Unforgiving",
+          "Dahar%20Master%20Kor"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20in%20the%20Star%20Trek%20series%20is%20NOT%20Klingon%20food%3F",
+        "correct_answer": "Hors%20d%27oeuvre",
+        "incorrect_answers": [
+          "Racht",
+          "Gagh",
+          "Bloodwine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%3A%20Voyager%22%2C%20which%20episode%20did%20Voyager%20establish%20real-time%20communication%20with%20Starfleet%20Headquarters%3F",
+        "correct_answer": "Pathfinder",
+        "incorrect_answers": [
+          "Message%20In%20A%20Bottle",
+          "Someone%20To%20Watch%20Over%20Me",
+          "Counterpoint"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20co-founded%20the%20YouTube%20Let%27s%20Play%20channel%20%22Game%20Grumps%22%20alongside%20Newgrounds%20animator%20Egoraptor%3F",
+        "correct_answer": "JonTron",
+        "incorrect_answers": [
+          "Pewdiepie",
+          "Tobuscus",
+          "Markiplier"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Prior%20to%20working%20at%20Wizards%20of%20the%20Coast%2C%20%22Mark%20Rosewater%22%20was%20a%20writer%20for%20which%20show%3F",
+        "correct_answer": "Roseanne",
+        "incorrect_answers": [
+          "Boy%20Meets%20World",
+          "The%20X-Files",
+          "NYPD%20Blue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20character%20does%20voice%20actress%20Tara%20Strong%20NOT%20voice%3F",
+        "correct_answer": "Bubbles%20%282016%29",
+        "incorrect_answers": [
+          "Twilight%20Sparkle",
+          "Timmy%20Turner",
+          "Harley%20Quinn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "How%20many%20seasons%20did%20%22Stargate%20SG-1%22%20have%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "3",
+          "7",
+          "12"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20theme%20for%20the%20popular%20science%20fiction%20series%20%22Doctor%20Who%22%20was%20composed%20by%20who%3F",
+        "correct_answer": "Ron%20Grainer",
+        "incorrect_answers": [
+          "Murray%20Gold",
+          "Delia%20Derbyshire",
+          "Peter%20Howell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20the%20first%20Big%20Brother%20US%20winner%20to%20win%20with%20a%20perfect%20game%3F",
+        "correct_answer": "Dan%20Gheesling",
+        "incorrect_answers": [
+          "Ian%20Terry",
+          "Jordan%20Lloyd",
+          "Rachael%20Reilly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22The%20Simpsons%22%2C%20what%20is%20the%20real%20name%20of%20%22Comic%20Book%20Guy%22%3F",
+        "correct_answer": "Jeff%20Albertson",
+        "incorrect_answers": [
+          "Comic%20Book%20Guy",
+          "Edward%20Stone",
+          "Jack%20Richardson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20the%20following%20Autobot%20names%20in%20Michael%20Bay%27s%20movies%20was%20NOT%20a%20name%20for%20a%20Transformer%20in%20the%20original%201980%27s%20cartoon%3F",
+        "correct_answer": "Mudflap",
+        "incorrect_answers": [
+          "Skids",
+          "Sideswipe",
+          "Ratchet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20the%20following%20awards%20do%20Matt%20Stone%20and%20Trey%20Parker%20NOT%20have%3F",
+        "correct_answer": "Oscar",
+        "incorrect_answers": [
+          "Emmy",
+          "Tony",
+          "Grammy"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%3A%20The%20Next%20Generation%22%2C%20Data%20is%20the%20only%20android%20in%20existence.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%202008%2C%20British%20celebrity%20chef%20Gordon%20Ramsay%20believes%20he%20almost%20died%20after%20suffering%20what%20accident%20in%20Iceland%20while%20filming%3F",
+        "correct_answer": "Slipping%20off%20a%20cliff%2C%20and%20nearly%20drowning%20in%20icy%20water",
+        "incorrect_answers": [
+          "Crash%20landing%20when%20arriving%20at%20Keflav%C3%ADk%20airport",
+          "A%20minor%20car%20accident%20in%20a%20snowstorm",
+          "Being%20served%20under-cooked%20chicken%20at%20his%20hotel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20breed%20of%20dog%20is%20%22Scooby%20Doo%22%3F",
+        "correct_answer": "Great%20Dane",
+        "incorrect_answers": [
+          "Pit%20bull",
+          "Boxer",
+          "Doberman%20Pinscher"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20TV%20show%20%22Cheers%22%2C%20Sam%20Malone%20was%20a%20former%20relief%20pitcher%20for%20which%20baseball%20team%3F",
+        "correct_answer": "Boston%20Red%20Sox",
+        "incorrect_answers": [
+          "New%20York%20Mets",
+          "Baltimore%20Orioles",
+          "Milwaukee%20Brewers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20which%20state%20of%20America%20was%20the%20Fresh%20Prince%20of%20Bel-Air%20born%20and%20raised%20in%3F",
+        "correct_answer": "Pennsylvania",
+        "incorrect_answers": [
+          "Florida",
+          "California",
+          "New%20Jersey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20Klingon%27s%20afterlife%20called%3F",
+        "correct_answer": "Sto-vo-kor",
+        "incorrect_answers": [
+          "Valhalla",
+          "Karon%27gahk",
+          "New%20Jersey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20what%20is%20the%20Ferengi%27s%20First%20Rule%20of%20Acquisition%3F",
+        "correct_answer": "Once%20you%20have%20their%20money%2C%20you%20never%20give%20it%20back.%20",
+        "incorrect_answers": [
+          "Never%20place%20friendship%20above%20profit",
+          "Greed%20is%20Eternal",
+          "Never%20allow%20family%20to%20stand%20in%20the%20way%20of%20opportunity"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20author%20behind%20the%20acclaimed%20novel%20%22Leaving%20Las%20Vegas%22%20also%20wrote%20an%20episode%20of%20Rugrats.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20Star%20Trek%20universe%2C%20what%20color%20is%20Vulcan%20blood%3F",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Blue",
+          "Red",
+          "Purple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20%22Flash%22%20and%20%22Arrow%22%20spinoff%20featuring%20a%20team%20of%20characters%20that%20have%20appeared%20on%20both%20shows%3F",
+        "correct_answer": "Legends%20of%20Tomorrow",
+        "incorrect_answers": [
+          "Heroes%20of%20Tomorrow",
+          "The%20Justice%20Society%20of%20America",
+          "The%20Justice%20Society"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20Meg%27s%20full%20name%20in%20%22Family%20Guy%22%3F",
+        "correct_answer": "Megatron%20Griffin",
+        "incorrect_answers": [
+          "Who-Cares%20Griffin",
+          "Neil%20Griffin",
+          "Megan%20Griffin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "How%20many%20seasons%20did%20the%20Sci-Fi%20television%20show%20%22Stargate%20Atlantis%22%20have%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "10",
+          "2",
+          "7"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20Black%20Mirror%20episode%20%22Bandersnatch%22%2C%20PAC-MAN%20stands%20for%3A",
+        "correct_answer": "Program%20And%20Control%20Man",
+        "incorrect_answers": [
+          "Postgraduate%20Aplications%20Centre%20Man",
+          "Political%20Action%20Committee%20Man",
+          "Physics%20%26%20Astronomy%20Classification%20Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20played%20the%20Waitress%20in%20the%20Spam%20sketch%20of%20%22Monty%20Python%27s%20Flying%20Circus%22%3F",
+        "correct_answer": "Terry%20Jones",
+        "incorrect_answers": [
+          "Eric%20Idle",
+          "Graham%20Chapman",
+          "John%20Cleese"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20Klaang%20is%20a%20typical%20Klingon%20male.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

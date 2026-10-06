@@ -1,0 +1,594 @@
+{
+  "category_id": 24,
+  "fetched_at": "2026-10-06T10:07:13.525980+00:00",
+  "request": {
+    "amount": 50,
+    "category": 24,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Before%202011%2C%20%22True%20Capitalist%20Radio%22%20was%20known%20by%20a%20different%20name.%20What%20was%20that%20name%3F",
+        "correct_answer": "True%20Conservative%20Radio",
+        "incorrect_answers": [
+          "True%20Republican%20Radio",
+          "Texan%20Capitalist%20Radio",
+          "United%20Capitalists"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Before%202016%2C%20in%20which%20other%20year%20did%20Donald%20Trump%20run%20for%20President%3F",
+        "correct_answer": "2000",
+        "incorrect_answers": [
+          "2012",
+          "1988",
+          "2008"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Who%20was%20the%2045th%20President%20of%20the%20United%20States%3F",
+        "correct_answer": "Donald%20Trump",
+        "incorrect_answers": [
+          "Barack%20Obama",
+          "Bill%20Clinton",
+          "George%20Bush"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20of%20the%20following%20United%20States%20senators%20is%20known%20for%20performing%20a%2024-hour%20long%20filibuster%3F",
+        "correct_answer": "Strom%20Thurmond",
+        "incorrect_answers": [
+          "Roy%20Blunt",
+          "John%20Barrasso",
+          "Chuck%20Schumer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20United%20Nations%20principal%20organ%20has%20been%20suspended%20since%201994%3F",
+        "correct_answer": "Trusteeship%20Council",
+        "incorrect_answers": [
+          "Secretariat",
+          "General%20Assembly",
+          "Economic%20and%20Social%20Council"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "How%20many%20people%20are%20in%20the%20U.S.%20House%20of%20Representatives%3F",
+        "correct_answer": "435",
+        "incorrect_answers": [
+          "260",
+          "415",
+          "50"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What%20was%20the%20personal%20nickname%20of%20the%2040th%20Governor%20of%20the%20US%20State%20Louisiana%2C%20Huey%20Long%3F",
+        "correct_answer": "The%20Kingfish",
+        "incorrect_answers": [
+          "The%20Champ",
+          "The%20Hoot%20Owl",
+          "The%20Oracle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "What%20year%20did%20the%20effort%20to%20deploy%20the%20Common%20Core%20State%20Standards%20%28CCSS%29%20in%20the%20US%20begin%3F",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+          "2012",
+          "2006",
+          "1997"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "The%202014%20movie%20%22The%20Raid%202%3A%20Berandal%22%20was%20mainly%20filmed%20in%20which%20Asian%20country%3F",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+          "Thailand",
+          "Brunei",
+          "Malaysia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Russia%20passed%20a%20law%20in%202013%20which%20outlaws%20telling%20children%20that%20homosexuals%20exist.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20of%20the%20following%20United%20States%20Presidents%20served%20the%20shortest%20term%20in%20office%3F",
+        "correct_answer": "William%20Henry%20Harrison",
+        "incorrect_answers": [
+          "Zachary%20Taylor",
+          "James%20A.%20Garfield",
+          "Warren%20G.%20Harding"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20city%20is%20the%20seat%20of%20government%20of%20the%20Netherlands%3F",
+        "correct_answer": "The%20Hague",
+        "incorrect_answers": [
+          "Amsterdam",
+          "Utrecht",
+          "Rotterdam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Between%201973%20to%201990%2C%20what%20country%20was%20ruled%20by%20dictator%20Augusto%20Pinochet%3F",
+        "correct_answer": "Chile",
+        "incorrect_answers": [
+          "Ethiopia",
+          "Indonesia",
+          "Nicaragua"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "What%20candidate%20won%20the%202012%20US%20Presidential%20Election%3F",
+        "correct_answer": "Barack%20Obama",
+        "incorrect_answers": [
+          "Mitt%20Romney",
+          "Bob%20Hope",
+          "Ross%20Perot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "In%20June%202017%2C%20Saudi%20Arabia%20and%20Egypt%20broke%20off%20ties%20with%20which%20country%20over%20its%20supposed%20support%20for%20terrorism%3F",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+          "Bahrain",
+          "United%20States%20of%20America",
+          "Russia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Taiwan%20officially%20calls%20itself%20%22the%20Republic%20of%20China%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "In%202016%2C%20the%20United%20Kingdom%20voted%20to%20stay%20in%20the%20EU.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "According%20to%20the%20United%20States%20Constitution%2C%20how%20old%20must%20a%20person%20be%20to%20be%20elected%20President%20of%20the%20United%20States%3F",
+        "correct_answer": "35",
+        "incorrect_answers": [
+          "30",
+          "40",
+          "45"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20was%20the%20British%20Prime%20Minister%20at%20the%20outbreak%20of%20the%20Second%20World%20War%3F",
+        "correct_answer": "Neville%20Chamberlain",
+        "incorrect_answers": [
+          "Clement%20Attlee",
+          "Winston%20Churchill",
+          "Stanley%20Baldwin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20U.S.%20president%20is%20said%20to%20have%20had%20the%20longest%20beard%3F",
+        "correct_answer": "Rutherford%20B.%20Hayes",
+        "incorrect_answers": [
+          "Zachary%20Taylor",
+          "John%20Quincy%20Adams",
+          "James%20A.%20Garfield"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20is%20one%20of%20the%20co-princes%20of%20Andorra%3F",
+        "correct_answer": "The%20president%20of%20France",
+        "incorrect_answers": [
+          "The%20monarch%20of%20the%20UK",
+          "The%20Pope",
+          "No-one%20%28the%20position%20is%20vacant%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Whose%202016%20presidential%20campaign%20slogan%20was%20%22Make%20America%20Great%20Again%22%3F",
+        "correct_answer": "Donald%20Trump",
+        "incorrect_answers": [
+          "Ted%20Cruz",
+          "Marco%20Rubio",
+          "Bernie%20Sanders"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Who%20is%20the%20only%20US%20president%20to%20serve%20two%20non-consecutive%20terms%20in%20office%3F",
+        "correct_answer": "Grover%20Cleveland",
+        "incorrect_answers": [
+          "James%20K.%20Polk",
+          "Franklin%20D.%20Roosevelt",
+          "Thomas%20Jefferson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Which%20former%20US%20president%20was%20nicknamed%20%22Teddy%22%20after%20he%20refused%20to%20shoot%20a%20defenseless%20black%20bear%3F",
+        "correct_answer": "Theodore%20Roosevelt",
+        "incorrect_answers": [
+          "Woodrow%20Wilson",
+          "James%20F.%20Fielder",
+          "Andrew%20Jackson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "Former%20United%20States%20President%20Bill%20Clinton%20famously%20played%20which%20instrument%3F",
+        "correct_answer": "Saxophone",
+        "incorrect_answers": [
+          "Baritone%20horn",
+          "Piano",
+          "Violin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "In%20United%20States%20history%2C%20how%20many%20vice%20presidents%20did%20Franklin%20D.%20Roosevelt%20have%20during%20his%20time%20in%20office%20as%20president%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "1",
+          "2",
+          "0"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What%20is%20former%20United%20States%20President%20Bill%20Clinton%27s%20full%20name%3F",
+        "correct_answer": "William%20Jefferson%20Clinton",
+        "incorrect_answers": [
+          "William%20Roosevelt%20Clinton",
+          "William%20Truman%20Clinton",
+          "William%20Lincoln%20Clinton"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Vatican%20city%20is%20a%20full%20member%20of%20United%20Nations.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20nation%20joined%20NATO%20as%20its%2029th%20member%20in%202017%3F",
+        "correct_answer": "Montenegro",
+        "incorrect_answers": [
+          "Estonia",
+          "Andorra",
+          "Iceland"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "The%202016%20United%20States%20Presidential%20Election%20is%20the%20first%20time%20Hillary%20Clinton%20has%20run%20for%20President.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "The%20Watergate%20Scandal%20occured%20in%20what%20year%3F",
+        "correct_answer": "1972",
+        "incorrect_answers": [
+          "1973",
+          "1974",
+          "1971"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "The%20largest%20consumer%20market%20in%202015%20was...",
+        "correct_answer": "The%20United%20States%20of%20America",
+        "incorrect_answers": [
+          "Germany",
+          "Japan",
+          "United%20Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20succeeded%20Joseph%20Stalin%20as%20General%20Secretary%20of%20the%20Communist%20Party%20of%20the%20Soviet%20Union%3F",
+        "correct_answer": "Nikita%20Khrushchev",
+        "incorrect_answers": [
+          "Leonid%20Brezhnev",
+          "Mikhail%20Gorbachev",
+          "Boris%20Yeltsin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20was%20the%2040th%20President%20of%20the%20USA%3F",
+        "correct_answer": "Ronald%20Reagan",
+        "incorrect_answers": [
+          "Jimmy%20Carter",
+          "Bill%20Clinton",
+          "Richard%20Nixon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "One%20of%20Barack%20Obama%27s%20United%20States%20presidential%20campaign%20slogan%27s%20was%20%22Yes%20We%20Can%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20major%20bank%27s%20collapse%20was%20notable%20as%20one%20of%20the%20causes%20of%20the%20Financal%20Crisis%20of%202008%3F",
+        "correct_answer": "Lehman%20Brothers",
+        "incorrect_answers": [
+          "HSBC",
+          "Barclays",
+          "Lloyds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20president%20erased%20the%20national%20debt%20of%20the%20United%20States%3F",
+        "correct_answer": "Andrew%20Jackson",
+        "incorrect_answers": [
+          "Ronald%20Reagan",
+          "John%20F.%20Kennedy",
+          "Franklin%20Roosevelt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What%20year%20did%20Gerald%20Ford%20Become%20President%3F",
+        "correct_answer": "1974",
+        "incorrect_answers": [
+          "1977",
+          "1973",
+          "1969"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20former%20US%20president%20used%20%22Let%27s%20Make%20America%20Great%20Again%22%20as%20his%20campaign%20slogan%20before%20Donald%20Trump%27s%20campaign%3F",
+        "correct_answer": "Ronald%20Reagan",
+        "incorrect_answers": [
+          "Jimmy%20Carter",
+          "Gerald%20Ford",
+          "Richard%20Nixon"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Politics",
+        "question": "The%20S%20in%20Harry%20S.%20Truman%20stands%20for%20%22Samuel%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "The%20State%20of%20Queensland%2C%20Australia%20voted%20NO%20to%20a%20referendum%20for%20daylight%20savings%20in%201992.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20Native%20American%20tribe%2Fnation%20requires%20at%20least%20one%20half%20blood%20quantum%20%28equivalent%20to%20one%20parent%29%20to%20be%20eligible%20for%20membership%3F",
+        "correct_answer": "Yomba%20Shoshone%20Tribe",
+        "incorrect_answers": [
+          "Standing%20Rock%20Sioux%20Tribe",
+          "Kiowa%20Tribe%20of%20Oklahoma",
+          "Pawnee%20Nation%20of%20Oklahoma"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Who%20was%20elected%20leader%20of%20the%20UK%20Labour%20Party%20in%20September%202015%3F",
+        "correct_answer": "Jeremy%20Corbyn",
+        "incorrect_answers": [
+          "Ed%20Miliband",
+          "David%20Cameron",
+          "Theresa%20May"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20US%20state%20was%20the%20first%20to%20allow%20women%20to%20vote%20in%201869%3F",
+        "correct_answer": "Wyoming",
+        "incorrect_answers": [
+          "California",
+          "Delaware",
+          "Virginia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What%20country%20saw%20a%20world%20record%20315%20million%20voters%20turn%20out%20for%20elections%20on%20May%2020%2C%201991%3F",
+        "correct_answer": "India",
+        "incorrect_answers": [
+          "United%20States%20of%20America",
+          "Soviet%20Union",
+          "Poland"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Helen%20Clark%20was%20the%2037th%20Prime%20Minister%20of%20Australia.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "Which%20of%20these%20is%20NOT%20one%20of%20Donald%20Trump%27s%20children%3F",
+        "correct_answer": "Julius",
+        "incorrect_answers": [
+          "Donald%20Jr.",
+          "Ivanka",
+          "Eric"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Which%20of%20these%20was%20an%20official%20candidate%20in%20the%202017%20British%20General%20Election%3F",
+        "correct_answer": "Lord%20Buckethead",
+        "incorrect_answers": [
+          "James%20Francis",
+          "Robert%20Wimbledon",
+          "Sir%20Crumpetsby"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Politics",
+        "question": "What%20is%20the%20primary%20purpose%20of%20the%20Fourth%20Amendment%20to%20the%20US%20Constitution%3F",
+        "correct_answer": "Preventing%20unreasonable%20searches%20and%20seizures",
+        "incorrect_answers": [
+          "Preventing%20cruel%20and%20unusual%20punishments",
+          "Protecting%20against%20imprisonment%20without%20due%20process%20of%20law",
+          "Protecting%20the%20right%20to%20keep%20and%20bear%20arms"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Politics",
+        "question": "Joko%20Widodo%20has%20appeared%20in%20the%20cover%20of%20a%20TIME%20magazine.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

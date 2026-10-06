@@ -1,0 +1,598 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:57:02.367821+00:00",
+  "request": {
+    "amount": 50,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Only%20a%20small%20percentage%20of%20the%20world%27s%20population%20is%20lactose%20intolerant.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20is%20the%20capital%20of%20Spain%3F",
+        "correct_answer": "Madrid",
+        "incorrect_answers": [
+          "Paris",
+          "Barcelona",
+          "Lisboa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20buildings%20is%20example%20of%20a%20structure%20primarily%20built%20in%20the%20Art%20Deco%20architectural%20style%3F",
+        "correct_answer": "Niagara%20Mohawk%20Building",
+        "incorrect_answers": [
+          "Taipei%20101",
+          "One%20Detroit%20Center",
+          "Westendstrasse%201"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20restaurant%27s%20mascot%20is%20a%20clown%3F",
+        "correct_answer": "McDonald%27s",
+        "incorrect_answers": [
+          "Whataburger",
+          "Burger%20King",
+          "Sonic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20New%20York%20Times%20slogan%20is%2C%20%E2%80%9CAll%20the%20News%20That%E2%80%99s%20Fit%20to%E2%80%A6%E2%80%9D",
+        "correct_answer": "Print",
+        "incorrect_answers": [
+          "Digest",
+          "Look",
+          "Read"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20popular%20animatronic%20singing%20fish%20prop%2C%20singing%20such%20hits%20such%20as%20%22Don%27t%20Worry%2C%20Be%20Happy%22%3F",
+        "correct_answer": "Big%20Mouth%20Billy%20Bass",
+        "incorrect_answers": [
+          "Big%20Billy%20Bass",
+          "Singing%20Fish",
+          "Sardeen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20Zodiac%20symbol%20for%20Gemini%3F",
+        "correct_answer": "Twins",
+        "incorrect_answers": [
+          "Fish",
+          "Scales",
+          "Maiden"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "It%20is%20automatically%20considered%20entrapment%20in%20the%20United%20States%20if%20the%20police%20sell%20you%20illegal%20substances%20without%20revealing%20themselves.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20the%20%27S%27%20stand%20for%20in%20the%20abbreviation%20SIM%2C%20as%20in%20SIM%20card%3F%20",
+        "correct_answer": "Subscriber",
+        "incorrect_answers": [
+          "Single",
+          "Secure",
+          "Solid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20would%20one%20say%20goodbye%20in%20Spanish%3F",
+        "correct_answer": "Adi%C3%B3s",
+        "incorrect_answers": [
+          "%20Hola",
+          "Au%20Revoir",
+          "Salir"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20does%20VR%20stand%20for%3F",
+        "correct_answer": "Virtual%20Reality",
+        "incorrect_answers": [
+          "Very%20Real",
+          "Visual%20Recognition",
+          "Voice%20Recognition"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Who%20invented%20Pastafarianism%3F",
+        "correct_answer": "Bobby%20Henderson",
+        "incorrect_answers": [
+          "Eric%20Tignor",
+          "Bill%20Nye",
+          "Zach%20Soldi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Flag%20of%20the%20European%20Union%20has%20how%20many%20stars%20on%20it%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "10",
+          "14",
+          "16"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20blood%20typing%2C%20the%20%28%2B%29%20and%20%28-%29%20marker%20after%20an%20A%2C%20B%2C%20AB%2C%20or%20O%20is%20called%20Rh%20factor.%20Which%20of%20the%20following%20is%20the%20source%20of%20its%20discovery%3F",
+        "correct_answer": "Rhesus%20Monkeys",
+        "incorrect_answers": [
+          "Rheumatism%20Patients",
+          "Red-Haired%20People",
+          "Rhizomes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Virtual%20reality%20company%20Oculus%20VR%20lost%20which%20of%20it%27s%20co-founders%20in%20a%20freak%20car%20accident%20in%202013%3F",
+        "correct_answer": "Andrew%20Scott%20Reisse",
+        "incorrect_answers": [
+          "Nate%20Mitchell",
+          "Jack%20McCauley",
+          "Palmer%20Luckey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20these%20companies%20does%20NOT%20manufacture%20automobiles%3F",
+        "correct_answer": "Ducati",
+        "incorrect_answers": [
+          "Nissan",
+          "GMC",
+          "Fiat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20height%20of%20Kingda%20Ka%2C%20the%20tallest%20roller%20coaster%20in%20the%20world%20from%202005%20to%202024%3F",
+        "correct_answer": "456%20ft",
+        "incorrect_answers": [
+          "500%20ft",
+          "429%20ft",
+          "396%20ft"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "%22Buffalo%20buffalo%20Buffalo%20buffalo%20buffalo%20buffalo%20Buffalo%20buffalo.%22%20is%20a%20grammatically%20correct%20sentence.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Antibiotics%20are%20generally%20taken%20to%20combat%20what%3F",
+        "correct_answer": "Bacterial%20infections",
+        "incorrect_answers": [
+          "Viruses",
+          "Migraines",
+          "Muscular%20pains"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20name%20of%20the%20Jewish%20New%20Year%3F",
+        "correct_answer": "Rosh%20Hashanah",
+        "incorrect_answers": [
+          "Elul",
+          "New%20Year",
+          "Succoss"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20star%20sign%20of%20someone%20born%20on%20Valentines%20day%3F",
+        "correct_answer": "Aquarius",
+        "incorrect_answers": [
+          "Pisces",
+          "Capricorn",
+          "Scorpio"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20romanized%20Chinese%20word%20for%20%22airplane%22%3F",
+        "correct_answer": "Feiji",
+        "incorrect_answers": [
+          "Qiche",
+          "Zongxian",
+          "Huojian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "%22Nephelococcygia%22%20is%20the%20practice%20of%20doing%20what%3F%20",
+        "correct_answer": "Finding%20shapes%20in%20clouds",
+        "incorrect_answers": [
+          "Sleeping%20with%20your%20eyes%20open",
+          "Breaking%20glass%20with%20your%20voice",
+          "Swimming%20in%20freezing%20water"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Cucumbers%20are%20usually%20more%20than%2090%25%20water.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20WhatsApp%20founded%3F",
+        "correct_answer": "2009",
+        "incorrect_answers": [
+          "2007",
+          "2012",
+          "2010"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20word%20%22news%22%20originates%20from%20the%20first%20letters%20of%20the%204%20main%20directions%20on%20a%20compass%20%28North%2C%20East%2C%20West%2C%20South%29.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "The%20phrase%20%22accident%20waiting%20to%20happen%22%20is%20an%20example%20of%20what%20type%20of%20figure%20of%20speech%3F",
+        "correct_answer": "Idiom",
+        "incorrect_answers": [
+          "Simile",
+          "Metaphor",
+          "Analogy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20a%20Burgee%3F",
+        "correct_answer": "A%20flag",
+        "incorrect_answers": [
+          "A%20rope",
+          "A%20window",
+          "A%20type%20of%20food"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "After%20how%20many%20years%20would%20you%20celebrate%20your%20crystal%20anniversary%3F",
+        "correct_answer": "15",
+        "incorrect_answers": [
+          "20",
+          "10",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Who%20is%20considered%20the%20%22Father%20of%20Modern%20Philosophy%22%3F",
+        "correct_answer": "Ren%C3%A9%20Descartes",
+        "incorrect_answers": [
+          "Plato",
+          "Albert%20Einstein",
+          "Antoine%20Lavoiser"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "According%20to%20the%202014-2015%20Australian%20Bureau%20of%20Statistics%2C%20what%20percentage%20of%20Australians%20were%20born%20overseas%3F",
+        "correct_answer": "28%25",
+        "incorrect_answers": [
+          "13%25",
+          "20%25",
+          "7%25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20logical%20fallacy%20means%20to%20attack%20the%20character%20of%20your%20opponent%20rather%20than%20their%20arguments%3F",
+        "correct_answer": "Ad%20hominem",
+        "incorrect_answers": [
+          "Post%20hoc%20ergo%20propter%20hoc",
+          "Tu%20quoque",
+          "Argumentum%20ad%20populum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20is%20NOT%20one%20of%20Aesop%27s%20fables%3F",
+        "correct_answer": "The%20Fox%20and%20the%20Hound",
+        "incorrect_answers": [
+          "The%20Fox%20and%20the%20Grapes",
+          "The%20Tortoise%20and%20the%20Hare",
+          "The%20Frog%20and%20the%20Ox"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20essential%20condiment%20is%20also%20known%20as%20Japanese%20horseradish%3F",
+        "correct_answer": "Wasabi%20",
+        "incorrect_answers": [
+          "Mentsuyu",
+          "Karashi",
+          "Ponzu"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "The%20Great%20Wall%20of%20China%20is%20visible%20from%20the%20moon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "If%20you%20are%20traveling%20at%20a%20speed%20of%2080%20mph%2C%20how%20long%20will%20it%20take%20you%20to%20drive%2080%20miles%3F",
+        "correct_answer": "60%20minutes",
+        "incorrect_answers": [
+          "90%20minutes",
+          "30%20minutes",
+          "50%20minutes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20colors%20are%20there%20in%20a%20rainbow%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "8",
+          "9",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20Panama%20Canal%20was%20officially%20opened%20by%20which%20US%20president%3F",
+        "correct_answer": "Woodrow%20Wilson",
+        "incorrect_answers": [
+          "Calvin%20Coolidge",
+          "Herbert%20Hoover",
+          "Theodore%20Roosevelt"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "On%20average%2C%20at%20least%201%20person%20is%20killed%20by%20a%20drunk%20driver%20in%20the%20United%20States%20every%20hour.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Jingle%20Bells%20was%20originally%20meant%20for%20Thanksgiving",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20is%20the%20IATA%20code%20for%20Manchester%20Airport%3F",
+        "correct_answer": "MAN",
+        "incorrect_answers": [
+          "EGLL",
+          "LHR",
+          "EGCC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Directly%20between%20the%20Washington%20Monument%20and%20the%20Reflecting%20Pool%20is%20a%20memorial%20to%20which%20war%3F",
+        "correct_answer": "World%20War%20II",
+        "incorrect_answers": [
+          "Vietnam%20War",
+          "American%20Civil%20War",
+          "American%20Revolutionary%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "The%20words%20%22bungalow%22%20and%20%22shampoo%22%20originate%20from%20the%20languages%20of%20which%20country%3F",
+        "correct_answer": "India",
+        "incorrect_answers": [
+          "Papua%20New%20Guinea",
+          "Ethiopia",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20famous%20Papa%20John%27s%20last%20name%3F",
+        "correct_answer": "Schnatter",
+        "incorrect_answers": [
+          "Chowder",
+          "Williams",
+          "ANDERSON"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Where%20does%20water%20from%20Poland%20Spring%20water%20bottles%20come%20from%3F",
+        "correct_answer": "Maine%2C%20United%20States",
+        "incorrect_answers": [
+          "Hesse%2C%20Germany",
+          "Masovia%2C%20Poland",
+          "Bavaria%2C%20Poland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "%22Gum%20arabic%22%20is%20a%20natural%20gum%20consisting%20of%20the%20hardened%20sap%20of%20which%20tree%20species%3F",
+        "correct_answer": "Acacia",
+        "incorrect_answers": [
+          "Palm",
+          "Ficus",
+          "Eucalyptus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Which%20river%20flows%20through%20the%20Scottish%20city%20of%20Glasgow%3F",
+        "correct_answer": "Clyde",
+        "incorrect_answers": [
+          "Tay",
+          "Dee",
+          "Tweed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20did%20the%20Spanish%20autonomous%20community%20of%20Catalonia%20ban%20in%202010%2C%20that%20took%20effect%20in%202012%3F",
+        "correct_answer": "Bullfighting",
+        "incorrect_answers": [
+          "Fiestas",
+          "Flamenco",
+          "Mariachi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20was%20the%20soft%20drink%20Pepsi%20originally%20introduced%20as%3F",
+        "correct_answer": "Brad%27s%20Drink",
+        "incorrect_answers": [
+          "Pepsin%20Pop",
+          "Carolina%20Cola",
+          "Pepsin%20Syrup"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20the%20Declaration%20of%20Independence%20approved%20by%20the%20Second%20Continental%20Congress%3F",
+        "correct_answer": "July%204%2C%201776",
+        "incorrect_answers": [
+          "May%204%2C%201776",
+          "June%204%2C%201776",
+          "July%202%2C%201776"
+        ]
+      }
+    ]
+  }
+}

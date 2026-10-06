@@ -1,0 +1,608 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:33.658463+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20playable%20character%20in%20the%202016%20video%20game%20Overwatch%3F",
+        "correct_answer": "Invoker",
+        "incorrect_answers": [
+          "Mercy",
+          "Winston",
+          "Zenyatta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20device%20allows%20Tracer%20to%20manipulate%20her%20own%20time%20in%20the%20game%20%22Overwatch%22%3F",
+        "correct_answer": "Chronal%20Accelerator",
+        "incorrect_answers": [
+          "B.L.I.N.K",
+          "Spacial%20Displacement%20Manipulator",
+          "TMD%20%28Time%20Manipulation%20Device%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20name%20of%20the%20Metroid%20series%20comes%20from%20what%3F",
+        "correct_answer": "An%20enemy%20in%20the%20game",
+        "incorrect_answers": [
+          "The%20final%20boss%27s%20name",
+          "The%20main%20character%27s%20name",
+          "A%20spaceship%27s%20name"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Super%20Smash%20Bros.%20Ultimate%2C%20which%20of%20the%20following%20pair%20of%20characters%20are%20NOT%20considered%20%22Echo%20Fighters%22%3F",
+        "correct_answer": "Link%20%26%20Young%20Link",
+        "incorrect_answers": [
+          "Marth%20%26%20Lucina",
+          "Richter%20%26%20Simon",
+          "Peach%20%26%20Daisy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20video%20game%20engines%20was%20made%20by%20the%20company%20Epic%20Games%3F",
+        "correct_answer": "Unreal",
+        "incorrect_answers": [
+          "Unity",
+          "Game%20Maker%3A%20Studio",
+          "Cry%20Engine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20company%20developed%20the%20free%20battle%20royale%20game%20Fortnite%3F",
+        "correct_answer": "Epic%20Games",
+        "incorrect_answers": [
+          "Valve",
+          "Ubisoft",
+          "Square%20Enix"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20won%20the%20Super%20Smash%20Bros.%20Fighter%20Ballot%20in%202015%3F",
+        "correct_answer": "Bayonetta",
+        "incorrect_answers": [
+          "Cloud",
+          "Ryu",
+          "Megaman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20your%20team%20in%20Star%20Wars%3A%20Republic%20Commando%3F",
+        "correct_answer": "Delta%20Squad",
+        "incorrect_answers": [
+          "The%20Commandos",
+          "Bravo%20Six",
+          "Vader%27s%20Fist"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Pok%C3%A9mon%20Conquest%2C%20which%20warlord%20is%20able%20to%20bond%20with%20Zekrom%20and%20a%20shiny%20Rayquazza%3F",
+        "correct_answer": "Nobunaga",
+        "incorrect_answers": [
+          "The%20Player",
+          "Oichi",
+          "Hideyoshi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20engine%20was%20Titanfall%20made%20in%3F",
+        "correct_answer": "Source%20Engine",
+        "incorrect_answers": [
+          "Frostbite%203",
+          "Unreal%20Engine",
+          "Cryengine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20code%20name%20of%20Morgana%20the%20cat%20in%20Persona%205%3F",
+        "correct_answer": "Mona",
+        "incorrect_answers": [
+          "Panther",
+          "Nightstalker",
+          "Zorro"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Devil%20May%20Cry%22%20franchise%2C%20which%20game%20is%20chronologically%20first%3F",
+        "correct_answer": "Devil%20May%20Cry%203%3A%20Dante%27s%20Awakening%20",
+        "incorrect_answers": [
+          "Devil%20May%20Cry%204",
+          "Devil%20May%20Cry",
+          "Devil%20May%20Cry%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20former%20MOBA%2C%20created%20by%20Waystone%20Games%20and%20published%20by%20EA%2C%20was%20shut%20down%20in%202014%3F",
+        "correct_answer": "Dawngate",
+        "incorrect_answers": [
+          "Strife",
+          "League%20of%20Legends",
+          "Heroes%20of%20Newerth"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20antagonist%20of%20Ori%20and%20the%20Blind%20Forest%3F",
+        "correct_answer": "Kuro",
+        "incorrect_answers": [
+          "Nibel",
+          "Gumo",
+          "King%20Rammer%20XII"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20voiced%20the%20character%20Joel%20in%20%22The%20Last%20of%20Us%22%3F",
+        "correct_answer": "Troy%20Baker",
+        "incorrect_answers": [
+          "Nolan%20North",
+          "John%20DiMaggio",
+          "Steve%20Blum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%27s%20the%20creator%20of%20Geometry%20Dash%3F",
+        "correct_answer": "Robert%20Topala",
+        "incorrect_answers": [
+          "Scott%20Cawthon",
+          "Adam%20Engels",
+          "Andrew%20Spinks"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20soccer%20player%20is%20featured%20on%20the%20cover%20of%20EA%20Sport%27s%20FIFA%2018%3F",
+        "correct_answer": "Cristiano%20Ronaldo",
+        "incorrect_answers": [
+          "Lionel%20Messi",
+          "Neymar",
+          "Harry%20Kane"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22League%20of%20Legends%22%2C%20there%20exists%20four%20different%20types%20of%20Dragon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20stage%20was%20planned%20to%20be%20a%20part%20of%20%22Sonic%20the%20Hedgehog%202%22%2C%20but%20was%20scrapped%20during%20development%3F",
+        "correct_answer": "Genocide%20City%20Zone",
+        "incorrect_answers": [
+          "Stardust%20Speedway%20Zone",
+          "Sky%20High%20Zone%20",
+          "Clockwork%20Zone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Need%20for%20Speed%3A%20Underground%2C%20what%20car%20does%20Eddie%20drive%3F",
+        "correct_answer": "Nissan%20Skyline%20GT-R%20%28R34%29",
+        "incorrect_answers": [
+          "Mazda%20RX-7%20FD3S",
+          "Acura%20Integra%20Type%20R",
+          "Subaru%20Impreza%202.5%20RS"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20first%20video%20game%20in%20the%20Batman%20%22Arkham%22%20series%3F",
+        "correct_answer": "Arkham%20Asylum",
+        "incorrect_answers": [
+          "Arkham%20Knight",
+          "Arkham%20City",
+          "Arkham%20Origins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Grand%20Theft%20Auto%20%28GTA%29%20games%20have%20the%20same%20setting%3F",
+        "correct_answer": "GTA%20V%20and%20GTA%20San%20Andreas",
+        "incorrect_answers": [
+          "GTA%20V%20and%20GTA%20Vice%20City",
+          "GTA%20IV%20and%20GTA%20San%20Andreas",
+          "GTA%20IV%20and%20GTA%20Vice%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22League%20of%20Legends%22%20which%20character%20is%20known%20as%20%22The%20Sinister%20Blade%22%3F",
+        "correct_answer": "Katarina",
+        "incorrect_answers": [
+          "Shaco",
+          "Akali",
+          "Zed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20these%20characters%20was%20first%20introduced%20in%20Sonic%20Boom%3A%20Rise%20of%20Lyric%3F",
+        "correct_answer": "Sticks%20the%20Badger",
+        "incorrect_answers": [
+          "Mighty%20the%20Armadillo",
+          "Espio%20the%20Chameleon",
+          "Rouge%20the%20Bat"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20The%20Witcher%203%2C%20the%20Zoltan%20Chivay%20Gwent%20card%20can%20be%20found%20under%20the%20Hanged%20Man%27s%20Tree.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20game%20%22Roblox%22%20released%3F",
+        "correct_answer": "2006",
+        "incorrect_answers": [
+          "2003",
+          "2002",
+          "2007"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20games%20takes%20place%20in%20the%20Irish%20town%20of%20Doolin%2C%20with%20the%20option%20to%20play%20as%20one%20of%20the%20characters%2C%20Ellen%20and%20Keats%3F",
+        "correct_answer": "Folklore",
+        "incorrect_answers": [
+          "Shadow%20of%20the%20Colossus",
+          "ICO",
+          "Beyond%20Good%20%26%20Evil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Rocket%20League%20is%20a%20game%20which%20features..",
+        "correct_answer": "Cars",
+        "incorrect_answers": [
+          "Helicopters",
+          "Planes",
+          "Submarines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Left%204%20Dead%202%20released%3F",
+        "correct_answer": "November%2017%2C%202009",
+        "incorrect_answers": [
+          "May%203%2C%202008",
+          "November%2030%2C%202009",
+          "June%2030%2C%202010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "As%20of%20the%20year%202026%2C%20how%20many%20known%20moons%20does%20Jupiter%20have%3F",
+        "correct_answer": "97",
+        "incorrect_answers": [
+          "11",
+          "43",
+          "104"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20second-generation%20Pok%C3%A9mon%20games%2C%20which%20Pok%C3%A9mon%20can%20you%20start%20with%3F",
+        "correct_answer": "Chikorita%2C%20Cyndaquil%2C%20and%20Totodile",
+        "incorrect_answers": [
+          "Bulbasaur%2C%20Charmander%2C%20and%20Squirtle",
+          "Treecko%2CTorchic%2C%20and%20Mudkip",
+          "Grassy%2C%20Firey%2C%20and%20Watery"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20which%20map%20introduced%20the%20perk%20%22PhD%20Flopper%22%3F",
+        "correct_answer": "Ascension",
+        "incorrect_answers": [
+          "Moon",
+          "Call%20Of%20The%20Dead",
+          "Die%20Rise"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Pok%C3%A9mon%20Sun%20and%20Moon%22%2C%20Team%20Skull%20took%20over%20which%20town%3F",
+        "correct_answer": "Po%20Town",
+        "incorrect_answers": [
+          "Heahea%20City",
+          "Tapu%20Village",
+          "Iki%20Town"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20completing%20which%20map%27s%20main%20easter%20egg%20will%20reward%20you%20with%20the%20achievement%2C%20%22Little%20Lost%20Girl%22%3F",
+        "correct_answer": "Origins",
+        "incorrect_answers": [
+          "Revelations",
+          "Moon",
+          "Tranzit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20zombies%20need%20to%20be%20killed%20to%20get%20the%20%22Zombie%20Genocider%22%20achievement%20in%20Dead%20Rising%20%282006%29%3F",
+        "correct_answer": "53%2C594",
+        "incorrect_answers": [
+          "53%2C593",
+          "53%2C595",
+          "53%2C596"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20Alien%20Race%20in%20the%20game%20%22Lego%20Racers%202%22%20known%20as%3F",
+        "correct_answer": "Ramas",
+        "incorrect_answers": [
+          "Slizers",
+          "Roboriders",
+          "Turagas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Fallout%204%22%20which%20faction%20is%20not%20present%20in%20the%20game%3F",
+        "correct_answer": "The%20Enclave",
+        "incorrect_answers": [
+          "The%20Minutemen",
+          "The%20Brotherhood%20of%20Steel",
+          "The%20Institute"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Resident%20Evil%202%22%2C%20what%20is%20Leon%20Kennedy%27s%20middle%20name%3F",
+        "correct_answer": "Scott",
+        "incorrect_answers": [
+          "Shaun",
+          "Simon",
+          "Sam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20was%20NOT%20planned%20to%20be%20playable%20for%20Super%20Smash%20Bros.%2064%3F",
+        "correct_answer": "Peach",
+        "incorrect_answers": [
+          "Bowser",
+          "Mewtwo",
+          "King%20Dedede"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20unique%20items%20does%20%22Borderlands%202%22%20claim%20to%20have%3F",
+        "correct_answer": "87%20Bazillion%20",
+        "incorrect_answers": [
+          "87%20Million",
+          "87%20Trillion",
+          "87%20Gazillion%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Touhou%20character%20is%20a%20Hell%20Raven%3F",
+        "correct_answer": "Utsuho%20Reiuji",
+        "incorrect_answers": [
+          "Flandre%20Scarlet",
+          "Marisa%20Kirisame",
+          "Aya%20Shameimaru"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Elite%20Four%20member%20from%20the%20first%20generation%20of%20Pok%C3%A9mon%20became%20the%20champion%20in%20the%20next%20generation%3F",
+        "correct_answer": "Lance",
+        "incorrect_answers": [
+          "Agatha",
+          "Bruno",
+          "Lorelei"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20Half-Life%20expansion%20can%20you%20find%20Gordon%27s%20picture%20in%20an%20%22Employee%20of%20the%20Month%22%20picture%20frame%3F",
+        "correct_answer": "Half-Life%3A%20Opposing%20Force",
+        "incorrect_answers": [
+          "Half-Life%3A%20Blue%20Shift",
+          "Half-Life%3A%20Decay",
+          "They%20Hunger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20type%20of%20Pok%C3%A9mon%20is%20Charizard%3F",
+        "correct_answer": "Fire%2FFlying",
+        "incorrect_answers": [
+          "Fire",
+          "Dragon",
+          "Fire%2FDragon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20original%20DOOM%20%281993%29%20which%20of%20the%20following%20is%20NOT%20a%20cheat%20code%3F",
+        "correct_answer": "IDCLIP",
+        "incorrect_answers": [
+          "IDFA",
+          "IDDQD",
+          "IDSPISPOPD"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20eSports%20team%20came%20first%20place%20in%20The%20International%20Dota%202%20Championship%202016%3F",
+        "correct_answer": "Wings%20Gaming",
+        "incorrect_answers": [
+          "Digital%20Chaos",
+          "Evil%20Geniuses",
+          "Fnatic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22S.T.A.L.K.E.R.%22%20series%2C%20the%20Freedom%20faction%20wishes%20to%20destroy%20the%20supernatural%20area%20known%20as%20%20%22the%20Zone%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Touhou%3A%20Embodiment%20of%20Scarlet%20Devil%2C%20what%20song%20plays%20during%20Flandre%20Scarlet%27s%20boss%20fight%3F",
+        "correct_answer": "U.N.%20Owen%20Was%20Her",
+        "incorrect_answers": [
+          "Septette%20for%20the%20Dead%20Princess",
+          "Flowering%20Night",
+          "Pierrot%20of%20the%20Star-Spangled%20Banner"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20leader%20of%20Team%20Instinct%20in%20Pok%C3%A9mon%20Go%3F",
+        "correct_answer": "Spark",
+        "incorrect_answers": [
+          "Candela",
+          "Blanche",
+          "Willow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20Agent%2047%20in%20the%20game%20series%20%22Hitman%22%3F",
+        "correct_answer": "Dr.%20Otto%20Wolfgang%20Ort-Meyer",
+        "incorrect_answers": [
+          "Professor%20Hertz%20Amadeus%20Schneider",
+          "Dr.%20Josef%20Mengele",
+          "Professor%20Otto%20Rothwinkler"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "category_id": 14,
+  "fetched_at": "2026-10-06T09:59:44.003953+00:00",
+  "request": {
+    "amount": 50,
+    "category": 14,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "How%20long%20was%20Ken%20Jennings%27%20win%20streak%20on%20Jeopardy%3F",
+        "correct_answer": "74",
+        "incorrect_answers": [
+          "88",
+          "49",
+          "62"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20TV%20show%20featured%20older%20women%20named%20Blanche%2C%20Rose%2C%20Dorothy%20and%20Sophia%3F",
+        "correct_answer": "The%20Golden%20Girls",
+        "incorrect_answers": [
+          "Cheers",
+          "The%20Wonder%20Years",
+          "Family%20Ties"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20sang%20the%20theme%20song%20for%20the%20TV%20show%20%27Rawhide%27%3F",
+        "correct_answer": "Frankie%20Laine",
+        "incorrect_answers": [
+          "Guy%20Mitchell",
+          "%20Tennessee%20Ernie%20Ford",
+          "Slim%20Whitman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20planet%20that%20the%20Doctor%20from%20television%20series%20%22Doctor%20Who%22%20comes%20from%3F",
+        "correct_answer": "Gallifrey",
+        "incorrect_answers": [
+          "Sontar",
+          "Skaro",
+          "Mondas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20name%20of%20the%20police%20officer%20in%20the%20cartoon%20%22Top%20Cat%22%3F",
+        "correct_answer": "Dibble",
+        "incorrect_answers": [
+          "Barbrady",
+          "Mahoney",
+          "Murphy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20main%20antagonists%20in%20Battlestar%20Galactica%3F",
+        "correct_answer": "The%20Cylons",
+        "incorrect_answers": [
+          "The%20Collective",
+          "The%20Federation",
+          "The%20Rebels"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%2C%20Doctor%20Who%2C%20what%20does%20T.A.R.D.I.S%20stand%20for%3F",
+        "correct_answer": "Time%20And%20Relative%20Dimensions%20In%20Space",
+        "incorrect_answers": [
+          "Time%20And%20Resting%20Dimensions%20In%20Space",
+          "Time%20And%20Relative%20Dimensions%20In%20Style",
+          "Toilet%20Aid%20Rope%20Dog%20Is%20Soup"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22It%27s%20Always%20Sunny%20in%20Philadelphia%22%20what%20was%20the%20name%20of%20Frank%27s%20wrestling%20persona%3F",
+        "correct_answer": "The%20Trash%20Man",
+        "incorrect_answers": [
+          "Bird%20of%20War",
+          "Day%20Man",
+          "The%20Maniac"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Donkey%20Kong%20Country%22%2C%20why%20does%20Donkey%20Kong%20want%20to%20know%20the%20secret%20of%20the%20crystal%20coconut%3F",
+        "correct_answer": "He%27s%20the%20big%20kahuna.",
+        "incorrect_answers": [
+          "To%20find%20out%20where%20all%20the%20bananas%20are.",
+          "Because%20Diddy%20Kong%20forced%20him.",
+          "He%20wants%20to%20punish%20brutes."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "How%20many%20seasons%20did%20the%20Sci-Fi%20television%20show%20%22Stargate%20Universe%22%20have%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "10",
+          "5",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20character%20was%20played%20by%20Dustin%20Diamond%20in%20the%20sitcom%20%27Saved%20by%20the%20Bell%27%3F",
+        "correct_answer": "Screech",
+        "incorrect_answers": [
+          "Zack",
+          "Mr.%20Belding",
+          "A.C.%20Slater"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Breaking%20Bad%2C%22%20which%20main%20character%20was%20planned%20to%20be%20killed%20in%20Season%201%20but%20wasn%27t%20because%20the%20show%20creator%20liked%20the%20actor%3F",
+        "correct_answer": "Jesse%20Pinkman",
+        "incorrect_answers": [
+          "Saul%20Goodman",
+          "Gus%20Fring",
+          "Hank%20Schrader"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%20%22The%20Office%22%20who%20does%20Michael%20Scott%20eventually%20end%20up%20with%3F",
+        "correct_answer": "Holly%20Flax",
+        "incorrect_answers": [
+          "Angela%20Martin",
+          "Jan%20Levinson",
+          "Pam%20Beesly"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20Klingons%20respect%20William%20Shakespeare%2C%20they%20even%20suspect%20him%20having%20a%20Klingon%20lineage.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Two%20and%20a%20Half%20Men%2C%20what%20is%20Alan%20Harper%27s%20son%27s%20name%3F",
+        "correct_answer": "Jake",
+        "incorrect_answers": [
+          "John",
+          "Jeremy",
+          "James"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20episode%20of%20SpongeBob%20SquarePants%2C%20%22Survival%20of%20the%20Idiots%22%2C%20Spongebob%20called%20Patrick%20which%20nickname%3F",
+        "correct_answer": "Pinhead",
+        "incorrect_answers": [
+          "Starfish",
+          "Larry",
+          "Dirty%20Dan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20what%20sauce%20is%20commonly%20used%20by%20Klingons%20on%20bregit%20lung%3F",
+        "correct_answer": "Grapok%20sauce",
+        "incorrect_answers": [
+          "Gazorpazorp%20pudding",
+          "Sweet%20chili%20sauce",
+          "Grapork%20sauce"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Rick%20And%20Morty%22%2C%20who%20shot%20%22Mr.%20Poopybutthole%22%20in%20the%20episode%20%22Total%20Rickall%22%3F",
+        "correct_answer": "Beth",
+        "incorrect_answers": [
+          "Rick",
+          "Jerry",
+          "Morty"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20original%20Star%20Trek%20TV%20series%2C%20what%20was%20Captain%20James%20T.%20Kirk%27s%20middle%20name%3F",
+        "correct_answer": "Tiberius",
+        "incorrect_answers": [
+          "Trevor",
+          "Travis",
+          "Tyrone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20track%20by%20%22Massive%20Attack%22%20is%20used%20for%20the%20theme%20of%20%22House%22%3F%20",
+        "correct_answer": "Teardrop",
+        "incorrect_answers": [
+          "Protection",
+          "Angel",
+          "Black%20Milk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20actor%20portrays%20Hogan%20%22Wash%22%20Washburne%20in%20the%20TV%20Show%20Firefly%3F",
+        "correct_answer": "Alan%20Tudyk",
+        "incorrect_answers": [
+          "Adam%20Baldwin",
+          "Nathan%20Fillion",
+          "Sean%20Maher"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20the%20following%20actors%20portrayed%20the%20Ninth%20Doctor%20in%20the%20British%20television%20show%20%22Doctor%20Who%22%3F",
+        "correct_answer": "Christopher%20Eccleston",
+        "incorrect_answers": [
+          "David%20Tennant",
+          "Matt%20Smith",
+          "Tom%20Baker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20the%20following%20figures%20did%20NOT%20have%20a%20cameo%20on%20%22The%20Drew%20Carey%20Show%22%20%281995-2004%29%3F",
+        "correct_answer": "Bill%20Cosby",
+        "incorrect_answers": [
+          "Donald%20Trump",
+          "%22Weird%20Al%22%20Yankovic",
+          "Daffy%20Duck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20first%20half-hour%20CGI%20cartoon%2C%20ReBoot%2C%20aired%20on%20which%20year%3F",
+        "correct_answer": "1994",
+        "incorrect_answers": [
+          "1993",
+          "1998",
+          "1999"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Supernatural%2C%20what%27s%20is%20Sam%27s%20brothers%20name%3F",
+        "correct_answer": "Dean",
+        "incorrect_answers": [
+          "Dave",
+          "Steve",
+          "Mike"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20HBO%20series%20%22Game%20of%20Thrones%22%20is%20based%20on%20which%20series%20of%20books%3F",
+        "correct_answer": "A%20Song%20of%20Ice%20and%20Fire",
+        "incorrect_answers": [
+          "The%20Wheel%20of%20Time",
+          "Harry%20Potter",
+          "The%20Notebook"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20actor%20was%20not%20a%20major%20character%20in%20TV%20Show%20Freaks%20and%20Geeks%3F",
+        "correct_answer": "Jonah%20Hill",
+        "incorrect_answers": [
+          "Jason%20Segel",
+          "Seth%20Rogen",
+          "James%20Franco"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20episode%20of%20%22Mr.%20Bean%22%20saw%20him%20trying%20to%20prevent%20people%20from%20seeing%20him%20naked%3F",
+        "correct_answer": "Mr.%20Bean%20in%20Room%20426",
+        "incorrect_answers": [
+          "Mr.%20Bean%20Goes%20to%20Town",
+          "The%20Trouble%20with%20Mr.%20Bean",
+          "Back%20to%20School%20Mr.%20Bean"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20NBC%20sitcom%20once%20saw%20two%20of%20its%20characters%20try%20to%20pitch%20NBC%20on%20a%20sitcom%20about%20nothing%3F",
+        "correct_answer": "Seinfeld",
+        "incorrect_answers": [
+          "Frasier",
+          "Becker",
+          "Friends"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Game%20of%20Thrones%20what%20is%20the%20name%20of%20Jon%20Snow%27s%20sword%3F",
+        "correct_answer": "Longclaw",
+        "incorrect_answers": [
+          "Oathkeeper",
+          "Widow%27s%20Wail",
+          "Needle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20played%20Agent%20Fox%20Mulder%20in%20the%20TV%20sci-fi%20drama%20%22The%20X-Files%22%3F",
+        "correct_answer": "David%20Duchovny",
+        "incorrect_answers": [
+          "Gillian%20Anderson",
+          "Robert%20Patrick",
+          "Mitch%20Pileggi"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20Season%201%20SpongeBob%20Squarepants%20episode%2C%20%22Help%20Wanted%2C%22%20the%20song%20%22Living%20in%20the%20Sunlight%22%20by%20Tiny%20Tim%20can%20be%20heard.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20plays%20the%20character%20of%20Dennis%20Reynolds%20on%20It%27s%20Always%20Sunny%20in%20Philadelphia%3F",
+        "correct_answer": "Glenn%20Howerton",
+        "incorrect_answers": [
+          "Rob%20McElhenney",
+          "Charlie%20Day",
+          "Danny%20DeVito"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Doctor%20Who%22%2C%20the%20Doctor%20gets%20his%20TARDIS%20by%20stealing%20it.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20show%20%22Gilligan%27s%20Island%22%20was%20cancelled%20because%20of%20low%20ratings.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20PBS%20station%20was%20the%20first%20station%20to%20air%20%22Monty%20Python%27s%20Flying%20Circus%22%20%281969-1974%29%20in%20the%20United%20States%3F",
+        "correct_answer": "KERA%20%28Dallas-Fort%20Worth%29",
+        "incorrect_answers": [
+          "KLCS%20%28Los%20Angeles%29",
+          "WETA%20%28Washington%20D.C.%29",
+          "WNET%20%28New%20York%20City%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20Nickelodeon%20game%20show%20featured%20a%20house%20on%20the%20set%20that%20the%20contestants%20would%20ransack%20to%20find%20hidden%20objects%3F",
+        "correct_answer": "Finders%20Keepers",
+        "incorrect_answers": [
+          "Double%20Dare",
+          "Nickelodeon%20Guts",
+          "Nick%20Arcade"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20setting%20of%20the%20show%20%22Parks%20and%20Recreation%22%3F",
+        "correct_answer": "Pawnee%2C%20Indiana",
+        "incorrect_answers": [
+          "Eagleton%2C%20Indiana",
+          "Pasadena%2C%20California",
+          "London%2C%20England"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%20%27Doctor%20Who%27%2C%20what%20is%20the%20name%20of%20the%20time-capsule%20model%20stolen%20by%20%27the%20Doctor%27%3F",
+        "correct_answer": "TT%20Type%2040%2C%20Mark%203%20%28TARDIS%29",
+        "incorrect_answers": [
+          "TT%20Type%201%2C%20Mark%203%20%28TARDIS%29",
+          "TT%20Type%2040%2C%20Mark%205%20%28TARDIS%29",
+          "TT%20Type%201%2C%20Mark%205%20%28TARDIS%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "At%20which%20university%20do%20%22The%20Big%20Bang%20Theory%22%20characters%20Mr.%20Wolowitz%20and%20Drs.%20Cooper%2C%20Hofstadter%20and%20Koothrappali%20work%3F",
+        "correct_answer": "Caltech",
+        "incorrect_answers": [
+          "UCLA",
+          "MIT",
+          "UC%20Berkeley%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "When%20Donkey%20Kong%20died%20in%20the%20%22Donkey%20Kong%20Country%22%20episode%20%22It%27s%20a%20Wonderful%20Life%22%2C%20who%20was%20his%20guardian%20angel%3F",
+        "correct_answer": "Eddie%20the%20Mean%20Old%20Yeti",
+        "incorrect_answers": [
+          "Kiddy%20Kong",
+          "Diddy%20Kong",
+          "King%20K.%20Rool"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20name%20of%20the%20teenage%20witch%20played%20by%20Melisa%20Joan%20Hart%20who%20lives%20with%20her%20witch%20aunts%20Hilda%20and%20Zelda%3F",
+        "correct_answer": "Sabrina",
+        "incorrect_answers": [
+          "Hermione",
+          "Dorothy",
+          "Dahlia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "This%20composer%20worked%20on%20the%202003%20TV%20series%20Battlestar%20Galatica.",
+        "correct_answer": "Bear%20McCreary",
+        "incorrect_answers": [
+          "Ramin%20Djawadi",
+          "Jeremy%20Soule",
+          "Harry%20Gregson-Williams"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Bob%20Ross%20was%20a%20US%20Air%20Force%20pilot.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Klingons%20express%20emotion%20in%20art%20through%20opera%20and%20poetry.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Battlestar%20Galactica%20%282004%29%2C%20Cylons%20were%20created%20by%20man%20as%20cybernetic%20workers%20and%20soldiers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20AMC%27s%20TV%20Series%20%22The%20Walking%20Dead%22%20what%20are%20%22Zombies%22%20referred%20to%20as%3F",
+        "correct_answer": "Walkers",
+        "incorrect_answers": [
+          "Creepers",
+          "Maggots",
+          "Hell%20Pigs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%201985%20Toyota%20Corolla%20%22AE86%22%20was%20the%20hero%20car%20for%20what%20anime%3F%20",
+        "correct_answer": "Initial%20D",
+        "incorrect_answers": [
+          "Wangan%20Midnight",
+          "Ghost%20MF",
+          "Ex%20Driver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20fictional%20movie%20%27Rochelle%2C%20Rochelle%27%20features%20in%20which%20sitcom%3F",
+        "correct_answer": "Seinfeld",
+        "incorrect_answers": [
+          "Frasier",
+          "Cheers",
+          "Friends"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20name%20of%20Ross%27%20pet%20monkey%20on%20%22Friends%22%3F",
+        "correct_answer": "Marcel",
+        "incorrect_answers": [
+          "Jojo",
+          "George",
+          "Champ"
+        ]
+      }
+    ]
+  }
+}

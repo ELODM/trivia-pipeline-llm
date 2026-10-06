@@ -1,0 +1,248 @@
+{
+  "category_id": 10,
+  "fetched_at": "2026-10-06T09:57:49.264721+00:00",
+  "request": {
+    "amount": 20,
+    "category": 10,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "Where%20does%20the%20book%20%22The%20Silence%20of%20the%20Lambs%22%20get%20its%20title%20from%3F",
+        "correct_answer": "The%20main%20character%27s%20trauma%20in%20childhood",
+        "incorrect_answers": [
+          "The%20relation%20it%20has%20with%20killing%20the%20innocents",
+          "The%20villain%27s%20favourite%20meal",
+          "The%20voice%20of%20innocent%20people%20being%20shut%20by%20the%20powerful"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20name%20of%20the%20three%20headed%20dog%20in%20Harry%20Potter%20and%20the%20Sorcerer%27s%20Stone%3F",
+        "correct_answer": "Fluffy",
+        "incorrect_answers": [
+          "Spike",
+          "Poofy",
+          "Spot"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20book%20%22The%20Martian%22%2C%20how%20long%20was%20Mark%20Watney%20trapped%20on%20Mars%20%28in%20Sols%29%3F",
+        "correct_answer": "549%20Days",
+        "incorrect_answers": [
+          "765%20Days",
+          "401%20Days",
+          "324%20Days"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "The%20%22Berenstein%20Bears%22%20is%20the%20correct%20spelling%20of%20the%20educational%20children%27s%20book%20series%27%20name.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20Alice%20in%20Wonderland%2C%20what%20is%20the%20name%20of%20Alice%27s%20kitten%3F",
+        "correct_answer": "Dinah",
+        "incorrect_answers": [
+          "Oscar",
+          "Heath",
+          "Smokey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%27s%20Harry%20Potter%27s%20dad%27s%20name%3F",
+        "correct_answer": "James%20Potter",
+        "incorrect_answers": [
+          "Joey%20Potter",
+          "Frank%20Potter",
+          "Hairy%20Potter%20Sr."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20Magic%3A%20The%20Gathering%20universe%2C%20%20the%20Antiquities%2C%20Ice%20Age%2C%20and%20Alliances%20expansions%20take%20place%20on%20which%20continent%3F",
+        "correct_answer": "Terisiare",
+        "incorrect_answers": [
+          "Aerona",
+          "Shiv",
+          "Jamuraa"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "Dracula%20is%20destroyed%20by%20contact%20with%20sunlight",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Of%20the%20following%2C%20which%20Stephen%20King%20novel%20was%20published%20earliest%3F",
+        "correct_answer": "%22Cujo%22",
+        "incorrect_answers": [
+          "%22Misery%22",
+          "%22Christine%22",
+          "%22IT%22"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20author%20co-wrote%20%22The%20Communist%20Manifesto%22%20alongside%20Karl%20Marx%3F",
+        "correct_answer": "Friedrich%20Engels",
+        "incorrect_answers": [
+          "Robert%20Owen",
+          "Alexander%20Kerensky",
+          "Paul%20Lafargue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20year%201818%2C%20novelist%20Mary%20Shelly%20is%20credited%20with%20writing%20a%20fiction%20novel%20and%20creating%20this%20infamous%20character.",
+        "correct_answer": "Frankenstein%27s%20monster",
+        "incorrect_answers": [
+          "Dracula",
+          "The%20Thing",
+          "The%20Invisible%20Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "How%20many%20Harry%20Potter%20books%20are%20there%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "8",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Which%20poet%20wrote%20%22The%20Ballad%20of%20Reading%20Gaol%22%20whilst%20imprisoned%20for%20being%20gay%3F",
+        "correct_answer": "Oscar%20Wilde",
+        "incorrect_answers": [
+          "Lord%20Byron",
+          "William%20Blake",
+          "Wilfred%20Owen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "George%20Orwell%27s%20novel%20%22Animal%20Farm%22%20was%20inspired%20by%20which%20historical%20event%3F",
+        "correct_answer": "The%20rise%20of%20communism%20and%20Stalin%27s%20policies.",
+        "incorrect_answers": [
+          "The%20rise%20of%20Imperial%20Japan%20and%20Pacific%20control.",
+          "The%20rise%20of%20fascism%20and%20Hitler%27s%20influences.",
+          "Franklin%20D.%20Roosevelt%27s%20New%20Deal%20and%20its%20effects%20on%20The%20Great%20Depression."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "According%20to%20The%20Hitchhiker%27s%20Guide%20to%20the%20Galaxy%20book%2C%20the%20answer%20to%20life%2C%20the%20universe%20and%20everything%20else%20is...",
+        "correct_answer": "42",
+        "incorrect_answers": [
+          "Loving%20everyone%20around%20you",
+          "Chocolate",
+          "Death"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "What%20is%20the%20fourth%20book%20of%20the%20Old%20Testament%3F",
+        "correct_answer": "Numbers",
+        "incorrect_answers": [
+          "Genesis",
+          "Exodus",
+          "Leviticus"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "Originally%2C%20the%20character%20Charlie%20from%20Charlie%20and%20the%20Chocolate%20Factory%20was%20going%20to%20be%20black.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Books",
+        "question": "In%20the%20%22The%20Hobbit%22%2C%20who%20kills%20Smaug%3F",
+        "correct_answer": "Bard",
+        "incorrect_answers": [
+          "Bilbo%20Baggins",
+          "Gandalf%20the%20Grey",
+          "Frodo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "This%20play%20is%20generally%20considered%20to%20be%20the%20most%20adaptable%20of%20Shakespeare%E2%80%99s%20works%2C%20and%20follows%20two%20%E2%80%9Cstar-crossed%20lovers%E2%80%9D.",
+        "correct_answer": "Romeo%20and%20Juliet",
+        "incorrect_answers": [
+          "Hamlet",
+          "The%20Tempest",
+          "King%20Lear"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Books",
+        "question": "American%20illustrator%20and%20writer%20Maurice%20Sendak%20is%20most%20well-known%20for%20writing%20which%20children%27s%20book%3F",
+        "correct_answer": "Where%20The%20Wild%20Things%20Are",
+        "incorrect_answers": [
+          "The%20Neverending%20Story",
+          "Charlie%20and%20the%20Chocolate%20Factory",
+          "The%20Cat%20in%20the%20Hat"
+        ]
+      }
+    ]
+  }
+}

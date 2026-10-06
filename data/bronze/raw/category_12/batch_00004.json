@@ -1,0 +1,594 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:58:56.993184+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20song%20on%20ScHoolboy%20Q%27s%20album%20Black%20Face%20LP%20featured%20Kanye%20West%3F",
+        "correct_answer": "THat%20Part",
+        "incorrect_answers": [
+          "Neva%20CHange",
+          "Big%20Body",
+          "Blank%20Face"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "EDM%20producer%20Marshmello%20performs%20live%20wearing%20clothes%20and%20a%20marshmallow%20mask%20of%20what%20colour%3F",
+        "correct_answer": "White",
+        "incorrect_answers": [
+          "Black",
+          "Blue",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20British%20female%20singer%20and%20songwriter%20was%20sampled%20Eminem%27s%20hit%20single%20%27Stan%27%3F",
+        "correct_answer": "Dido",
+        "incorrect_answers": [
+          "Adele",
+          "Lily%20Allen",
+          "Leona%20Lewis"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Scottish%20producer%20Calvin%20Harris%20is%20from%20the%20town%20of%20Dumfries%2C%20Scotland.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20chain%20restaurant%20increased%20sales%20after%20it%20was%20mentioned%20in%20the%202016%20Beyonc%C3%A9%20song%3A%20%22Formation%22%3F",
+        "correct_answer": "Red%20Lobster",
+        "incorrect_answers": [
+          "Outback%20Steakhouse",
+          "TGI%20Fridays",
+          "Applebee%27s"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20released%20the%20album%20%22Sonic%20Highways%22%20in%202014%3F",
+        "correct_answer": "Foo%20Fighters",
+        "incorrect_answers": [
+          "Coldplay",
+          "Nickelback",
+          "The%20Flaming%20Lips"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20Rush%20song%20%22YYZ%22%20derives%20its%20name%20from%20the%20IATA%20aiport%20identification%20code%20for%20which%20city%3F",
+        "correct_answer": "Toronto",
+        "incorrect_answers": [
+          "Vancouver",
+          "Ottawa",
+          "Calgary"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20Beatles%27%20band%20name%20was%20inspired%20by%20the%20band%20The%20Crickets.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20year%20was%20Weezer%27s%20album%20%22Pinkerton%22%20released%3F%20",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+          "1990",
+          "2001",
+          "1994"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20by%20artist%20Eminem%20contain%20the%20lyric%20%22Nice%20to%20meet%20you.%20Hi%2C%20my%20name%20is...%20I%20forgot%20my%20name%21%22%3F",
+        "correct_answer": "Rain%20Man",
+        "incorrect_answers": [
+          "Without%20Me",
+          "Kim",
+          "Square%20Dance"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Dave%20Grohl%20recorded%20the%20Foo%20Fighters%27%20debut%2C%20%22Foo%20Fighters%2C%22%20by%20himself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20country%20did%20Shirley%20Bassey%20originate%20from%3F",
+        "correct_answer": "Wales",
+        "incorrect_answers": [
+          "America",
+          "England",
+          "Canada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20The%20Bangles%27%20%27Manic%20Monday%27%2C%20what%20time%20is%20it%20already%3F",
+        "correct_answer": "Six%20o%27clock",
+        "incorrect_answers": [
+          "Five%20o%27clock",
+          "Four%20o%27clock",
+          "Seven%20o%27clock"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20in%20rapper%20Kanye%20West%27s%20album%20%22The%20Life%20of%20Pablo%22%20features%20Rihanna%3F",
+        "correct_answer": "Famous",
+        "incorrect_answers": [
+          "Wolves",
+          "Ultralight%20Beam",
+          "Highlights"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Where%20was%20Nicki%20Minaj%20born%3F",
+        "correct_answer": "Trinidad%20and%20Tobago",
+        "incorrect_answers": [
+          "Haiti",
+          "Saint%20Lucia",
+          "Grenada"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20%22Stronger%20Than%20You%22%20is%20a%20single%20by%20Estelle%2C%20who%20played%20Garnet%20in%20Steven%20Universe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20members%20are%20there%20in%20the%20idol%20group%20%22%C2%B5%27s%22%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "48",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20which%20city%20did%20American%20rap%20producer%20DJ%20Khaled%20originate%20from%3F",
+        "correct_answer": "Miami",
+        "incorrect_answers": [
+          "New%20York",
+          "Detroit",
+          "Atlanta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20these%20rappers%20is%20NOT%20a%20member%20of%20the%20rap%20group%20Wu-Tang%20Clan%3F",
+        "correct_answer": "Dr.Dre",
+        "incorrect_answers": [
+          "Ol%27%20Dirty%20Bastard",
+          "GZA",
+          "Method%20Man"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20%22Mystery%20Train%22%20was%20released%20by%20artist%20%22Little%20Junior%27s%20Blue%20Flames%22%20in%201953.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20a%201981%20hit%20with%20the%20song%20%22Japanese%20Boy%22%3F",
+        "correct_answer": "Aneka",
+        "incorrect_answers": [
+          "Toyah",
+          "Sandra",
+          "Madonna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20year%20was%20Red%20Hot%20Chill%20Pepper%27s%20album%20%22Californication%22%20released%3F",
+        "correct_answer": "1999",
+        "incorrect_answers": [
+          "1997",
+          "2000",
+          "1992"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20which%20year%20did%20%22Caravan%20Palace%22%20release%20their%20first%20album%3F",
+        "correct_answer": "2008",
+        "incorrect_answers": [
+          "2000",
+          "2015",
+          "2004"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20released%20songs%20such%20as%20%22Electric%20Feel%22%2C%20%22Kids%22%2C%20and%20%22Time%20to%20Pretend%22%3F",
+        "correct_answer": "MGMT",
+        "incorrect_answers": [
+          "Passion%20Pit",
+          "Phoenix",
+          "Franz%20Ferdinand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20had%20hits%20in%201972%20with%20the%20songs%20%22Baby%20I%27m%20A%20Want%20You%22%2C%20%22Everything%20I%20Own%22%20and%20%22The%20Guitar%20Man%22",
+        "correct_answer": "Bread",
+        "incorrect_answers": [
+          "America",
+          "Chicago",
+          "Smokie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20won%20the%201989%20Drum%20Corps%20International%20championships%3F",
+        "correct_answer": "Santa%20Clara%20Vanguard",
+        "incorrect_answers": [
+          "Blue%20Devils",
+          "The%20Academy",
+          "The%20Bluecoats"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22The%20Division%20Bell%22%20is%20the%20final%20album%20of%20the%20progressive%20rock%20band%20Pink%20Floyd.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20stage%20name%20of%20English%20female%20rapper%20Mathangi%20Arulpragasam%2C%20who%20is%20known%20for%20the%20song%20%22Paper%20Planes%22%3F",
+        "correct_answer": "M.I.A.",
+        "incorrect_answers": [
+          "K.I.A.",
+          "C.I.A.",
+          "A.I.A."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Rumble%22%20by%20Link%20Wray%20is%20the%20only%20instrumental%20song%20to%20ever%20have%20been%20banned%20from%20US%20radio.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20Finnish%20DJ%20Darude%27s%20hit%20single%20released%20in%20October%201999%3F",
+        "correct_answer": "Sandstorm",
+        "incorrect_answers": [
+          "Dust%20Devil",
+          "Sirocco",
+          "Khamsin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20artists%20has%20Lil%20A%20collaborated%20with%3F",
+        "correct_answer": "Lil%20Fortnite",
+        "incorrect_answers": [
+          "Lil%20Pump",
+          "Boonk%20Gang",
+          "6ix9ine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20the%20following%20musical%20instruments%20is%20NOT%20a%20part%20of%20the%20Woodwind%20section%3F",
+        "correct_answer": "Trumpet",
+        "incorrect_answers": [
+          "Clarinet",
+          "Oboe",
+          "Alto%20Saxophone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20an%20orchestra%2C%20what%20is%20the%20lowest%20member%20of%20the%20brass%20family%3F",
+        "correct_answer": "Tuba",
+        "incorrect_answers": [
+          "Trombone",
+          "Contrabass",
+          "Bassoon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20punk%20rock%20band%20released%20hit%20songs%20such%20as%20%22Californication%22%2C%20%22Can%27t%20Stop%22%20and%20%22Under%20the%20Bridge%22%3F",
+        "correct_answer": "Red%20Hot%20Chilli%20Peppers",
+        "incorrect_answers": [
+          "Green%20Day",
+          "Linkin%20Park",
+          "Foo%20Fighters"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20member%20of%20the%20English%20band%20%22The%20xx%22%20released%20their%20solo%20album%20%22In%20Colour%22%20in%202015%3F",
+        "correct_answer": "Jamie%20xx",
+        "incorrect_answers": [
+          "Romy%20Madley%20Croft",
+          "Oliver%20Sim",
+          "Baria%20Qureshi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20these%20songs%20did%20the%20group%20%22Men%20At%20Work%22%20NOT%20make%3F",
+        "correct_answer": "Safety%20Dance",
+        "incorrect_answers": [
+          "Down%20Under",
+          "Who%20Can%20It%20Be%20Now%3F",
+          "It%27s%20a%20Mistake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Band%20Aid%27s%20%27Do%20They%20Know%20It%27s%20Christmas%27%20was%20recorded%20to%20raise%20awareness%20of%20which%20issue%20in%20Ethiopia%3F",
+        "correct_answer": "Famine",
+        "incorrect_answers": [
+          "Human%20rights%20violations",
+          "Pollution",
+          "Terrorism"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20artist%20curated%20the%20official%20soundtrack%20for%20%22The%20Hunger%20Games%3A%20Mockingjay%20-%20Part%201%22%3F",
+        "correct_answer": "Lorde",
+        "incorrect_answers": [
+          "Kanye%20West",
+          "Tove%20Lo",
+          "Charli%20XCX"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20song%20by%20Tina%20Turner%20is%20the%20theme%20for%20Mad%20Max%20Beyond%20Thunderdome%3F",
+        "correct_answer": "We%20Don%27t%20Need%20Another%20Hero",
+        "incorrect_answers": [
+          "Let%27s%20Stay%20Together",
+          "What%27s%20Love%20Got%20To%20Do%20With%20It",
+          "I%20Don%27t%20Wanna%20Lose%20You"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Korean%20girl%20group%2C%20TWICE%2C%20consists%20of%209%20members",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20not%20in%20the%20band%20%22The%20Smiths%22%3F",
+        "correct_answer": "Martin%20Chambers",
+        "incorrect_answers": [
+          "Morrissey",
+          "Andy%20Rourke",
+          "Mike%20Joyce"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Taylor%20Swift%27s%205th%20album%20called%3F",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+          "Fearless",
+          "Red",
+          "Speak%20Now"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20not%20a%20member%20of%20the%20virtual%20band%20Gorillaz%3F",
+        "correct_answer": "Phi%20Cypher",
+        "incorrect_answers": [
+          "Murdoc%20Niccals",
+          "Noodle",
+          "Russel%20Hobbs"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Metallica%20collaborated%20with%20Rowan%20Atkinson%27s%20Mr%20Bean%20on%20a%201992%20comic%20relief%20single.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20member%20of%20the%20Foo%20Fighters%20was%20previously%20the%20drummer%20for%20Nirvana%3F",
+        "correct_answer": "Dave%20Grohl",
+        "incorrect_answers": [
+          "Taylor%20Hawkins",
+          "Nate%20Mendel",
+          "Chris%20Shiflett"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20the%20words%20of%20his%201973%20song%2C%20Bob%20Dylan%20is%20%22knock%2C%20knock%2C%20knockin%22%20on%20which%20door%3F",
+        "correct_answer": "Heaven%27s",
+        "incorrect_answers": [
+          "Opportunity%27s",
+          "Angie%27s",
+          "Eileen%27s"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20composition%20%221812%20Overture%22%20by%20Tchaikovsky%20symbolized%20the%20War%20of%201812%20between%20the%20United%20States%2C%20and%20Great%20Britain.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "From%20which%20country%20does%20the%20piano%20originate%3F",
+        "correct_answer": "Italy",
+        "incorrect_answers": [
+          "Germany",
+          "Austria",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20name%20of%20singer%20Frank%20Ocean%27s%20second%20studio%20album%2C%20which%20was%20released%20on%20August%2020%2C%202016%3F",
+        "correct_answer": "Blonde",
+        "incorrect_answers": [
+          "Brunette",
+          "Black",
+          "Burgundy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20genre%20of%20EDM%20is%20the%20Dutch%20DJ%2C%20musician%2C%20and%20remixer%20Armin%20van%20Buuren%20most%20well-known%20for%3F",
+        "correct_answer": "Trance",
+        "incorrect_answers": [
+          "House",
+          "Drum%20and%20Bass",
+          "Dubstep"
+        ]
+      }
+    ]
+  }
+}

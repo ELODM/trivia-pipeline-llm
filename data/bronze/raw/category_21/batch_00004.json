@@ -1,0 +1,322 @@
+{
+  "category_id": 21,
+  "fetched_at": "2026-10-06T10:05:03.124331+00:00",
+  "request": {
+    "amount": 26,
+    "category": 21,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "How%20many%20scoring%20zones%20are%20there%20on%20a%20conventional%20dart%20board%3F",
+        "correct_answer": "82",
+        "incorrect_answers": [
+          "62",
+          "42",
+          "102"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Skateboarding%20was%20included%20in%20the%202020%20Summer%20Olympics%20in%20Tokyo.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20sport%20is%20NOT%20traditionally%20played%20during%20the%20Mongolian%20Naadam%20festival%3F",
+        "correct_answer": "American%20Football",
+        "incorrect_answers": [
+          "Wrestling",
+          "Archery",
+          "Horse-Racing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20was%20the%20top%20scorer%20of%20the%202014%20FIFA%20World%20Cup%3F",
+        "correct_answer": "James%20Rodr%C3%ADguez",
+        "incorrect_answers": [
+          "Thomas%20M%C3%BCller",
+          "Lionel%20Messi",
+          "Neymar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "The%20Rio%202016%20Summer%20Olympics%20held%20it%27s%20closing%20ceremony%20on%20what%20date%3F",
+        "correct_answer": "August%2021",
+        "incorrect_answers": [
+          "August%2023",
+          "August%2019",
+          "August%2017"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20was%20the%20year%20of%20estabilishment%20of%20the%20Bari%20Italian%20Football%20Club%3F",
+        "correct_answer": "1908",
+        "incorrect_answers": [
+          "1945",
+          "2014",
+          "1895"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Who%20is%20Manchester%20United%27s%20leading%20appearance%20maker%3F",
+        "correct_answer": "Ryan%20Giggs",
+        "incorrect_answers": [
+          "David%20Beckham",
+          "Wayne%20Rooney",
+          "Eric%20Cantona"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20won%20the%20UEFA%20Champions%20League%20in%202017%3F",
+        "correct_answer": "Real%20Madrid%20C.F.",
+        "incorrect_answers": [
+          "Atletico%20Madrid",
+          "AS%20Monaco%20FC",
+          "Juventus%20F.C."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20these%20jersey%20numbers%20has%20Shaquille%20O%27Neal%20never%20worn%3F",
+        "correct_answer": "35",
+        "incorrect_answers": [
+          "36",
+          "33",
+          "32"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Roger%20Federer%20is%20a%20famous%20soccer%20player.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20team%20was%20the%202015-2016%20NBA%20Champions%3F",
+        "correct_answer": "Cleveland%20Cavaliers",
+        "incorrect_answers": [
+          "Golden%20State%20Warriors",
+          "Toronto%20Raptors",
+          "Oklahoma%20City%20Thunders"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "With%20which%20team%20did%20Michael%20Schumacher%20make%20his%20Formula%20One%20debut%20at%20the%201991%20Belgian%20Grand%20Prix%3F",
+        "correct_answer": "Jordan",
+        "incorrect_answers": [
+          "Benetton",
+          "Ferrari",
+          "Mercedes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Who%20is%20regarded%20as%20the%20best%20Romanian%20footballer%20of%20all%20time%3F",
+        "correct_answer": "Gheorghe%20Hagi",
+        "incorrect_answers": [
+          "Cristian%20Chivu",
+          "Nicolae%20Dobrin",
+          "Gheorghe%20Popescu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20is%20the%20oldest%20team%20in%20Major%20League%20Baseball%3F",
+        "correct_answer": "Atlanta%20Braves",
+        "incorrect_answers": [
+          "Chicago%20Cubs",
+          "Cincinnati%20Reds",
+          "St.%20Louis%20Cardinals"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "What%20country%20hosted%20the%202014%20Winter%20Olympics%3F",
+        "correct_answer": "Russia",
+        "incorrect_answers": [
+          "Canada",
+          "United%20States",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "The%20UEFA%20Champions%20League%20is%20an%20annual%20club%20football%20competition%20featuring%20clubs%20from%20which%20continent%3F",
+        "correct_answer": "Europe",
+        "incorrect_answers": [
+          "South%20America",
+          "Africa",
+          "Asia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20these%20NHL%20teams%20have%20never%20moved%20since%20their%20inception%3F",
+        "correct_answer": "St.%20Louis%20Blues",
+        "incorrect_answers": [
+          "New%20Jersey%20Devils",
+          "Carolina%20Hurricanes",
+          "Dallas%20Stars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "This%20Canadian%20television%20sportscaster%20is%20known%20for%20his%20%22Hockey%20Night%20in%20Canada%22%20role%2C%20a%20commentary%20show%20during%20hockey%20games.",
+        "correct_answer": "Don%20Cherry",
+        "incorrect_answers": [
+          "Don%20McKellar",
+          "Don%20Taylor%20",
+          "Donald%20Sutherland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20country%20hosted%20the%202022%20FIFA%20World%20Cup%3F",
+        "correct_answer": "Qatar",
+        "incorrect_answers": [
+          "USA",
+          "Japan",
+          "Switzerland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Which%20of%20the%20following%20sports%20is%20not%20part%20of%20the%20triathlon%3F",
+        "correct_answer": "Horse-Riding",
+        "incorrect_answers": [
+          "Cycling",
+          "Swimming",
+          "Running"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "Which%20is%20Kenesisa%20Bekele%27s%20personal%20best%20at%20marathon%3F",
+        "correct_answer": "2%3A01%3A41",
+        "incorrect_answers": [
+          "2%3A01%3A12",
+          "2%3A01%3A45",
+          "2%3A01%3A51"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20of%20the%20following%20pitchers%20was%20named%20National%20League%20Rookie%20of%20the%20Year%20for%20the%202013%20season%3F",
+        "correct_answer": "Jose%20Fernandez",
+        "incorrect_answers": [
+          "Jacob%20deGrom",
+          "Shelby%20Miller",
+          "Matt%20Harvey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "Who%20won%20the%202017%20Formula%20One%20World%20Drivers%27%20Championship%3F",
+        "correct_answer": "Lewis%20Hamilton",
+        "incorrect_answers": [
+          "Sebastian%20Vettel",
+          "Nico%20Rosberg",
+          "Max%20Verstappen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Sports",
+        "question": "Which%20Formula%20One%20driver%20was%20nicknamed%20%27The%20Professor%27%3F",
+        "correct_answer": "Alain%20Prost",
+        "incorrect_answers": [
+          "Ayrton%20Senna",
+          "Niki%20Lauda",
+          "Emerson%20Fittipaldi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Sports",
+        "question": "How%20many%20times%20did%20Martina%20Navratilova%20win%20the%20Wimbledon%20Singles%20Championship%3F",
+        "correct_answer": "Nine",
+        "incorrect_answers": [
+          "Ten",
+          "Seven",
+          "Eight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Sports",
+        "question": "What%20was%20the%20final%20score%20of%20the%20Germany%20vs.%20Brazil%202014%20FIFA%20World%20Cup%20match%3F",
+        "correct_answer": "7%20-%201",
+        "incorrect_answers": [
+          "0%20-%201",
+          "3%20-%204",
+          "16%20-%200"
+        ]
+      }
+    ]
+  }
+}

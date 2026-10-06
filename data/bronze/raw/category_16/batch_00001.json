@@ -1,0 +1,594 @@
+{
+  "category_id": 16,
+  "fetched_at": "2026-10-06T10:02:36.079802+00:00",
+  "request": {
+    "amount": 50,
+    "category": 16,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20the%20Dungeons%20and%20Dragons%20universe%2C%20Beshaba%20is%20the%20deity%20of%20bad%20luck.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20letter%20is%20used%20to%20refer%20to%20blue%20mana%20in%20the%20card%20game%20Magic%20The%20Gathering%3F",
+        "correct_answer": "U",
+        "incorrect_answers": [
+          "B",
+          "L",
+          "E"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20which%20year%20was%20the%20pen%20and%20paper%20RPG%20%22Deadlands%22%20released%3F",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+          "2003",
+          "1999",
+          "1993"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20card%20game%20%22Munchkin%22%20won%20the%202001%20Origins%20Award%20for%20Best%20Traditional%20Card%20Game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "At%20the%20start%20of%20a%20standard%20game%20of%20the%20Monopoly%2C%20if%20you%20throw%20a%20double%20six%2C%20which%20square%20would%20you%20land%20on%3F",
+        "correct_answer": "Electric%20Company",
+        "incorrect_answers": [
+          "Water%20Works",
+          "Chance",
+          "Community%20Chest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "When%20was%20the%20board%20game%20Twister%2C%20released%20to%20the%20public%3F",
+        "correct_answer": "April%201966",
+        "incorrect_answers": [
+          "September%201965",
+          "January%201969",
+          "February%201966"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20type%20is%20%22Magic%20Drain%22%20in%20Yugioh%21%20Trading%20Card%20Game%3F",
+        "correct_answer": "Counter%20Trap",
+        "incorrect_answers": [
+          "Normal%20Trap",
+          "Quick-Play%20Spell",
+          "Field%20Spell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Magic%3A%20The%20Gathering%2C%20which%20of%20the%20following%20was%20the%20first%20publicly%20released%20foil%20card%3F",
+        "correct_answer": "Lightning%20Dragon",
+        "incorrect_answers": [
+          "Revenant",
+          "Beast%20of%20Burden",
+          "Dirtcowl%20Wurm"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20was%20the%20development%20code%20name%20for%20the%20%22Weatherlight%22%20expansion%20for%20%22Magic%3A%20The%20Gathering%22%2C%20released%20in%201997%3F",
+        "correct_answer": "Mocha%20Latte",
+        "incorrect_answers": [
+          "Decaf",
+          "Frappuccino",
+          "Macchiato"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20what%20year%20was%20the%20card%20game%20Magic%3A%20the%20Gathering%20first%20introduced%3F",
+        "correct_answer": "1993",
+        "incorrect_answers": [
+          "1987",
+          "1998",
+          "2003"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "How%20many%20spaces%20are%20there%20on%20a%20standard%20Monopoly%20board%3F",
+        "correct_answer": "40",
+        "incorrect_answers": [
+          "28",
+          "55",
+          "36"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20standard%20Monopoly%2C%20what%27s%20the%20rent%20if%20you%20land%20on%20Park%20Place%20with%20no%20houses%3F",
+        "correct_answer": "%2435",
+        "incorrect_answers": [
+          "%2430",
+          "%2450",
+          "%2445"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20Dice%20Tower%20network%20of%20board%20game%20podcasts%20and%20videos%20is%20run%20by%20which%20individual%3F",
+        "correct_answer": "Tom%20Vasel",
+        "incorrect_answers": [
+          "Jason%20LeVine",
+          "Borth%20Sampson",
+          "Uncle%20Pennybags"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Who%20was%20world%20chess%20champion%20between%201894%20and%201921",
+        "correct_answer": "Emanuel%20Lasker",
+        "incorrect_answers": [
+          "Jos%C3%A9%20Ra%C3%BAl%20Capablanca",
+          "Wilhelm%20Steinitz",
+          "Bobby%20Fischer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20board%20game%20Monopoly%20takes%20its%20street%20names%20from%20which%20real%20American%20city%3F",
+        "correct_answer": "Atlantic%20City%2C%20New%20Jersey",
+        "incorrect_answers": [
+          "Las%20Vegas%2C%20Nevada",
+          "Duluth%2C%20Minnesota",
+          "Charleston%2C%20South%20Carolina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20%22Magic%3A%20The%20Gathering%22%2C%20what%20instant%20card%20has%20the%20highest%20converted%20mana%20cost%3F",
+        "correct_answer": "Blinkmoth%20Infusion",
+        "incorrect_answers": [
+          "Vitalizing%20Wind",
+          "%20Chant%20of%20Vitu-Ghazi",
+          "Assert%20Authority"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20special%20item%20did%20the%20creators%20of%20Cards%20Against%20Humanity%20ship%20for%20their%20Black%20Friday%20pack%3F",
+        "correct_answer": "Bull%20Feces",
+        "incorrect_answers": [
+          "A%20Card%20Expansion",
+          "A%20Racist%20Toy",
+          "Cat%20Urine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20these%20board%20games%20do%20NOT%20utilize%20standard%206-sided%20dice%3F",
+        "correct_answer": "The%20Game%20of%20Life",
+        "incorrect_answers": [
+          "Monopoly",
+          "Risk",
+          "Snakes%20and%20Ladders"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20character%20class%20in%20Dungeons%20and%20Dragons%205th%20edition%20gains%20it%27s%20powers%20from%20making%20a%20pact%20with%20a%20being%20of%20higher%20power%3F",
+        "correct_answer": "Warlock",
+        "incorrect_answers": [
+          "Wizard",
+          "Sorceror",
+          "Cleric"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "When%20setting%20up%20a%20chess%20board%2C%20the%20king%20is%20placed%20on%20a%20square%20of%20his%20own%20color.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "%22PAYDAY%3A%20The%20Heist%22%20is%20a%20sequel%20to%20the%20board%20game%20%22Payday%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20chess%2C%20which%20is%20a%20characteristic%20of%20the%20King%27s%20Gambit%3F",
+        "correct_answer": "Sacrificing%20a%20pawn",
+        "incorrect_answers": [
+          "Sacrificing%20the%20king%20for%20a%20queen",
+          "Castling%20kingside",
+          "Moving%20the%20king%20on%20the%202nd%20move"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Some%20of%20the%20%22Fallen%20Empires%22%20cards%20from%20%22Magic%3A%20The%20Gathering%22%20were%20misprinted%20on%20the%20backs%20of%20which%20other%20card%20game%3F",
+        "correct_answer": "Wyvern",
+        "incorrect_answers": [
+          "Pokemon",
+          "Dominion",
+          "Yu-Gi-Oh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20one%20of%20these%20is%20not%20a%20real%20game%20in%20the%20Dungeons%20%26%20Dragons%20series%3F",
+        "correct_answer": "Extreme%20Dungeons%20%26%20Dragons",
+        "incorrect_answers": [
+          "Advanced%20Dungeons%20%26%20Dragons",
+          "Dungeons%20%26%20Dragons%203.5th%20edition",
+          "Advanced%20Dungeons%20%26%20Dragons%202nd%20edition"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20board%20game%20%22Monopoly%22%20is%20a%20variation%20of%20what%20board%20game%3F",
+        "correct_answer": "The%20Landlord%27s%20Game",
+        "incorrect_answers": [
+          "Territorial%20Dispute",
+          "Property%20Feud",
+          "The%20Monopolist%27s%20Game"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Magic%3A%20The%20Gathering%2C%20what%20card%27s%20flavor%20text%20is%20%22Catch%21%22%3F",
+        "correct_answer": "Lava%20Axe",
+        "incorrect_answers": [
+          "Stone-Throwing%20Devils",
+          "Ember%20Shot",
+          "Throwing%20Knife"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Who%20was%20the%20first%20official%20world%20chess%20champion%3F",
+        "correct_answer": "Wilhelm%20Steinitz",
+        "incorrect_answers": [
+          "Jos%C3%A9%20Ra%C3%BAl%20Capablanca",
+          "Emanuel%20Lasker",
+          "Bobby%20Fischer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "How%20many%20points%20is%20the%20Z%20tile%20worth%20in%20Scrabble%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "8",
+          "5",
+          "6"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20Angry%20Video%20Game%20Nerd%27s%20alter%20ego%20is%20%22Board%20James%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20these%20cities%20is%20NOT%20featured%20in%20the%20Pandemic%20board%20game%3F",
+        "correct_answer": "Berlin",
+        "incorrect_answers": [
+          "Ho%20Chi%20Minh%20City",
+          "Lagos",
+          "Karachi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "On%20a%20standard%20Monopoly%20board%2C%20which%20square%20is%20diagonally%20opposite%20%27Go%27%3F%20",
+        "correct_answer": "Free%20Parking",
+        "incorrect_answers": [
+          "Go%20to%20Jail",
+          "Jail",
+          "The%20Electric%20Company"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20these%20cards%20from%20%22Magic%3A%20The%20Gathering%22%20has%20a%20flavor%20text%20that%20begins%20with%20%22Oi%20oi%20oi%22%3F",
+        "correct_answer": "Uthden%20Troll",
+        "incorrect_answers": [
+          "Lotleth%20Troll",
+          "Albino%20Troll",
+          "Harvester%20Troll"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20board%20game%20%22Ra%22%20was%20designed%20by%20which%20designer%3F%20",
+        "correct_answer": "Reiner%20Knizia",
+        "incorrect_answers": [
+          "Bruno%20Cathala",
+          "Uwe%20Rosenburg",
+          "Allison%20Kline"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20board%20games%2C%20an%20additional%20or%20ammended%20rule%20that%20applies%20to%20a%20certain%20group%20or%20place%20is%20informally%20known%20as%20a%20%22what%22%20rule%3F",
+        "correct_answer": "House",
+        "incorrect_answers": [
+          "Custom",
+          "Extra",
+          "Change"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20board%20game%2C%20Nightmare%20was%20released%20in%20what%20year%3F",
+        "correct_answer": "1991",
+        "incorrect_answers": [
+          "1992",
+          "1989",
+          "1995"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20the%20Board%20Game%2C%20Settlers%20of%20Catan%2C%20a%20die%20roll%20of%20what%20number%20causes%20the%20Robber%20to%20attack%3F%20",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "3",
+          "10",
+          "1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "On%20a%20standard%20Monopoly%20board%2C%20how%20much%20do%20you%20have%20to%20pay%20for%20Tennessee%20Ave%3F",
+        "correct_answer": "%24180",
+        "incorrect_answers": [
+          "%24200",
+          "%24160",
+          "%24220"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20top%20human%20players%20can%20easily%20beat%20the%20top%20computers%20at%20chess",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "The%20board%20game%20Go%20has%20more%20possible%20legal%20positions%20than%20the%20number%20of%20atoms%20in%20the%20visible%20universe.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20%22Magic%3A%20The%20Gathering%22%2C%20during%20the%20design%20for%20Planar%20Chaos%2C%20what%20color%20did%20the%20developers%20think%20of%20adding%20in%20as%20the%20sixth%20color%3F",
+        "correct_answer": "Purple",
+        "incorrect_answers": [
+          "Brown",
+          "Pink",
+          "Orange"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Who%20is%20the%20main%20character%20in%20the%20VHS%20tape%20included%20in%20the%20board%20game%20Nightmare%3F",
+        "correct_answer": "The%20Gatekeeper",
+        "incorrect_answers": [
+          "The%20Kryptkeeper",
+          "The%20Monster",
+          "The%20Nightmare"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20the%20game%20%22Racko%22%20you%20may%20pick%20up%20ANY%20card%20from%20the%20discard%20pile.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Carcassonne%20is%20based%20on%20which%20French%20town%3F",
+        "correct_answer": "Carcassonne",
+        "incorrect_answers": [
+          "Paris",
+          "Marseille",
+          "Clermont-Ferrand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20Magic%3A%20The%20Gathering%20card%27s%20flavor%20text%20is%20just%20%27Ribbit.%27%3F",
+        "correct_answer": "Turn%20to%20Frog",
+        "incorrect_answers": [
+          "Spore%20Frog",
+          "Bloated%20Toad",
+          "Frogmite"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Dungeons%20and%20Dragons%20%285th%20edition%29%2C%20what%20stat%20do%20you%20normally%20add%20onto%20your%20initiative%20die%20roll%3F",
+        "correct_answer": "Dexterity",
+        "incorrect_answers": [
+          "Speed",
+          "Strength",
+          "Wisdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20Pokemon%20is%20%2339%20in%20the%20National%20Pokedex%3F",
+        "correct_answer": "Jigglypuff",
+        "incorrect_answers": [
+          "Pikachu",
+          "Psyduck",
+          "Fearow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "How%20many%20pieces%20are%20there%20on%20the%20board%20at%20the%20start%20of%20a%20game%20of%20chess%3F",
+        "correct_answer": "32",
+        "incorrect_answers": [
+          "16",
+          "20",
+          "36"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Snakes%20and%20Ladders%20was%20originally%20created%20in%20India%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20poker%2C%20%22EV%22%20means%20what%3F",
+        "correct_answer": "Expected%20Value",
+        "incorrect_answers": [
+          "Equity%20Value",
+          "Equivalent%20Variation",
+          "Equity%20Variation"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "There%20is%20a%20Donald%20Trump%20Board%20Game%2C%20which%20was%20made%20in%201989.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

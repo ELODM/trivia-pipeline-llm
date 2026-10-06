@@ -1,0 +1,560 @@
+{
+  "category_id": 14,
+  "fetched_at": "2026-10-06T09:59:59.594602+00:00",
+  "request": {
+    "amount": 46,
+    "category": 14,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Klingons%20respect%20their%20disabled%20comrades%2C%20and%20those%20who%20are%20old%2C%20injuried%2C%20and%20helpless.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20AMC%27s%20%22The%20Walking%20Dead%2C%22%20the%20characters%20Rick%2C%20Carl%2C%20Daryl%2C%20Morgan%2C%20Carol%20and%20Maggie%20were%20introduced%20in%20Season%201.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20what%20is%20the%20Klingon%20death%20ritual%3F",
+        "correct_answer": "Look%20into%20sky%20and%20yell%20loudly%20in%20mourning.",
+        "incorrect_answers": [
+          "Kiss%20the%20jagged%20forehead%20before%20burial.",
+          "Shoot%20into%20space%20in%20a%20torpedo%20casing.",
+          "Split%20the%20deceased%27s%20earnings%20between%20bloodkin."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20name%20of%20the%20inflatable%20duck%20sacrified%20to%20the%20crowd%20at%20the%20end%20of%20Episode%2034%20of%20the%2018th%20season%20of%20Big%20Brother%3F",
+        "correct_answer": "Pablo",
+        "incorrect_answers": [
+          "Esteban",
+          "Carlos",
+          "Duckster"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20race%20horse%20that%20Tony%20Soprano%20becomes%20attached%20to%3F",
+        "correct_answer": "Pie-O-My",
+        "incorrect_answers": [
+          "Man%20o%27%20war",
+          "Bada%20Bing",
+          "Honest%20Earnings"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Breaking%20Bad%2C%20the%20initials%20W.W.%20refer%20to%20which%20of%20the%20following%3F",
+        "correct_answer": "Walter%20White",
+        "incorrect_answers": [
+          "William%20Wolf",
+          "Willy%20Wonka",
+          "Wally%20Walrus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%20%22Tengen%20Toppa%20Gurren%20Lagann%22%20what%20is%20the%20name%20of%20the%20character%20who%20force%20everyone%20to%20live%20underground%3F",
+        "correct_answer": "Lordgenome",
+        "incorrect_answers": [
+          "Kingloname",
+          "Lord%20Genome",
+          "King%20Loname"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20Bojack%20Horseman%20characters%20is%20a%20human%3F",
+        "correct_answer": "Todd%20Chavez",
+        "incorrect_answers": [
+          "Lennie%20Turtletaub",
+          "Princess%20Carolyn",
+          "Tom%20Jumbo-Grumbo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20won%20the%2010th%20season%20of%20Big%20Brother%20in%20the%20United%20States%3F",
+        "correct_answer": "Dan%20Gheesling",
+        "incorrect_answers": [
+          "Adam%20Jasinski",
+          "Hayden%20Moss",
+          "Dick%20Donato"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20surname%20of%20the%20character%20Daryl%20in%20AMC%27s%20show%20The%20Walking%20Dead%3F",
+        "correct_answer": "Dixon",
+        "incorrect_answers": [
+          "Grimes",
+          "Dickinson",
+          "Dicketson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20Disney%20shows%20is%20classified%20as%20an%20anime%3F",
+        "correct_answer": "Stitch%21",
+        "incorrect_answers": [
+          "Cory%20in%20the%20House",
+          "The%20Emperor%27s%20New%20School",
+          "Hannah%20Montana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20boxing%20personality%20was%20one%20of%20the%20presenters%20in%20the%201999%20revival%20of%20It%27s%20a%20Knockout%3F",
+        "correct_answer": "Frank%20Bruno",
+        "incorrect_answers": [
+          "Henry%20Cooper",
+          "Muhammad%20Ali",
+          "Joe%20Fraiser"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Guy%27s%20Grocery%20Games%20is%20hosted%20by%20which%20presenter%3F",
+        "correct_answer": "Guy%20Fieri",
+        "incorrect_answers": [
+          "Guy%20Martin",
+          "Guy%20Ritchie",
+          "Ainsley%20Harriott"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20the%20following%20was%20not%20an%20actor%2Factress%20on%20the%20American%20television%20show%20%22Saturday%20Night%20Live%22%20in%20Season%2042%3F",
+        "correct_answer": "Tina%20Fey",
+        "incorrect_answers": [
+          "Mikey%20Day",
+          "Kate%20McKinnon",
+          "Sasheer%20Zamata"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Alan%20Reed%20is%20known%20for%20providing%20the%20voice%20of%20which%20character%3F",
+        "correct_answer": "Fred%20Flintstone",
+        "incorrect_answers": [
+          "Bugs%20Bunny",
+          "Fangface",
+          "G.I.%20Joe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%20%22Futurama%22%20what%20is%20Fry%27s%20full%20name%3F",
+        "correct_answer": "Philip%20J.%20Fry",
+        "incorrect_answers": [
+          "Fry%20J.%20Philip",
+          "Fry%20Rodr%C3%ADguez",
+          "Fry%20Philip"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "When%20did%20the%20TV%20show%20Rick%20and%20Morty%20first%20air%20on%20Adult%20Swim%3F",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+          "2014",
+          "2016",
+          "2015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20inspector%20in%20the%20series%20%22On%20the%20Buses%22%3F",
+        "correct_answer": "Blakey",
+        "incorrect_answers": [
+          "Harper",
+          "Naily",
+          "Gally"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20country%20does%20the%20YouTuber%20%22SinowBeats%22%20originate%20from%3F",
+        "correct_answer": "Scotland",
+        "incorrect_answers": [
+          "England",
+          "Sweden",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20callsign%20of%20Commander%20William%20Adama%20in%20Battlestar%20Galactica%20%282004%29%3F",
+        "correct_answer": "Husker",
+        "incorrect_answers": [
+          "Starbuck",
+          "Apollo",
+          "Crashdown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20season%20one%20of%20the%20US%20Kitchen%20Nightmares%2C%20Gordan%20Ramsay%20tried%20to%20save%2010%20different%20restaurants.%20How%20many%20ended%20up%20closing%20afterwards%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "6",
+          "3",
+          "0"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Game%20of%20Thrones%2C%20what%20continent%20lies%20across%20the%20Narrow%20Sea%20from%20Westeros%3F",
+        "correct_answer": "Essos",
+        "incorrect_answers": [
+          "Easteros",
+          "Westereast",
+          "Esuntos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20won%20Big%20Brother%202014%20UK%3F",
+        "correct_answer": "Helen%20Wood",
+        "incorrect_answers": [
+          "Christopher%20Hall",
+          "Pauline%20Bennett",
+          "Pavandeep%20%22Pav%22%20Paul"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Dee%20from%20%22It%27s%20Always%20Sunny%20in%20Philadelphia%22%20has%20dated%20all%20of%20the%20following%20guys%20EXCEPT",
+        "correct_answer": "Matthew%20%22Rickety%20Cricket%22%20Mara",
+        "incorrect_answers": [
+          "Colin%20the%20Thief",
+          "Ben%20the%20Soldier",
+          "Kevin%20Gallagher%20aka%20Lil%27%20Kevin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20TV%20series%20%22Person%20of%20Interest%22%2C%20who%20plays%20the%20character%20%22Harold%20Finch%22%3F",
+        "correct_answer": "Michael%20Emerson",
+        "incorrect_answers": [
+          "Jim%20Caviezel",
+          "Taraji%20P.%20Henson",
+          "Kevin%20Chapman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "On%20the%20show%20%22Rick%20and%20Morty%22%2C%20in%20episode%20%22Total%20Rickall%22%2C%20who%20was%20a%20parasite%3F",
+        "correct_answer": "Pencilvester",
+        "incorrect_answers": [
+          "Beth%20Smith",
+          "Summer%20Smith",
+          "Mr.%20Poopy%20Butthole"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20Sci-Fi%20television%20show%20Doctor%20Who%2C%20who%20plays%20the%20Tenth%20Doctor%3F",
+        "correct_answer": "David%20Tennant",
+        "incorrect_answers": [
+          "William%20Hartnell",
+          "Peter%20Capaldi",
+          "Peter%20Davison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20WWF%20wrestler%20had%20the%20nickname%20%22The%20Ayatollah%20of%20Rock%20%27N%27%20Rolla%22%3F",
+        "correct_answer": "Chris%20Jericho",
+        "incorrect_answers": [
+          "Marty%20Jannetty",
+          "Scott%20Hall",
+          "Shawn%20Michaels"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Naruto%3A%20Shippuden%2C%20which%20of%20the%20following%20elements%20is%20a%20%22Kekkei%20T%C5%8Dta%3F%22",
+        "correct_answer": "Particle%20Style",
+        "incorrect_answers": [
+          "Any%20Doujutsu",
+          "Shadow%20Style",
+          "Ice%20Style"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Baron%20Silas%20Greenback%20is%20the%20arch%20nemesis%20of%20which%20cartoon%20hero%3F",
+        "correct_answer": "Danger%20Mouse",
+        "incorrect_answers": [
+          "Bananaman",
+          "SuperTed",
+          "Captain%20Star"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20TV%20show%20is%20about%20a%20grandfather%20dragging%20his%20grandson%20around%20on%20adventures%3F",
+        "correct_answer": "Rick%20%26%20Morty",
+        "incorrect_answers": [
+          "Family%20Guy",
+          "South%20Park",
+          "American%20Dad"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20title%20of%20The%20Allman%20Brothers%20Band%20instrumental%20used%20as%20the%20theme%20to%20the%20BBC%20motoring%20show%2C%20%27Top%20Gear%27%3F",
+        "correct_answer": "Jessica",
+        "incorrect_answers": [
+          "Angela",
+          "Erica",
+          "Sandra"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "How%20many%20seasons%20did%20the%20TV%20show%20%22Donkey%20Kong%20Country%22%20last%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "1",
+          "4",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20UK%20%22Who%20Wants%20to%20be%20a%20Millionaire%3F%22%20cheating%20scandal%20known%20as%3F",
+        "correct_answer": "Major%20Fraud",
+        "incorrect_answers": [
+          "Ingram%20Cheater",
+          "Coughing%20Major",
+          "Millionaire%20Crime"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Like%20his%20character%20in%20%22Parks%20and%20Recreation%22%2C%20Aziz%20Ansari%20was%20born%20in%20South%20Carolina.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20show%20%22Dragonball%20Z%22%2C%20what%20is%20the%20name%20of%20Cell%27s%20most%20powerful%20attack%3F",
+        "correct_answer": "Solar%20Kamehameha",
+        "incorrect_answers": [
+          "Super%20Kamehameha",
+          "Cell%20Kamehameha",
+          "Android%20Kamehameha"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20former%20Coronation%20Street%20actress%20was%20once%20a%20hostess%20on%20the%20British%20Game%20Show%20%22Double%20Your%20Money%22%3F",
+        "correct_answer": "Amanda%20Barrie",
+        "incorrect_answers": [
+          "Sue%20Nicholls",
+          "Violet%20Carson",
+          "Jean%20Alexander"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20the%20winner%20of%20the%202016%20WWE%20Royal%20Rumble%3F",
+        "correct_answer": "Triple%20H",
+        "incorrect_answers": [
+          "Roman%20Reigns",
+          "AJ%20Styles",
+          "Dean%20Ambrose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20played%20the%20sun%20baby%20in%20the%20original%20run%20of%20Teletubbies%3F",
+        "correct_answer": "Jessica%20Smith",
+        "incorrect_answers": [
+          "Pui%20Fan%20Lee",
+          "Sue%20Monroe",
+          "Lisa%20Brockwell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20TV%20show%20%27M%2AA%2AS%2AH%27%2C%20what%20was%20the%20nickname%20of%20Corporal%20Walter%20O%27Reilly%3F",
+        "correct_answer": "Radar",
+        "incorrect_answers": [
+          "Hawkeye",
+          "Hot%20Lips",
+          "Trapper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20comedy%20series%20%22Trailer%20Park%20Boys%22%2C%20which%20of%20the%20following%20characters%20takes%20care%20of%20stray%20cats%3F",
+        "correct_answer": "Bubbles",
+        "incorrect_answers": [
+          "Ricky",
+          "Julian",
+          "Randy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20year%20was%20Netflix%20founded%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1999",
+          "2004",
+          "2001"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20%22Psycho%22%20series%20of%20videos%20on%20YouTube%20was%20created%20by%20which%20of%20the%20following%3F",
+        "correct_answer": "RiDGiD%20STUDiOS",
+        "incorrect_answers": [
+          "Dan%20Bell",
+          "Billy%20Familia",
+          "VeganGainz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20Star%20Trek%20race%20advances%20itself%20through%20assimilation%3F",
+        "correct_answer": "Borg",
+        "incorrect_answers": [
+          "Vulcan",
+          "Betazoid",
+          "Klingon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20the%20original%20voice%20actor%20of%20Shaggy%20Rogers%20in%20Scooby-Doo%3F",
+        "correct_answer": "Casey%20Kasem",
+        "incorrect_answers": [
+          "Dante%20Basco",
+          "Billy%20West",
+          "Frank%20Welker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20the%20winner%20of%20%22Big%20Brother%22%20Season%2010%3F",
+        "correct_answer": "Dan%20Gheesling",
+        "incorrect_answers": [
+          "Bryce%20Kranyik",
+          "Ryan%20Sutfin",
+          "Chris%20Mundorf"
+        ]
+      }
+    ]
+  }
+}

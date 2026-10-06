@@ -1,0 +1,234 @@
+{
+  "category_id": 9,
+  "fetched_at": "2026-10-06T09:57:33.895323+00:00",
+  "request": {
+    "amount": 19,
+    "category": 9,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "In%20aerodynamics%2C%20which%20force%20pushes%20an%20object%20upwards%3F",
+        "correct_answer": "Lift",
+        "incorrect_answers": [
+          "Drag",
+          "Weight",
+          "Thrust"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "In%20flight%20systems%2C%20what%20does%20the%20initialism%20%22TCAS%22%20stand%20for%3F",
+        "correct_answer": "Traffic%20Collision%20Avoidance%20System",
+        "incorrect_answers": [
+          "Traffic%20Communication%20Alert%20System",
+          "Traffic%20Configuration%20Alignment%20System",
+          "Traffic%20Call-sign%20Abbreviation%20System"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20official%20language%20of%20Brazil%3F",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+          "Brazilian",
+          "Spanish",
+          "English"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Scotland%20voted%20to%20become%20an%20independent%20country%20during%20the%20referendum%20from%20September%202014.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20of%20the%20following%20landmarks%20is%20not%20located%20in%20New%20York%20City%3F",
+        "correct_answer": "Lincoln%20Memorial",
+        "incorrect_answers": [
+          "Empire%20State%20Building",
+          "Times%20Square",
+          "Central%20Park"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Pure%20water%20effectively%20conducts%20electricity%20",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Amsterdam%20Centraal%20station%20is%20twinned%20with%20what%20station%3F",
+        "correct_answer": "London%20Liverpool%20Street",
+        "incorrect_answers": [
+          "Frankfurt%20%28Main%29%20Hauptbahnhof",
+          "Paris%20Gare%20du%20Nord",
+          "Brussels%20Midi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Frank%20Lloyd%20Wright%20was%20the%20architect%20behind%20what%20famous%20building%3F",
+        "correct_answer": "The%20Guggenheim",
+        "incorrect_answers": [
+          "Villa%20Savoye",
+          "Sydney%20Opera%20House",
+          "The%20Space%20Needle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "To%20which%20language%20family%20does%20Kazakh%20belong%3F",
+        "correct_answer": "Turkic",
+        "incorrect_answers": [
+          "Mongolic",
+          "Indo-European",
+          "Uralic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Instant%20mashed%20potatoes%20were%20invented%20by%20Canadian%20Edward%20Asselbergs%20in%201962.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "When%20was%20the%20Playstation%203%20released%3F",
+        "correct_answer": "November%2011%2C%202006",
+        "incorrect_answers": [
+          "January%208%2C%202007",
+          "December%2025%2C%202007",
+          "July%2016%2C%202006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Which%20sign%20of%20the%20zodiac%20is%20represented%20by%20the%20Crab%3F",
+        "correct_answer": "Cancer",
+        "incorrect_answers": [
+          "Libra",
+          "Virgo",
+          "Sagittarius"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "Did%20Michael%20Jackson%20invent%20the%20moonwalk%3F",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20English%20word%20means%20to%20%22think%20deeply%22%3F",
+        "correct_answer": "Contemplate",
+        "incorrect_answers": [
+          "Confiscate",
+          "Constipate",
+          "Condensate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "General%20Knowledge",
+        "question": "How%20many%20cards%20are%20there%20in%20a%20standard%20deck%20of%20playing%20cards%3F",
+        "correct_answer": "52",
+        "incorrect_answers": [
+          "32",
+          "40",
+          "64"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "Chartreuse%20is%20a%20color%20between%20yellow%20and%20what%3F",
+        "correct_answer": "Green",
+        "incorrect_answers": [
+          "Red",
+          "Black",
+          "Purple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "General%20Knowledge",
+        "question": "What%20year%20was%20the%20RoboSapien%20toy%20robot%20released%3F",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "2000",
+          "2001",
+          "2006"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "Only%209%25%20of%20US%20Households%20owned%20a%20television%20in%20",
+        "correct_answer": "1950",
+        "incorrect_answers": [
+          "1965",
+          "1913",
+          "1969"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "General%20Knowledge",
+        "question": "What%20is%20the%20highest%20number%20of%20Michelin%20stars%20a%20restaurant%20can%20receive%3F",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+          "Four",
+          "Five",
+          "Six"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,596 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:49.734767+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "DragonForce%27s%20%27Through%20the%20Fire%20and%20Flames%27%20is%20widely%20considered%20to%20be%20the%20hardest%20song%20in%20the%20Guitar%20Hero%20series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20%2764%27%20in%20the%20Nintendo-64%20console%20refers%20to%20what%3F",
+        "correct_answer": "The%20bits%20in%20the%20CPU%20architecture",
+        "incorrect_answers": [
+          "The%20number%20of%20megabytes%20of%20RAM",
+          "Capacity%20of%20the%20ROM%20Cartridges%20in%20megabytes",
+          "Clock%20speed%20of%20the%20CPU%20in%20Hertz"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Disney%27s%20%22Toontown%20Online%22%2C%20which%20of%20these%20species%20wasn%27t%20available%20as%20a%20Toon%3F",
+        "correct_answer": "Cow",
+        "incorrect_answers": [
+          "Monkey",
+          "Bear",
+          "Pig"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20canon%20%22Neptunia%22%20games%2C%20Neptune%20is%20always%20the%20main%20protagonist.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Grand%20Theft%20Auto%20V%20is%20the%20fifteenth%20installment%20of%20the%20Grand%20Theft%20Auto%20series.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20able%20to%20grab%20the%20survivors%20with%20his%20tongue%20in%20Left%204%20Dead%3F",
+        "correct_answer": "Smoker",
+        "incorrect_answers": [
+          "Jockey",
+          "Hunter",
+          "Boomer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20games%20was%20NOT%20included%20in%20Valve%27s%20Orange%20Box%3F",
+        "correct_answer": "Counter-Strike",
+        "incorrect_answers": [
+          "Portal",
+          "Half-Life%202%3A%20Episode%20Two",
+          "Team%20Fortress%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20are%20tiny%20Thwomps%20called%20in%20Super%20Mario%20World%3F",
+        "correct_answer": "Thwimps",
+        "incorrect_answers": [
+          "Little%20Thwomp",
+          "Mini%20Thwomp",
+          "Tiny%20Tims"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20country%20is%20Sean%20Matsuda%20from%20in%20Street%20Fighter%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "Japan",
+          "USA",
+          "UK"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Geometry%20Dash%2C%20what%20is%20level%2013%3F",
+        "correct_answer": "Electroman%20Adventures",
+        "incorrect_answers": [
+          "Theory%20of%20Everything",
+          "Clubstep%20",
+          "Clutterfunk"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Minecraft%20wasn%E2%80%99t%20the%20original%20name%20to%20Minecraft.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20country%20is%20featured%20in%20Ace%20Combat%205%3A%20The%20Unsung%20War%3F",
+        "correct_answer": "Osea",
+        "incorrect_answers": [
+          "Aurelia",
+          "Australia",
+          "Japan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20Pokemon%20is%20NOT%20exclusively%20female%3F",
+        "correct_answer": "Clefairy",
+        "incorrect_answers": [
+          "Salazzle",
+          "Mandibuzz",
+          "Illumise"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20of%20Duty%3A%20Zombies%22%2C%20what%20group%20does%20Doctor%20Maxis%20work%20for%3F",
+        "correct_answer": "Group%20935",
+        "incorrect_answers": [
+          "Group%20Reanimate",
+          "Group%20Rezurrection",
+          "Division%209"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Shang%20Tsung%20is%20a%20playable%20character%20in%20Mortal%20Kombat%20XL.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Portal%202%22%2C%20Cave%20Johnson%20started%20out%20Aperture%20Science%20as%20a%20shower%20curtain%20company.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Toby%20Fox%27s%20%22Megalovania%22%20was%20first%20used%20where%3F",
+        "correct_answer": "Radiation%27s%20Earthbound%20Halloween%20Hack",
+        "incorrect_answers": [
+          "Homestuck%3A%20%5BS%5D%20Wake",
+          "Undertale",
+          "Mother%3A%20Cognitive%20Dissonance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20weapons%20is%20NOT%20available%20to%20the%20Terrorist%20team%20in%20the%20game%2C%20%22Counter-Strike%3A%20Global%20Offensive%22%3F",
+        "correct_answer": "SCAR-20",
+        "incorrect_answers": [
+          "SG%20550",
+          "CZ-75",
+          "XM1014"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Zelda%20games%20did%20not%20feature%20Ganon%20as%20a%20final%20boss%3F",
+        "correct_answer": "Majora%27s%20Mask",
+        "incorrect_answers": [
+          "Ocarina%20of%20Time",
+          "Skyward%20Sword",
+          "Breath%20of%20the%20Wild"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20virus%20that%20infected%20New%20York%20in%20Tom%20Clancy%27s%20The%20Division%3F",
+        "correct_answer": "Dollar%20Flu",
+        "incorrect_answers": [
+          "Ebola",
+          "Red%20Poison",
+          "Smallpox"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20system%20was%20%22Touhou%3A%20Highly%20Responsive%20to%20Prayers%22%20released%20on%3F",
+        "correct_answer": "PC-98",
+        "incorrect_answers": [
+          "OSX%2010.9.5",
+          "Windows%20ME",
+          "Windows%2098"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Tony%20Hawk%27s%20Pro%20Skater%20was%20released%20in%201999.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Metal%20Gear%20Solid%20V%3A%20The%20Phantom%20Pain%20runs%20on%20the%20Fox%20Engine.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20Frank%20West%27s%20job%20in%20%22Dead%20Rising%22%3F",
+        "correct_answer": "Photojournalist",
+        "incorrect_answers": [
+          "Janitor",
+          "Chef",
+          "Taxi%20Driver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20student%20in%20Yandere%20Simulator%20is%20known%20for%20asking%20irritating%20and%20stupid%20questions%3F",
+        "correct_answer": "Midori%20Gurin",
+        "incorrect_answers": [
+          "Kokona%20Hruka",
+          "Oka%20Ruto",
+          "Pipi%20Osu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20indie%20farming%20game%20%22Stardew%20Valley%22%2C%20which%20NPC%20hates%20the%20%22prismatic%20shard%22%20item%20when%20received%20as%20a%20gift%3F",
+        "correct_answer": "Haley",
+        "incorrect_answers": [
+          "Abigail%20",
+          "Elliott",
+          "Lewis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20subtitle%20for%20Gran%20Turismo%203%3F",
+        "correct_answer": "A-Spec",
+        "incorrect_answers": [
+          "Championship",
+          "Drive",
+          "Nitro"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "This%20weapon%20in%20Counter-Strike%3A%20Global%20Offensive%20does%20not%20exist%20in%20real%20life.",
+        "correct_answer": "M4A4",
+        "incorrect_answers": [
+          "AWP",
+          "M4A1",
+          "MP9"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20made%20the%20video%20game%2C%20%22Bendy%20and%20the%20Ink%20Machine%22%3F",
+        "correct_answer": "TheMeatly",
+        "incorrect_answers": [
+          "Scott%20Cawthon",
+          "%20Jeff%20Kaplan",
+          "Konami"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Team%20Fortress%202%22%2C%20how%20much%20health%20does%20a%20scout%20have%20when%20overhealed%3F",
+        "correct_answer": "185",
+        "incorrect_answers": [
+          "215",
+          "195",
+          "225"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Crypt%20of%20the%20NecroDancer%20%282015%29%20character%20has%20a%20soundtrack%20by%20Jake%20%22Virt%22%20Kaufman%3F",
+        "correct_answer": "Uncle%20Eli",
+        "incorrect_answers": [
+          "Cadence",
+          "Nocturna",
+          "Octavian%20%28Bard%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Half-Life%20mod%20%22Afraid%20of%20Monsters%22%20what%20was%20the%20name%20of%20the%20main%20protagonist%3F",
+        "correct_answer": "David%20Leatherhoff",
+        "incorrect_answers": [
+          "Daniel%20Featherhoff",
+          "Damon%20Weatherhoff",
+          "Damien%20Teatherhoff"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20a%20Tetris%20piece%20called%3F",
+        "correct_answer": "Tetromino",
+        "incorrect_answers": [
+          "Tetratile",
+          "Tetris",
+          "Tetripiece"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Left%204%20Dead%2C%20what%20is%20the%20character%20Bill%27s%20last%20name%3F",
+        "correct_answer": "Overbeck",
+        "incorrect_answers": [
+          "Fish",
+          "Roberts",
+          "Stevenson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20Starbound%20races%20has%20a%20Wild%20West%20culture%3F",
+        "correct_answer": "Novakid",
+        "incorrect_answers": [
+          "Avian",
+          "Human",
+          "Hylotl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20voices%20GLaDOS%20in%20the%20Portal%20games%3F",
+        "correct_answer": "Ellen%20McLain",
+        "incorrect_answers": [
+          "Michelle%20Forbes%20",
+          "Mary%20Kae%20Irvin%20",
+          "Natasha%20Radski"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Kingdom%20Hearts%20which%20of%20the%20following%20people%20can%20NOT%20wield%20a%20keyblade%3F",
+        "correct_answer": "Larxene",
+        "incorrect_answers": [
+          "Xehanort",
+          "Lea",
+          "Mickey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Super%20Hang-On%22%20which%20is%20the%20top%20speed%20WITH%20the%20use%20of%20turbo%3F",
+        "correct_answer": "324%20km%2Fh",
+        "incorrect_answers": [
+          "320%20km%2Fh",
+          "280%20km%2Fh",
+          "286%20km%2Fh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20programming%20language%20does%20the%20Source%20Engine%20use%3F",
+        "correct_answer": "C%2B%2B%20",
+        "incorrect_answers": [
+          "Python",
+          "Java",
+          "Lua"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20%22Perk-A-Cola%22%20in%20%22Call%20Of%20Duty%3A%20Zombies%22%20was%20%22reworked%22%20in%20%22Call%20of%20Duty%3A%20Black%20Ops%20II%22%3F",
+        "correct_answer": "Double%20Tap%20Root%20Beer",
+        "incorrect_answers": [
+          "Who%27s%20Who",
+          "Juggernog",
+          "Mule%20Kick"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Codemasters%20is%20the%20developer%20of%20the%20Gran%20Turismo%20series.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Nintendo%20DS%20game%20%27Ghost%20Trick%3A%20Phantom%20Detective%27%2C%20what%20is%20the%20name%20of%20the%20hitman%20seen%20at%20the%20start%20of%20the%20game%3F",
+        "correct_answer": "Nearsighted%20Jeego",
+        "incorrect_answers": [
+          "One%20Step%20Ahead%20Tengo",
+          "Missile",
+          "Cabanela"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20people%20can%20you%20recruit%20in%20the%20game%20Suikoden%20in%20a%20single%20playthrough%3F",
+        "correct_answer": "107",
+        "incorrect_answers": [
+          "108",
+          "93",
+          "96"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Animal%20Crossing%2C%20who%20is%20the%20manager%20of%20the%20town%20shop%3F",
+        "correct_answer": "Tom%20Nook",
+        "incorrect_answers": [
+          "Mr.%20Resetti",
+          "Gracie",
+          "K.K.%20Slider"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20DLC%20for%20the%20video%20game%20called%20%22Tabletop%20Simulator%22%3F",
+        "correct_answer": "The%20Binding%20of%20Isaac%3A%20Four%20Souls",
+        "incorrect_answers": [
+          "Three%20Kingdoms%20Redux",
+          "Superfight",
+          "Mr.%20Game%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Undertale%22%2C%20how%20many%20main%20endings%20are%20there%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "2",
+          "5",
+          "13"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20first%20primary%20weapon%20the%20player%20gets%20in%20%22PAYDAY%3A%20The%20Heist%22%3F",
+        "correct_answer": "AMCAR-4",
+        "incorrect_answers": [
+          "Brenner%2021",
+          "Reinbeck",
+          "M308"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20prosecutor%20in%20the%20%22Ace%20Attorney%22%20video%20game%20series%3F",
+        "correct_answer": "Jake%20Marshall",
+        "incorrect_answers": [
+          "Godot",
+          "Miles%20Edgeworth",
+          "Jacques%20Portsman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Bracken%20from%20Lethal%20Company%20is%20also%20known%20as%3A",
+        "correct_answer": "The%20Flower%20Man",
+        "incorrect_answers": [
+          "The%20Phantom",
+          "The%20Shadow%20Demon",
+          "Larry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Call%20of%20Duty%2C%20what%20is%20the%20last%20level%20where%20you%20play%20as%20an%20American%20soldier%3F",
+        "correct_answer": "Festung%20Recogne",
+        "incorrect_answers": [
+          "Ste.%20Mere-Eglise%20%28Day%29",
+          "Chateau",
+          "Brecourt"
+        ]
+      }
+    ]
+  }
+}

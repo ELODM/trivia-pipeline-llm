@@ -1,0 +1,604 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:59:02.718849+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%201952%20musical%20composition%204%2733%22%2C%20composed%20by%20prolific%20American%20composer%20John%20Cage%2C%20is%20mainly%20comprised%20of%20what%20sound%3F",
+        "correct_answer": "Silence",
+        "incorrect_answers": [
+          "Farts",
+          "People%20talking",
+          "Cricket%20chirps"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20member%20of%20the%20Wu-Tang%20Clan%20had%20only%20one%20verse%20in%20their%20debut%20album%20Enter%20the%20Wu-Tang%20%2836%20Chambers%29%3F",
+        "correct_answer": "Masta%20Killa",
+        "incorrect_answers": [
+          "Method%20Man",
+          "Inspectah%20Deck",
+          "GZA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Korean%20girl%20group%20TWICE%20is%20under%20which%20Entertainment%20Label%3F",
+        "correct_answer": "JYP",
+        "incorrect_answers": [
+          "MBK",
+          "YG",
+          "Stone%20Music"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20artists%20was%20NOT%20a%20member%20of%20the%20electronic%20music%20supergroup%20Swedish%20House%20Mafia%2C%20which%20split%20up%20in%202013%3F",
+        "correct_answer": "Alesso",
+        "incorrect_answers": [
+          "Steve%20Angello",
+          "Sebastian%20Ingrosso",
+          "Axwell"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Aerosmith%20album%20featured%20%22Walk%20This%20Way%22%3F",
+        "correct_answer": "Toys%20in%20the%20Attic",
+        "incorrect_answers": [
+          "Rocks",
+          "Get%20Your%20Wings",
+          "Draw%20the%20Line"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Queen%20song%20was%20covered%20by%20Brittany%20Murphy%20in%20the%202006%20film%20%22Happy%20Feet%22%3F",
+        "correct_answer": "Somebody%20to%20Love",
+        "incorrect_answers": [
+          "Under%20Pressure",
+          "Flash",
+          "Bohemian%20Rhapsody"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Hallelujah%22%20is%20a%20song%20written%20by%20which%20Canadian%20recording%20artist%3F",
+        "correct_answer": "Leonard%20Cohen",
+        "incorrect_answers": [
+          "Kory%20Lefkowits",
+          "Ryan%20Letourneau%20",
+          "Justin%20Bieber%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20are%20NOT%20a%20Men%20at%20Work%20song%3F",
+        "correct_answer": "Basket%20Case",
+        "incorrect_answers": [
+          "Dr.%20Heckyll%20and%20Mr.%20Jive",
+          "Who%20Can%20It%20Be%20Now%3F",
+          "Be%20Good%20Johnny"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20languages%20was%20NOT%20included%20in%20the%202016%20song%20%22Don%27t%20Mind%22%20by%20Kent%20Jones%3F",
+        "correct_answer": "Portuguese",
+        "incorrect_answers": [
+          "Japanese",
+          "French",
+          "Spanish"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20K-Pop%20Boy%20Band%20BTS%20debuted%20in%20the%20year%202013.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20real%20name%20of%20prominent%20electronic%20musician%20Aphex%20Twin%3F",
+        "correct_answer": "Richard%20D.%20James",
+        "incorrect_answers": [
+          "Richard%20M.%20Hall",
+          "Richard%20W.%20Wright",
+          "Richard%20H.%20Blackmore"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20%22Twin%20Size%20Mattress%22%20was%20written%20by%20which%20band%3F",
+        "correct_answer": "The%20Front%20Bottoms",
+        "incorrect_answers": [
+          "Twenty%20One%20Pilots",
+          "The%20Wonder%20Years",
+          "The%20Smith%20Street%20Band"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20Rivers%20Cuomo%27s%20wife%3F",
+        "correct_answer": "Kyoko%20Ito",
+        "incorrect_answers": [
+          "Yoko%20Ono",
+          "Kyary%20Pamyu%20Pamyu",
+          "LiSA"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20studio%20albums%20have%20the%20heavy%20metal%20band%2C%20%27Metallica%27%20released%20in%20the%20period%20between%201983%20and%202016%3F",
+        "correct_answer": "10",
+        "incorrect_answers": [
+          "7",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20city%20is%20the%20American%20singer%20%22Pitbull%22%20from%3F",
+        "correct_answer": "Miami",
+        "incorrect_answers": [
+          "Kodiak",
+          "St.%20Louis",
+          "Boston"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Dallon%20Weekes%2C%20former%20touring%20basist%20of%20Panic%21%20At%20the%20Disco%2C%20created%20his%20own%20band%20in%202016%20called...",
+        "correct_answer": "I%20Don%27t%20Know%20How%20But%20They%20Found%20Me",
+        "incorrect_answers": [
+          "Cheats%20At%20Hide%20And%20Seek",
+          "Where%20Did%20You%20All%20Come%20From%3F",
+          "Run%20Away%20From%20The%20People"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20these%20Pink%20Floyd%20albums%20were%20also%20a%20movie%3F",
+        "correct_answer": "The%20Wall",
+        "incorrect_answers": [
+          "The%20Dark%20Side%20of%20the%20Moon",
+          "Wish%20You%20Were%20Here",
+          "Animals"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20song%20originally%20performed%20by%20The%20Bee%20Gees%20in%201978%20had%20a%20cover%20version%20by%20Steps%2020%20years%20later%3F",
+        "correct_answer": "Tragedy",
+        "incorrect_answers": [
+          "Night%20Fever",
+          "Stayin%27%20Alive",
+          "You%20Should%20Be%20Dancing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20former%20boy-band%20star%20released%20hit%20solo%20single%20%22Angels%22%20in%201997%3F",
+        "correct_answer": "Robbie%20Williams",
+        "incorrect_answers": [
+          "Justin%20Timberlake",
+          "Harry%20Styles",
+          "Gary%20Barlow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20Pink%20Floyd%27s%20first%20album%3F",
+        "correct_answer": "The%20Piper%20at%20the%20Gates%20of%20Dawn",
+        "incorrect_answers": [
+          "The%20Dark%20Side%20of%20the%20Moon",
+          "Wish%20You%20Were%20Here",
+          "Meddle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20original%20drummer%20for%20The%20Beatles%3F",
+        "correct_answer": "Tommy%20Moore",
+        "incorrect_answers": [
+          "Ringo%20Starr",
+          "Stuart%20Sutcliffe",
+          "Pete%20Best"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20music%20artist%20made%20the%20songs%20%22Heart%22%2C%20%22It%27s%20a%20Sin%22%2C%20and%20%22West%20End%20Girls%22%3F",
+        "correct_answer": "Pet%20Shop%20Boys",
+        "incorrect_answers": [
+          "The%20Human%20League",
+          "New%20Order",
+          "Ultravox"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20rappers%20were%20NOT%20part%20of%20the%20hip-hop%20group%20Odd%20Future%3F",
+        "correct_answer": "Vince%20Staples",
+        "incorrect_answers": [
+          "Tyler%2C%20the%20Creator",
+          "Frank%20Ocean",
+          "Mike%20G"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pink%20Guy%27s%20debut%20album%20was%20%22Pink%20Season%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20Johns%20was%20murdered%20by%20gunshots%20outside%20the%20Dakota%20in%20New%20York%20in%201980%3F",
+        "correct_answer": "John%20Lennon",
+        "incorrect_answers": [
+          "Johnny%20Thunders",
+          "John%20Denver",
+          "John%20Cascella"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20famous%20rapper%20is%20featured%20in%20Jack%20%C3%9C%20%28Skrillex%20and%20Diplo%29%27s%202015%20single%20called%20%22Febreze%22%3F",
+        "correct_answer": "2%20Chainz",
+        "incorrect_answers": [
+          "Kendrick%20Lamar",
+          "Future",
+          "Fatman%20Scoop"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20wrote%20the%20musical%20composition%2C%20%22Rhapsody%20In%20Blue%22%3F",
+        "correct_answer": "George%20Gershwin",
+        "incorrect_answers": [
+          "Irving%20Berlin",
+          "Duke%20Ellington",
+          "Johnny%20Mandel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Make%20You%20Feel%20My%20Love%22%20was%20originally%20written%20and%20performed%20by%20which%20singer-songwriter%3F",
+        "correct_answer": "Bob%20Dylan",
+        "incorrect_answers": [
+          "Elvis",
+          "Adele",
+          "Billy%20Joel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20musical%20artist%20who%20released%20the%20hit%20song%2C%20%22Love%20Song%2C%22%20in%202007%3F",
+        "correct_answer": "Sara%20Bareilles",
+        "incorrect_answers": [
+          "Taylor%20Swift",
+          "Katy%20Perry",
+          "Sarah%20Silverman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20previous%20drummer%20of%20blink-182%20before%20Travis%20Barker%3F",
+        "correct_answer": "Scott%20Raynor",
+        "incorrect_answers": [
+          "Atom%20Willard",
+          "Ilan%20Rubin",
+          "Derek%20Grant"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20performed%20%22I%20Took%20A%20Pill%20In%20Ibiza%22%3F",
+        "correct_answer": "Mike%20Posner",
+        "incorrect_answers": [
+          "Avicii",
+          "Robbie%20Williams",
+          "Harry%20Styles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20birthplace%20of%20musical%20artist%20%27Sir%20Robert%20Bryson%20Hall%20II%27%20%28aka.%20Logic%29%3F",
+        "correct_answer": "Maryland%2C%20United%20States",
+        "incorrect_answers": [
+          "Atlanta%2C%20United%20States",
+          "London%2C%20United%20Kingdom",
+          "%20Botswana%2C%20Africa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20tuba%20is%20a%20part%20of%20which%20musical%20family%3F",
+        "correct_answer": "Brass",
+        "incorrect_answers": [
+          "Percussion",
+          "Strings",
+          "Woodwind"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "A%20Facebook%20campaign%20placed%20Rage%20Against%20The%20Machine%27s%20%22Killing%20in%20the%20Name%20Of%22%20as%20the%20UK%20Christmas%20Number%201%20in%202009.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Friday%2C%22%20the%20single%20by%20Rebecca%20Black%2C%20was%20released%20in%20February%2010th%2C%202011.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20what%20year%20was%20Avril%20Lavigne%E2%80%99s%20first%20studio%20album%2C%20%E2%80%9CLet%20Go%E2%80%9D%2C%20released%3F",
+        "correct_answer": "2002",
+        "incorrect_answers": [
+          "2001",
+          "2004",
+          "2005"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Electronic%20artists%20Boys%20Noize%20and%20Skrillex%20have%20collaborated%20and%20released%20tracks%20under%20what%20name%3F",
+        "correct_answer": "Dog%20Blood",
+        "incorrect_answers": [
+          "Jack%20%C3%9C",
+          "What%20So%20Not",
+          "Noisia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20the%20song%20by%20Beyonc%C3%A9%20and%20Alejandro%20Fern%C3%A1ndez%20released%20in%202007%3F",
+        "correct_answer": "Amor%20Gitano",
+        "incorrect_answers": [
+          "La%20ultima%20vez",
+          "Rocket",
+          "Hasta%20Dondes%20Estes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pearl%20Jam%20was%20originally%20named%20after%20which%20sports%20figure%3F",
+        "correct_answer": "Mookie%20Blaylock",
+        "incorrect_answers": [
+          "Oil%20Can%20Boyd",
+          "Danger%20Fourpence",
+          "Blue%20Moon%20Odom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20a%201983%20hit%20with%20the%20song%20%27Africa%27%3F",
+        "correct_answer": "Toto",
+        "incorrect_answers": [
+          "Foreigner",
+          "Steely%20Dan",
+          "Journey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20the%20name%20of%20an%20American%20psychedelic%20rock%20band%20formed%20in%202002%20by%20Benjamin%20Goldwasser%20and%20Andrew%20VanWyngarden%3F",
+        "correct_answer": "MGMT",
+        "incorrect_answers": [
+          "MSTRKRFT",
+          "STRFKR",
+          "SBTRKT"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20the%20name%20of%20an%20album%20released%20by%20English%20singer-songwriter%20Adele%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "19",
+          "21",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20progressive%20rock%20band%20Rush%27s%20first%20single%3F",
+        "correct_answer": "Not%20Fade%20Away",
+        "incorrect_answers": [
+          "Tom%20Sawyer",
+          "Working%20Man",
+          "Owner%20of%20a%20Lonely%20Heart"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20%22Feel%20Good%20Inc.%22%20by%20British%20band%20Gorillaz%20features%20which%20hip%20hop%20group%3F",
+        "correct_answer": "De%20La%20Soul",
+        "incorrect_answers": [
+          "Public%20Enemy",
+          "OutKast",
+          "Cypress%20Hill"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Lead%20Singer%20Rivers%20Cuomo%20of%20American%20rock%20band%20Weezer%20attended%20Harvard.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%202010%20song%20%22Eenie%20Meenie%22%20was%20a%20collaboration%20between%20which%20two%20popular%20artists%3F",
+        "correct_answer": "Sean%20Kingston%20%26%20Justin%20Bieber",
+        "incorrect_answers": [
+          "Eminem%20%26%20Rihanna",
+          "Usher%20%26%20Pitbull",
+          "Lady%20Gaga%20%26%20Beyonc%C3%A9"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20British%20band%20did%20Keith%20Moon%20play%20in%20until%20his%20death%20in%201978%3F",
+        "correct_answer": "The%20Who",
+        "incorrect_answers": [
+          "The%20Kinks",
+          "The%20Yardbirds",
+          "The%20Small%20Faces"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20musician%20made%20the%20song%20%22F%2A%2Akin%60%20Perfect%22%20in%202010%3F",
+        "correct_answer": "P%21nk",
+        "incorrect_answers": [
+          "Mitis",
+          "Adam%20lambert",
+          "Koven"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20band%20released%20songs%20suchs%20as%20%22Rio%22%2C%20%22Girls%20on%20Film%22%2C%20and%20%22The%20Reflex%22%3F",
+        "correct_answer": "Duran%20Duran",
+        "incorrect_answers": [
+          "The%20Cure",
+          "New%20Order",
+          "Depeche%20Mode"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20what%20year%20was%20Taylor%20Swift%20born%3F",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+          "1988",
+          "1987",
+          "1990"
+        ]
+      }
+    ]
+  }
+}

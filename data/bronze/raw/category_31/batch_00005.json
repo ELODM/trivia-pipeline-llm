@@ -1,0 +1,62 @@
+{
+  "category_id": 31,
+  "fetched_at": "2026-10-06T10:09:08.353307+00:00",
+  "request": {
+    "amount": 4,
+    "category": 31,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "Who%20wrote%20and%20directed%20the%20animated%20movie%20%22Spirited%20Away%22%20%282001%29%3F",
+        "correct_answer": "Hayao%20Miyazaki",
+        "incorrect_answers": [
+          "Isao%20Takahata",
+          "Mamoru%20Hosoda",
+          "Hidetaka%20Miyazaki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22One%20Piece%2C%22%20what%20color%20is%20Tony%20Tony%20Chopper%27s%20nose%3F",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+          "Black",
+          "Grey",
+          "Red"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "On%20what%20medium%20was%20%22Clannad%22%20first%20created%3F",
+        "correct_answer": "Visual%20novel",
+        "incorrect_answers": [
+          "Anime",
+          "Manga",
+          "Light%20novel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Japanese%20Anime%20%26%20Manga",
+        "question": "In%20%22One%20Piece%22%2C%20who%20is%20the%20girl%20who%20overcame%20her%20enslaved%20past%20and%20became%20an%20agent%20of%20an%20army%20to%20fight%20the%20corrupt%20government%3F",
+        "correct_answer": "Koala",
+        "incorrect_answers": [
+          "Boa%20Hancock",
+          "Nico%20Robin",
+          "Emporio%20Ivankov%20"
+        ]
+      }
+    ]
+  }
+}

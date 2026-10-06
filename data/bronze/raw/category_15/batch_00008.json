@@ -1,0 +1,600 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:52.290940+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20classes%20are%20there%20in%20Team%20Fortress%202%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "10",
+          "8",
+          "7"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20character%20Wario%20was%20first%20introduced%20in%20which%20game%20of%20the%20Mario%20video%20game%20franchise%3F",
+        "correct_answer": "Super%20Mario%20Land%202%3A%206%20Golden%20Coins%20%281992%29",
+        "incorrect_answers": [
+          "Super%20Mario%20Bros.%203%20%281988%29",
+          "Wario%20Land%3A%20Super%20Mario%20Land%203%20%281994%29",
+          "Mario%20Party%20%281998%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Excluding%20their%20instructor%2C%20how%20many%20members%20of%20Class%20VII%20are%20there%20in%20the%20game%20%22Legend%20of%20Heroes%3A%20Trails%20of%20Cold%20Steel%22%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "6",
+          "10",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%2C%20What%20was%20the%20original%20level%20cap%3F",
+        "correct_answer": "60",
+        "incorrect_answers": [
+          "70",
+          "50",
+          "100"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20drive%20form%20was%20added%20into%20Kingdom%20Hearts%20II%20Final%20Mix%3F",
+        "correct_answer": "Limit%20Form",
+        "incorrect_answers": [
+          "Valor%20Form",
+          "Wisdom%20Form",
+          "Anti%20Form"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Dota%202%2C%20what%20is%20Earthshaker%27s%20real%20name%3F",
+        "correct_answer": "Raigor%20Stonehoof",
+        "incorrect_answers": [
+          "Banehallow%20Ambry",
+          "Carl",
+          "Barathrum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22DELTARUNE%22%2C%20what%20is%20Ralsei%27s%20special%20ability%3F",
+        "correct_answer": "Pacify",
+        "incorrect_answers": [
+          "Persuade",
+          "Eliminate",
+          "Hug"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Mirror%27s%20Edge%20Catalyst%20takes%20place%20in%20the%20City%20of...%3F",
+        "correct_answer": "Glass",
+        "incorrect_answers": [
+          "Mirrors",
+          "Purity",
+          "Diamonds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20city%20in%20the%20dystopia%20alternate%20future%20of%20Half-Life%202%20do%20you%20first%20start%20in%3F",
+        "correct_answer": "City%2017",
+        "incorrect_answers": [
+          "City%2018",
+          "City%206",
+          "City%2045"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20colors%20does%20the%20Zombie%20eyes%20glow%20in%20the%20%22Nuketown%22%20map%20in%20%22Call%20of%20Duty%3A%20Black%20Ops%20II%22%20Zombies%20mode%3F",
+        "correct_answer": "Yellow%20and%20Blue",
+        "incorrect_answers": [
+          "Yellow%20and%20Red",
+          "Red%20and%20Blue",
+          "Blue%20and%20White"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20not%20a%20wonder%20weapon%20in%20%22Call%20Of%20Duty%3A%20Zombies%22%3F",
+        "correct_answer": "R115%20Resonator",
+        "incorrect_answers": [
+          "GKZ-45%20Mk3",
+          "Ray%20Gun",
+          "Scavenger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20flagship%20monsters%20appear%20in%20Monster%20Hunter%20Gernerations%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "1",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Elite%20Four%20members%20from%20the%206th%20Generation%20of%20Pok%C3%A9mon%20was%20a%20member%20of%20Team%20Flare%3F",
+        "correct_answer": "Malva",
+        "incorrect_answers": [
+          "Siebold",
+          "Wikstrom",
+          "Drasna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20game%20is%20NOT%20part%20of%20the%20Science%20Adventure%20series%20by%205pb.%20and%20Nitroplus%3F",
+        "correct_answer": "Occultic%3B%20Nine",
+        "incorrect_answers": [
+          "Steins%3B%20Gate",
+          "Robotics%3B%20Notes",
+          "Chaos%3B%20Child"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20acronym%20DOTA%20stands%20for",
+        "correct_answer": "Defense%20of%20the%20Ancients",
+        "incorrect_answers": [
+          "Defense%20of%20the%20Artifacts",
+          "Defense%20of%20the%20Antiques",
+          "Defense%20of%20the%20Animated"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20roles%20in%20Town%20of%20Salem%20is%20mafia%3F",
+        "correct_answer": "Disguiser",
+        "incorrect_answers": [
+          "Escort",
+          "Lookout",
+          "Transporter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20variant%20of%20the%20MP5%20is%20depicted%20in%20Counter-Strike%201.6%3F",
+        "correct_answer": "MP5N",
+        "incorrect_answers": [
+          "MP5SD",
+          "MP5K",
+          "MP5RAS"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22PAYDAY%22%20series%2C%20what%20is%20the%20real%20name%20of%20the%20character%20known%20as%20%22Dallas%22%3F",
+        "correct_answer": "Nathan%20Steele",
+        "incorrect_answers": [
+          "Nate%20Siemens",
+          "Nick%20Stamos",
+          "Nolan%20Stuhlinger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Splatoon%2C%20what%20is%20the%20age%20that%20inklings%20can%20freely%20change%20between%20squid%20and%20humanoid%20forms%3F",
+        "correct_answer": "14",
+        "incorrect_answers": [
+          "13",
+          "16",
+          "10"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Resident%20Evil%22%2C%20only%20Chris%20has%20access%20to%20the%20grenade%20launcher.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Little%20Lost%20Girl%22%20Easter%20Egg%20in%20Call%20of%20Duty%3A%20Black%20Ops%20II%2C%20what%27s%20the%20last%20step%20required%20for%20the%20achievement%3F",
+        "correct_answer": "Raise%20Hell",
+        "incorrect_answers": [
+          "Freedom",
+          "Skewer%20the%20Winged%20Beast",
+          "Ascend%20from%20Darkness"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Overwatch%2C%20which%20hero%20out%20of%20the%20following%204%20is%20from%20Brazil%3F",
+        "correct_answer": "L%C3%BAcio",
+        "incorrect_answers": [
+          "Sombra",
+          "McCree",
+          "Symmetra"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Half-Life%22%20series%2C%20%22H.E.V%22%20stands%20for%20%22Hazardous%20Evasiveness%20Vest%22",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%20lore%2C%20Thrall%20is%20the%20original%20wielder%20of%20%22Doomhammer%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20franchise%20was%20NOT%20featured%20in%20the%202015%20video%20game%20%22Lego%20Dimensions%22%3F",
+        "correct_answer": "Breaking%20Bad",
+        "incorrect_answers": [
+          "Portal",
+          "Doctor%20Who",
+          "Back%20to%20the%20Future"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20cake%20depicted%20in%20Valve%27s%20%22Portal%22%20franchise%20most%20closely%20resembles%20which%20real-world%20type%20of%20cake%3F",
+        "correct_answer": "Black%20Forest",
+        "incorrect_answers": [
+          "Devil%27s%20Food",
+          "Molten%20Chocolate",
+          "German%20Chocolate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Fallout%3A%20New%20Vegas%20add-on%20Honest%20Hearts%2C%20what%20is%20the%20name%20of%20Joshua%20Graham%27s%20personal%20.45%20pistol%3F",
+        "correct_answer": "A%20Light%20Shining%20in%20Darkness",
+        "incorrect_answers": [
+          "Requiem",
+          "Maria",
+          "Recompense%20of%20the%20Fallen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20what%20is%20the%20name%20of%20Samantha%20Maxis%27%20dog%3F",
+        "correct_answer": "Fluffy",
+        "incorrect_answers": [
+          "Baxter",
+          "Fido",
+          "Henry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20voice%20actor%20for%20which%20Portal%202%20character%20was%20not%20a%20TV%20or%20film%20actor%20prior%20to%20the%20game%3F",
+        "correct_answer": "GLaDOS",
+        "incorrect_answers": [
+          "Cave%20Johnson",
+          "Wheatley",
+          "Atlas%20%2F%20P-Body"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20American%20city%20was%20featured%20in%20the%201999%20PC%20game%20Midtown%20Madness%3F",
+        "correct_answer": "Chicago",
+        "incorrect_answers": [
+          "Washington%20D.C.",
+          "San%20Francisco",
+          "New%20York%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20TF2%20Lore%2C%20what%20are%20the%20names%20of%20the%20Heavy%27s%20younger%20sisters%3F",
+        "correct_answer": "Yana%20and%20Bronislava",
+        "incorrect_answers": [
+          "Gaba%20and%20Anna",
+          "Yanna%20and%20Gaba",
+          "Anna%20and%20Bronislava"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20%22Moon%22%2C%20there%20is%20a%20secondary%20called%20the%20QED.%20What%20does%20QED%20stand%20for%3F",
+        "correct_answer": "Quantum%20Entanglement%20Device",
+        "incorrect_answers": [
+          "Quad%20Ectoplasmic%20Driver",
+          "Question%20Every%20Dog",
+          "Quality%20Edward%20Device"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Cave%20Story%2C%22%20what%20is%20the%20character%20Balrog%27s%20catchphrase%3F",
+        "correct_answer": "Huzzah%21",
+        "incorrect_answers": [
+          "Yes%21",
+          "Whoa%20there%21",
+          "Nyeh%20heh%20heh%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20what%20does%20the%20game%20traditionally%20reward%20you%20for%20completing%20a%20boss%20round%3F",
+        "correct_answer": "Max%20Ammo",
+        "incorrect_answers": [
+          "A%20Pack-A-Punched%20gun",
+          "Death%20Machine",
+          "Monkey%20Bombs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20team%20available%20in%20the%20game%20Pok%C3%A9mon%20Go%3F",
+        "correct_answer": "Team%20Rocket",
+        "incorrect_answers": [
+          "Team%20Instinct",
+          "Team%20Valor",
+          "Team%20Mystic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Super%20Smash%20Bros.%20for%20Nintendo%203DS%20and%20Nintendo%20Wii%20U%2C%20who%20was%20the%20sixth%20fighter%20to%20be%20added%20to%20the%20game%20post-launch%3F",
+        "correct_answer": "Corrin",
+        "incorrect_answers": [
+          "Cloud",
+          "Bayonnetta",
+          "Ryu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20Ultimate%20does%20Makoto%20Naegi%2C%20protagonist%20of%20Danganronpa%3A%20Trigger%20Happy%20Havoc%2C%20have%3F%20",
+        "correct_answer": "Ultimate%20Lucky%20Student",
+        "incorrect_answers": [
+          "Ultimate%20Unlucky%20Student",
+          "Ultimate%20Detective",
+          "Ultimate%20Runner"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Super%20Mario%20World%22%2C%20the%20rhino%20mini-boss%2C%20Reznor%2C%20is%20named%20after%20the%20lead%20singer%20of%20the%20band%20%22Nine%20Inch%20Nails%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20video%20game%20%22Splatoon%22%2C%20the%20playable%20characters%20were%20originally%20going%20to%20be%20rabbits%20instead%20of%20squids.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20first%20Maxis%20game%20to%20feature%20the%20fictional%20language%20%22Simlish%22%20was%20The%20Sims%20%282000%29.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20browser%20game%20Kantai%20Collection%20heavily%20inspired%20by%3F",
+        "correct_answer": "Second%20World%20War",
+        "incorrect_answers": [
+          "Manga",
+          "World%20of%20Warcraft",
+          "An%20Anime"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20carbon%20cars%20are%20there%20in%20Burnout%20Paradise%3F",
+        "correct_answer": "6",
+        "incorrect_answers": [
+          "4",
+          "3",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Monster%20Hunter%20Generations%2C%20which%20of%20the%20following%20monsters%20are%20a%20part%20of%20the%20%22Fated%20Four%22%3F",
+        "correct_answer": "Astalos",
+        "incorrect_answers": [
+          "Gore%20Magala",
+          "Malfestio",
+          "Arzuros"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Sniper%27s%20SMG%20in%20Team%20Fortress%202%2C%20was%20originally%20intended%20to%20be%20the%20Scout%27s%20primary%20weapon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%202000%20video%20game%20%22Crimson%20Skies%2C%22%20what%20was%20the%20name%20of%20the%20protagonists%27%20zeppelin%3F",
+        "correct_answer": "Pandora",
+        "incorrect_answers": [
+          "Helios",
+          "Icarus",
+          "Orion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20games%20in%20the%20Anno%20series%20introduced%20the%20%22Eco%20Balance%22%20gameplay%20mechanic%3F",
+        "correct_answer": "Anno%202070",
+        "incorrect_answers": [
+          "Anno%201404",
+          "Anno%202205",
+          "%20Anno%201701"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Halo%202%2C%20how%20many%20rounds%20does%20the%20M6C%20hold%20in%20a%20single%20magazine%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "6",
+          "36",
+          "18"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20final%20game%20of%20the%20%22Zero%20Escape%22%20series%20called%3F",
+        "correct_answer": "Zero%20Escape%20Zero%20Time%20Dilemma%20",
+        "incorrect_answers": [
+          "Nine%20Hours%2C%20Nine%20Persons%2C%20Nine%20Doors%20",
+          "Zero%20Escape%20Virtue%27s%20Last%20Reward",
+          "The%20Nonary%20Game%3A%20Sigma%27s%20Last%20Life"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Fallout%204%2C%20which%20type%20of%20power%20armor%20is%20first%20encountered%20in%20the%20early%20mission%20%22When%20Freedom%20Calls%22%20in%20a%20crashed%20Vertibird%3F",
+        "correct_answer": "T-45",
+        "incorrect_answers": [
+          "T-51",
+          "T-60",
+          "X-01"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Aperture%20Science%20CEO%20Cave%20Johnson%20is%20voiced%20by%20which%20American%20actor%3F",
+        "correct_answer": "J.K.%20Simmons",
+        "incorrect_answers": [
+          "Nolan%20North",
+          "John%20Patrick%20Lowrie",
+          "Christopher%20Lloyd"
+        ]
+      }
+    ]
+  }
+}

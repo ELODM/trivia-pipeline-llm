@@ -1,0 +1,144 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:07:02.556928+00:00",
+  "request": {
+    "amount": 11,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Little%20Entente%20was%20an%20alliance%20formed%20against%20which%20nation%3F",
+        "correct_answer": "Hungary",
+        "incorrect_answers": [
+          "Germany",
+          "France",
+          "Prussia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20Second%20Boer%20War%20in%201899%20was%20fought%20where%3F",
+        "correct_answer": "South%20Africa",
+        "incorrect_answers": [
+          "Argentina",
+          "Nepal",
+          "Bulgaria"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20total%20length%20of%20the%20Titanic%3F",
+        "correct_answer": "882%20ft%20%7C%20268.8%20m",
+        "incorrect_answers": [
+          "759%20ft%20%7C%20231.3%20m",
+          "1042%20ft%20%7C%20317.6%20m",
+          "825%20ft%20%7C%20251.5%20m"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Where%20was%20Napoleon%20Bonaparte%20born%3F",
+        "correct_answer": "Corsica",
+        "incorrect_answers": [
+          "Normandy",
+          "Brittany",
+          "Paris"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Where%20did%20first%20known%20lesbian%20rights%20organization%20in%20the%20United%20States%2C%20Daughters%20of%20Bilitis%2C%20start%3F",
+        "correct_answer": "San%20Francisco",
+        "incorrect_answers": [
+          "New%20York",
+          "Chicago",
+          "Los%20Angeles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20is%20the%20hull%20NO.%20of%20the%20Fletcher%20class%20destroyer%20Fletcher%3F",
+        "correct_answer": "DD-445",
+        "incorrect_answers": [
+          "DD-992",
+          "DD-444",
+          "DD-446"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20two%20atomic%20bombs%20dropped%20on%20Japan%20by%20the%20United%20States%20in%20August%201945%20were%20named%20%27Little%20Man%27%20and%20%27Fat%20Boy%27.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20which%20country%20was%20the%20Statue%20of%20Liberty%20built%20and%20exported%20to%20the%20United%20States%20of%20America%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "Germany",
+          "Spain",
+          "England"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20unofficial%20name%20for%20Germany%20between%201919%20and%201933%3F",
+        "correct_answer": "Weimar%20Republic",
+        "incorrect_answers": [
+          "German%20Democratic%20Republic",
+          "Federal%20Republic%20of%20Germany",
+          "Oesterreich%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20Ottoman%20Empire%20was%20dissolved%20after%20their%20loss%20in%20which%20war%3F",
+        "correct_answer": "World%20War%20I",
+        "incorrect_answers": [
+          "Crimean%20War",
+          "Serbian%20Revolution",
+          "Second%20Balkan%20War"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20British%20monarch%20was%20also%20known%20as%20%22William%20of%20Orange%22%3F",
+        "correct_answer": "William%20III",
+        "incorrect_answers": [
+          "William%20I",
+          "William%20II",
+          "William%20IV"
+        ]
+      }
+    ]
+  }
+}

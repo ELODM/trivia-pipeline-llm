@@ -1,0 +1,434 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:02:31.112293+00:00",
+  "request": {
+    "amount": 36,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20artist%20composed%20the%20original%20soundtrack%20for%20%22Watch%20Dogs%202%22%3F",
+        "correct_answer": "Hudson%20Mohawke",
+        "incorrect_answers": [
+          "Rustie",
+          "Machinedrum",
+          "Flying%20Lotus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20old%20is%20Chloe%20Price%20in%20Life%20is%20Strange%3A%20Before%20the%20Storm%3F",
+        "correct_answer": "16",
+        "incorrect_answers": [
+          "24",
+          "19",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20hero%20in%20the%2080s%20animated%20video%20game%20%27Dragon%27s%20Lair%27%3F",
+        "correct_answer": "Dirk%20the%20Daring",
+        "incorrect_answers": [
+          "Arthur",
+          "Sir%20Toby%20Belch",
+          "Guy%20of%20Gisbourne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Left%204%20Dead%2C%20what%20is%20the%20name%20of%20the%20Special%20Infected%20that%20is%20unplayable%20in%20Versus%20mode%3F",
+        "correct_answer": "The%20Witch",
+        "incorrect_answers": [
+          "The%20Tank",
+          "The%20Smoker",
+          "The%20Spitter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20only%20female%20%22Original%20Four%22%20Kerbal%20in%20Kerbal%20Space%20Program%3F",
+        "correct_answer": "Valentina%20Kerman",
+        "incorrect_answers": [
+          "Emiko%20Kerman",
+          "Samantha%20Kerman",
+          "Catmund%20Kerman"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Unturned%20originally%20started%20as%20a%20Roblox%20game.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20%22Richtofen%22%20is%20in%20possession%20of%20two%20filled%20blood%20vials%20belonging%20to%20who%3F",
+        "correct_answer": "Sal%20DeLuca%20and%20Finn%20O%27Leary",
+        "incorrect_answers": [
+          "Richtofen",
+          "Al%20Arlington%20and%20Sal%20DeLuca",
+          "Jessica%20Rose%20and%20Jack%20Vincent"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Watch_Dogs%202%20is%20a%20prequel.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20world%20that%20the%20MMO%20%22RuneScape%22%20takes%20place%20in%3F",
+        "correct_answer": "Gielinor",
+        "incorrect_answers": [
+          "Glindor",
+          "Azeroth",
+          "Zaros"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20introduced%20the%20%22Staffs%20Of%20The%20Ancients%22%3F",
+        "correct_answer": "Origins",
+        "incorrect_answers": [
+          "Shangri-La",
+          "Revelations",
+          "Nuketown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20game%20created%20by%20Masahiro%20Sakurai%20and%20Satoru%20Iwata%20that%20would%20eventually%20evolve%20into%20%22Super%20Smash%20Bros.%22%3F",
+        "correct_answer": "Dragon%20King%3A%20The%20Fighting%20Game",
+        "incorrect_answers": [
+          "Nintendo%20Legends%3A%20Fight%21",
+          "Martial%20Arts%3A%20King%20of%20the%20Hill",
+          "Aerial%20Warriors%3A%20Supreme%20Battle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20fighting%20game%20%22Skullgirls%2C%22%20which%20character%20utilizes%20a%20folding%20chair%20called%20the%20%22Hurting%22%20as%20a%20weapon%3F",
+        "correct_answer": "Beowulf",
+        "incorrect_answers": [
+          "Big%20Band",
+          "Squigly",
+          "Cerebella"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Chapter%201%20of%20the%20Source%20Engine%20mod%20%22Underhell%22%20released%3F",
+        "correct_answer": "September%201st%2C%202013",
+        "incorrect_answers": [
+          "March%203rd%2C%202011",
+          "September%2012th%2C%202013",
+          "October%202nd%2C%202012"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20was%20the%20voice%20actor%20for%20Snake%20in%20Metal%20Gear%20Solid%20V%3A%20The%20Phantom%20Pain%3F",
+        "correct_answer": "Kiefer%20Sutherland",
+        "incorrect_answers": [
+          "David%20Hayter",
+          "Norman%20Reedus",
+          "Hideo%20Kojima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20was%20not%20developed%20by%20Bethesda%3F",
+        "correct_answer": "Fallout%3A%20New%20Vegas",
+        "incorrect_answers": [
+          "Fallout%203",
+          "The%20Elder%20Scrolls%20V%3A%20Skyrim",
+          "Fallout%204"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20protagonist%20of%20Dead%20Rising%203%20is%20called%20Chuck%20Greene.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20monster%20in%20%22Monster%20Hunter%20Tri%22%20was%20causing%20earthquakes%20in%20Moga%20Village%3F",
+        "correct_answer": "Ceadeus",
+        "incorrect_answers": [
+          "Alatreon",
+          "Rathalos",
+          "Lagiacrus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20retro%20video%20game%20was%20released%20first%3F",
+        "correct_answer": "Space%20Invaders",
+        "incorrect_answers": [
+          "Galaga",
+          "Pac-Man",
+          "Asteroids"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20these%20characters%20appeared%20in%20Marvel%20vs%20Capcom%3A%20Infinite%3F%20",
+        "correct_answer": "Firebrand",
+        "incorrect_answers": [
+          "Wolverine",
+          "Dr.%20Doom",
+          "Jill%20Valentine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20the%20indie%20adventure%20game%20%22Night%20in%20the%20Woods%22%3F",
+        "correct_answer": "Alec%20Holowka",
+        "incorrect_answers": [
+          "Ron%20Gilbert",
+          "Tim%20Schafer",
+          "%20Tommy%20Refenes"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Splatoon%2C%20the%20Squid%20Sisters%20are%20named%20Tako%20and%20Yaki.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20created%20the%20%22Metal%20Gear%22%20Series%3F",
+        "correct_answer": "Hideo%20Kojima",
+        "incorrect_answers": [
+          "Hiroshi%20Yamauchi",
+          "Shigeru%20Miyamoto",
+          "Gunpei%20Yokoi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20CoD%20%22Deathstreak%22%20is%20only%20featured%20in%20Call%20of%20Duty%20%3A%20Modern%20Warfare%202%3F",
+        "correct_answer": "Copycat",
+        "incorrect_answers": [
+          "%20Martrydom",
+          "Final%20Stand",
+          "Revenge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20were%20screenshots%20added%20to%20Steam%3F",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+          "2010",
+          "2008",
+          "2009"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Sonic%20Adventure%22%2C%20you%20are%20able%20to%20transform%20into%20Super%20Sonic%20at%20will%20after%20completing%20the%20main%20story.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20permanent%20companions%20are%20there%20in%20the%20base%20game%20version%20of%20Fallout%3A%20New%20Vegas%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "7",
+          "9",
+          "6"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20the%20name%20of%20a%20rival%20gang%20in%20the%20video%20game%20Saint%27s%20Row%202%3F",
+        "correct_answer": "The%20Zin%20Empire",
+        "incorrect_answers": [
+          "The%20Brotherhood",
+          "The%20Ronin",
+          "The%20Sons%20of%20Samedi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%27s%20the%20Captain%20of%20the%20S.T.A.R.S.%20Bravo%20Team%20in%20Resident%20Evil%201%3F",
+        "correct_answer": "Enrico%20Marini",
+        "incorrect_answers": [
+          "Albert%20Wesker",
+          "Richard%20Aiken",
+          "Rebecca%20Chambers"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20main%20antagonist%20in%20the%20videogame%20Saints%20Row%20IV%20is%20an%20entity%20known%20as%20The%20Mastermind.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Super%20Mario%20video%20game%20when%20they%20introduce%20Bowser%20Jr.%20for%20the%20first%20time%3F",
+        "correct_answer": "Super%20Mario%20Sunshine",
+        "incorrect_answers": [
+          "Mario%20Party%20series",
+          "Super%20Mario%20Galaxy",
+          "Mario%20%26%20Luigi%3A%20Bowser%27s%20Inside%20Story%20%2B%20Bowser%20Jr.%27s%20Journey"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Splatoon%202%2C%20who%20are%20the%20members%20of%20Off%20The%20Hook%3F",
+        "correct_answer": "Pearl%20%26%20Marina",
+        "incorrect_answers": [
+          "Callie%20%26%20Marie",
+          "Diamond%20%26%20Aquamarina",
+          "DJ%20Octavio%20%26%20Crusty%20Sean"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20song%20is%20played%20during%20the%20ending%20credits%20of%20Guitar%20Hero%3A%20World%20Tour%3F",
+        "correct_answer": "Dream%20Theater%20-%20Pull%20Me%20Under",
+        "incorrect_answers": [
+          "King%20Crimson%20-%2021st%20Century%20Schizoid%20Man",
+          "Dragonforce%20-%20Through%20The%20Fire%20%26%20The%20Flames",
+          "Lynyrd%20Skynyrd%20-%20Free%20Bird"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20AK-47%27s%20name%20in%20Counter%20Strike%3A%20Source%3F",
+        "correct_answer": "CV-47",
+        "incorrect_answers": [
+          "AK-74",
+          "AK",
+          "CZ-75"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20writer%20of%20the%20game%20%22Half-Life%22%3F",
+        "correct_answer": "Marc%20Laidlaw",
+        "incorrect_answers": [
+          "Gabe%20Newell",
+          "Robin%20Walker",
+          "Chet%20Faliszek"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20hardest%20possible%20difficulty%20in%20%22Deus%20Ex%3A%20Mankind%20Divided%22%3F",
+        "correct_answer": "I%20Never%20Asked%20For%20This",
+        "incorrect_answers": [
+          "Nightmare",
+          "Extreme",
+          "Guru"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Halo%20series%2C%20which%20era%20of%20SPARTAN%20is%20Master%20Chief%3F%20",
+        "correct_answer": "SPARTAN-II",
+        "incorrect_answers": [
+          "SPARTAN-I",
+          "SPARTAN-III",
+          "SPARTAN-IV"
+        ]
+      }
+    ]
+  }
+}

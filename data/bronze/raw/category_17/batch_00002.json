@@ -1,0 +1,594 @@
+{
+  "category_id": 17,
+  "fetched_at": "2026-10-06T10:02:51.870813+00:00",
+  "request": {
+    "amount": 50,
+    "category": 17,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20study%20of%20the%20cells%20and%20tissues%20of%20plants%20and%20animals%3F",
+        "correct_answer": "Histology",
+        "incorrect_answers": [
+          "Microbiology",
+          "Anatomy",
+          "Biochemistry"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Great%20Whites%20sometimes%20perform%20the%20bump-and-bite%20attack%20%28a%20test%20bite%29%20on%20victims.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Along%20with%20Oxygen%2C%20which%20element%20is%20primarily%20responsible%20for%20the%20sky%20appearing%20blue%3F",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+          "Helium",
+          "Carbon",
+          "Hydrogen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20%22Tibia%22%20is%20found%20in%20which%20part%20of%20the%20body%3F",
+        "correct_answer": "Leg",
+        "incorrect_answers": [
+          "Arm",
+          "Hand",
+          "Head"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "A%20plant%20that%20has%20a%20life%20cycle%20for%20more%20than%20a%20year%20is%20known%20as%20an%20annual.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20largest%20animal%20currently%20on%20Earth%3F",
+        "correct_answer": "Blue%20Whale",
+        "incorrect_answers": [
+          "Orca",
+          "Colossal%20Squid",
+          "Giraffe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20atomic%20mass%20of%20Carbon%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "14",
+          "16",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20molecular%20formula%20of%20Ozone%3F",
+        "correct_answer": "O3",
+        "incorrect_answers": [
+          "C6H2O6",
+          "N2O",
+          "SO4"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "All%20planets%20in%20the%20Solar%20System%20orbit%20the%20Sun.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20cell%20organelle%20is%20known%20as%20%22the%20powerhouse%20of%20the%20cell%3F%22",
+        "correct_answer": "Mitochondria",
+        "incorrect_answers": [
+          "Nucleus",
+          "Golgi%20apparatus",
+          "Endoplasmic%20reticulum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20baby%2Fmilk%20teeth%20does%20a%20human%20child%20have%20in%20total%3F",
+        "correct_answer": "20",
+        "incorrect_answers": [
+          "10",
+          "15",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20atomic%20weight%20of%20a%20Plutonium%20nucleus%3F",
+        "correct_answer": "244",
+        "incorrect_answers": [
+          "94",
+          "481",
+          "128"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20thin%2C%20outermost%20layer%20of%20the%20Earth%3F",
+        "correct_answer": "Crust",
+        "incorrect_answers": [
+          "Exosphere",
+          "Mantle",
+          "Outer%20Core"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20atomic%20number%20of%20Uranium%20",
+        "correct_answer": "92",
+        "incorrect_answers": [
+          "235",
+          "17",
+          "167"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20element%20involved%20in%20making%20human%20blood%20red%20is%20which%20of%20the%20following%3F",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+          "Copper",
+          "Iridium",
+          "Cobalt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "An%20organic%20compound%20is%20considered%20an%20alcohol%20if%20it%20has%20what%20functional%20group%3F",
+        "correct_answer": "Hydroxyl",
+        "incorrect_answers": [
+          "Carbonyl",
+          "Alkyl",
+          "Aldehyde"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20term%20is%20best%20associated%20with%20Sigmund%20Freud%3F",
+        "correct_answer": "Psychoanalysis",
+        "incorrect_answers": [
+          "Cognitive-Behavioral%20Therapy",
+          "Theory%20of%20Gravity",
+          "Dialectical%20Behavior%20Therapy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20element%20has%20the%20atomic%20number%20of%207%3F",
+        "correct_answer": "Nitrogen",
+        "incorrect_answers": [
+          "Oxygen",
+          "Hydrogen",
+          "Neon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20moon%20is%20the%20only%20satellite%20in%20our%20solar%20system%20to%20possess%20a%20dense%20atmosphere%3F",
+        "correct_answer": "Titan",
+        "incorrect_answers": [
+          "Europa",
+          "Miranda",
+          "Callisto"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20hearts%20does%20an%20octopus%20have%3F",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+          "One",
+          "Two",
+          "Four"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Rhinoplasty%20is%20a%20surgical%20procedure%20on%20what%20part%20of%20the%20human%20body%3F",
+        "correct_answer": "Nose",
+        "incorrect_answers": [
+          "Ears",
+          "Chin",
+          "Neck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20chemical%20element%20was%20originally%20known%20as%20Alabamine%3F",
+        "correct_answer": "Astatine",
+        "incorrect_answers": [
+          "Selenium",
+          "Antimony",
+          "Molybdenum"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20medical%20term%20for%20the%20belly%20button%20is%20which%20of%20the%20following%3F",
+        "correct_answer": "Umbilicus",
+        "incorrect_answers": [
+          "Nevus",
+          "Nares",
+          "Paxillus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20moons%20does%20Pluto%20have%3F",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+          "Two",
+          "Three",
+          "One"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20common%20name%20of%20the%20chemical%20compound%20%22dihydrogen%20monoxide%22%3F",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+          "Methane",
+          "Ammonia%20",
+          "Laughing%20Gas"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20protons%20are%20in%20an%20oxygen%20atom%3F",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+          "Four",
+          "Two",
+          "Six"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20chromosomes%20are%20in%20your%20body%20cells%3F",
+        "correct_answer": "23",
+        "incorrect_answers": [
+          "21",
+          "22",
+          "24"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20isobutylphenylpropanoic%20acid%20more%20commonly%20known%20as%3F",
+        "correct_answer": "Ibuprofen",
+        "incorrect_answers": [
+          "Morphine",
+          "Ketamine",
+          "Aspirin"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Male%20pandas%20do%20handstands%20while%20urinating%20on%20trees.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20country%20first%20successfully%20farm-hatched%20and%20raised%20bluefin%20tuna%20in%201979%3F",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+          "France",
+          "USA",
+          "Philippines"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "About%20how%20old%20is%20Earth%3F",
+        "correct_answer": "4.5%20Billion%20Years",
+        "incorrect_answers": [
+          "3.5%20Billion%20Years",
+          "2.5%20Billion%20Years",
+          "5.5%20Billion%20Years"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20most%20frequent%20subconscious%20activity%20repeated%20by%20the%20human%20body%20is%20blinking.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20stars%20is%20the%20largest%3F",
+        "correct_answer": "UY%20Scuti",
+        "incorrect_answers": [
+          "VY%20Canis%20Majoris",
+          "Betelgeuse",
+          "RW%20Cephei"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Myopia%20is%20the%20scientific%20term%20for%20which%20condition%3F",
+        "correct_answer": "Shortsightedness",
+        "incorrect_answers": [
+          "Farsightedness",
+          "Double%20Vision",
+          "Clouded%20Vision"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Who%20is%20the%20chemical%20element%20Curium%20named%20after%3F",
+        "correct_answer": "Marie%20%26%20Pierre%20Curie",
+        "incorrect_answers": [
+          "The%20Curiosity%20Rover",
+          "Curious%20George",
+          "Stephen%20Curry"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Celiac%20Disease%20is%20a%20disease%20that%20effects%20the%20heart%2C%20causing%20those%20effected%20to%20be%20unable%20to%20eat%20meat.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20passive%20electrical%20component%3F",
+        "correct_answer": "Transistor",
+        "incorrect_answers": [
+          "Resistor",
+          "Capacitor",
+          "Inductor"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "An%20Astronomical%20Unit%20is%20the%20distance%20between%20Earth%20and%20the%20Moon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20%22Gympie%20Stinger%22%20is%20the%20deadliest%20plant%20in%20the%20world.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20scientific%20name%20of%20the%20red%20fox%3F",
+        "correct_answer": "Vulpes%20Vulpes",
+        "incorrect_answers": [
+          "Vulpes%20Redus",
+          "Red%20Fox",
+          "Vulpes%20Vulpie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Western%20Lowland%20Gorilla%20is%20scientifically%20know%20as%3F",
+        "correct_answer": "Gorilla%20Gorilla%20Gorilla",
+        "incorrect_answers": [
+          "Gorilla%20Gorilla%20Diehli",
+          "Gorilla%20Beringei%20Graueri",
+          "Gorilla%20Beringei%20Beringei"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20the%20male%20pollen-producing%20reproductive%20part%20of%20a%20flower%3F",
+        "correct_answer": "Stamen",
+        "incorrect_answers": [
+          "Sepal",
+          "Pistil",
+          "Petal"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Neanderthals%20were%20a%20direct%20ancestor%20of%20modern%20humans.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20bones%20is%20not%20in%20the%20leg%3F",
+        "correct_answer": "Radius",
+        "incorrect_answers": [
+          "Patella",
+          "Tibia",
+          "Fibula%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20continent%20do%20sweet%20potatoes%20originally%20come%20from%3F",
+        "correct_answer": "South%20America",
+        "incorrect_answers": [
+          "Asia",
+          "Africa",
+          "Europe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20liquids%20is%20least%20viscous%3F%20Assume%20temperature%20is%2025%C2%B0C.",
+        "correct_answer": "Acetone",
+        "incorrect_answers": [
+          "Water",
+          "Mercury",
+          "Benzene"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20SI%20unit%20for%20distance%3F",
+        "correct_answer": "Metre",
+        "incorrect_answers": [
+          "Angstrom",
+          "Foot",
+          "Fathom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20Landsat%20Satellite%20failed%20to%20reach%20orbit%3F",
+        "correct_answer": "Landsat%206",
+        "incorrect_answers": [
+          "Landsat%205",
+          "Landsat%204",
+          "Landsat%203"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Hippopotomonstrosesquippedaliophobia%20is%20the%20irrational%20fear%20of%20long%20words.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20is%20used%20to%20show%20that%20Earth%20spins%20on%20an%20axis%3F%20",
+        "correct_answer": "Foucault%20Pendulum%20",
+        "incorrect_answers": [
+          "Polaris",
+          "Sundial",
+          "Tectonic%20Plates%20"
+        ]
+      }
+    ]
+  }
+}

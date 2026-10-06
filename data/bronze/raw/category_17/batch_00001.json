@@ -1,0 +1,598 @@
+{
+  "category_id": 17,
+  "fetched_at": "2026-10-06T10:02:46.472321+00:00",
+  "request": {
+    "amount": 50,
+    "category": 17,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20hottest%20planet%20in%20the%20Solar%20System%3F",
+        "correct_answer": "Venus",
+        "incorrect_answers": [
+          "Mars",
+          "Mercury",
+          "Jupiter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20element%20on%20the%20periodic%20table%20has%2092%20electrons%3F",
+        "correct_answer": "Uranium",
+        "incorrect_answers": [
+          "Sulfur",
+          "Hydrogen",
+          "Iron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Approximately%20how%20long%20is%20a%20year%20on%20Uranus%3F",
+        "correct_answer": "84%20Earth%20years",
+        "incorrect_answers": [
+          "47%20Earth%20years",
+          "62%20Earth%20years",
+          "109%20Earth%20years"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Alzheimer%27s%20disease%20primarily%20affects%20which%20part%20of%20the%20human%20body%3F",
+        "correct_answer": "Brain",
+        "incorrect_answers": [
+          "Lungs",
+          "Skin",
+          "Heart"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20SI%20unit%20for%20electric%20current%3F",
+        "correct_answer": "Ampere",
+        "incorrect_answers": [
+          "Volt",
+          "Ohm",
+          "Watt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20long%20is%20a%20light-year%3F",
+        "correct_answer": "9.461%20Trillion%20Kilometres",
+        "incorrect_answers": [
+          "1%20AU",
+          "105.40%20Earth-years",
+          "501.2%20Million%20Miles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20was%20the%20category%20of%20the%202005%20hurricane%2C%20Hurricane%20Katrina%2C%20in%20the%20Saffir-Simpson%20hurricane%20wind%20scale%3F",
+        "correct_answer": "Category%205",
+        "incorrect_answers": [
+          "Category%201",
+          "Category%204",
+          "Category%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20biggest%20distinction%20between%20a%20eukaryotic%20cell%20and%20a%20prokaryotic%20cell%20is%3A",
+        "correct_answer": "The%20presence%20or%20absence%20of%20a%20nucleus",
+        "incorrect_answers": [
+          "The%20overall%20size",
+          "The%20presence%20or%20absence%20of%20certain%20organelles",
+          "The%20mode%20of%20reproduction"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20considered%20the%20rarest%20form%20of%20color%20blindness%3F",
+        "correct_answer": "Blue",
+        "incorrect_answers": [
+          "Red",
+          "Green",
+          "Purple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20official%20name%20of%20the%20star%20located%20closest%20to%20the%20North%20Celestial%20Pole%3F",
+        "correct_answer": "Polaris",
+        "incorrect_answers": [
+          "Eridanus",
+          "Gamma%20Cephei",
+          "Iota%20Cephei"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20planet%20in%20the%20Solar%20System%20is%20the%20closest%20to%20the%20Sun%3F",
+        "correct_answer": "Mercury",
+        "incorrect_answers": [
+          "Earth",
+          "Mars",
+          "Venus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20human%20biology%2C%20a%20circadium%20rhythm%20relates%20to%20a%20period%20of%20roughly%20how%20many%20hours%3F",
+        "correct_answer": "24",
+        "incorrect_answers": [
+          "8",
+          "16",
+          "32"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20animal%20takes%20part%20in%20Schr%C3%B6dinger%27s%20most%20famous%20thought%20experiment%3F",
+        "correct_answer": "Cat",
+        "incorrect_answers": [
+          "Dog",
+          "Bat",
+          "Butterfly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Folic%20acid%20is%20the%20synthetic%20form%20of%20which%20vitamin%3F",
+        "correct_answer": "Vitamin%20B",
+        "incorrect_answers": [
+          "Vitamin%20A",
+          "Vitamin%20C",
+          "Vitamin%20D"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20is%20the%20most%20abundant%20element%20in%20the%20universe%3F",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+          "Helium",
+          "Lithium",
+          "Oxygen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20considered%20classical%20conditioning%3F",
+        "correct_answer": "Pavlov%27s%20dog%20experiments",
+        "incorrect_answers": [
+          "Skinner%20box%20experiment",
+          "Schr%C3%B6dinger%27s%20cat%20experiment",
+          "Harlow%E2%80%99s%20monkey%20experiments"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "%20What%20is%20the%20chemical%20symbol%20for%20Helium%3F",
+        "correct_answer": "He",
+        "incorrect_answers": [
+          "H",
+          "Hg",
+          "Hs"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Sound%20can%20travel%20through%20a%20vacuum.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20plastic%20is%20commonly%20used%20for%20window%20frames%2C%20gutters%20and%20drain%20pipes%3F",
+        "correct_answer": "Polyvinylchloride%20%28PVC%29%20",
+        "incorrect_answers": [
+          "Polyethylene%20%28PE%29",
+          "Polypropylene%20%28PP%29",
+          "Polystyrene%20%28PS%29"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20elements%20on%20the%20Periodic%20Table%20is%20a%20Noble%20Gas%3F",
+        "correct_answer": "Neon",
+        "incorrect_answers": [
+          "Potassium",
+          "Iodine",
+          "Colbalt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20psychological%20term%20refers%20to%20the%20stress%20of%20holding%20contrasting%20beliefs%3F",
+        "correct_answer": "Cognitive%20Dissonance",
+        "incorrect_answers": [
+          "Flip-Flop%20Syndrome",
+          "Split-Brain",
+          "Blind%20Sight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "After%20which%20Danish%20city%20is%20the%2072th%20element%20on%20the%20periodic%20table%20named%3F",
+        "correct_answer": "Copenhagen",
+        "incorrect_answers": [
+          "Odense",
+          "Herning",
+          "Skagen"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Anatomy%20considers%20the%20forms%20of%20macroscopic%20structures%20such%20as%20organs%20and%20organ%20systems.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20chemical%20makeup%20of%20water%3F",
+        "correct_answer": "H20",
+        "incorrect_answers": [
+          "C12H6O2",
+          "CO2",
+          "H"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Sugar%20contains%20fat.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Psychology%20is%20the%20science%20of%20behavior%20and%20mind.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20nucleotide%20pairs%20with%20guanine%3F",
+        "correct_answer": "Cytosine",
+        "incorrect_answers": [
+          "Thymine",
+          "Adenine",
+          "Uracil"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "An%20exothermic%20reaction%20is%20a%20chemical%20reaction%20that%20releases%20energy%20by%20radiating%20electricity.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Polaris%20is%20the%20brightest%20star%20in%20the%20northern%20hemisphere%20night%20sky.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20Earth%20and%20the%20Moon%20roughly%20have%20the%20same%20mass.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20an%20alternative%20name%20for%20multiple%20personality%20disorder%3F",
+        "correct_answer": "Dissociative%20identity%20disorder",
+        "incorrect_answers": [
+          "Body%20integrity%20identity%20disorder",
+          "Identity%20crisis",
+          "Schizophrenia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20quantum%20physics%2C%20which%20of%20these%20theorised%20sub-atomic%20particles%20has%20yet%20to%20be%20observed%3F",
+        "correct_answer": "Graviton",
+        "incorrect_answers": [
+          "Z%20boson",
+          "Tau%20neutrino",
+          "Gluon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Deionized%20water%20is%20water%20with%20which%20of%20the%20following%20removed%3F",
+        "correct_answer": "Iron",
+        "incorrect_answers": [
+          "Oxygen",
+          "Hydrogen",
+          "Uncharged%20atoms"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "On%20the%20periodic%20table%20of%20elements%2C%20what%20is%20the%20symbol%20for%20Tin%3F",
+        "correct_answer": "Sn",
+        "incorrect_answers": [
+          "Ti",
+          "Ni",
+          "Na"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20name%20for%20the%20auditory%20illusion%20of%20a%20note%20that%20seems%20to%20be%20rising%20infinitely%3F",
+        "correct_answer": "Shepard%20Tone",
+        "incorrect_answers": [
+          "Glissandro%20Illusion",
+          "Fransen%20Effect",
+          "McGurck%20Effect"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "If%20you%20dip%20a%20dry%20towel%20into%20a%20tub%20full%20of%20water%2C%20water%20will%20climb%20up%20the%20towel%20by%20a%20phenomenon%20called%20%22Cartillary%20Action%22",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Botanically%20speaking%2C%20which%20of%20these%20fruits%20is%20NOT%20a%20berry%3F",
+        "correct_answer": "Strawberry",
+        "incorrect_answers": [
+          "Blueberry",
+          "Banana",
+          "Concord%20Grape"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20Psychology%2C%20which%20need%20appears%20highest%20in%20the%20%22Maslow%27s%20hierarchy%20of%20needs%22%20pyramid%3F",
+        "correct_answer": "Esteem",
+        "incorrect_answers": [
+          "Love",
+          "Safety",
+          "Physiological"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20SI%20unit%20for%20luminous%20intensity%3F",
+        "correct_answer": "Candela",
+        "incorrect_answers": [
+          "Lumen",
+          "Faraday",
+          "Coulomb"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20is%20NOT%20a%20bone%20found%20in%20the%20human%20arm%3F",
+        "correct_answer": "Tibia",
+        "incorrect_answers": [
+          "Humerus",
+          "Ulna",
+          "Radius"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20Landsat%20Satellite%20currently%20has%20had%20the%20longest%20operational%20life%3F",
+        "correct_answer": "Landsat%205",
+        "incorrect_answers": [
+          "Landsat%208",
+          "Landsat%207",
+          "Landsat%206"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Where%20in%20the%20human%20body%20is%20the%20Pineal%20Gland%20located%3F",
+        "correct_answer": "Brain",
+        "incorrect_answers": [
+          "Groin",
+          "Chest",
+          "Throat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20first%20element%20on%20the%20periodic%20table%3F",
+        "correct_answer": "Hydrogen",
+        "incorrect_answers": [
+          "Helium",
+          "Oxygen",
+          "Lithium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20largest%20planet%20in%20the%20Solar%20System%3F",
+        "correct_answer": "Jupiter",
+        "incorrect_answers": [
+          "Saturn",
+          "Earth",
+          "Mars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20Swiss%20psychologist%20is%20synonymous%20with%20the%20concepts%20of%20introvert%20and%20extrovert%20personalities%3F",
+        "correct_answer": "Carl%20Jung",
+        "incorrect_answers": [
+          "Jean%20Piaget",
+          "Alice%20Miller",
+          "Hermann%20Rorschach"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Tetsuya%20Fujita%20was%20a%20scientist%20that%20developed%20the%20scale%20for%20which%20natural%20disaster%3F",
+        "correct_answer": "Tornadoes",
+        "incorrect_answers": [
+          "Hurricanes",
+          "Earthquakes",
+          "Volcanoes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Muscle%20fiber%20is%20constructed%20of%20bundles%20small%20long%20organelles%20called%20what%3F",
+        "correct_answer": "Myofibrils",
+        "incorrect_answers": [
+          "Epimysium",
+          "Myofiaments",
+          "Myocardium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Autosomal-dominant%20Compelling%20Helio-Ophthalmic%20Outburst%20syndrome%20is%20the%20need%20to%20do%20what%20when%20seeing%20the%20Sun%3F",
+        "correct_answer": "Sneeze",
+        "incorrect_answers": [
+          "Cough",
+          "Yawn",
+          "Hiccup"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20spacecraft%20never%20touched%20the%20moon%3F",
+        "correct_answer": "Mariner%204",
+        "incorrect_answers": [
+          "Apollo%2011",
+          "Luna%202",
+          "SMART-1"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Who%20made%20the%20discovery%20of%20X-rays%3F",
+        "correct_answer": "Wilhelm%20Conrad%20R%C3%B6ntgen",
+        "incorrect_answers": [
+          "Thomas%20Alva%20Edison",
+          "James%20Watt",
+          "Albert%20Einstein"
+        ]
+      }
+    ]
+  }
+}

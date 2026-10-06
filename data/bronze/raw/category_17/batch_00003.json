@@ -1,0 +1,600 @@
+{
+  "category_id": 17,
+  "fetched_at": "2026-10-06T10:02:56.890818+00:00",
+  "request": {
+    "amount": 50,
+    "category": 17,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20%22Stenoma%22%3F",
+        "correct_answer": "A%20genus%20of%20moths",
+        "incorrect_answers": [
+          "A%20combat%20stimulant%20from%20WW2",
+          "A%20type%20of%20seasoning",
+          "A%20port%20city%20in%20the%20carribean"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20lowest%20layer%20of%20the%20Earth%27s%20atmosphere%20named%3F",
+        "correct_answer": "Troposphere",
+        "incorrect_answers": [
+          "Stratosphere",
+          "Mesosphere",
+          "Thermosphere"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "All%20of%20the%20following%20human%20genetic%20haplogroup%20names%20are%20shared%20between%20Y-chromosome%20and%20mitochondrial%20DNA%20haplogroups%20EXCEPT%3A",
+        "correct_answer": "Haplogroup%20U",
+        "incorrect_answers": [
+          "Haplogroup%20L",
+          "Haplogroup%20T",
+          "Haplogroup%20J"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20is%20the%20longest%20bone%20in%20the%20human%20body%3F%20",
+        "correct_answer": "Femur",
+        "incorrect_answers": [
+          "Scapula",
+          "Fibula",
+          "Ulna"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Naturally%20occuring%20uranium%20primarily%20consists%20of%20which%20isotope%3F",
+        "correct_answer": "238",
+        "incorrect_answers": [
+          "235",
+          "239",
+          "233"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20is%20a%20type%20of%20stretch%2Fdeep%20tendon%20reflex%3F",
+        "correct_answer": "Ankle%20jerk%20reflex",
+        "incorrect_answers": [
+          "Gag%20reflex",
+          "Pupillary%20light%20reflex",
+          "Scratch%20reflex"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Upwelling%20in%20the%20ocean%20provides%20colder%20nutrient%20rich%20water%20for%20plants%20and%20decomposers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20real%20element%3F",
+        "correct_answer": "Vitrainium",
+        "incorrect_answers": [
+          "Praseodymium",
+          "Hassium",
+          "Lutetium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "On%20the%20Beaufort%20Scale%20of%20wind%20force%2C%20what%20wind%20name%20is%20given%20to%20number%208%3F",
+        "correct_answer": "Gale",
+        "incorrect_answers": [
+          "Storm",
+          "Hurricane",
+          "Breeze"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20does%20the%20term%20%22isolation%22%20refer%20to%20in%20microbiology%3F",
+        "correct_answer": "The%20separation%20of%20a%20strain%20from%20a%20natural%2C%20mixed%20population%20of%20living%20microbes",
+        "incorrect_answers": [
+          "A%20lack%20of%20nutrition%20in%20microenviroments",
+          "The%20nitrogen%20level%20in%20soil",
+          "Testing%20effects%20of%20certain%20microorganisms%20in%20an%20isolated%20enviroments%2C%20such%20as%20caves"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20are%20human%20nails%20made%20of%3F",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+          "Bone",
+          "Chitin",
+          "Calcium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "%22The%20Big%20Bang%20Theory%22%20was%20first%20theorized%20by%20a%20priest%20of%20what%20religious%20ideology%3F",
+        "correct_answer": "Catholic",
+        "incorrect_answers": [
+          "Christian",
+          "Jewish",
+          "Islamic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "In%20the%20periodic%20table%2C%20Potassium%27s%20symbol%20is%20the%20letter%20K.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20Linnean%20name%20of%20the%20domestic%20apple%20tree%3F",
+        "correct_answer": "Malus%20pumila",
+        "incorrect_answers": [
+          "Malus%20americana",
+          "Pomus%20domestica",
+          "Appelus%20delectica"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20medial%20meniscus%20forms%20which%20part%20of%20what%20joint%20in%20the%20human%20body%3F",
+        "correct_answer": "Knee",
+        "incorrect_answers": [
+          "Elbow",
+          "Ankle",
+          "Shoulder"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20NASA%20Space%20Shuttle%20broke%20apart%20during%20atmospheric%20re-entry%20on%20February%201%2C%202003%3F%20",
+        "correct_answer": "Columbia",
+        "incorrect_answers": [
+          "Challenger",
+          "Discovery",
+          "Endeavour"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20was%20the%20first%20organic%20compound%20to%20be%20synthesized%20from%20inorganic%20compounds%3F",
+        "correct_answer": "Urea",
+        "incorrect_answers": [
+          "Propane",
+          "Ethanol",
+          "Formaldehyde"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20unit%20of%20electrical%20capacitance%3F",
+        "correct_answer": "Farad",
+        "incorrect_answers": [
+          "Gauss",
+          "Henry",
+          "Watt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20lies%20at%20the%20center%20of%20our%20galaxy%3F",
+        "correct_answer": "A%20black%20hole",
+        "incorrect_answers": [
+          "A%20wormhole",
+          "A%20supernova",
+          "A%20quasar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20did%20Gregory%20Mendel%20use%20to%20test%20genetic%20crossovers%3F",
+        "correct_answer": "Peas",
+        "incorrect_answers": [
+          "Cats",
+          "Flowers",
+          "Parrots"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "El%20Ni%C3%B1o%20pushes%20warm%20water%20to%20the%20coasts%20of%20the%20Western%20Pacific%20during%20winter.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "When%20was%20the%20first%20mammal%20successfully%20cloned%3F",
+        "correct_answer": "1996",
+        "incorrect_answers": [
+          "2009",
+          "1999",
+          "1985"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Steel%20is%20an%20alloy%20of%20Iron%20and%20Carbon.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20common%20name%20is%20given%20to%20the%20medial%20condition%2C%20tibial%20stress%20syndrome%20%28MTSS%29%3F",
+        "correct_answer": "Shin%20Splints",
+        "incorrect_answers": [
+          "Tennis%20Elbow",
+          "Carpal%20Tunnel",
+          "Housemaid%27s%20Knee"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20is%20NOT%20a%20part%20of%20the%20structure%20of%20a%20typical%20neuron%3F",
+        "correct_answer": "Islets%20of%20Langerhans",
+        "incorrect_answers": [
+          "Node%20of%20Ranvier",
+          "Schwann%20cell",
+          "Myelin%20sheath"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20name%20of%20the%20Supermassive%20Black%20Hole%20in%20the%20centre%20of%20the%20Milky%20Way%3F",
+        "correct_answer": "Sagittarius%20A%2A",
+        "incorrect_answers": [
+          "Messier%2087",
+          "Alpha%20Centauri",
+          "Andromeda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20half-life%20of%20Uranium-235%3F",
+        "correct_answer": "703%2C800%2C000%20years",
+        "incorrect_answers": [
+          "4%2C300%2C400%2C000%20years",
+          "1%2C260%2C900%2C000%20years",
+          "Uranium-235%20is%20a%20stable%20isotope"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20many%20planets%20are%20in%20our%20Solar%20System%3F",
+        "correct_answer": "Eight",
+        "incorrect_answers": [
+          "Nine",
+          "Seven",
+          "Ten"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Where%20did%20the%20Great%20Storm%20of%201987%20make%20landfall%20at%2C%20first%3F",
+        "correct_answer": "Cornwall",
+        "incorrect_answers": [
+          "Surrey",
+          "Wales",
+          "The%20Midlands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20elemental%20symbol%20for%20mercury%3F",
+        "correct_answer": "Hg",
+        "incorrect_answers": [
+          "Me",
+          "Mc",
+          "Hy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20scientific%20name%20of%20the%20knee%20cap%3F",
+        "correct_answer": "Patella",
+        "incorrect_answers": [
+          "Femur",
+          "Foramen%20Magnum",
+          "Scapula"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Who%20developed%20the%20first%20successful%20polio%20vaccine%20in%20the%201950s%3F",
+        "correct_answer": "Jonas%20Salk",
+        "incorrect_answers": [
+          "John%20F.%20Enders",
+          "Thomas%20Weller",
+          "Frederick%20Robbins"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20asteroid%20belt%20is%20located%20between%20which%20two%20planets%3F",
+        "correct_answer": "Mars%20and%20Jupiter",
+        "incorrect_answers": [
+          "Jupiter%20and%20Saturn",
+          "Mercury%20and%20Venus",
+          "Earth%20and%20Mars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20was%20the%20first%20living%20creature%20in%20space%3F",
+        "correct_answer": "Fruit%20Flies%20",
+        "incorrect_answers": [
+          "Monkey",
+          "Dog",
+          "Mouse"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "A%20defibrillator%20is%20used%20to%20start%20up%20a%20heartbeat%20once%20a%20heart%20has%20stopped%20beating.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20produces%20the%20green%20colour%20of%20most%20plant%20leaves%3F",
+        "correct_answer": "Chlorophyll",
+        "incorrect_answers": [
+          "Light%20refraction",
+          "Natural%20pigments",
+          "UV%20radiation"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20type%20of%20rock%20is%20created%20by%20intense%20heat%20AND%20pressure%3F",
+        "correct_answer": "Metamorphic",
+        "incorrect_answers": [
+          "Sedimentary",
+          "Igneous",
+          "Diamond"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20Apollo%20mission%20was%20the%20first%20one%20to%20land%20on%20the%20Moon%3F",
+        "correct_answer": "Apollo%2011",
+        "incorrect_answers": [
+          "Apollo%2010",
+          "Apollo%209",
+          "Apollo%2013"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20part%20of%20the%20body%20does%20glaucoma%20affect%3F",
+        "correct_answer": "Eyes",
+        "incorrect_answers": [
+          "Throat",
+          "Stomach",
+          "Blood"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "How%20old%20is%20the%20universe%3F",
+        "correct_answer": "13.8%20Billion%20Years",
+        "incorrect_answers": [
+          "4.5%20Billion%20Years",
+          "7.9%20Billion%20Years",
+          "16.2%20Billion%20Years"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20of%20these%20chemical%20compounds%20is%20NOT%20found%20in%20gastric%20acid%3F",
+        "correct_answer": "Sulfuric%20acid",
+        "incorrect_answers": [
+          "Hydrochloric%20acid",
+          "Potassium%20chloride",
+          "Sodium%20chloride"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20chemical%20formula%20for%20ammonia%3F",
+        "correct_answer": "NH3",
+        "incorrect_answers": [
+          "CO2",
+          "NO3",
+          "CH4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "The%20human%20heart%20has%20how%20many%20chambers%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "2",
+          "6",
+          "3"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20the%20standard%20SI%20unit%20for%20mass%3F",
+        "correct_answer": "Kilogram",
+        "incorrect_answers": [
+          "Tonne",
+          "Pound",
+          "Gram"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20part%20of%20the%20brain%20takes%20its%20name%20from%20the%20Greek%20for%20seahorse%3F",
+        "correct_answer": "Hippocampus",
+        "incorrect_answers": [
+          "Cerebellum",
+          "Thalamus",
+          "Amygdala"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Science%20%26%20Nature",
+        "question": "Frederick%20Banting%20and%20John%20Macleod%20won%20a%20Nobel%20Prize%20for%20their%20contributions%20to%20the%20scientific%20fields%20of%20quantum%20mechanics.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "A%20person%20can%20get%20sunburned%20on%20a%20cloudy%20day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "Which%20noble%20gas%20has%20the%20lowest%20atomic%20number%3F",
+        "correct_answer": "Helium",
+        "incorrect_answers": [
+          "Neon",
+          "Argon",
+          "Krypton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Science%20%26%20Nature",
+        "question": "What%20is%20Hypernatremia%3F",
+        "correct_answer": "Increase%20in%20blood%20sodium",
+        "incorrect_answers": [
+          "Decrease%20in%20blood%20potassium",
+          "Increase%20in%20blood%20glucose",
+          "Decrease%20in%20blood%20iron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Science%20%26%20Nature",
+        "question": "71%25%20of%20the%20Earth%27s%20surface%20is%20made%20up%20of",
+        "correct_answer": "Water",
+        "incorrect_answers": [
+          "Deserts",
+          "Continents",
+          "Forests"
+        ]
+      }
+    ]
+  }
+}

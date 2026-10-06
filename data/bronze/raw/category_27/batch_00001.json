@@ -1,0 +1,582 @@
+{
+  "category_id": 27,
+  "fetched_at": "2026-10-06T10:07:49.804425+00:00",
+  "request": {
+    "amount": 50,
+    "category": 27,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Snakes%20and%20lizards%20are%20known%20to%20flick%20their%20tongue%2C%20this%20behavior%20is%20to%3F",
+        "correct_answer": "Capture%20scent%20particles",
+        "incorrect_answers": [
+          "Taste%20the%20sweet%20air",
+          "Threaten%20other%20species",
+          "Attract%20female%20mates"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits%20can%20see%20what%27s%20behind%20themselves%20without%20turning%20their%20heads.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20scientific%20name%20for%20the%20%22Polar%20Bear%22%3F",
+        "correct_answer": "Ursus%20Maritimus",
+        "incorrect_answers": [
+          "Polar%20Bear",
+          "Ursus%20Spelaeus",
+          "Ursus%20Arctos"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "How%20many%20teeth%20does%20an%20adult%20rabbit%20have%3F",
+        "correct_answer": "28",
+        "incorrect_answers": [
+          "30",
+          "26",
+          "24"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The%20K%C4%81k%C4%81p%C5%8D%20is%20a%20large%2C%20flightless%2C%20nocturnal%20parrot%20native%20to%20which%20country%3F",
+        "correct_answer": "New%20Zealand",
+        "incorrect_answers": [
+          "South%20Africa",
+          "Australia",
+          "Madagascar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which%20breed%20of%20dog%20is%20traditionally%20associated%20with%20firefighters%3F",
+        "correct_answer": "Dalmatians",
+        "incorrect_answers": [
+          "German%20Shepard",
+          "Great%20Dane",
+          "Mastiff"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20are%20the%20scales%20on%20all%20snakes%20and%20most%20lizards%20are%20made%20of%3F",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+          "Ecdysis",
+          "Epidermis",
+          "Ankyloglossia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits%20are%20rodents.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20type%20of%20creature%20is%20a%20Bonobo%3F",
+        "correct_answer": "Ape",
+        "incorrect_answers": [
+          "Lion",
+          "Parrot",
+          "Wildcat"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A%20bear%20does%20NOT%20defecate%20during%20hibernation.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20average%20lifespan%20of%20a%20domestic%20rabbit%3F",
+        "correct_answer": "8-12%20years",
+        "incorrect_answers": [
+          "1-2%20years",
+          "4-7%20years",
+          "14-20%20years"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which%20of%20these%20species%20is%20not%20extinct%3F",
+        "correct_answer": "Komodo%20dragon",
+        "incorrect_answers": [
+          "Japanese%20sea%20lion",
+          "Tasmanian%20tiger",
+          "Saudi%20gazelle"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20Ceratosaurus%2C%20a%20dinosaur%20known%20for%20having%20a%20horn%20on%20the%20top%20of%20its%20nose%2C%20is%20also%20known%20to%20be%20a%20decendent%20of%20the%20Tyrannosaurus%20Rex.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20collective%20noun%20for%20bears%3F",
+        "correct_answer": "Sloth",
+        "incorrect_answers": [
+          "Drove",
+          "Tribe",
+          "Husk"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20echidna%20is%20a%20monotreme.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20scientific%20suborder%20does%20the%20family%20Hyaenidae%20belong%20to%3F",
+        "correct_answer": "Feliformia",
+        "incorrect_answers": [
+          "Haplorhini",
+          "Caniformia",
+          "Ciconiiformes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20is%20the%20scientific%20name%20for%20modern%20day%20humans%3F",
+        "correct_answer": "Homo%20Sapiens",
+        "incorrect_answers": [
+          "Homo%20Ergaster",
+          "Homo%20Erectus",
+          "Homo%20Neanderthalensis"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Finnish%20Lapphund%20dogs%20were%20used%20for%20herding%20reindeer.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "For%20what%20reason%20would%20a%20spotted%20hyena%20%22laugh%22%3F",
+        "correct_answer": "Nervousness",
+        "incorrect_answers": [
+          "Excitement",
+          "Aggression",
+          "Exhaustion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20Gray%20Wolf%27s%20scientific%20name%3F",
+        "correct_answer": "Canis%20Lupus",
+        "incorrect_answers": [
+          "Canis%20Aureus",
+          "Canis%20Latrans",
+          "Canis%20Lupus%20Lycaon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Which%20class%20of%20animals%20are%20newts%20members%20of%3F",
+        "correct_answer": "Amphibian",
+        "incorrect_answers": [
+          "Fish",
+          "Reptiles",
+          "Mammals"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Elephants%20are%20physically%20unable%20to%20jump.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20Platypus%20is%20a%20mammal.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Hippocampus%20is%20the%20Latin%20name%20for%20which%20marine%20creature%3F",
+        "correct_answer": "Seahorse",
+        "incorrect_answers": [
+          "Dolphin",
+          "Whale",
+          "Octopus"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A%20slug%E2%80%99s%20blood%20is%20green.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "A%20caterpillar%20has%20more%20muscles%20than%20humans%20do.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "You%20can%20tell%20the%20age%20of%20a%20ladybird%20by%20counting%20the%20spots%20on%20his%20back.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "Which%20of%20the%20following%20is%20another%20name%20for%20the%20%22Poecilotheria%20Metallica%20Tarantula%22%3F",
+        "correct_answer": "Gooty",
+        "incorrect_answers": [
+          "Hopper",
+          "Silver%20Stripe",
+          "Woebegone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which%20of%20the%20following%20is%20true%20when%20alligators%20are%20behaving%20territorially%3F",
+        "correct_answer": "They%20bellow%20while%20showing%20their%20tail%20and%20neck",
+        "incorrect_answers": [
+          "Open%20their%20jaws%20while%20making%20a%20clicking%20noise",
+          "They%20run%20full%20force%20at%20the%20threat",
+          "Slap%20their%20tails%20on%20the%20ground"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20name%20for%20a%20male%20bee%20that%20comes%20from%20an%20unfertilized%20egg%3F",
+        "correct_answer": "Drone",
+        "incorrect_answers": [
+          "Soldier",
+          "Worker",
+          "Male"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20scientific%20name%20of%20the%20Budgerigar%3F",
+        "correct_answer": "Melopsittacus%20undulatus",
+        "incorrect_answers": [
+          "Nymphicus%20hollandicus",
+          "Pyrrhura%20molinae",
+          "Ara%20macao"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "The%20internet%20browser%20Firefox%20is%20named%20after%20the%20Red%20Panda.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Otters%20have%20pockets%20under%20their%20arms%20for%20carrying%20their%20favourite%20snacks%20and%20rocks.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20venomous%20snake%3F",
+        "correct_answer": "Reticulated%20python",
+        "incorrect_answers": [
+          "Malayan%20Krait",
+          "Yellow%20bellied%20sea%20snake",
+          "Black%20mamba"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "Which%20animal%20was%20part%20of%20an%20Russian%20domestication%20experiment%20in%201959%3F",
+        "correct_answer": "Foxes",
+        "incorrect_answers": [
+          "Pigeons",
+          "Bears",
+          "Alligators"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20average%20lifespan%20of%20a%20wildcat%20is%20only%20around%205-6%20years.%20",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "About%20how%20much%20of%20their%20body%20weight%20in%20food%20do%20sea%20otters%20eat%20every%20day%3F",
+        "correct_answer": "25%25",
+        "incorrect_answers": [
+          "10%25",
+          "80%25",
+          "45%25"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Rabbits%20are%20carnivores.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20collective%20noun%20for%20rats%3F",
+        "correct_answer": "Mischief",
+        "incorrect_answers": [
+          "Pack",
+          "Race",
+          "Drift"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20are%20rhino%27s%20horn%20made%20of%3F",
+        "correct_answer": "Keratin",
+        "incorrect_answers": [
+          "Bone",
+          "Ivory",
+          "Skin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20is%20the%20fastest%20animal%3F",
+        "correct_answer": "Peregrine%20Falcon",
+        "incorrect_answers": [
+          "Golden%20Eagle",
+          "Cheetah",
+          "Horsefly"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20is%20the%20name%20of%20a%20rabbit%27s%20abode%3F",
+        "correct_answer": "Burrow",
+        "incorrect_answers": [
+          "Nest",
+          "Den",
+          "Dray"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "Kangaroos%20keep%20food%20in%20their%20pouches%20next%20to%20their%20children.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20colour%20is%20the%20female%20blackbird%3F",
+        "correct_answer": "Brown",
+        "incorrect_answers": [
+          "Black",
+          "White",
+          "Yellow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Animals",
+        "question": "What%20do%20you%20call%20a%20baby%20bat%3F",
+        "correct_answer": "Pup",
+        "incorrect_answers": [
+          "Cub",
+          "Chick",
+          "Kid"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20dish%20Fugu%2C%20is%20made%20from%20what%20family%20of%20fish%3F",
+        "correct_answer": "Pufferfish",
+        "incorrect_answers": [
+          "Bass",
+          "Salmon",
+          "Mackerel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "The%20now%20extinct%20species%20%22Thylacine%22%20was%20native%20to%20where%3F",
+        "correct_answer": "Tasmania%2C%20Australia",
+        "incorrect_answers": [
+          "Baluchistan%2C%20Pakistan",
+          "Wallachia%2C%20Romania",
+          "Oregon%2C%20United%20States"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20was%20the%20name%20of%20the%20Ethiopian%20Wolf%20before%20they%20knew%20it%20was%20related%20to%20wolves%3F",
+        "correct_answer": "Simien%20Jackel",
+        "incorrect_answers": [
+          "Ethiopian%20Coyote",
+          "Amharic%20Fox",
+          "Canis%20Simiensis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Animals",
+        "question": "What%20color%2Fcolour%20is%20a%20polar%20bear%27s%20skin%3F",
+        "correct_answer": "Black",
+        "incorrect_answers": [
+          "White",
+          "Pink",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Animals",
+        "question": "What%20is%20the%20collective%20noun%20for%20vultures%3F",
+        "correct_answer": "Wake",
+        "incorrect_answers": [
+          "Ambush",
+          "Building",
+          "Gaze"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:59:17.804087+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20name%20of%20Pink%20Floyd%27s%20first%20studio%20album%3F",
+        "correct_answer": "The%20Piper%20at%20the%20Gates%20of%20Dawn",
+        "incorrect_answers": [
+          "Ummagumma",
+          "More",
+          "Atom%20Heart%20Mother"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20songs%20was%20not%20originally%20released%20by%20Sir%20Elton%20John%3F%20",
+        "correct_answer": "You%27ll%20Be%20In%20My%20Heart",
+        "incorrect_answers": [
+          "Crocodile%20Rock",
+          "Candle%20in%20the%20Wind",
+          "I%20Don%27t%20Wanna%20Go%20On%20With%20You%20Like%20That"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20the%202016%20mixtape%20released%20by%20Venezuelan%20electronic%20producer%20Arca%3F",
+        "correct_answer": "Entra%C3%B1as",
+        "incorrect_answers": [
+          "%26%26%26%26%26%26",
+          "Sheep",
+          "Xen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Coldplay%20album%20won%20the%20Grammy%20for%20Best%20Rock%20Album%20in%20the%202009%20Grammy%20Awards%3F",
+        "correct_answer": "Viva%20La%20Vida%20Or%20Death%20And%20All%20His%20Friends",
+        "incorrect_answers": [
+          "A%20Rush%20Of%20Blood%20To%20The%20Head",
+          "X%26Y",
+          "Mylo%20Xyloto"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Muse%20is%20a%20British%20%28English%29%20rock%20band",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Ashley%20Frangipane%20performs%20under%20the%20stage%20name%20Halsey.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Where%20does%20%22Gasolina%22%20rapper%20Daddy%20Yankee%20originate%20from%3F",
+        "correct_answer": "Puerto%20Rico",
+        "incorrect_answers": [
+          "Cuba",
+          "Mexico",
+          "Spain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20by%20Skrillex%20features%20Fatman%20Scoop%20as%20a%20side%20artist%3F",
+        "correct_answer": "Recess",
+        "incorrect_answers": [
+          "All%20is%20Fair%20in%20Love%20and%20Brostep",
+          "Rock%20N%20Roll%20%28Will%20Take%20You%20to%20the%20Mountain%29",
+          "Scary%20Monsters%20and%20Nice%20Sprites"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20country%20does%20the%20power%20metal%20band%20%22Sabaton%22%20originate%20from%3F",
+        "correct_answer": "Sweden",
+        "incorrect_answers": [
+          "Germany",
+          "United%20States",
+          "Finland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20was%20Gangnam%20Style%20uploaded%20to%20YouTube%3F",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2013",
+          "2014",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20George%20Michael%27s%20chart-topping%201987%20debut%20studio%20album%3F",
+        "correct_answer": "Faith",
+        "incorrect_answers": [
+          "Songs%20from%20the%20Last%20Century",
+          "Patience",
+          "Older"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20by%20Swedish%20electronic%20musician%20Avicii%20samples%20the%20song%20%22Something%27s%20Got%20A%20Hold%20On%20Me%22%20by%20Etta%20James%3F",
+        "correct_answer": "Levels",
+        "incorrect_answers": [
+          "Fade%20Into%20Darkness",
+          "Silhouettes",
+          "Seek%20Bromance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Twitch%20streamer%20is%20the%20vocalist%20for%20Red%20Vox%3F",
+        "correct_answer": "Vinesauce",
+        "incorrect_answers": [
+          "The8BitDrummer",
+          "LIRIK",
+          "Sodapoppin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20a%20song%20featured%20on%20Green%20Day%27s%2021st%20Century%20Breakdown%20album%3F",
+        "correct_answer": "She%27s%20A%20Rebel",
+        "incorrect_answers": [
+          "Know%20Your%20Enemy",
+          "%C2%BFViva%20la%20Gloria%3F%20%28Little%20Girl%29",
+          "Before%20The%20Lobotomy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20which%20year%20was%20the%20Megadeth%20album%20%22Peace%20Sells...%20but%20Who%27s%20Buying%3F%22%20released%3F",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+          "1979",
+          "1987",
+          "1983"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%2080s%20band%20is%20fronted%20by%20singer%2Fguitarist%20Robert%20Smith%3F",
+        "correct_answer": "The%20Cure",
+        "incorrect_answers": [
+          "The%20Smiths",
+          "Echo%20%26%20the%20Bunnymen",
+          "New%20Order"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20name%20of%20the%20rock%20band%20that%20Nobuo%20Uematsu%20formed%20that%20played%20songs%20from%20various%20Final%20Fantasy%20games%3F",
+        "correct_answer": "The%20Black%20Mages",
+        "incorrect_answers": [
+          "The%20Final%20Fantasies",
+          "The%20Espers",
+          "The%20Rock%20Summoners"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pink%20Floyd%27s%201973%20album%20%22Animals%22%20features%20a%20photograph%20of%20Battersea%20Power%20Station.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Moby%2C%20an%20American%20DJ%2C%20singer%2C%20and%20musician%2C%20achieved%20worldwide%20success%20for%20the%201999%20release%20of%20which%20of%20the%20following%20albums%3F",
+        "correct_answer": "Play",
+        "incorrect_answers": [
+          "Everything%20Is%20Wrong",
+          "Moby",
+          "18"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "From%20which%20country%20did%20the%20song%20%22Gangnam%20Style%22%20originate%20from%3F",
+        "correct_answer": "South%20Korea",
+        "incorrect_answers": [
+          "Japan",
+          "North%20Korea",
+          "China"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20oldest%20member%20of%20The%20Beatles%3F",
+        "correct_answer": "Ringo%20Starr",
+        "incorrect_answers": [
+          "John%20Lennon",
+          "Paul%20McCartney",
+          "George%20Harrison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22The%20Genius%22%20is%20the%20original%20and%20secondary%20name%20of%20which%20Wu-Tang%20Clan%20member%3F",
+        "correct_answer": "GZA",
+        "incorrect_answers": [
+          "Ghostface%20Killah",
+          "Ol%27%20Dirty%20Bastard",
+          "Raekwon%20the%20Chef"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20four%20strings%20on%20a%20violin%20are%20the%20G%20string%2C%20D%20string%2C%20A%20string%2C%20and...",
+        "correct_answer": "E%20string",
+        "incorrect_answers": [
+          "C%20string",
+          "B%20string",
+          "F%20string"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20not%20a%20single%20by%20Pink%20Floyd%20guitarist%2C%20David%20Gilmour%3F",
+        "correct_answer": "Sunset%20Strip",
+        "incorrect_answers": [
+          "Rattle%20That%20Lock",
+          "Blue%20Light",
+          "Arnold%20Layne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20year%20was%20the%20album%20%22Year%20of%20the%20Snitch%22%20by%20Death%20Grips%20released%3F",
+        "correct_answer": "2018",
+        "incorrect_answers": [
+          "2013",
+          "2017",
+          "2011"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20walking%20like%20an%20Egyptian%20in%201981%3F",
+        "correct_answer": "The%20Bangles",
+        "incorrect_answers": [
+          "R.E.M.",
+          "The%20Ocean%20Blue",
+          "The%20Connells"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Liam%20Howlett%20founded%20which%20electronic%20music%20group%20in%201990%3F",
+        "correct_answer": "The%20Prodigy",
+        "incorrect_answers": [
+          "The%20Chemical%20Brothers",
+          "The%20Crystal%20Method",
+          "Infected%20Mushroom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Saul%20Hudson%20%28Slash%29%20of%20the%20band%20Guns%20N%27%20Roses%20is%20known%20for%20playing%20what%20type%20of%20guitar%3F",
+        "correct_answer": "Les%20Paul%20Standard",
+        "incorrect_answers": [
+          "Fender%20Stratocaster",
+          "LsL%20Mongrel",
+          "Gretsch%20Falcon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20country%20does%20the%20band%20Rammstein%20hail%20from%3F",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+          "Austria",
+          "Armenia",
+          "Belgium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pete%20Townshend%20collaborated%20with%20which%20famous%20guitarist%20for%20an%20event%20at%20Brixton%20Academy%20in%201985%3F",
+        "correct_answer": "David%20Gilmour",
+        "incorrect_answers": [
+          "Jimmy%20Page",
+          "Mark%20Knopfler",
+          "Eric%20Clapton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20frontman%20of%20the%20band%2030%20Seconds%20to%20Mars%3F",
+        "correct_answer": "Jared%20Leto",
+        "incorrect_answers": [
+          "Gerard%20Way",
+          "Matthew%20Bellamy",
+          "Mike%20Shinoda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20British%20band%20won%20the%20first%20edition%20of%20the%20Brit%20Awards%20in%201977%3F",
+        "correct_answer": "The%20Beatles",
+        "incorrect_answers": [
+          "Pink%20Floyd",
+          "The%20Rolling%20Stones",
+          "The%20Who"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20did%20The%20Beatles%20release%20the%20LP%20%22Please%20Please%20Me%22%3F",
+        "correct_answer": "1963",
+        "incorrect_answers": [
+          "1970",
+          "1960",
+          "1969"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20Bastille%3F",
+        "correct_answer": "Dan%20Smith",
+        "incorrect_answers": [
+          "Will%20Farquarson",
+          "Kyle%20Simmons",
+          "Chris%20Wood"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "African-American%20performer%20Sammy%20Davis%20Jr.%20was%20known%20for%20losing%20which%20part%20of%20his%20body%20in%20a%20car%20accident%3F",
+        "correct_answer": "Left%20Eye",
+        "incorrect_answers": [
+          "Right%20Ear",
+          "Right%20Middle%20Finger",
+          "Nose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20artists%27%20version%20of%20the%20song%20%22The%20Tide%20is%20High%22%20came%20first%3F",
+        "correct_answer": "The%20Paragons",
+        "incorrect_answers": [
+          "Blondie",
+          "Kardinal%20Offishall",
+          "Atomic%20Kitten"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Ellie%20Goulding%27s%20earliest%20album%20was%20named%3F",
+        "correct_answer": "Lights",
+        "incorrect_answers": [
+          "Halcyon",
+          "Bright%20Lights",
+          "Halcyon%20Days"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20black%20metal%20acts%20was%20a%20solo%20project%3F",
+        "correct_answer": "Burzum",
+        "incorrect_answers": [
+          "Darkthrone",
+          "Mayhem",
+          "Dissection"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20Brian%20May%27s%20guitar%20called%3F",
+        "correct_answer": "Red%20Special",
+        "incorrect_answers": [
+          "Blue%20Special",
+          "Green%20Special",
+          "Yellow%20Special"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20rock%20band%20released%20the%20album%20%22The%20Bends%22%20in%20March%201995%3F",
+        "correct_answer": "Radiohead",
+        "incorrect_answers": [
+          "Nirvana",
+          "Coldplay",
+          "U2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "On%20which%20Beatles%20album%20would%20you%20find%20the%20song%20%27Eleanor%20Rigby%27%3F",
+        "correct_answer": "Revolver",
+        "incorrect_answers": [
+          "Help%21",
+          "Rubber%20Soul",
+          "Abbey%20Road"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20members%20are%20there%20in%20the%20band%20Nirvana%3F",
+        "correct_answer": "Three",
+        "incorrect_answers": [
+          "Two",
+          "Four",
+          "Five"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "For%20which%20civil%20rights%20activist%20did%20Stevie%20Wonder%20write%20the%20song%20%27Happy%20Birthday%27%20in%201980%3F",
+        "correct_answer": "Martin%20Luther%20King%20Jr",
+        "incorrect_answers": [
+          "Rosa%20Parks",
+          "Nelson%20Mandella",
+          "Booker%20T.%20Washington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20best%20selling%20album%20of%202015%3F",
+        "correct_answer": "Adele%2C%2025",
+        "incorrect_answers": [
+          "Fetty%20Wap%2C%20Fetty%20Wap",
+          "Taylor%20Swift%2C%201989",
+          "Justin%20Bieber%2C%20Purpose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20one%20of%20these%20artists%20appears%20in%20the%20album%20Deltron%203030%3F",
+        "correct_answer": "Dan%20the%20Automater",
+        "incorrect_answers": [
+          "Lamarr%20Kendrick",
+          "Danger%20Mouse",
+          "CeeLo%20Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Madonna%27s%20song%20%22Hung%20Up%22%20includes%20a%20piece%20from%20which%20popular%2070s%20song%3F",
+        "correct_answer": "Gimmie%21%20Gimmie%21%20Gimme%21%20%28A%20Man%20After%20Midnight%29",
+        "incorrect_answers": [
+          "Staying%20Alive",
+          "Night%20Fever",
+          "The%20Chain"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20singer%20was%20featured%20in%20Jack%20%C3%9C%20%28Skrillex%20%26%20Diplo%29%27s%202015%20song%20%27Where%20Are%20%C3%9C%20Now%27%3F",
+        "correct_answer": "Justin%20Bieber",
+        "incorrect_answers": [
+          "Selena%20Gomez",
+          "Ellie%20Goulding",
+          "The%20Weeknd"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%27The%20Safety%20Dance%27%20was%20the%20biggest%20hit%20single%20for%20which%20Canadian%20act%3F",
+        "correct_answer": "Men%20Without%20Hats",
+        "incorrect_answers": [
+          "Crash%20Test%20Dummies",
+          "The%20Tragically%20Hip",
+          "Broken%20Social%20Scene"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20designed%20the%20album%20cover%20for%20True%20Romance%2C%20an%20album%20by%20Estelle%3F",
+        "correct_answer": "Rebecca%20Sugar",
+        "incorrect_answers": [
+          "Matt%20Burnett",
+          "Ian%20Jones%20Quartey",
+          "Ben%20Leven"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20year%20was%20the%20album%20%22Floral%20Shoppe%22%20by%20Macintosh%20Plus%20released%3F",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+          "2014",
+          "2013",
+          "2012"
+        ]
+      }
+    ]
+  }
+}

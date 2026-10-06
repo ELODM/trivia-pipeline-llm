@@ -1,0 +1,602 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:39.281479+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Laos%3F",
+        "correct_answer": "Vientiane",
+        "incorrect_answers": [
+          "Tarawa",
+          "Vaduz",
+          "Tegucigalpa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20White%20Cliffs%20of%20Dover%20is%20located%20in%20which%20country%3F%20",
+        "correct_answer": "United%20Kingdom",
+        "incorrect_answers": [
+          "United%20States",
+          "Netherlands",
+          "Sweden"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20German%20city%20is%20located%20on%20the%20River%20Isar%3F",
+        "correct_answer": "Munich",
+        "incorrect_answers": [
+          "Berlin",
+          "Hamburg",
+          "Dortmund"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How%20many%20time%20zones%20does%20China%20have%3F",
+        "correct_answer": "1",
+        "incorrect_answers": [
+          "3",
+          "4",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20Principality%20of%20Sealand%20is%20an%20unrecognized%20micronation%20off%20the%20coast%20of%20what%20country%3F",
+        "correct_answer": "The%20United%20Kingdom",
+        "incorrect_answers": [
+          "Japan",
+          "Austrailia",
+          "Argentina"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Italy%20and%20Ireland%20are%20the%20only%20countries%20in%20Europe%20that%20start%20with%20the%20letter%20I.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20country%20was%20NOT%20formerly%20part%20of%20Yugoslavia%3F",
+        "correct_answer": "Albania",
+        "incorrect_answers": [
+          "Croatia",
+          "Serbia",
+          "Macedonia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Greenland%20is%20a%20part%20of%20which%20kingdom%3F",
+        "correct_answer": "Denmark",
+        "incorrect_answers": [
+          "Sweden",
+          "Norway",
+          "United%20Kingdom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Slovakia%3F",
+        "correct_answer": "Bratislava",
+        "incorrect_answers": [
+          "Sofia",
+          "Ljubljana",
+          "Sarajevo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20tiny%20principality%20lies%20between%20Spain%20and%20France%3F",
+        "correct_answer": "Andorra",
+        "incorrect_answers": [
+          "Liechtenstein",
+          "Monaco",
+          "San%20Marino"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20most%20populous%20Muslim-majority%20nation%20in%202010%3F",
+        "correct_answer": "Indonesia",
+        "incorrect_answers": [
+          "Saudi%20Arabia",
+          "Iran",
+          "Sudan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "On%20which%20continent%20is%20the%20country%20of%20Angola%20located%3F",
+        "correct_answer": "Africa",
+        "incorrect_answers": [
+          "South%20America",
+          "Europe",
+          "Asia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20provinces%20are%20in%20the%20Netherlands%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "14",
+          "10",
+          "13"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20US%20state%20of%20New%20York%20has%20about%20as%20many%20inhabitants%20as%3F",
+        "correct_answer": "Romania",
+        "incorrect_answers": [
+          "Poland",
+          "Germany",
+          "Hungary"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20name%20of%20the%20Canadian%20national%20anthem%3F",
+        "correct_answer": "O%20Canada",
+        "incorrect_answers": [
+          "O%20Red%20Maple",
+          "Leaf-Spangled%20Banner",
+          "March%20of%20the%20Puck%20Drop"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "There%20is%20an%20island%20in%20Japan%20called%20%C5%8Ckunoshima%2C%20A.K.A.%20%22Rabbit%20Island%22%2C%20so%20named%20because%20of%20it%27s%20huge%20population%20of%20rabbits.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Wisconsin%2C%20USA%3F",
+        "correct_answer": "Madison",
+        "incorrect_answers": [
+          "Milwaukee",
+          "Wisconsin%20Dells",
+          "Green%20Bay"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20countries%20does%20NOT%20recognize%20Armenia%20as%20an%20independent%20country%3F",
+        "correct_answer": "Pakistan",
+        "incorrect_answers": [
+          "Iran",
+          "Turkey",
+          "Azerbaijan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20country%20is%20completely%20landlocked%20by%20South%20Africa%3F",
+        "correct_answer": "Lesotho",
+        "incorrect_answers": [
+          "Swaziland",
+          "Botswana",
+          "Zimbabwe"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Portugal%27s%20modern%20territory%20was%20once%20a%20part%20of%20the%20Roman%20Empire.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "California%20is%20larger%20than%20Japan.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Ottawa%20is%20the%20capital%20of%20Canada.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Where%20is%20the%20world%27s%20oldest%20still%20operational%20space%20launch%20facility%20located%3F",
+        "correct_answer": "Kazakhstan",
+        "incorrect_answers": [
+          "Russia",
+          "Iran",
+          "United%20States"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Brazil%3F",
+        "correct_answer": "Brasilia",
+        "incorrect_answers": [
+          "Rio%20de%20Janeiro",
+          "Sao%20Paolo",
+          "Curitiba"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20region%20conjoining%20Pakistan%2C%20India%2C%20and%20China%20with%20unknown%20leadership%20called%3F",
+        "correct_answer": "Kashmir",
+        "incorrect_answers": [
+          "Andorra",
+          "Gibraltar",
+          "Quin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20Inuit%20languages%20was%20the%20FIRST%20to%20use%20a%20unique%20writing%20system%20not%20based%20on%20the%20Latin%20alphabet%3F",
+        "correct_answer": "Inuktitut",
+        "incorrect_answers": [
+          "Inuinnaqtun",
+          "Greenlandic",
+          "Inupiat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20Japanese%20islands%20is%20the%20biggest%3F",
+        "correct_answer": "Honshu",
+        "incorrect_answers": [
+          "Hokkaido",
+          "Shikoku",
+          "Kyushu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20country%20is%20the%20second%20largest%20in%20the%20world%20by%20area%3F",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+          "Russia",
+          "China",
+          "United%20States%20of%20America"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20only%20country%20in%20the%20world%20with%20a%20flag%20that%20doesn%27t%20have%20four%20right%20angles%3F",
+        "correct_answer": "Nepal",
+        "incorrect_answers": [
+          "Panama",
+          "Angola",
+          "Egypt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20sovereign%20states%20are%20members%20of%20the%20United%20Nations%3F",
+        "correct_answer": "195",
+        "incorrect_answers": [
+          "201",
+          "153",
+          "178"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20India%3F",
+        "correct_answer": "New%20Delhi",
+        "incorrect_answers": [
+          "Beijing",
+          "Montreal",
+          "Tithi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In%202012%20the%20German-speaking%20microstate%20%22Liechtenstein%22%20in%20Central%20Europe%20had%20a%20population%20of%20how%20many%20inhabitants%3F",
+        "correct_answer": "36%2C600",
+        "incorrect_answers": [
+          "2%2C400",
+          "90%2C000",
+          "323%2C400"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Romania%3F",
+        "correct_answer": "Bucharest",
+        "incorrect_answers": [
+          "Bratislava",
+          "Belgrade",
+          "Budapest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20Russia%27s%20second-largest%20city%3F",
+        "correct_answer": "Saint%20Petersburg",
+        "incorrect_answers": [
+          "Minsk",
+          "Nizhny%20Novgorod",
+          "Vladivostok"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20counties%20in%20the%20Republic%20of%20Ireland.",
+        "correct_answer": "26",
+        "incorrect_answers": [
+          "32",
+          "28",
+          "30"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20country%20features%20a%20maple%20leaf%20on%20its%20flag%3F",
+        "correct_answer": "Canada",
+        "incorrect_answers": [
+          "Mexico",
+          "Brazil",
+          "India"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Alaska%20is%20the%20largest%20state%20in%20the%20United%20States.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20countries%20has%20a%20flag%20featuring%20a%20yellow%20lion%20wielding%20a%20sword%20on%20a%20dark%20red%20background%3F",
+        "correct_answer": "Sri%20Lanka",
+        "incorrect_answers": [
+          "Kiribati",
+          "Scotland",
+          "Bhutan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Australia%3F",
+        "correct_answer": "Canberra",
+        "incorrect_answers": [
+          "Sydney",
+          "Melbourne",
+          "Brisbane"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How%20many%20federal%20states%20does%20Germany%20have%3F",
+        "correct_answer": "16",
+        "incorrect_answers": [
+          "13",
+          "32",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In%20which%20country%20is%20Tallinn%20located%3F",
+        "correct_answer": "Estonia",
+        "incorrect_answers": [
+          "Finland",
+          "Sweden",
+          "Poland"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Bir%20Tawil%2C%20an%20uninhabited%20track%20of%20land%20claimed%20by%20no%20country%2C%20is%20located%20along%20the%20border%20of%20which%20two%20countries%3F",
+        "correct_answer": "Egypt%20and%20Sudan",
+        "incorrect_answers": [
+          "Israel%20and%20Jordan",
+          "Chad%20and%20Libya",
+          "Iraq%20and%20Saudi%20Arabia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20country%20of%20Belize%20borders%20which%20country%3F",
+        "correct_answer": "Guatemala",
+        "incorrect_answers": [
+          "Laos",
+          "Per%C3%BA",
+          "Kenya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20most%20common%20climbing%20route%20for%20the%20second%20highest%20mountain%20in%20the%20world%2C%20K2%3F",
+        "correct_answer": "Abruzzi%20Spur",
+        "incorrect_answers": [
+          "Magic%20Line",
+          "Cesen%20Route",
+          "Polish%20Line"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20fifth%20largest%20country%20by%20area%3F",
+        "correct_answer": "Brazil",
+        "incorrect_answers": [
+          "United%20States",
+          "Australia",
+          "India"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20islands%20below%20have%20been%20claimed%20by%20both%20Japan%20and%20Russia%3F",
+        "correct_answer": "Kuril%20Islands",
+        "incorrect_answers": [
+          "Paracel%20Islands",
+          "Chagos%20Islands",
+          "Spratly%20Islands"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20the%20US%20state%20Nevada%3F",
+        "correct_answer": "Carson%20City",
+        "incorrect_answers": [
+          "Las%20Vegas",
+          "Henderson",
+          "Reno"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Montreal%20is%20in%20which%20Canadian%20province%3F",
+        "correct_answer": "Quebec",
+        "incorrect_answers": [
+          "Ontario",
+          "Nova%20Scotia",
+          "Alberta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20capital%20city%3F",
+        "correct_answer": "Sydney",
+        "incorrect_answers": [
+          "Cairo",
+          "Moscow",
+          "Beijing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20country%20was%20NOT%20part%20of%20the%20Soviet%20Union%3F",
+        "correct_answer": "Romania",
+        "incorrect_answers": [
+          "Turkmenistan",
+          "Belarus",
+          "Tajikistan"
+        ]
+      }
+    ]
+  }
+}

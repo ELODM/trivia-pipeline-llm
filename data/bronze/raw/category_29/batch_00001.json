@@ -1,0 +1,608 @@
+{
+  "category_id": 29,
+  "fetched_at": "2026-10-06T10:08:21.297600+00:00",
+  "request": {
+    "amount": 50,
+    "category": 29,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20are%20the%20names%20of%20the%20two%20%22Canon%20fan%20trolls%22%20in%20%22Homestuck%22%3F",
+        "correct_answer": "Mierfa%20Durgas%20and%20Nektan%20Whelan",
+        "incorrect_answers": [
+          "The%20Wrycrown%20and%20Voksea%20Olkido",
+          "Aikter%20Frekik%20and%20Xagrai%20Ollomu",
+          "Grekei%20Ceknux%20and%20Riya%20Camacho"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20year%20was%20the%20first%20San%20Diego%20Comic-Con%3F",
+        "correct_answer": "1970",
+        "incorrect_answers": [
+          "2000",
+          "1990",
+          "1985"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Found%20in%20the%20Marvel%20Comics%20fictional%20universe%2C%20what%20is%20the%20name%20of%20the%20nearly%20indestructible%20metal%20that%20coats%20Wolverine%27s%20bones%20and%20claws%3F",
+        "correct_answer": "Adamantium",
+        "incorrect_answers": [
+          "Titanium",
+          "Vibranium",
+          "Carbonadium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20Homestuck%20character%20Gamzee%27s%20last%20name%3F",
+        "correct_answer": "Makara",
+        "incorrect_answers": [
+          "Makera",
+          "Makare",
+          "Makrea"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20is%20the%20creator%20of%20the%20comic%20series%20%22The%20Walking%20Dead%22%3F",
+        "correct_answer": "Robert%20Kirkman",
+        "incorrect_answers": [
+          "Stan%20Lee",
+          "Malcolm%20Wheeler-Nicholson",
+          "Robert%20Crumb"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20DC%20comics%2C%20what%20is%20Owlman%27s%20real%20name%3F",
+        "correct_answer": "Thomas%20Wayne%20Jr.",
+        "incorrect_answers": [
+          "Thomas%20Wayne",
+          "Bruce%20Wayne",
+          "Joseph%20Chill%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20%22Homestuck%22%20what%20is%20Dave%20Strider%27s%20guardian%3F",
+        "correct_answer": "Bro",
+        "incorrect_answers": [
+          "Becquerel",
+          "Doc%20Scratch",
+          "Halley"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20Hellboy%20universe%2C%20who%20founded%20the%20BPRD%3F",
+        "correct_answer": "Trevor%20Bruttenholm",
+        "incorrect_answers": [
+          "Kate%20Corrigan",
+          "Johann%20Kraus",
+          "Benjamin%20Daimio"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20comics%2C%20which%20Sonic%20character%20took%20command%20of%20the%20Dark%20Legion%20after%20Luger%27s%20assassination%3F",
+        "correct_answer": "Lien-Da",
+        "incorrect_answers": [
+          "Kragok",
+          "Dimitri",
+          "Remington"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20webcomic%20%22Ava%27s%20Demon%22%2C%20what%20sin%20is%20%22Nevy%20Nervine%22%20based%20off%20of%3F%20",
+        "correct_answer": "Envy%20",
+        "incorrect_answers": [
+          "Sloth",
+          "Wrath%20",
+          "Lust"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20Hellboy%27s%20true%20name%3F",
+        "correct_answer": "Anung%20Un%20Rama",
+        "incorrect_answers": [
+          "Right%20Hand%20of%20Doom",
+          "Ogdru%20Jahad",
+          "Azzael"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20%22Green%20Arrow%22%20sidekick%20commonly%20wears%20a%20baseball%20cap%3F",
+        "correct_answer": "Roy%20Harper",
+        "incorrect_answers": [
+          "Black%20Canary",
+          "Emiko%20Queen",
+          "Dick%20Grayson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20alter-ego%20of%20the%20DC%20comics%20character%20%22Superman%22%3F",
+        "correct_answer": "Clark%20Kent",
+        "incorrect_answers": [
+          "Bruce%20Wayne",
+          "Arthur%20Curry",
+          "John%20Jones"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20superhero%20is%20known%20for%20his%20super%20speed%3F",
+        "correct_answer": "Flash",
+        "incorrect_answers": [
+          "Superman",
+          "Batman",
+          "Spiderman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20Homestuck%20Series%2C%20what%20is%20the%20alternate%20name%20for%20the%20Kingdom%20of%20Lights%3F",
+        "correct_answer": "Prospit",
+        "incorrect_answers": [
+          "No%20Name",
+          "Golden%20City",
+          "Yellow%20Moon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Black%20Hammer%2C%20what%20city%20did%20the%20heroes%20save%20from%20the%20Anti-God%3F",
+        "correct_answer": "Spiral%20City",
+        "incorrect_answers": [
+          "Mega-City%20One",
+          "Rockwood",
+          "Star%20City"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "The%20%22Pepe%22%20meme%20originated%20from%20a%20comic%20drawn%20by%20Matt%20Furie%20called%20%22Boy%27s%20Club%22%3F",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Calvin%20and%20Hobbes%2C%20what%20is%20the%20name%20of%20Susie%27s%20stuffed%20rabbit%3F",
+        "correct_answer": "Mr.%20Bun",
+        "incorrect_answers": [
+          "Mr.%20Bunbun",
+          "Mr.%20Rabbit",
+          "Mr.%20Hoppy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Calvin%20and%20Hobbes%2C%20what%20is%20the%20name%20of%20the%20babysitter%27s%20boyfriend%3F",
+        "correct_answer": "Charlie",
+        "incorrect_answers": [
+          "Dave",
+          "Charles",
+          "Nathaniel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "The%20success%20of%20DC%20Comics%27%20Swamp%20Thing%2C%20Sandman%2C%20and%20other%20books%20in%20a%20similar%20style%2C%20led%20to%20the%20creation%20of%20what%20new%20imprint%20in%201993%3F",
+        "correct_answer": "Vertigo",
+        "incorrect_answers": [
+          "Impact",
+          "New%20Universe",
+          "Red%20Circle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20Doom%20Patrol%20member%20was%20a%20later%20addition%2C%20first%20appearing%20in%201989%3F",
+        "correct_answer": "Crazy%20Jane",
+        "incorrect_answers": [
+          "Elast-Girl",
+          "Robotman",
+          "Negative%20Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20full%20first%20name%20of%20the%20babysitter%20in%20Calvin%20and%20Hobbes%3F",
+        "correct_answer": "Rosalyn",
+        "incorrect_answers": [
+          "Rose",
+          "Ruby",
+          "Rachel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "The%20stuffed%20tiger%20in%20Calvin%20and%20Hobbes%20is%20named%20after%20what%20philosopher%3F",
+        "correct_answer": "Thomas%20Hobbes",
+        "incorrect_answers": [
+          "David%20Hobbes",
+          "John%20Hobbes",
+          "Nathaniel%20Hobbes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%201978%2C%20Superman%20teamed%20up%20with%20what%20celebrity%2C%20to%20defeat%20an%20alien%20invasion%3F",
+        "correct_answer": "Muhammad%20Ali",
+        "incorrect_answers": [
+          "Mike%20Tyson",
+          "Sylvester%20Stallone",
+          "Arnold%20Schwarzenegger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Calvin%20and%20Hobbes%2C%20what%20is%20the%20name%20of%20the%20principal%20at%20Calvin%27s%20school%3F",
+        "correct_answer": "Mr.%20Spittle",
+        "incorrect_answers": [
+          "Mr.%20Boreman",
+          "Mr.%20Spitling",
+          "Mr.%20Moe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "This%20Marvel%20superhero%20is%20often%20called%20%22The%20man%20without%20fear%22.",
+        "correct_answer": "Daredevil",
+        "incorrect_answers": [
+          "Thor",
+          "Wolverine",
+          "Hulk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20Marvel%20Comics%2C%20Taurus%20is%20the%20founder%20and%20leader%20of%20which%20criminal%20organization%3F",
+        "correct_answer": "Zodiac",
+        "incorrect_answers": [
+          "Scorpio",
+          "Tiger%20Mafia",
+          "The%20Union"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20Batman%20comics%2C%20by%20what%20other%20name%20is%20the%20villain%20Dr.%20Jonathan%20Crane%20known%3F",
+        "correct_answer": "Scarecrow",
+        "incorrect_answers": [
+          "Bane",
+          "Calendar%20Man",
+          "Clayface"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20Hellboy%20universe%2C%20what%20was%20Abe%20Sapien%27s%20birth%20name%3F",
+        "correct_answer": "Langdon%20Everett%20Caul",
+        "incorrect_answers": [
+          "Lord%20Baltimore",
+          "Sir%20Edward%20Grey",
+          "Landis%20Pope"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20name%20of%20the%20main%20character%20in%20the%20webcomic%20Gunnerkrigg%20Court%20by%20Tom%20Siddell%3F",
+        "correct_answer": "Antimony",
+        "incorrect_answers": [
+          "Bismuth",
+          "Mercury",
+          "Cobalt"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20comic%20book%20%22Archie%22%2C%20Betty%20is%20friends%20with%20Veronica%20because%20she%20is%20rich.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "The%20main%20six%20year%20old%20protagonist%20in%20Calvin%20and%20Hobbes%20is%20named%20after%20what%20theologian%3F",
+        "correct_answer": "John%20Calvin",
+        "incorrect_answers": [
+          "Calvin%20Klein",
+          "Calvin%20Coolidge",
+          "Phillip%20Calvin%20McGraw"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20%22Homestuck%22%20the%20%22Kingdom%20of%20Darkness%22%20is%20also%20known%20as%3F",
+        "correct_answer": "Derse",
+        "incorrect_answers": [
+          "Skaia",
+          "Prospit",
+          "The%20Medium"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "According%20to%20their%20longtime%20nickname%2C%20what%20kind%20of%20%22duo%22%20are%20Batman%20%26%20Robin%3F",
+        "correct_answer": "Dynamic",
+        "incorrect_answers": [
+          "Dangerous",
+          "Dynastic",
+          "Delirious"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20planet%20did%20Superman%20come%20from%3F",
+        "correct_answer": "Krypton",
+        "incorrect_answers": [
+          "Avalon",
+          "Xolnar",
+          "Starhaven"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20of%20these%20game-based%20comics%20were%20published%20in%202011%20by%20DC%20Comics%3F",
+        "correct_answer": "Infamous",
+        "incorrect_answers": [
+          "Left%204%20Dead%3A%20The%20Sacrifice",
+          "Prototype",
+          "Kane%20%26%20Lynch"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20Batman%20sidekick%20is%20the%20son%20of%20Talia%20al%20Ghul%3F",
+        "correct_answer": "Damian%20Wayne",
+        "incorrect_answers": [
+          "Dick%20Grayson",
+          "Tim%20Drake",
+          "Jason%20Todd"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20pulp%20hero%20made%20appearances%20in%20Hellboy%20and%20BPRD%20comics%20before%20getting%20his%20own%20spin-off%3F",
+        "correct_answer": "Lobster%20Johnson",
+        "incorrect_answers": [
+          "Roger%20the%20Homunculus",
+          "The%20Spider",
+          "The%20Wendigo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20real%20hair%20colour%20of%20the%20mainstream%20comic%20book%20version%20%28Earth-616%29%20of%20Daredevil%3F",
+        "correct_answer": "Blonde",
+        "incorrect_answers": [
+          "Auburn",
+          "Brown",
+          "Black"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20what%20Homestuck%20Update%20was%20%5BS%5D%20Game%20Over%20released%3F",
+        "correct_answer": "October%2025th%2C%202014",
+        "incorrect_answers": [
+          "April%2013th%2C%202009",
+          "April%208th%2C%202012",
+          "August%2028th%2C%202003"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20webcomic%20Homestuck%2C%20the%20first%20character%20introduced%20is%20Dave%20Strider.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20wrote%20the%20Batman%20comic%20series%20%22The%20Killing%20Joke%22%3F",
+        "correct_answer": "Alan%20Moore",
+        "incorrect_answers": [
+          "Bill%20Finger",
+          "Frank%20Miller",
+          "Jerry%20Siegel"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "When%20was%20the%20Garfield%20comic%20first%20published%3F",
+        "correct_answer": "1978",
+        "incorrect_answers": [
+          "1982",
+          "1973",
+          "1988"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%20is%20the%20designation%20given%20to%20the%20Marvel%20Cinematic%20Universe%3F",
+        "correct_answer": "Earth-199999",
+        "incorrect_answers": [
+          "Earth-616",
+          "Earth-10005",
+          "Earth-2008"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Which%20universe%20crossover%20was%20introduced%20in%20the%20%22Sonic%20the%20Hedgehog%22%20comic%20issue%20%23247%3F",
+        "correct_answer": "Mega%20Man",
+        "incorrect_answers": [
+          "Super%20Mario%20Brothers",
+          "Alex%20Kidd",
+          "Super%20Monkey%20Ball"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Comics",
+        "question": "In%20the%20Marvel%20Universe%2C%20the%20planet%20of%20Svartalfheim%20is%20home%20to%20what%20race%3F",
+        "correct_answer": "Dark%20Elves",
+        "incorrect_answers": [
+          "Frost%20Giants",
+          "Kronans",
+          "Skrulls"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20is%20the%20second%20person%20to%20take%20up%20the%20mantle%20of%20Night%20Owl%20in%20the%20Watchmen%20graphic%20novel%3F",
+        "correct_answer": "Daniel%20Dreiberg",
+        "incorrect_answers": [
+          "Nelson%20Gardner",
+          "Hollis%20Mason",
+          "Adrian%20Veidt"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "What%27s%20the%20race%20of%20Invincible%27s%20father%3F",
+        "correct_answer": "Viltrumite",
+        "incorrect_answers": [
+          "Kryptonian",
+          "Kree",
+          "Irken"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20is%20Batman%3F",
+        "correct_answer": "Bruce%20Wayne",
+        "incorrect_answers": [
+          "Clark%20Kent",
+          "Barry%20Allen",
+          "Tony%20Stark"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Comics",
+        "question": "Who%20authored%20The%20Adventures%20of%20Tintin%3F",
+        "correct_answer": "Herg%C3%A9",
+        "incorrect_answers": [
+          "E.P.%20Jacobs",
+          "Rin%20Tin%20Tin",
+          "Chic%20Young"
+        ]
+      }
+    ]
+  }
+}

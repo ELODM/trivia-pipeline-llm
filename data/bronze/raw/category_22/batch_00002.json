@@ -1,0 +1,592 @@
+{
+  "category_id": 22,
+  "fetched_at": "2026-10-06T10:05:18.867724+00:00",
+  "request": {
+    "amount": 50,
+    "category": 22,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20nickname%20for%20the%20US%20state%20Delaware%3F",
+        "correct_answer": "The%20First%20State",
+        "incorrect_answers": [
+          "The%20Fiftieth%20State",
+          "The%20Second%20State",
+          "The%20Sixteenth%20State"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20island%20countries%20is%20located%20in%20the%20Caribbean%3F",
+        "correct_answer": "Barbados",
+        "incorrect_answers": [
+          "Fiji",
+          "Maldives",
+          "Seychelles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Belarus%3F",
+        "correct_answer": "Minsk",
+        "incorrect_answers": [
+          "Warsaw",
+          "Kiev",
+          "Vilnius"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20countries%20is%20within%20the%20Eurozone%20but%20outside%20of%20the%20Schengen%20Area%3F",
+        "correct_answer": "Cyprus",
+        "incorrect_answers": [
+          "Malta",
+          "Greece",
+          "Portugal"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20megadiverse%20country%20-%20one%20that%20harbors%20a%20high%20number%20of%20the%20earth%27s%20endemic%20species%3F",
+        "correct_answer": "Thailand",
+        "incorrect_answers": [
+          "Peru",
+          "Mexico",
+          "South%20Africa"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "About%20how%20many%20countries%20are%20there%20in%20the%20world%3F",
+        "correct_answer": "200",
+        "incorrect_answers": [
+          "100",
+          "300",
+          "500"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20North%20American%20tourist%20attraction%20is%20served%20by%20the%20%22Maid%20of%20the%20Mist%22%20tour%20company%3F",
+        "correct_answer": "Niagara%20Falls",
+        "incorrect_answers": [
+          "Whistler%2C%20British%20Columbia",
+          "Disney%20World",
+          "Yosemite%20National%20Park"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "You%20could%20walk%20from%20Norway%20to%20North%20Korea%20while%20only%20passing%20through%20Russia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "How%20many%20countries%20does%20the%20United%20States%20share%20a%20land%20border%20with%3F",
+        "correct_answer": "2",
+        "incorrect_answers": [
+          "1",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Broome%20is%20a%20town%20in%20which%20state%20of%20Australia%3F",
+        "correct_answer": "Western%20Australia",
+        "incorrect_answers": [
+          "Northern%20Territory",
+          "South%20Australia",
+          "Tasmania"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20administrative%20centre%20and%20largest%20settlement%20on%20the%20Norwegian%20archipelago%20of%20Svalbard%3F",
+        "correct_answer": "Longyearbyen",
+        "incorrect_answers": [
+          "Sveagruva",
+          "Ny-%C3%85lesund",
+          "Barentsburg"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20capital%20of%20Brazil%20is%20Rio%20de%20Janeiro.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20only%20state%20in%20the%20United%20States%20that%20does%20not%20have%20a%20flag%20in%20a%20shape%20with%204%20edges%3F",
+        "correct_answer": "Ohio",
+        "incorrect_answers": [
+          "Florida",
+          "Idaho",
+          "New%20Mexico"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20these%20countries%20is%20NOT%20located%20in%20Africa%3F",
+        "correct_answer": "Suriname",
+        "incorrect_answers": [
+          "Burkina%20Faso",
+          "Mozambique",
+          "Algeria"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "On%20a%20London%20Underground%20map%2C%20what%20colour%20is%20the%20Circle%20Line%3F",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+          "Red",
+          "Blue",
+          "Green"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20city%20of%20the%20U.S.%20state%20of%20Texas%3F",
+        "correct_answer": "Austin",
+        "incorrect_answers": [
+          "Dallas",
+          "Houston",
+          "San%20Antonio"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "In%20which%20city%20is%20the%20Big%20Nickel%20located%20in%20Canada%3F",
+        "correct_answer": "Sudbury%2C%20Ontario",
+        "incorrect_answers": [
+          "Calgary%2C%20Alberta",
+          "Halifax%2C%20Nova%20Scotia%20",
+          "Victoria%2C%20British%20Columbia"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Tasmania%20is%20an%20island%20state%20of%20Australia.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Vietnam%3F",
+        "correct_answer": "Hanoi",
+        "incorrect_answers": [
+          "Da%20Nang",
+          "Hai%20Phong",
+          "Ho%20Chi%20Minh%20City"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20African%20country%20has%20Portuguese%20as%20its%20official%20language%3F",
+        "correct_answer": "Mozambique",
+        "incorrect_answers": [
+          "Botswana",
+          "Gabon",
+          "Togo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Vatican%20City%20is%20a%20country.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "A%20lion%20brandishing%20a%20sword%20is%20depicted%20on%20the%20national%20flag%20of%20which%20country%3F",
+        "correct_answer": "Sri%20Lanka",
+        "incorrect_answers": [
+          "Albania",
+          "Zambia",
+          "Moldova"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Hungary%20is%20the%20only%20country%20in%20the%20world%20beginning%20with%20H.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20countries%20banned%20the%20use%20of%20personal%20genetic%20ancestry%20tests%3F",
+        "correct_answer": "Germany",
+        "incorrect_answers": [
+          "Austria",
+          "Canada",
+          "Sweden"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20title%20of%20the%201969%20film%20%22Krakatoa%2C%20East_of%20Java%22%20is%20incorrect%2C%20as%20Krakatoa%20is%20in%20fact%20west%20of%20Java.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20of%20the%20following%20geographic%20features%20is%20a%20ring-shaped%20coral%20reef%2C%20island%2C%20or%20series%20of%20islets%3F",
+        "correct_answer": "Atoll",
+        "incorrect_answers": [
+          "Peninsula",
+          "Isthmus",
+          "Delta"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20Canadian%20province%20has%20Charlottetown%20as%20its%20capital%3F",
+        "correct_answer": "Prince%20Edward%20Island",
+        "incorrect_answers": [
+          "Saskachewan",
+          "Northwest%20Terrirories",
+          "Ontario"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20city%20is%20the%20capital%20of%20Michigan%3F",
+        "correct_answer": "Lansing",
+        "incorrect_answers": [
+          "Kalamazoo",
+          "Ann%20Arbor",
+          "Detroit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20country%20claims%20ownership%20of%20the%20disputed%20state%20Kosovo%3F",
+        "correct_answer": "Serbia",
+        "incorrect_answers": [
+          "Croatia",
+          "Albania",
+          "Macedonia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Senegal%3F",
+        "correct_answer": "Dakar",
+        "incorrect_answers": [
+          "Nouakchott",
+          "Conakry",
+          "Monrovia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "How%20many%20countries%20does%20Spain%20have%20a%20land%20border%20with%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "2",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "The%20following%20Spanish%20provinces%20are%20located%20in%20the%20northern%20area%20of%20Spain%20except%3A",
+        "correct_answer": "Murcia",
+        "incorrect_answers": [
+          "Asturias",
+          "Navarre",
+          "Le%C3%B3n"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Liechtenstein%20does%20not%20have%20an%20airport.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20is%20the%20largest%20freshwater%20lake%20in%20the%20world%3F",
+        "correct_answer": "Lake%20Superior%20",
+        "incorrect_answers": [
+          "Caspian%20Sea",
+          "Lake%20Michigan",
+          "Lake%20Huron"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Spain%3F",
+        "correct_answer": "Madrid",
+        "incorrect_answers": [
+          "Barcelona",
+          "Sevilla",
+          "Toledo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "New%20Haven%20is%20the%20capital%20city%20of%20the%20state%20of%20Connecticut%20in%20the%20United%20States.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20Space%20Needle%20is%20located%20in%20which%20city%3F",
+        "correct_answer": "Seattle",
+        "incorrect_answers": [
+          "Los%20Angles",
+          "Toronto",
+          "Vancouver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Where%20would%20you%20find%20the%20%22Spanish%20Steps%22%3F",
+        "correct_answer": "Rome%2C%20Italy",
+        "incorrect_answers": [
+          "Barcelona%2C%20Spain",
+          "Berlin%2C%20Germany",
+          "London%2C%20England"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20US%20state%20is%20furthest%20north%20east%3F",
+        "correct_answer": "Maine",
+        "incorrect_answers": [
+          "New%20York",
+          "Georgia",
+          "Florida"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "The%20Republic%20of%20Malta%20is%20the%20smallest%20microstate%20worldwide.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Where%20is%20Timbuktu%20located%3F",
+        "correct_answer": "Mali%2C%20Africa",
+        "incorrect_answers": [
+          "Azerbaijan%2C%20Asia",
+          "Bangladesh%2C%20Asia",
+          "Mauritania%2C%20Africa"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Vietnam%20is%20the%20only%20country%20in%20the%20world%20that%20starts%20with%20V.%20",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "The%20two%20largest%20ethnic%20groups%20of%20Belgium%20are%20Flemish%20and%20Walloon.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "In%20the%202016%20Global%20Peace%20Index%20poll%2C%20out%20of%20163%20countries%2C%20what%20was%20the%20United%20States%20of%20America%20ranked%3F",
+        "correct_answer": "103",
+        "incorrect_answers": [
+          "10",
+          "59",
+          "79"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "What%20is%20the%20capital%20of%20Mauritius%3F",
+        "correct_answer": "Port%20Louis",
+        "incorrect_answers": [
+          "Port%20Moresby",
+          "Port%20Vila",
+          "Port-au-Prince"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Which%20one%20of%20these%20archipelagos%20are%20NOT%20a%20part%20of%20the%20United%20Kingdom%3F",
+        "correct_answer": "The%20Channel%20Islands%20",
+        "incorrect_answers": [
+          "Orkney%20Islands",
+          "Isles%20of%20Scilly",
+          "Shetland%20Islands%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Geography",
+        "question": "Which%20US%20state%20has%20the%20highest%20population%3F",
+        "correct_answer": "California",
+        "incorrect_answers": [
+          "New%20York",
+          "Texas",
+          "Florida"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "What%20is%20the%20official%20national%20language%20of%20Pakistan%3F",
+        "correct_answer": "Urdu",
+        "incorrect_answers": [
+          "Indian",
+          "Punjabi",
+          "Pashto"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Geography",
+        "question": "Gibraltar%2C%20located%20just%20south%20of%20the%20Iberian%20peninsula%2C%20is%20a%20territory%20of%20which%20West%20Europe%20country%3F",
+        "correct_answer": "United%20Kingdom",
+        "incorrect_answers": [
+          "Spain",
+          "Portugal",
+          "France"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Geography",
+        "question": "Which%20of%20these%20is%20NOT%20a%20province%20in%20China%3F",
+        "correct_answer": "Yangtze",
+        "incorrect_answers": [
+          "Fujian",
+          "Sichuan",
+          "Guangdong"
+        ]
+      }
+    ]
+  }
+}

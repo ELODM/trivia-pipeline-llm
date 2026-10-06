@@ -1,0 +1,590 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:59.880592+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20Zombies%22%2C%20what%20is%20the%20name%20of%20the%20machine%20that%20upgrades%20weapons%3F",
+        "correct_answer": "Pack-A-Punch",
+        "incorrect_answers": [
+          "Wunderfizz",
+          "Gersch%20Device",
+          "Mule%20Kick"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Rust%2C%20how%20many%20Timed%20Explosive%20Charges%20does%20it%20take%20to%20destroy%20a%20Ladder%20Hatch%3F",
+        "correct_answer": "1",
+        "incorrect_answers": [
+          "3",
+          "2",
+          "5"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Mann%20Co.%20Store%20from%20Team%20Fortress%202%20has%20the%20slogan%20%22We%20hire%20mercenaries%20and%20get%20in%20fights%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20faction%20in%20Tom%20Clancy%27s%20The%20Division%3F",
+        "correct_answer": "CDC",
+        "incorrect_answers": [
+          "Cleaners",
+          "Last%20Man%20Batallion",
+          "Rikers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20year%20was%20the%20video%20game%20streaming%20platform%20TwitchTV%20founded%3F",
+        "correct_answer": "2011",
+        "incorrect_answers": [
+          "2012",
+          "2010",
+          "2014"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Super%20Mario%20and%20Paarthurnax%20%28Skyrim%29%20are%20voiced%20by%20the%20same%20actor.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20happened%20to%20Half-Life%202%20prior%20to%20its%20release%2C%20which%20resulted%20in%20Valve%20starting%20over%20the%20development%20of%20the%20game%3F",
+        "correct_answer": "The%20source%20code%20got%20leaked",
+        "incorrect_answers": [
+          "They%20weren%27t%20satisfied%20with%20the%20result",
+          "The%20story%20was%20not%20good%20enough",
+          "Way%20too%20many%20bugs%20to%20be%20fixed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%202015%20RPG%20%22Undertale%22%2C%20which%20character%20do%20you%20first%20encounter%20after%20falling%20down%20into%20the%20underground%3F",
+        "correct_answer": "Flowey",
+        "incorrect_answers": [
+          "Toriel",
+          "Sans",
+          "Papyrus"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Metal%20Gear%20Solid%203%3A%20Snake%20Eater%22%20takes%20place%20on%20Shadow%20Moses%20Island.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20Valve%20Corporation%20founded%3F",
+        "correct_answer": "August%2024%2C%201996",
+        "incorrect_answers": [
+          "December%2026%2C%201994",
+          "March%2022%2C%201997",
+          "March%2013%2C%201997"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20title%20of%20song%20on%20the%20main%20menu%20in%20Halo%3F",
+        "correct_answer": "Halo",
+        "incorrect_answers": [
+          "Opening%20Suite",
+          "Shadows",
+          "Suite%20Autumn"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "David%20Baszucki%20was%20a%20co-founder%20of%20ROBLOX%20Corporation.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20game%20did%20the%20character%20%22Mario%22%20make%20his%20first%20appearance%3F",
+        "correct_answer": "Donkey%20Kong",
+        "incorrect_answers": [
+          "Super%20Mario%20Bros.",
+          "Super%20Mario%20Land",
+          "Mario%20Bros."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Monster%20Hunter%20Generations%2C%20guild%20style%20is%20a%20type%20of%20hunting%20style.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20villain%20company%20in%20%22Stardew%20Valley%22%3F",
+        "correct_answer": "Joja%20Co%20",
+        "incorrect_answers": [
+          "Ronin",
+          "Empire",
+          "Robotnik%20Industry%27s%20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20main%20character%20in%20the%20%22Half-Life%22%20franchise%20is%20named%20Morgan%20Freeman.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Dota%202%2C%20Wraith%20King%20was%20previously%20known%20as...",
+        "correct_answer": "Skeleton%20King",
+        "incorrect_answers": [
+          "Reaper%20King",
+          "Skull%20King",
+          "Hell%20King"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Super%20Mario%203D%20World%22%2C%20the%20Double%20Cherry%20power-up%20originated%20from%20a%20developer%20accidentally%20making%20two%20characters%20controllable.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20code%20name%20given%20to%20Sonic%20the%20Hedgehog%204%20during%20its%20development%3F",
+        "correct_answer": "Project%20Needlemouse",
+        "incorrect_answers": [
+          "Project%20Bluespike",
+          "Project%20Roboegg",
+          "Project%20Darksphere"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Stardew%20Valley%2C%20what%20is%20the%20reward%20for%20completing%20all%20of%20the%20Bulletin%20Board%20bundles%3F",
+        "correct_answer": "Additional%20Friendship%20points",
+        "incorrect_answers": [
+          "Glittering%20Boulder%20removed",
+          "Bus%20is%20repaired",
+          "Greenhouse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20a%20type%20of%20monster%20found%20in%20Minecraft%3F",
+        "correct_answer": "Skeleton",
+        "incorrect_answers": [
+          "Werewolf",
+          "Vampire",
+          "Minotaur"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20vanilla%20Minecraft%2C%20which%20of%20the%20following%20cannot%20be%20made%20into%20a%20block%3F",
+        "correct_answer": "Charcoal",
+        "incorrect_answers": [
+          "Coal",
+          "Wheat",
+          "String"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Half-Life%20universe%2C%20the%20Black%20Mesa%20Research%20Facility%20is%20located%20in%20which%20US%20state%3F",
+        "correct_answer": "New%20Mexico",
+        "incorrect_answers": [
+          "Nevada",
+          "Arizona",
+          "Wyoming"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20Mario%20Kart%208%20Deluxe%20items%20will%20NOT%20make%20you%20invincible%3F",
+        "correct_answer": "Golden%20Mushroom",
+        "incorrect_answers": [
+          "Star",
+          "Bullet%20Bill",
+          "Boo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "All%20of%20these%20maps%20were%20in%20%22Tom%20Clancy%27s%20Rainbow%20Six%20Siege%22%20on%20its%20initial%20release%3A%20House%2C%20Clubhouse%2C%20Border%2C%20Consulate.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Pikmin%22%20series%2C%20what%20is%20the%20only%20pikmin%20type%20to%20possess%20visible%20ears%3F",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+          "Red",
+          "White",
+          "Winged"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20stages%20is%20not%20playable%20in%20%22Super%20Smash%20Bros.%20for%20Wii%20U%22%3F",
+        "correct_answer": "Fountain%20of%20Dreams",
+        "incorrect_answers": [
+          "Bridge%20of%20Eldin",
+          "75m",
+          "Miiverse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20year%20did%20the%20first%20Monster%20Hunter%20game%20get%20released%3F",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "2006",
+          "2005",
+          "2002"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20main%20protagonist%20in%20the%20%27Ratchet%20and%20Clank%27%20game%20series%3F",
+        "correct_answer": "Ratchet",
+        "incorrect_answers": [
+          "Clank",
+          "Captin%20Qwark",
+          "Dr%20Nefarious"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20psychopath%28s%29%20in%20Dead%20Rising%201%20gave%20you%20the%20small%20chainsaw%3F",
+        "correct_answer": "Adam%20the%20Clown",
+        "incorrect_answers": [
+          "Cliff%20Hudson",
+          "The%20convicts",
+          "Larry%20the%20butcher"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20games%20was%20the%20earliest%20known%20first-person%20shooter%20with%20a%20known%20time%20of%20publication%3F",
+        "correct_answer": "Spasim",
+        "incorrect_answers": [
+          "Doom",
+          "Wolfenstein",
+          "Quake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20was%20almost%20added%20into%20Super%20Smash%20Bros.%20Melee%2C%20but%20not%20included%20as%20the%20game%20was%20too%20far%20in%20development%3F",
+        "correct_answer": "Solid%20Snake",
+        "incorrect_answers": [
+          "Pit",
+          "Meta%20Knight",
+          "R.O.B."
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20year%20was%20the%20game%20Dishonored%20released%3F",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2011",
+          "2008",
+          "2013"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Half-Life%202%22%20runs%20on%20the%20Source%20Engine.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20names%20of%20Roxas%27s%20Keyblades%20in%20Kingdom%20Hearts%20are%20%22Oathkeeper%22%20and%20%22Oblivion%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Portal%20series%20of%20games%2C%20who%20was%20the%20founder%20of%20Aperture%20Science%3F",
+        "correct_answer": "Cave%20Johnson",
+        "incorrect_answers": [
+          "GLaDOs",
+          "Wallace%20Breen",
+          "Gordon%20Freeman"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20first%20Grand%20Theft%20Auto%20was%20also%20planned%20for%20the%20Nintendo%2064.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20%22Der%20Riese%22%2C%20what%20is%20the%20name%20of%20the%20%22Pack-A-Punched%20PPSH-41%22%3F",
+        "correct_answer": "The%20Reaper",
+        "incorrect_answers": [
+          "Lamentation",
+          "The%20Grim%20Reaper",
+          "The%20Eviscerator%20%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20creator%20of%20the%20Super%20Smash%20Bros.%20Series%3F",
+        "correct_answer": "Masahiro%20Sakurai",
+        "incorrect_answers": [
+          "Reggie%20Fils-Aim%C3%A9",
+          "Bill%20Trinen",
+          "Hideo%20Kojima"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Counter%20Strike%3A%20Global%20Offensive%2C%20what%20is%20the%20code%20implanted%20onto%20the%20C4%20as%20the%20Terrorists%20plant%20the%20bomb%3F",
+        "correct_answer": "7355608",
+        "incorrect_answers": [
+          "7890728",
+          "7256380",
+          "7726354"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20City%20in%20Saints%20Row%20The%20Third%3F",
+        "correct_answer": "Steelport",
+        "incorrect_answers": [
+          "Stilwater",
+          "Carcer",
+          "Liberty"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20has%20Jennifer%20Taylor%20NOT%20voiced%3F",
+        "correct_answer": "Sarah%20Kerrigan",
+        "incorrect_answers": [
+          "Princess%20Peach",
+          "Zoey",
+          "Cortana"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Warframe%2C%20what%20is%20the%20type%20of%20fish%20that%20is%20known%20to%20eat%20unwary%20natives%20of%20Cetus%3F",
+        "correct_answer": "Sharrac",
+        "incorrect_answers": [
+          "Glappid",
+          "Karkina",
+          "Mawfish"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20gaming%20series%20includes%20%22The%20Diabolical%20Box%22%20and%20%22The%20Curious%20Village%22%3F",
+        "correct_answer": "Professor%20Layton",
+        "incorrect_answers": [
+          "Persona",
+          "Etrian%20Odyssey",
+          "Sam%20%26%20Max"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Overwatch%2C%20how%20old%20is%20Reinhardt%20Wilhelm%3F",
+        "correct_answer": "61",
+        "incorrect_answers": [
+          "59",
+          "65",
+          "62"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Destiny%2C%20who%20succeeded%20Peter%20Dinklage%20in%20voicing%20the%20protagonist%27s%20%22Ghost%22%3F",
+        "correct_answer": "Nolan%20North",
+        "incorrect_answers": [
+          "John%20DiMaggio",
+          "Mark%20Hamill",
+          "%20Troy%20Baker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Ace%20Attorney%22%20series%2C%20who%20was%20the%20truly%20responsible%20of%20the%20forging%20of%20the%20autopsy%20report%20of%20the%20pivotal%20IS-7%20incident%3F",
+        "correct_answer": "Bansai%20Ichiyanagi",
+        "incorrect_answers": [
+          "Manfred%20Von%20Karma",
+          "Gregory%20Edgeworth",
+          "Tateyuki%20Shigaraki"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20original%20DOOM%20games%2C%20which%20of%20the%20following%20demons%20is%20a%20recolor%20of%20the%20Baron%20of%20Hell%2C%20but%20is%20weaker%20than%20the%20Baron%3F",
+        "correct_answer": "Hell%20Knight",
+        "incorrect_answers": [
+          "Mancubus",
+          "Pinky",
+          "Arch-Vile"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Rebecca%20Chambers%20does%20not%20appear%20in%20any%20Resident%20Evil%20except%20for%20the%20original%20Resident%20Evil%20and%20the%20Gamecube%20remake.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20world%27s%20first%20handheld%20game%20device%3F",
+        "correct_answer": "Mattel%20Auto%20Race",
+        "incorrect_answers": [
+          "Game%20Boy",
+          "Microvision",
+          "Game%20%26%20Watch"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:00:10.017334+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20city%20of%20Rockport%20is%20featured%20in%20which%20of%20the%20following%20video%20games%3F",
+        "correct_answer": "Need%20for%20Speed%3A%20Most%20Wanted%20%282005%29",
+        "incorrect_answers": [
+          "Infamous%202",
+          "Saints%20Row%3A%20The%20Third",
+          "Burnout%20Revenge"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20remake%20of%20%22Resident%20Evil%202%22%2C%20which%20medallion%20does%20not%20exist%3F",
+        "correct_answer": "Dragon%20Medallion",
+        "incorrect_answers": [
+          "Lion%20Medallion",
+          "Unicorn%20Medallion",
+          "Maiden%20Medallion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Night%20In%20The%20Woods%2C%20what%20is%20Mae%20Borowski%20mother%27s%20name%3F",
+        "correct_answer": "Candy",
+        "incorrect_answers": [
+          "Jenny",
+          "Margaret",
+          "Kate"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Phil%20Fish%20was%20the%20designer%20of%20which%20game%3F",
+        "correct_answer": "Fez",
+        "incorrect_answers": [
+          "Super%20Meat%20Boy",
+          "Hotline%20Miami",
+          "FTL"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20Steam%20first%20released%3F",
+        "correct_answer": "2003",
+        "incorrect_answers": [
+          "2004",
+          "2011",
+          "2007"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22The%20Witness%22%2C%20how%20many%20lasers%20must%20be%20activated%20to%20get%20into%20the%20mountain%20area%3F",
+        "correct_answer": "7",
+        "incorrect_answers": [
+          "8",
+          "5",
+          "12"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20videogame%20Bully%2C%20what%20is%20the%20protagonist%27s%20last%20name%3F",
+        "correct_answer": "Hopkins",
+        "incorrect_answers": [
+          "Smith",
+          "Kowalski",
+          "Crabblesnitch"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20ghosts%20in%20%22Pac-Man%22%20and%20%22Ms.%20Pac-Man%22%20have%20completely%20different%20behavior.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20were%20the%20first%20two%20blocks%20in%20%22Minecraft%22%3F",
+        "correct_answer": "Grass%20and%20Cobblestone",
+        "incorrect_answers": [
+          "Grass%20and%20Stone",
+          "Crafting%20Table%20and%20Cobblestone",
+          "Cobblestone%20and%20Stone"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "TF2%3A%20Sentry%20rocket%20damage%20falloff%20is%20calculated%20based%20on%20the%20distance%20between%20the%20sentry%20and%20the%20enemy%2C%20not%20the%20engineer%20and%20the%20enemy",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20one%20of%20the%20following%20actors%20did%20not%20voice%20a%20character%20in%20%22Saints%20Row%3A%20The%20Third%22%3F",
+        "correct_answer": "Ron%20Jeremy",
+        "incorrect_answers": [
+          "Sasha%20Grey",
+          "Burt%20Reynolds",
+          "Hulk%20Hogan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Space%20Station%2013%22%2C%20%20the%20station%20has%20a%20clown%20aboard%20it.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "How%20many%20controllers%20could%20a%20Nintendo%20GameCube%20have%20plugged%20in%20at%20one%20time%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "8",
+          "6",
+          "2"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Minecraft%20can%20be%20played%20with%20a%20virtual%20reality%20headset.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Call%20Of%20Duty%3A%20World%20At%20War%22%2C%20the%20first%20appearance%20of%20the%20%22PPSH-41%22%20in%20%22Zombies%22%20was%20in%20the%20map%20%22Der%20Riese%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20water-type%20Pok%C3%A9mon%20starter%20was%20introduced%20in%20the%204th%20generation%20of%20the%20series%3F",
+        "correct_answer": "Piplup",
+        "incorrect_answers": [
+          "Totodile",
+          "Oshawott",
+          "Mudkip"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Portal%202%2C%20the%20iconic%20character%20GLaDOS%20is%20turned%20into%3A",
+        "correct_answer": "A%20potato",
+        "incorrect_answers": [
+          "A%20tomato",
+          "A%20lemon",
+          "An%20apple"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%20lore%2C%20which%20of%20the%20following%20is%20known%20as%20the%20God%20of%20Spiders%20in%20the%20troll%27s%20loa%20beliefs%3F",
+        "correct_answer": "Elortha%20no%20Shadra",
+        "incorrect_answers": [
+          "Bwonsamdi",
+          "Hakkar",
+          "Shirvallah"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Silent%20Hill%202%2C%20who%20was%20James%20Sunderland%27s%20late%20wife%3F",
+        "correct_answer": "Mary",
+        "incorrect_answers": [
+          "Maria",
+          "Angela",
+          "Laura"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Hidden%20in%20the%20files%20for%20%22Mario%20Kart%20Arcade%20GP%22%20is%20a%20picture%20of%20the%20Beslan%20school%20hostage%20crisis.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20four%20empires%20in%20%20Eve%20Online%20was%20the%20first%20to%20achieve%20faster%20than%20light%20travel%3F",
+        "correct_answer": "Amarr%20Empire",
+        "incorrect_answers": [
+          "Caldari%20State",
+          "Gallente%20Federation",
+          "Minmatar%20Republic"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20Halo%203%3A%20ODST%20was%20unveiled%20in%202008%2C%20it%20had%20a%20different%20title.%20What%20was%20the%20game%20formally%20called%3F",
+        "correct_answer": "Halo%203%3A%20Recon",
+        "incorrect_answers": [
+          "Halo%203%3A%20Helljumpers",
+          "Halo%203%3A%20Phantom",
+          "Halo%203%3A%20Guerilla"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20color%20is%20the%20iconic%20arcade%20character%20Q%2ABert%3F",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+          "Blue",
+          "Green",
+          "Brown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Nuclear%20Throne%2C%20what%20character%20is%20only%20usable%20in%20a%20play%20through%20with%20Melting%3F",
+        "correct_answer": "Skeleton",
+        "incorrect_answers": [
+          "Frog",
+          "Horror",
+          "Plant"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20video%20game%20company%20developed%20the%202004%20racing%20game%20%22Burnout%203%3A%20Takedown%22%3F",
+        "correct_answer": "Criterion%20Games",
+        "incorrect_answers": [
+          "EA%20Black%20Box",
+          "Codemasters",
+          "Rockstar%20Games"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "When%20was%20the%20video%20game%20%22P.A.M.E.L.A.%22%20released%20on%20Steam%3F",
+        "correct_answer": "March%209%2C%202017",
+        "incorrect_answers": [
+          "January%207%2C%202007",
+          "October%2023%2C%201997",
+          "February%2016%2C%202015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20Touhou%20Project%20character%27s%20first%20ever%20appearance%20was%20as%20a%20midboss%20in%20the%20eighth%20game%2C%20Imperishable%20Night%3F",
+        "correct_answer": "Tewi%20Inaba",
+        "incorrect_answers": [
+          "Mystia%20Lorelei",
+          "Kaguya%20Houraisan",
+          "Rumia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20World%20of%20Warcraft%20the%20default%20UI%20color%20that%20signifies%20Druid%20is%20what%3F",
+        "correct_answer": "Orange",
+        "incorrect_answers": [
+          "Brown",
+          "Green",
+          "Blue"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20Konami%20Code%20is%20known%20as%20Up%2C%20Up%2C%20Down%2C%20Down%2C%20Left%2C%20Right%2C%20Right%2C%20Left%2C%20B%2C%20A%2C%20Start.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20main%20healing%20item%20in%20Dark%20Souls%3F",
+        "correct_answer": "Estus%20Flask",
+        "incorrect_answers": [
+          "Health%20Potion",
+          "Orange%20Juice",
+          "Ashen%20Flask"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20protagonist%27s%20title%20given%20by%20the%20demons%20in%20DOOM%20%282016%29%3F",
+        "correct_answer": "Doom%20Slayer",
+        "incorrect_answers": [
+          "Doom%20Guy",
+          "Doom%20Marine",
+          "Doom%20Reaper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20game%20does%20a%20character%20say%2C%20%22Sometimes%2C%20I%20dream%20about%20cheese%22%3F",
+        "correct_answer": "Half%20Life%202",
+        "incorrect_answers": [
+          "Team%20Fortress%202",
+          "Dark%20Souls",
+          "Serious%20Sam%3A%20The%20Second%20Encounter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20Secret%20Organization%20in%20the%20Hotline%20Miami%20series%3F%20",
+        "correct_answer": "50%20Blessings",
+        "incorrect_answers": [
+          "American%20Blessings",
+          "50%20Saints",
+          "USSR%27s%20Blessings"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20real%20name%20of%20the%20Scout%20in%20%22Team%20Fortress%202%22%3F",
+        "correct_answer": "Jeremy",
+        "incorrect_answers": [
+          "Lance",
+          "Walter",
+          "John"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Team%20Fortress%202%22%2C%20the%20%22Bill%27s%20Hat%22%20is%20a%20reference%20to%20the%20game%20%22Dota%202%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20actor%20provided%20the%20voice%20for%20the%20main%20character%27s%20father%20in%20Fallout%203%3F",
+        "correct_answer": "Liam%20Neeson",
+        "incorrect_answers": [
+          "Kiefer%20Sutherland",
+          "Brendan%20Gleeson",
+          "Robbie%20Coltrane"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20most%20FPS%20video%20games%20such%20as%20Counter-Strike%2C%20shooting%20which%20part%20of%20the%20body%20does%20the%20highest%20damage%3F",
+        "correct_answer": "Head",
+        "incorrect_answers": [
+          "Arm",
+          "Leg",
+          "Chest"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20which%20U.S.%20state%20is%20Far%20Cry%205%27s%20fictional%20setting%20%27Hope%20County%27%20located%3F",
+        "correct_answer": "Montana",
+        "incorrect_answers": [
+          "Idaho",
+          "Wyoming",
+          "North%20Carolina"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20creator%20of%20Touhou%20project%3F",
+        "correct_answer": "Zun",
+        "incorrect_answers": [
+          "Jun",
+          "Twilight%20Frontier",
+          "Tasofro"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20Warframe%2C%20what%20is%20the%20bipedal%20robot%20from%20the%20Corpus%20faction%20called%3F",
+        "correct_answer": "MOA",
+        "incorrect_answers": [
+          "Corpus%20Tech",
+          "Crewman",
+          "Corpus%20Walker"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Terraria%2C%20which%20debuff%20does%20the%20ankh%20charm%20not%20provide%20immunity%20to%3F",
+        "correct_answer": "Venom",
+        "incorrect_answers": [
+          "Cursed",
+          "Bleeding",
+          "Slow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Five%20Nights%20at%20Freddy%27s%201%2C%20how%20can%20you%20make%20Golden%20Freddy%20disappear%3F",
+        "correct_answer": "Enable%20cameras",
+        "incorrect_answers": [
+          "Turn%20on%20the%20light",
+          "Shut%20the%20door",
+          "Do%20nothing"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Gimmick%21%22%20is%20a%20Japanese%20Famicom%20game%20that%20uses%20a%20sound%20chip%20expansion%20in%20the%20cartridge.%20What%20is%20it%20called%3F",
+        "correct_answer": "FME-7",
+        "incorrect_answers": [
+          "VRC7",
+          "VRC6",
+          "MMC5"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22The%20Sims%22%20series%2C%20the%20most%20members%20in%20a%20household%20you%20can%20have%20is%208.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%202%20Valve%20Games%20are%20set%20in%20the%20same%20universe%3F",
+        "correct_answer": "Half-life%20and%20Portal",
+        "incorrect_answers": [
+          "Portal%20and%20Left%204%20Dead",
+          "Half-life%20and%20Left%204%20Dead",
+          "Half-life%20and%20Counter%20Strike"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20occupation%20did%20John%20Tanner%2C%20the%20main%20protagonist%20for%20Driver%20and%20Driver%202%2C%20had%20before%20turning%20into%20an%20undercover%20cop%3F",
+        "correct_answer": "Racing%20Driver",
+        "incorrect_answers": [
+          "Taxi%20Driver",
+          "Delivery%20Driver",
+          "Getaway%20Driver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20boss%20round%20featured%20in%20the%20%22Call%20Of%20Duty%3A%20Zombies%22%20map%20%22Five%22%3F",
+        "correct_answer": "The%20Pentagon%20Thief",
+        "incorrect_answers": [
+          "Hellhounds",
+          "Jumping%20Jacks",
+          "Napalm%20Zombie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20are%20the%20two%20protagonists%20of%20the%20game%20Yakuza%200%3F",
+        "correct_answer": "Kazuma%20Kiryu%20and%20Goro%20Majima",
+        "incorrect_answers": [
+          "Shintaro%20Kazama%20and%20Kazuma%20Kiryu",
+          "Keiji%20Shibusawa%20and%20Daisaku%20Kuze",
+          "Akira%20Nishikiyama%20and%20Tetsu%20Tachibana"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20edutainment%20video%20game%20series%20character%2C%20Carmen%20Sandiego%2C%20is%20partially%20named%20after%20Brazilian%20actress%2C%20Carmen%20Miranda.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20scrapped%20Sonic%20the%20Hedgehog%202%20level%20%22Hidden%20Palace%20Zone%22%20was%20later%20reused%20in%20the%20iOS%20port%20of%20the%20game.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      }
+    ]
+  }
+}

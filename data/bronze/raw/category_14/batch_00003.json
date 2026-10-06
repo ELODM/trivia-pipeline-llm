@@ -1,0 +1,606 @@
+{
+  "category_id": 14,
+  "fetched_at": "2026-10-06T09:59:49.022798+00:00",
+  "request": {
+    "amount": 50,
+    "category": 14,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Out%20of%20the%203%20Tots%20in%20Tots%20TV%2C%20who%20speaks%20French%20in%20the%20UK%20Version%20and%20Spanish%20in%20the%20US%20Version%3F",
+        "correct_answer": "Tilly",
+        "incorrect_answers": [
+          "Tom",
+          "Tiny",
+          "None%20of%20the%20Above"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20pirate%20that%20sings%20the%20intro%20to%20%22Spongebob%20Squarepants%22%3F",
+        "correct_answer": "Painty",
+        "incorrect_answers": [
+          "Patchy",
+          "Lloyd",
+          "Larry"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20Firestorm%27s%20rival%20during%20the%20original%20run%20of%20UK%20Robot%20Wars%3F",
+        "correct_answer": "Panic%20Attack",
+        "incorrect_answers": [
+          "Razer",
+          "Chaos%202",
+          "Hypno%20Disc"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20DuckTales%2C%20what%20is%20the%20name%20of%20the%20city%20where%20all%20the%20main%20characters%20live%3F",
+        "correct_answer": "Duckburg",
+        "incorrect_answers": [
+          "Duckwing",
+          "Tailspin",
+          "Wingford"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20TV%20series%20Red%20Dwarf%2C%20Kryten%27s%20full%20name%20is%20Kryten%202X4B-523P.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20mad%20scientist%20who%20owns%20Planet%20Express%20in%20Futurama%3F",
+        "correct_answer": "Hubert%20J.%20Farnsworth",
+        "incorrect_answers": [
+          "Philip%20J.%20Fry",
+          "Rick%20Sanchez",
+          "Ogden%20Wernstrom"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20actor%20from%20The%20Young%20Ones%20also%20played%20Lord%20Flashheart%20in%20one%20episode%20of%20Blackadder%20II%3F",
+        "correct_answer": "Rik%20Mayall",
+        "incorrect_answers": [
+          "Adrian%20Edmondson",
+          "Nigel%20Planer",
+          "Christopher%20Ryan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "On%20the%20NBC%20show%20Community%20what%20was%20Star%20Burns%27%20real%20name%3F",
+        "correct_answer": "Alex",
+        "incorrect_answers": [
+          "Todd",
+          "Neal",
+          "Grimus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20British%20writer%20wrote%20for%20both%20Doctor%20Who%20and%20Sherlock%3F",
+        "correct_answer": "Steven%20Moffatt",
+        "incorrect_answers": [
+          "Phil%20Ford",
+          "Russell%20T%20Davies",
+          "Toby%20Whithouse"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Star%20Trek%2C%20what%20is%20the%20name%20of%20Spock%27s%20father%3F",
+        "correct_answer": "Sarek",
+        "incorrect_answers": [
+          "Tuvok",
+          "T%27Pal",
+          "Surak"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20race%20enjoys%20a%20glass%20of%20warm%20baghol%20in%20%22Star%20Trek%22%3F",
+        "correct_answer": "Klingon",
+        "incorrect_answers": [
+          "Vulcan",
+          "Human",
+          "Botha"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20what%20is%20the%20Klingon%20delicacy%20of%20%22gagh%22%20made%20from%3F",
+        "correct_answer": "Serpent%20worms",
+        "incorrect_answers": [
+          "Earthworms",
+          "Spaghetti%20noodles",
+          "Klingworms"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Star%20Trek%22%2C%20Klingons%20are%20aliens.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Grant%20Gustin%20plays%20which%20superhero%20on%20the%20CW%20show%20of%20the%20same%20name%3F",
+        "correct_answer": "The%20Flash",
+        "incorrect_answers": [
+          "The%20Arrow",
+          "Black%20Canary",
+          "Daredevil"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20season%20one%20of%20the%20Netflix%20political%20drama%20%22House%20of%20Cards%22%2C%20what%20government%20position%20does%20Frank%20Underwood%20hold%3F",
+        "correct_answer": "House%20Majority%20Whip",
+        "incorrect_answers": [
+          "Attorney%20General",
+          "President",
+          "Chief%20of%20Staff"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20country%20is%20Cory%20in%20the%20House%20set%20in%3F",
+        "correct_answer": "The%20United%20States%20of%20America",
+        "incorrect_answers": [
+          "Canada",
+          "Venezuala",
+          "England"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20television%20show%20Breaking%20Bad%2C%20what%20is%20the%20street%20name%20of%20Walter%20and%20Jesse%27s%20notorious%20product%3F",
+        "correct_answer": "Blue%20Sky",
+        "incorrect_answers": [
+          "Baby%20Blue",
+          "Rock%20Candy",
+          "Pure%20Glass"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Cesar%20Romero%20played%20which%20iconic%20Batman%20villain%20from%20the%201960%27s%20TV%20show%3F",
+        "correct_answer": "The%20Joker",
+        "incorrect_answers": [
+          "The%20Penguin",
+          "The%20Riddler",
+          "Mr.%20Freeze"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "On%20the%20NBC%20show%20Community%2C%20whose%20catch-phrase%20was%20%22Pop%21%20Pop%21%22%3F",
+        "correct_answer": "Magnitude",
+        "incorrect_answers": [
+          "Star%20Burns",
+          "Leonard",
+          "Senoir%20Chang"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Breaking%20Bad%22%2C%20Walter%20White%20is%20a%20high%20school%20teacher%20diagnosed%20with%20which%20form%20of%20cancer%3F",
+        "correct_answer": "Lung%20Cancer",
+        "incorrect_answers": [
+          "Prostate%20Cancer",
+          "Brain%20Cancer",
+          "Testicular%20Cancer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20what%20year%20did%20%22The%20Big%20Bang%20Theory%22%20debut%20on%20CBS%3F",
+        "correct_answer": "2007",
+        "incorrect_answers": [
+          "2008",
+          "2006",
+          "2009"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20is%20the%20main%20character%20in%20the%20show%20%22Burn%20Notice%22%3F",
+        "correct_answer": "Michael%20Westen",
+        "incorrect_answers": [
+          "Sam%20Axe",
+          "Fiona%20Glenanne",
+          "Madeline%20Westen"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20date%20of%20original%20airing%20of%20the%20pilot%20episode%20of%20My%20Little%20Pony%3A%20Friendship%20is%20Magic%3F",
+        "correct_answer": "October%2010th%2C%202010",
+        "incorrect_answers": [
+          "November%206th%2C%202010",
+          "April%2014th%2C%201984",
+          "May%2018th%2C%202015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%27s%20Dr.%20Doofenshmirtz%20first%20name%3F",
+        "correct_answer": "Heinz",
+        "incorrect_answers": [
+          "Hans",
+          "Hank",
+          "Heidi"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20following%20is%20rude%20and%20dishonorable%20by%20Klingon%20standards%3F",
+        "correct_answer": "Taking%20his%20D%27k%20tahg",
+        "incorrect_answers": [
+          "Insulting%20and%20laughing%20at%20him%20at%20the%20dinner%20table",
+          "Reaching%20over%20and%20taking%20his%20meal",
+          "Punching%20him%20and%20taking%20his%20ship%20station%20position"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20composed%20the%20theme%20song%20for%20The%20Simpsons%3F",
+        "correct_answer": "Danny%20Elfman",
+        "incorrect_answers": [
+          "John%20Williams",
+          "Hans%20Zimmer",
+          "Ennio%20Morricone"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20Chris%27s%20brother%20in%20%22Everybody%20Hates%20Chris%22%3F",
+        "correct_answer": "Drew",
+        "incorrect_answers": [
+          "Jerome",
+          "Greg",
+          "Joe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20was%20the%20name%20of%20the%20the%20first%20episode%20of%20Doctor%20Who%20to%20air%20in%201963%3F",
+        "correct_answer": "An%20Unearthly%20Child",
+        "incorrect_answers": [
+          "The%20Daleks",
+          "The%20Aztecs",
+          "The%20Edge%20of%20Destruction"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20television%20show%20%22Lazy%20Town%22%2C%20who%20is%20the%20actor%20of%20Robbie%20Rotten%3F",
+        "correct_answer": "Stef%C3%A1n%20Stef%C3%A1nsson",
+        "incorrect_answers": [
+          "Adam%20Sandler",
+          "Magn%C3%BAs%20Scheving",
+          "Stephen%20Carl"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20voices%20wasn%27t%20a%20choice%20for%20the%20House%20AI%20in%20%22The%20Simpsons%20Treehouse%20of%20Horror%22%20short%2C%20House%20of%20Whacks%3F",
+        "correct_answer": "George%20Clooney",
+        "incorrect_answers": [
+          "Matthew%20Perry",
+          "Dennis%20Miller",
+          "Pierce%20Brosnan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Television",
+        "question": "The%20Klingon%20home%20planet%20is%20Qo%27noS.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20real%20name%20of%20the%20famous%20spanish%20humorist%2C%20El%20Risitas%3F",
+        "correct_answer": "Juan%20Joya%20Borga",
+        "incorrect_answers": [
+          "Gabriel%20Garcia%20Marquez",
+          "Jesus%20Quintero",
+          "Ernesto%20Guevara"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20cartoon%20%27SpongeBob%20SquarePants%27%2C%20what%20did%20the%20acronym%20E.V.I.L%20stand%20for%3F",
+        "correct_answer": "Every%20Villain%20Is%20Lemons",
+        "incorrect_answers": [
+          "Every%20Villain%20Is%20Lemonade",
+          "Every%20Villain%20Is%20Limes",
+          "Each%20Villain%20Is%20Lemonade"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20movie%20served%20as%20the%20KTMA%20pilot%20episode%20for%20the%20show%20%22Mystery%20Science%20Theater%203000%22%3F",
+        "correct_answer": "The%20Green%20Slime",
+        "incorrect_answers": [
+          "The%20Robot%20Vs.%20The%20Aztec%20Mummy",
+          "The%20Crawling%20Eye",
+          "Plan%209%20From%20Outer%20Space"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Which%20of%20these%20television%20shows%20makes%20everyone%20look%20under%20their%20chair%3F",
+        "correct_answer": "Oprah",
+        "incorrect_answers": [
+          "Jimmy%20Fallon",
+          "Saturday%20Night%20Live",
+          "Larry%20Rubert"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Klingons%20once%20had%20a%20period%20of%20Democracy%20in%20their%20history%2C%20they%20referred%20to%20it%20as%20the%20%22Dark%20Times%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Battlestar%20Galactica%20%282004%29%2C%20what%20is%20the%20name%20of%20the%20President%20of%20the%20Twelve%20Colonies%3F",
+        "correct_answer": "Laura%20Roslin",
+        "incorrect_answers": [
+          "William%20Adama",
+          "Tricia%20Helfer",
+          "Harry%20Stills"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20is%20the%20name%20of%20the%20main%20character%20in%20%22The%20Flash%22%20TV%20series%3F",
+        "correct_answer": "Barry%20Allen",
+        "incorrect_answers": [
+          "Oliver%20Queen",
+          "Bart%20Allen",
+          "Bruce%20Wayne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20was%20the%20star%20of%20the%20TV%20series%20%2224%22%3F",
+        "correct_answer": "Kiefer%20Sutherland",
+        "incorrect_answers": [
+          "Kevin%20Bacon",
+          "Hugh%20Laurie",
+          "Rob%20Lowe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20does%20Bart%20sell%20his%20soul%20for%20in%20The%20Simpsons%20episode%20%27Bart%20Sells%20His%20Soul%27%3F",
+        "correct_answer": "%245",
+        "incorrect_answers": [
+          "A%20Copy%20of%20Bonestorm%202",
+          "%24100",
+          "A%20Giant%20Gobstopper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20Star%20Trek%3A%20The%20Next%20Generation%2C%20what%20is%20the%20name%20of%20Data%27s%20cat%3F",
+        "correct_answer": "Spot",
+        "incorrect_answers": [
+          "Mittens",
+          "Tom",
+          "Kitty"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20original%20Doctor%20Who%20series%20%281963%29%2C%20fourth%20doctor%20Tom%20Baker%27s%20scarf%20was%20how%20long%3F",
+        "correct_answer": "7%20Meters",
+        "incorrect_answers": [
+          "10%20Meters",
+          "2%20Meters",
+          "5%20Meters"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20Doctor%20Who%20universe%2C%20how%20many%20times%20can%20a%20time%20lord%20normally%20regenerate%3F",
+        "correct_answer": "12",
+        "incorrect_answers": [
+          "11",
+          "13",
+          "15"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "What%20year%20did%20the%20television%20company%20BBC%20officially%20launch%20the%20channel%20BBC%20One%3F",
+        "correct_answer": "1936",
+        "incorrect_answers": [
+          "1948",
+          "1932",
+          "1955"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "British%20actor%20David%20Morrissey%20stars%20as%20which%20role%20in%20%22The%20Walking%20Dead%22%3F",
+        "correct_answer": "The%20Governor",
+        "incorrect_answers": [
+          "Negan",
+          "Rick%20Grimes",
+          "Daryl%20Dixon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22Spongebob%20Squarepants%2C%22%20what%20is%20Mr.%20Krabs%27%20full%20name%3F",
+        "correct_answer": "Eugene%20H.%20Krabs",
+        "incorrect_answers": [
+          "Eugene%20G.%20Krabs",
+          "Eugene%20J.%20Krabs",
+          "Eugene%20D.%20Krabs"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "Pat%20Cashman%2C%20the%20announcer%20for%20Super%20Smash%20Brothers%3A%20Brawl%2C%20also%20featured%20prominently%20in%20what%20famous%20TV%20show%3F",
+        "correct_answer": "Bill%20Nye%20the%20Science%20Guy",
+        "incorrect_answers": [
+          "The%20Muppet%20Show",
+          "Scooby-Doo",
+          "Seinfeld"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Television",
+        "question": "Who%20is%20the%20star%20of%20the%20AMC%20series%20Breaking%20Bad%3F",
+        "correct_answer": "Walter%20White",
+        "incorrect_answers": [
+          "Saul%20Goodman",
+          "Jesse%20Pinkman",
+          "Skyler%20White"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20%22The%20Big%20Bang%20Theory%22%2C%20what%20is%20Howard%20Wolowitz%27s%20nickname%20in%20World%20of%20Warcraft%3F",
+        "correct_answer": "Wolowizard",
+        "incorrect_answers": [
+          "Sheldor",
+          "Rajesh",
+          "Priya"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Television",
+        "question": "In%20the%20Netflix%20show%2C%20Stranger%20Things%2C%20what%20song%20would%20Will%20sing%20to%20himself%20as%20he%20was%20missing%3F",
+        "correct_answer": "Should%20I%20Stay%20or%20Should%20I%20Go%3F",
+        "incorrect_answers": [
+          "Love%20Will%20Tear%20Us%20Apart",
+          "This%20Charming%20Man",
+          "Africa"
+        ]
+      }
+    ]
+  }
+}

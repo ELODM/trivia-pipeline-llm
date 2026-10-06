@@ -1,0 +1,154 @@
+{
+  "token": "ab2d92b455af3bd13706490d9809a1e82d66d38af70dad879482d99f385d47bf",
+  "categories": {
+    "9": {
+      "name": "General Knowledge",
+      "status": "complete",
+      "stored": 469,
+      "reason": "nombre attendu atteint"
+    },
+    "10": {
+      "name": "Entertainment: Books",
+      "status": "complete",
+      "stored": 120,
+      "reason": "nombre attendu atteint"
+    },
+    "11": {
+      "name": "Entertainment: Film",
+      "status": "complete",
+      "stored": 301,
+      "reason": "nombre attendu atteint"
+    },
+    "12": {
+      "name": "Entertainment: Music",
+      "status": "complete",
+      "stored": 495,
+      "reason": "nombre attendu atteint"
+    },
+    "13": {
+      "name": "Entertainment: Musicals & Theatres",
+      "status": "complete",
+      "stored": 36,
+      "reason": "nombre attendu atteint"
+    },
+    "14": {
+      "name": "Entertainment: Television",
+      "status": "complete",
+      "stored": 196,
+      "reason": "nombre attendu atteint"
+    },
+    "15": {
+      "name": "Entertainment: Video Games",
+      "status": "complete",
+      "stored": 1186,
+      "reason": "nombre attendu atteint"
+    },
+    "16": {
+      "name": "Entertainment: Board Games",
+      "status": "complete",
+      "stored": 78,
+      "reason": "nombre attendu atteint"
+    },
+    "17": {
+      "name": "Science & Nature",
+      "status": "complete",
+      "stored": 299,
+      "reason": "nombre attendu atteint"
+    },
+    "18": {
+      "name": "Science: Computers",
+      "status": "complete",
+      "stored": 192,
+      "reason": "nombre attendu atteint"
+    },
+    "19": {
+      "name": "Science: Mathematics",
+      "status": "complete",
+      "stored": 79,
+      "reason": "catégorie épuisée (code 4)"
+    },
+    "20": {
+      "name": "Mythology",
+      "status": "complete",
+      "stored": 71,
+      "reason": "nombre attendu atteint"
+    },
+    "21": {
+      "name": "Sports",
+      "status": "complete",
+      "stored": 176,
+      "reason": "nombre attendu atteint"
+    },
+    "22": {
+      "name": "Geography",
+      "status": "complete",
+      "stored": 383,
+      "reason": "nombre attendu atteint"
+    },
+    "23": {
+      "name": "History",
+      "status": "complete",
+      "stored": 411,
+      "reason": "nombre attendu atteint"
+    },
+    "24": {
+      "name": "Politics",
+      "status": "complete",
+      "stored": 77,
+      "reason": "nombre attendu atteint"
+    },
+    "25": {
+      "name": "Art",
+      "status": "complete",
+      "stored": 59,
+      "reason": "nombre attendu atteint"
+    },
+    "26": {
+      "name": "Celebrities",
+      "status": "complete",
+      "stored": 53,
+      "reason": "nombre attendu atteint"
+    },
+    "27": {
+      "name": "Animals",
+      "status": "complete",
+      "stored": 99,
+      "reason": "nombre attendu atteint"
+    },
+    "28": {
+      "name": "Vehicles",
+      "status": "complete",
+      "stored": 87,
+      "reason": "nombre attendu atteint"
+    },
+    "29": {
+      "name": "Entertainment: Comics",
+      "status": "complete",
+      "stored": 79,
+      "reason": "nombre attendu atteint"
+    },
+    "30": {
+      "name": "Science: Gadgets",
+      "status": "complete",
+      "stored": 40,
+      "reason": "nombre attendu atteint"
+    },
+    "31": {
+      "name": "Entertainment: Japanese Anime & Manga",
+      "status": "complete",
+      "stored": 204,
+      "reason": "nombre attendu atteint"
+    },
+    "32": {
+      "name": "Entertainment: Cartoon & Animations",
+      "status": "complete",
+      "stored": 108,
+      "reason": "nombre attendu atteint"
+    }
+  },
+  "runs": [
+    {
+      "finished_at": "2026-10-06T10:09:29.458677+00:00"
+    }
+  ]
+}

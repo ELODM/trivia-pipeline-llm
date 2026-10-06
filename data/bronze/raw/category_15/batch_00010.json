@@ -1,0 +1,594 @@
+{
+  "category_id": 15,
+  "fetched_at": "2026-10-06T10:01:02.677724+00:00",
+  "request": {
+    "amount": 50,
+    "category": 15,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20Sonic%20the%20Hedgehog%20game%20was%20originally%20supposed%20to%20be%20packaged%20with%20Sonic%203%2C%20but%20was%20cut%20in%20half%20due%20to%20time%20constraints%3F",
+        "correct_answer": "Sonic%20%26%20Knuckles",
+        "incorrect_answers": [
+          "Sonic%202",
+          "Sonic%20CD",
+          "Sonic%203D%20Blast"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20vehicle%20in%20PUBG%20has%20the%20highest%20top%20speed%3F",
+        "correct_answer": "Motorcycle",
+        "incorrect_answers": [
+          "PG-117",
+          "Dacia",
+          "Buggy"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Half-Life%202%20universe%2C%20how%20long%20did%20it%20take%20for%20the%20Combine%20to%20take%20complete%20control%20of%20the%20earth%3F",
+        "correct_answer": "7%20hours",
+        "incorrect_answers": [
+          "3%20months",
+          "24%20hours",
+          "1%20week"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20games%20was%20NOT%20included%20in%20Valve%27s%20%22The%20Orange%20Box%22%3F",
+        "correct_answer": "Left%204%20Dead",
+        "incorrect_answers": [
+          "Half-Life%202%3A%20Episode%20Two",
+          "Portal",
+          "Team%20Fortress%202"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20city%20hosted%20the%20CS%3AGO%20Dreamhack%20Open%202015%3F",
+        "correct_answer": "Cluj-Napoca",
+        "incorrect_answers": [
+          "Cologne",
+          "Atlanta",
+          "London"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Mario%20Kart%2064%22%2C%20Waluigi%20is%20a%20playable%20character.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20franchise%20had%20a%20special%20event%20hosted%20in%20the%20popular%20MMORPG%20Final%20Fantasy%20XIV%3A%20A%20Realm%20Reborn%3F",
+        "correct_answer": "Yo-kai%20Watch",
+        "incorrect_answers": [
+          "Pok%C3%A9mon",
+          "Yu-gi-oh",
+          "Buddyfight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20maximum%20HP%20in%20Terraria%3F",
+        "correct_answer": "500",
+        "incorrect_answers": [
+          "400",
+          "1000",
+          "100"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20are%20the%20names%20of%20the%20Ice%20Climbers%20in%20the%20video%20game%20Ice%20Climber%3F",
+        "correct_answer": "Popo%20and%20Nana",
+        "incorrect_answers": [
+          "Popo%20and%20Nina",
+          "Papi%20and%20Nana",
+          "Papi%20and%20Nina"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%202005%20video%20game%20%22Call%20of%20Duty%202%3A%20Big%20Red%20One%22%20is%20not%20available%20on%20PC.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Forza%20Motorsport%206%2C%20which%20of%20these%20track-exclusive%20cars%20was%20NOT%20featured%20in%20the%20game%2C%20either%20originally%20with%20the%20game%20or%20added%20as%20DLC%3F",
+        "correct_answer": "Aston%20Martin%20Vulcan",
+        "incorrect_answers": [
+          "Ferrari%20FXX-K",
+          "McLaren%20P1%20GTR",
+          "Lotus%20E23"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "According%20to%20the%20lore%20of%20%22Starbound%22%2C%20what%20does%20the%20%22Colony%20Deed%22%20do%20when%20it%20is%20placed%20down%3F",
+        "correct_answer": "Sends%20out%20an%20advertisement%20for%20someone%20to%20move%20in.",
+        "incorrect_answers": [
+          "Teleports%20somebody%20from%20somewhere%20on%20the%20planet%20it%20is%20placed.",
+          "Teleports%20a%20random%20person%20to%20the%20location.",
+          "Materializes%20a%20new%20being%20at%20it%27s%20location."
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "As%20of%20February%202019%2C%20the%20%22Donkey%20Kong%20Country%22%20series%20only%20had%20released%20five%20games%20%28not%20counting%20remakes%20or%20ports%29.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Kingdom%20Hearts%22%2C%20what%20is%20the%20name%20of%20Sora%27s%20home%20world%3F",
+        "correct_answer": "Destiny%20Islands",
+        "incorrect_answers": [
+          "Agrabah",
+          "Land%20of%20Departure",
+          "Disney%20Town"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20the%20following%20names%20is%20the%20%22Mega%20Man%22%20Franchise%20known%20as%20in%20Japan%3F",
+        "correct_answer": "Rockman",
+        "incorrect_answers": [
+          "Paperman",
+          "Scissorsman",
+          "Mega%20Man"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22FTL%3A%20Faster%20Than%20Light%22%2C%20how%20many%20races%20are%20there%2C%20including%20the%20Lanius%3F",
+        "correct_answer": "8",
+        "incorrect_answers": [
+          "9",
+          "7",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20characters%20in%20%22Undertale%22%20can%20the%20player%20NOT%20go%20on%20a%20date%20with%3F",
+        "correct_answer": "Toriel",
+        "incorrect_answers": [
+          "Papyrus",
+          "Undyne",
+          "Alphys"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20composed%20the%20soundtrack%20for%20the%20game%20VVVVVV%3F",
+        "correct_answer": "Magnus%20P%C3%A5lsson",
+        "incorrect_answers": [
+          "Terry%20Cavanagh",
+          "Danny%20Baranowsky",
+          "Joel%20Zimmerman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Overwatch%2C%20which%20ape%20species%20is%20the%20hero%20Winston%3F",
+        "correct_answer": "Gorilla",
+        "incorrect_answers": [
+          "Orangutan",
+          "Chimpanzee",
+          "Gibbon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20half-demon%20character%20in%20Divinity%3A%20Original%20Sin%202%20who%20you%20talk%20to%20to%20transition%20between%20acts%3F",
+        "correct_answer": "Malady",
+        "incorrect_answers": [
+          "Meister%20Siva",
+          "Gawin",
+          "Exter"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20game%20was%20used%20to%20advertise%20Steam%3F",
+        "correct_answer": "Counter-Strike%201.6",
+        "incorrect_answers": [
+          "Half-Life",
+          "Half-Life%202",
+          "Team%20Fortress"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Who%20is%20the%20leader%20of%20the%20Brotherhood%20of%20Nod%20in%20the%20Command%20and%20Conquer%20series%3F",
+        "correct_answer": "Kane",
+        "incorrect_answers": [
+          "Joseph%20Stalin",
+          "CABAL",
+          "Yuri"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "GoldenEye%20007%20on%20the%20Nintendo%2064%20was%20planned%20to%20allow%20you%20to%20play%20as%20all%20previous%20Bond%20actors%2C%20with%20the%20exception%20of%20who%3F",
+        "correct_answer": "George%20Lazenby",
+        "incorrect_answers": [
+          "Roger%20Moore",
+          "Sean%20Connery",
+          "Timothy%20Dalton"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20year%20did%20the%20game%20%22Overwatch%22%20enter%20closed%20beta%3F",
+        "correct_answer": "2015",
+        "incorrect_answers": [
+          "2013",
+          "2011",
+          "2016"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Starbound%22%2C%20the%20track%20played%20by%20the%20Decorated%20Music%20Box%20is%20named%20%22Atlas%22.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Super%20Mario%20Bros.%20was%20released%20in%201990.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20fastest%20speed%20possible%20in%20Trackmania%C2%B2%3A%20Stadium%3F",
+        "correct_answer": "1000%20%20km%2Fh",
+        "incorrect_answers": [
+          "500%20km%2Fh",
+          "320%20km%2Fh",
+          "100%20km%2Fh"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20does%20the%20D%20stand%20for%20in%20D-pad%2C%20found%20on%20most%20video%20game%20controllers%3F",
+        "correct_answer": "Directional",
+        "incorrect_answers": [
+          "Dynamic",
+          "Dial-up",
+          "Design"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20%22Worms%22%20series%20of%20video%20games%2C%20which%20of%20these%20weapons%20is%20affected%20by%20wind%3F",
+        "correct_answer": "Bazooka",
+        "incorrect_answers": [
+          "Grenade",
+          "Air%20Strike",
+          "Mortar"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%22Undertale%22%20is%20an%20RPG%20created%20by%20Toby%20Fox%20and%20released%20in%202015.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Minecraft%2C%20what%20update%20did%20foods%20like%20steak%20become%20stackable%3F",
+        "correct_answer": "Beta%201.8",
+        "incorrect_answers": [
+          "Alpha%201.2.0",
+          "Release%201.12.1",
+          "Release%201.7.2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Dead%20Rising%22%2C%20what%20is%20the%20profession%20of%20the%20main%20character%20Frank%20West%3F",
+        "correct_answer": "Photojournalist",
+        "incorrect_answers": [
+          "Motorbike%20Performer",
+          "Bartender",
+          "Mechanic"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Pok%C3%A9mon%2C%20Bulbasaur%20is%20the%20only%20starter%20pokemon%20that%20is%20a%20Grass%2FPoison%20type.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20game%20%22Destiny%2C%22%20the%20three%20subclasses%20of%20the%20Hunter%20are%20Bladedancer%2C%20Nightstalker%2C%20and%20Sunsinger.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20was%20the%20name%20of%20the%20first%20MMORPG%20to%20popularize%20the%20genre%3F",
+        "correct_answer": "Ultima%20Online",
+        "incorrect_answers": [
+          "World%20of%20Warcraft",
+          "Meridian%2059",
+          "Guild%20Wars"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20Fallout%3A%20New%20Vegas%20add-on%20Lonesome%20Road%2C%20Ulysses%20wields%20a%20flag%20pole%20named%20The%20Liberator.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20canonical%20name%20of%20the%20Persona%204%20protagonist%3F",
+        "correct_answer": "Yu%20Narukami",
+        "incorrect_answers": [
+          "Minato%20Arisato",
+          "Soji%20Seta",
+          "Nagito%20Komaeda"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "%20Which%20of%20these%20champions%20from%20the%20MOBA%20%27League%20of%20Legends%27%20is%20NOT%20a%20Yordle%3F",
+        "correct_answer": "Annie",
+        "incorrect_answers": [
+          "Veigar",
+          "Tristana",
+          "Lulu"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20is%20the%20name%20of%20the%20main%20island%20in%20PLAYERUNKNOWN%27S%20BATTLEGROUNDS%3F",
+        "correct_answer": "Erangel",
+        "incorrect_answers": [
+          "Marmara",
+          "Severny",
+          "Lastovo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20%22Starbound%22%2C%20what%20is%20the%20max%20HP%20of%20the%20monster%20%22Punchy%22%3F",
+        "correct_answer": "50%2C000%20HP",
+        "incorrect_answers": [
+          "9%2C000%2C000%20HP",
+          "100%20HP",
+          "150%2C000%20HP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20what%20year%20was%20%22Super%20Mario%20Sunshine%22%20released%3F",
+        "correct_answer": "2002",
+        "incorrect_answers": [
+          "2003",
+          "2000",
+          "2004"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "What%20two%20characters%20from%20the%20game%20Undertale%20are%20never%20in%20a%20relationship%20or%20not%20related%3F",
+        "correct_answer": "Frisk%20%26%20Chara",
+        "incorrect_answers": [
+          "Sans%20%26%20Papyrus",
+          "Toriel%20%26%20Asgore",
+          "Alphys%20%26%20Undyne"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "Which%20of%20these%20is%20NOT%20a%20map%20included%20in%20the%20game%20Counter-Strike%3A%20Global%20Offensive%3F",
+        "correct_answer": "Oilrig",
+        "incorrect_answers": [
+          "Assault",
+          "Mirage",
+          "Cache"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Need%20for%20Speed%3A%20Most%20Wanted%20%282005%29%2C%20what%20was%20the%20name%20of%20the%20main%20antagonist%3F",
+        "correct_answer": "Clarence%20%22Razor%22%20Callahan",
+        "incorrect_answers": [
+          "Hector%20%22Ming%22%20Domingo",
+          "Toru%20%22Bull%22%20Sato",
+          "Karl%20%22Baron%22%20Smit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Minecraft%3A%20Java%20Edition%2C%20which%20of%20the%20following%20feature%2Fblock%20was%20added%20to%20Survival%20mode%20in%20Beta%201.3%3F",
+        "correct_answer": "Beds",
+        "incorrect_answers": [
+          "Hunger",
+          "The%20Nether",
+          "Grass"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20beta%20version%20of%20the%201986%20game%20%22The%20Legend%20of%20Zelda%22%2C%20players%20have%20the%20choice%20between%20a%20sword%20and%20what%20other%20item%3F",
+        "correct_answer": "Boomerang%20",
+        "incorrect_answers": [
+          "Spear",
+          "Slingshot",
+          "Crossbow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "During%20development%20of%20%22Super%20Mario%20World%22%2C%20Yoshi%27s%20hard%20saddle%20was%20originally%20which%20of%20these%3F",
+        "correct_answer": "A%20shell",
+        "incorrect_answers": [
+          "A%20slide%20of%20Gelatin",
+          "A%20poffin",
+          "A%20spike"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "The%20game%20Garry%27s%20Mod%20originally%20took%20assets%20and%20codes%20from%20the%20popular%20Half%20Life%202%20mod%20JBmod.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20Fallout%3A%20New%20Vegas%2C%20upon%20starting%20each%20one%20of%20the%20four%20campaign%20DLCs%2C%20which%20one%20of%20them%20does%20not%20have%20a%20warning%20screen%2Frecommended%20level%3F%20",
+        "correct_answer": "Honest%20Hearts%20",
+        "incorrect_answers": [
+          "Old%20World%20Blues",
+          "Lonesome%20Road",
+          "Dead%20Money"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Video%20Games",
+        "question": "In%20the%20title%20of%20the%20game%20%22Luigi%27s%20Mansion%22%2C%20what%20is%20the%20only%20letter%20to%20not%20appear%20with%20a%20pair%20of%20eyes%20in%20it%3F",
+        "correct_answer": "s",
+        "incorrect_answers": [
+          "n",
+          "i",
+          "m"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:58:41.640410+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20The%20Lumineers%3F",
+        "correct_answer": "Wesley%20Schultz",
+        "incorrect_answers": [
+          "Jeremiah%20Fraites",
+          "Jay%20Van%20Dyke",
+          "Neyla%20Pekarek"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20first%20music%20video%20to%20be%20broadcast%20on%20MTV%3F",
+        "correct_answer": "Video%20Killed%20the%20Radio%20Star",
+        "incorrect_answers": [
+          "Take%20On%20Me",
+          "Walk%20This%20Way",
+          "Hungry%20Like%20the%20Wolf"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Kanye%20West%20at%202009%20VMA%27s%20interrupted%20which%20celebrity%3F",
+        "correct_answer": "Taylor%20Swift",
+        "incorrect_answers": [
+          "MF%20DOOM",
+          "Beyonce",
+          "Beck"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Myoui%20Mina%2C%20member%20of%20Korean%20girl%20group%20TWICE%2C%20was%20born%20in%20South%20Korea%2C%20despite%20being%20Japanese.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%202016%20song%20%22Starboy%22%20by%20Canadian%20singer%20The%20Weeknd%20features%20which%20prominent%20electronic%20artist%3F",
+        "correct_answer": "Daft%20Punk",
+        "incorrect_answers": [
+          "deadmau5",
+          "Disclosure",
+          "DJ%20Shadow"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20Who%27s%20eponymous%20line%2C%20%22Teenage%20Wasteland%22%2C%20appears%20in%20which%20of%20their%20songs%3F",
+        "correct_answer": "Baba%20O%27%20Riley",
+        "incorrect_answers": [
+          "The%20Seeker",
+          "Won%27t%20Get%20Fooled%20Again",
+          "Pinball%20Wizard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Long%20John%20Baldry%2C%20the%20voice%20of%20Dr.%20Robotnik%20in%20Adventures%20Of%20Sonic%20The%20Hedgehog%2C%20was%20in%20a%20band%20with%20which%20music%20artist%20in%20the%201960s%3F",
+        "correct_answer": "Elton%20John",
+        "incorrect_answers": [
+          "Freddie%20Mercury",
+          "Paul%20McCartney",
+          "Johnny%20Cash"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Green%20Day%27s%20album%20%27American%20Idiot%27%20is%20considered%20a%20%22punk%20rock%20opera.%22",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Beatle%20wrote%20and%20sang%20the%20song%20%22Why%20Don%27t%20We%20Do%20It%20in%20the%20Road%22%20after%20being%20inspired%20by%20seeing%20two%20monkeys%20copulating%20in%20the%20street%3F",
+        "correct_answer": "Paul",
+        "incorrect_answers": [
+          "John",
+          "George",
+          "Ringo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20did%20Tame%20Impala%20release%20their%20second%20album%3F",
+        "correct_answer": "2012",
+        "incorrect_answers": [
+          "2015",
+          "2010",
+          "1967"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20is%20not%20by%20TheFatRat%3F",
+        "correct_answer": "Ascent",
+        "incorrect_answers": [
+          "Monody",
+          "Windfall",
+          "Infinite%20Power%21"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20%22K%22%20in%20%22K-Pop%22%20stands%20for%20which%20word%3F",
+        "correct_answer": "Korean",
+        "incorrect_answers": [
+          "Kenyan",
+          "Kazakhstan",
+          "Kuwaiti"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20real%20name%20of%20rapper%2C%20The%20Notorious%20B.I.G%3F",
+        "correct_answer": "Christopher%20Wallace",
+        "incorrect_answers": [
+          "Calvin%20Cordozar%20Broadus%20Jr.",
+          "O%27Shea%20Jackson",
+          "Eric%20Lynn%20Wright"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20studio%20album%20by%20the%20band%20Pink%20Floyd%3F",
+        "correct_answer": "Moving%20Pictures",
+        "incorrect_answers": [
+          "The%20Dark%20Side%20of%20the%20Moon",
+          "Wish%20You%20Were%20Here",
+          "Animals"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "According%20to%20the%20American%20rapper%20Nelly%2C%20what%20should%20you%20do%20when%20its%20hot%20in%20here%3F",
+        "correct_answer": "Take%20off%20all%20your%20clothes",
+        "incorrect_answers": [
+          "Take%20a%20cool%20shower",
+          "Drink%20some%20water",
+          "Go%20skinny%20dipping"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20the%20main%20character%20from%20the%20music%20video%20of%20%22Shelter%22%20by%20Porter%20Robinson%20and%20A-1%20Studios%3F",
+        "correct_answer": "Rin",
+        "incorrect_answers": [
+          "Rem",
+          "Ren",
+          "Ram"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20the%20British%20pop%20rock%20band%20Coldplay%3F",
+        "correct_answer": "Chris%20Martin",
+        "incorrect_answers": [
+          "Jonny%20Buckland",
+          "Guy%20Berryman",
+          "Will%20Champion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20is%20not%20by%20Tatsuro%20Yamashita%3F",
+        "correct_answer": "Lucky%20Lady%20Feel%20So%20Good%20",
+        "incorrect_answers": [
+          "Merry-Go%20Round",
+          "Let%27s%20Dance%20Baby",
+          "Love%20Talkin%27"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Some%20people%20call%20me%20the%20space%20cowboy%22%20is%20the%20first%20line%20from%20what%20song%3F",
+        "correct_answer": "The%20Joker",
+        "incorrect_answers": [
+          "Fandango",
+          "Take%20The%20Money%20and%20Run",
+          "Fly%20Like%20an%20Eagle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20animal%20is%20featured%20on%20the%20cover%20of%20English%20electronic%20music%20group%20The%20Prodigy%27s%20album%2C%20%22The%20Fat%20of%20the%20Land%22%3F",
+        "correct_answer": "Crab",
+        "incorrect_answers": [
+          "Fox",
+          "Elephant",
+          "Tiger"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20bands%20is%20Tom%20DeLonge%20not%20a%20part%20of%3F",
+        "correct_answer": "%2B44",
+        "incorrect_answers": [
+          "Box%20Car%20Racer",
+          "Blink-182",
+          "Angels%20%26%20Airwaves"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20Arctic%20Monkeys%3F",
+        "correct_answer": "Alex%20Turner",
+        "incorrect_answers": [
+          "Jamie%20Cook",
+          "Matt%20Helders",
+          "Nick%20O%27Malley"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20was%20the%203rd%20album%20%22Notes%20from%20the%20Underground%22%20of%20the%20band%20%22Hollywood%20Undead%22%20released%3F",
+        "correct_answer": "2013",
+        "incorrect_answers": [
+          "2011",
+          "2014",
+          "2009"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "May%2016th%20of%20every%20year%20is%20known%20as%20__________%20Day%2C%20named%20after%20a%20punk%20band%20prominent%20in%20the%201990s.",
+        "correct_answer": "Lagwagon",
+        "incorrect_answers": [
+          "Goldfinger",
+          "Less%20Than%20Jake",
+          "Lit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Beatle%20led%20the%20way%20across%20the%20zebra%20crossing%20on%20the%20Abbey%20Road%20album%20cover%3F",
+        "correct_answer": "John",
+        "incorrect_answers": [
+          "Paul",
+          "George",
+          "Ringo"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20song%20%22Caramelldansen%22%20is%20commonly%20mistaken%20as%20a%20Japanese%20song%2C%20what%20language%20is%20the%20song%20actually%20sung%20in%3F",
+        "correct_answer": "Swedish",
+        "incorrect_answers": [
+          "Hungarian",
+          "Finnish",
+          "Chinese"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20musical%20group%20won%20the%20Brit%20Awards%20in%201985%2C%20with%20George%20Michael%20as%20a%20member%3F",
+        "correct_answer": "Wham%21",
+        "incorrect_answers": [
+          "Frankie%20Goes%20to%20Hollywood",
+          "U2",
+          "Culture%20Club"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20is%20not%20on%20the%20%22untitled%22%20album%20by%20Led%20Zeppelin%3F",
+        "correct_answer": "Celebration%20Day",
+        "incorrect_answers": [
+          "Stairway%20to%20Heaven",
+          "Black%20Dog",
+          "Rock%20and%20Roll"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22The%20Singing%20Cowboy%22%20Gene%20Autry%20is%20credited%20with%20the%20first%20recording%20for%20all%20but%20which%20classic%20Christmas%20jingle%3F",
+        "correct_answer": "White%20Christmas",
+        "incorrect_answers": [
+          "Frosty%20the%20Snowman",
+          "Rudolph%20the%20Red-Nosed%20Reindeer",
+          "Here%20Comes%20Santa%20Claus"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%202011%20movie%20%22The%20Adventures%20of%20Tintin%22%20was%20directed%20by%20Steven%20Spielberg.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%22Drink%20the%20Sea%22%20is%20an%20album%20by%20which%20electronic%20music%20artist%3F",
+        "correct_answer": "The%20Glitch%20Mob",
+        "incorrect_answers": [
+          "Avicii",
+          "XXYYXX",
+          "Flux%20Pavilion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20singer%20was%20featured%20in%20Swedish%20producer%20Avicii%27s%20song%20%22Wake%20Me%20Up%22%3F",
+        "correct_answer": "Aloe%20Blacc",
+        "incorrect_answers": [
+          "John%20Legend",
+          "CeeLo%20Green",
+          "Pharrell%20Williams"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%27I%27m%20never%20gonna%20dance%20again%2C%20guilty%20feet%20have%20got%20no%20rhythm%27%20were%20lyrics%20from%20which%20Wham%21%20hit%20single%3F",
+        "correct_answer": "Careless%20Whisper",
+        "incorrect_answers": [
+          "Wake%20Me%20Up%20Before%20You%20Go-Go",
+          "Last%20Christmas",
+          "Everything%20She%20Wants"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20what%20year%20did%20US%20band%20Weezer%20release%20Weezer%20%28The%20White%20Album%29%3F",
+        "correct_answer": "2016",
+        "incorrect_answers": [
+          "2001",
+          "2008",
+          "2019"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Iconic%20cartoon%20character%20Mickey%20Mouse%20made%20his%20onscreen%20debut%20in%20what%20year%3F",
+        "correct_answer": "1928",
+        "incorrect_answers": [
+          "1929",
+          "1922",
+          "1932"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20first%20track%20on%20the%20Dave%20Matthews%20Band%20album%20%22Before%20These%20Crowded%20Streets%22%3F",
+        "correct_answer": "Pantala%20Naga%20Pampa",
+        "incorrect_answers": [
+          "Stay%20%28Wasting%20Time%29",
+          "Rapunzel",
+          "Don%27t%20Drink%20The%20Water"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20country%20is%20singer%20Kyary%20Pamyu%20Pamyu%20from%3F",
+        "correct_answer": "Japan",
+        "incorrect_answers": [
+          "South%20Korea",
+          "China",
+          "Vietnam"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "%2774%E2%80%93%2775%20is%20a%201993%20single%20from%20the%20album%20Ring%20by%20what%20American%20band%3F",
+        "correct_answer": "The%20Connells",
+        "incorrect_answers": [
+          "R.E.M.",
+          "The%20Ocean%20Blue",
+          "The%20Bangles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20the%20subject%20of%20the%202014%20song%20%22CoCo%22%20by%20American%20rapper%20O.%20T.%20Genasis%3F",
+        "correct_answer": "Cocaine",
+        "incorrect_answers": [
+          "Conan%20O%27Brien",
+          "Cobalt%28II%29%20carbonate",
+          "Coconut%20cream%20pie"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20featured%20in%20the%20song%20%22Words%22%20by%20Feint%3F%20",
+        "correct_answer": "Laura%20Brehm",
+        "incorrect_answers": [
+          "Anna%20Yvette%20",
+          "Danyka%20Nadeau",
+          "Veela"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "The%20music%20video%20to%20The%20Buggle%27s%20%22Video%20Killed%20the%20Radio%20Star%22%20was%20the%20first%20music%20video%20to%20broadcast%20on%20MTV.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pink%20Floyd%20made%20this%20song%20for%20their%20previous%20lead%20singer%20Syd%20Barrett.",
+        "correct_answer": "Shine%20On%20You%20Crazy%20Diamond",
+        "incorrect_answers": [
+          "Wish%20You%20Were%20Here",
+          "Have%20A%20Cigar",
+          "Welcome%20to%20the%20Machine"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20kind%20of%20instrument%20is%20a%20%22Mandolin%22%3F",
+        "correct_answer": "String",
+        "incorrect_answers": [
+          "Brass",
+          "Percussion",
+          "Woodwind"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20an%20album%20released%20by%20The%20Beatles%3F",
+        "correct_answer": "The%20Wall",
+        "incorrect_answers": [
+          "Abbey%20Road",
+          "Magical%20Mystery%20Tour",
+          "Revolver"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20Iron%20Maiden%20album%20did%20the%20song%20%22Dream%20of%20Mirrors%22%20feature%20in%3F",
+        "correct_answer": "Brave%20New%20World",
+        "incorrect_answers": [
+          "Dance%20of%20Death",
+          "A%20Matter%20of%20Life%20and%20Death",
+          "Somewhere%20in%20Time"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20member%20of%20%22The%20Beatles%22%20narrated%20episodes%20of%20%22Thomas%20the%20Tank%20Engine%22%3F",
+        "correct_answer": "Ringo%20Starr",
+        "incorrect_answers": [
+          "George%20Harrison",
+          "John%20Lennon",
+          "Paul%20McCartney"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20artists%20did%20NOT%20feature%20in%20the%20fitfh%20studio%20album%20%22Humanz%22%20by%20British%20virtual%20band%20Gorillaz%3F",
+        "correct_answer": "Snoop%20Dogg",
+        "incorrect_answers": [
+          "Vince%20Staples",
+          "Pusha%20T",
+          "Danny%20Brown"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20most%20streamed%20artist%20on%20Spotify%20in%202019%3F",
+        "correct_answer": "Post%20Malone",
+        "incorrect_answers": [
+          "Billie%20Eilish",
+          "Ariana%20Grande",
+          "Drake"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20song%20in%20BROCKHAMPTON%27s%20SATURATION%20album%20series%3F",
+        "correct_answer": "LAMB",
+        "incorrect_answers": [
+          "HOTTIE",
+          "SWAMP",
+          "BUMP"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20genre%20of%20music%20did%20the%20band%20Type%20O%20Negative%20play%3F",
+        "correct_answer": "Gothic%20Metal",
+        "incorrect_answers": [
+          "Thrash%20Metal",
+          "Hard%20Rock%20",
+          "Pop%20Rock"
+        ]
+      }
+    ]
+  }
+}

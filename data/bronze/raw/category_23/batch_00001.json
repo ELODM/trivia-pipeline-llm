@@ -1,0 +1,604 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:00.231673+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20did%20the%20Vietnam%20War%20end%3F",
+        "correct_answer": "1975",
+        "incorrect_answers": [
+          "1978",
+          "1967",
+          "1969"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20was%20Manfred%20von%20Richthofen%27s%20nickname%3F",
+        "correct_answer": "The%20Red%20Baron",
+        "incorrect_answers": [
+          "The%20High%20Flying%20Ace",
+          "The%20Blue%20Serpent%20",
+          "The%20Germany%20Gunner"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20United%20States%20Army%20Air%20Corps%20became%20the%20United%20States%20Air%20Force%20on%20what%20date%3F",
+        "correct_answer": "September%2018%2C%201947",
+        "incorrect_answers": [
+          "December%2014%2C%201946",
+          "October%2027%2C%201945",
+          "November%2008%2C%201944"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20game%20was%20the%20Game%20of%20the%20Year%20in%202018%3F",
+        "correct_answer": "God%20of%20War",
+        "incorrect_answers": [
+          "Detroit%3A%20Become%20Human",
+          "Red%20Dead%20Redemption%202",
+          "A%20Way%20Out"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20were%20the%20Marian%20Reforms%20instituted%20in%20the%20Roman%20Republic%3F",
+        "correct_answer": "107%20BCE",
+        "incorrect_answers": [
+          "42%20BCE",
+          "264%20BCE",
+          "102%20CE"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20is%20the%20mnemonic%20device%20for%20remembering%20the%20fates%20of%20the%20wives%20of%20Henry%20VIII%3F",
+        "correct_answer": "Divorced%2C%20Beheaded%2C%20Died%2C%20Divorced%2C%20Beheaded%2C%20Survived",
+        "incorrect_answers": [
+          "Beheaded%2C%20Died%2C%20Divorced%2C%20Divorced%2C%20Beheaded%2C%20Survived",
+          "Died%2C%20Beheaded%2C%20Divorced%2C%20Beheaded%2C%20Survived%2C%20Divorced",
+          "Survived%2C%20Beheaded%2C%20Died%2C%20Divorced%2C%20Divorced%2C%20Beheaded"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20U.S.%20president%20was%20said%20to%20have%20been%20too%20honest%20to%20lie%20to%20his%20father%20about%20chopping%20down%20a%20cherry%20tree%3F",
+        "correct_answer": "George%20Washington",
+        "incorrect_answers": [
+          "Abraham%20Lincoln",
+          "Thomas%20Jefferson",
+          "James%20Monroe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20was%20the%20President%20of%20the%20United%20States%20during%20the%20signing%20of%20the%20Gadsden%20Purchase%3F",
+        "correct_answer": "Franklin%20Pierce",
+        "incorrect_answers": [
+          "Andrew%20Johnson",
+          "Abraham%20Lincoln",
+          "James%20Polk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20which%20years%20did%20the%20Battle%20of%20Gallipoli%20take%20place%3F",
+        "correct_answer": "1915%20-%201916",
+        "incorrect_answers": [
+          "1914%20-%201918",
+          "1914%20-%201915",
+          "1915%20-%201918"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20year%20was%20Canada%20founded%20in%3F",
+        "correct_answer": "1867",
+        "incorrect_answers": [
+          "1798",
+          "1859",
+          "1668"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "These%20two%20countries%20held%20a%20commonwealth%20from%20the%2016th%20to%2018th%20century.",
+        "correct_answer": "Poland%20and%20Lithuania",
+        "incorrect_answers": [
+          "Hutu%20and%20Rwanda",
+          "North%20Korea%20and%20South%20Korea",
+          "Bangladesh%20and%20Bhutan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Brezhnev%20was%20the%205th%20leader%20of%20the%20USSR.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Hundred%20Years%27%20War%20was%20fought%20for%20more%20than%20a%20hundred%20years.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20seed%20drill%20was%20invented%20by%20which%20British%20inventor%3F",
+        "correct_answer": "Jethro%20Tull",
+        "incorrect_answers": [
+          "Charles%20Babbage",
+          "Isaac%20Newton",
+          "J.J%20Thomson"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Bohdan%20Khmelnytsky%20was%20which%20of%20the%20following%3F",
+        "correct_answer": "Leader%20of%20the%20Ukrainian%20Cossacks",
+        "incorrect_answers": [
+          "General%20Secretary%20of%20the%20Communist%20Party%20of%20the%20USSR",
+          "Prince%20of%20Wallachia",
+          "Grand%20Prince%20of%20Novgorod"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20ancient%20peoples%20was%20NOT%20classified%20as%20Hellenic%20%28Greek%29%3F",
+        "correct_answer": "Illyrians",
+        "incorrect_answers": [
+          "Dorians",
+          "Achaeans",
+          "Ionians"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Abolitionist%20John%20Brown%20raided%20the%20arsenal%20in%20which%20Virginia%20Town%3F",
+        "correct_answer": "Harper%27s%20Ferry",
+        "incorrect_answers": [
+          "Richmond",
+          "Harrisonburg",
+          "Martinsburg"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20Genghis%20Khan%27s%20real%20name%3F",
+        "correct_answer": "Tem%C3%BCjin",
+        "incorrect_answers": [
+          "M%C3%B6ngke",
+          "%C3%96gedei",
+          "Tem%C3%BCr"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20one%20of%20the%20surviving%20palaces%20of%20Henry%20VIII%20located%20near%20Richmond%2C%20London%3F",
+        "correct_answer": "Hampton%20Court",
+        "incorrect_answers": [
+          "St%20James%27s%20Palace",
+          "Buckingham%20Palace",
+          "Coughton%20Court"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20gunpowder%20plot%20was%20a%20well-known%20failed%20assassination%20attempt%20against%20which%20of%20England%27s%20then%C2%A0reigning%20monarchs%3F",
+        "correct_answer": "James%20I",
+        "incorrect_answers": [
+          "Elizabeth%20I",
+          "Charles%20II",
+          "Charles%20I"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Where%20was%20Abraham%20Lincoln%20when%20he%20was%20assassinated%20by%20John%20Wilkes%20Booth%20in%201865%3F",
+        "correct_answer": "At%20the%20theatre",
+        "incorrect_answers": [
+          "On%20a%20boat",
+          "On%20his%20horse",
+          "In%20bed"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20fraudelent%20doctor%20John%20R.%20Brinkley%20acummulated%20great%20fame%20and%20wealth%20in%20the%20early%201900s%20offering%20what%20service%3F",
+        "correct_answer": "Goat%20testicles%20transplant",
+        "incorrect_answers": [
+          "Pig%20blood%20transfusion",
+          "Cow%20liver%20transplant",
+          "Turkey%20breast%20implants"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20United%20States%20Department%20of%20Homeland%20Security%20was%20formed%20in%20response%20to%20the%20September%2011th%20attacks.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20minigun%20was%20designed%20in%201960%20by%20which%20manufacturer.",
+        "correct_answer": "General%20Electric",
+        "incorrect_answers": [
+          "Colt%20Firearms",
+          "Heckler%20%26%20Koch",
+          "Sig%20Sauer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "As%20poverty%20and%20racial%20tensions%20pushed%20African-Americans%20out%20of%20the%20southern%20US%2C%20many%20of%20them%20moved%20north%20in%20an%20event%20known%20as%20what%3F",
+        "correct_answer": "The%20Great%20Migration",
+        "incorrect_answers": [
+          "The%20Great%20Awakening",
+          "The%20Harlem%20Renaissance",
+          "The%20Resettlement"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20Norway%20become%20free%20from%20Sweden%3F",
+        "correct_answer": "1905",
+        "incorrect_answers": [
+          "1925",
+          "1814",
+          "1834"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20Australian%20Prime%20Minister%20disappeared%20in%201967%20and%20was%20never%20found%3F",
+        "correct_answer": "Harold%20Holt",
+        "incorrect_answers": [
+          "Paul%20Keating",
+          "Edmund%20Barton",
+          "Scott%20Morrison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20was%20not%20one%20of%20Joseph%20Stalin%27s%20ten%20blows%20during%20World%20War%20II%3F",
+        "correct_answer": "Vistula-Oder%20Offensive",
+        "incorrect_answers": [
+          "Crimean%20Offensive",
+          "Leningrad-Novgorod%20Offensive",
+          "Operation%20Bagration"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Thomas%20Crapper%20was%20a%20plumber%20who%20invented%20the%20flushing%20toilet.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20was%20the%20first%20sport%20to%20have%20been%20played%20on%20the%20moon%3F",
+        "correct_answer": "Golf",
+        "incorrect_answers": [
+          "Football",
+          "Tennis",
+          "Soccer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20country%20gifted%20the%20Statue%20of%20Liberty%20to%20the%20United%20States%20of%20America%3F",
+        "correct_answer": "France",
+        "incorrect_answers": [
+          "Spain",
+          "England",
+          "Germany"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20Nazi%20General%20was%20known%20as%20the%20%22Desert%20Fox%22%3F",
+        "correct_answer": "Erwin%20Rommel",
+        "incorrect_answers": [
+          "Gerd%20von%20Rundstadt",
+          "Wilhelm%20Keitel",
+          "Heinz%20Guderian%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20these%20countries%20was%20NOT%20a%20part%20of%20the%20Soviet%20Union%3F",
+        "correct_answer": "Afghanistan",
+        "incorrect_answers": [
+          "Turkmenistan",
+          "Kazakhstan",
+          "Uzbekistan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20U.S.%20President%20was%20famously%20%27attacked%27%20by%20a%20swimming%20rabbit%3F",
+        "correct_answer": "Jimmy%20Carter",
+        "incorrect_answers": [
+          "Ronald%20Reagan",
+          "Lydon%20B.%20Johnson",
+          "Gerald%20Ford"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20did%20Canada%20leave%20the%20confederation%20to%20become%20their%20own%20nation%3F",
+        "correct_answer": "July%201st%2C%201867",
+        "incorrect_answers": [
+          "July%201st%2C%201763",
+          "July%201st%2C%201832",
+          "July%201st%2C%201902"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20was%20Adolf%20Hitler%20appointed%20as%20Chancellor%20of%20Germany%3F",
+        "correct_answer": "January%2030%2C%201933",
+        "incorrect_answers": [
+          "September%201%2C%201939",
+          "February%2027%2C%201933",
+          "October%206%2C%201939"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20term%20Luddite%20originally%20applied%20to%20disgruntled%20workers%20in%20which%20industry%3F",
+        "correct_answer": "Textile",
+        "incorrect_answers": [
+          "Farming",
+          "Mining",
+          "Ceramics"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20was%20Finland%27s%20100th%20year%20of%20being%20independent%3F",
+        "correct_answer": "2017",
+        "incorrect_answers": [
+          "2016",
+          "2018",
+          "2015"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20the%20British%20hand-over%20sovereignty%20of%20Hong%20Kong%20back%20to%20China%3F",
+        "correct_answer": "1997",
+        "incorrect_answers": [
+          "1999",
+          "1841",
+          "1900"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Franz%20Joseph%20I%20was%20the%20last%20emperor%20of%20Austria.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Joseph%20Stalin%20had%20a%20criminal%20past%20doing%20what%3F",
+        "correct_answer": "Robbing%20Trains",
+        "incorrect_answers": [
+          "Murder%20for%20Hire",
+          "Tax%20Evasion",
+          "Identity%20Fraud"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "List%20the%20following%20Iranic%20empires%20in%20chronological%20order%3A",
+        "correct_answer": "Median%2C%20Achaemenid%2C%20Parthian%2C%20Sassanid",
+        "incorrect_answers": [
+          "Median%2C%20Achaemenid%2C%20Sassanid%2C%20Parthian",
+          "Achaemenid%2C%20Median%2C%20Parthian%2C%20Sassanid",
+          "Achaemenid%2C%20Median%2C%20Sassanid%2C%20Parthian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%201453%2C%20which%20important%20city%20fell%3F",
+        "correct_answer": "Constantinople",
+        "incorrect_answers": [
+          "Rome",
+          "Hamburg",
+          "Athens"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20Assyrian%20kings%20did%20NOT%20rule%20during%20the%20Neo-Assyrian%20Empire%3F",
+        "correct_answer": "Shamshi-Adad%20III",
+        "incorrect_answers": [
+          "Shalmaneser%20V",
+          "Esharhaddon",
+          "Ashur-nasir-pal%20II"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20%22Trail%20of%20Tears%22%20was%20a%20result%20of%20which%20United%20States%20President%27s%20Indian%20Removal%20Policy%3F",
+        "correct_answer": "Andrew%20Jackson",
+        "incorrect_answers": [
+          "Harry%20S.%20Truman",
+          "Martin%20Van%20Buren",
+          "John%20Quincy%20Adams"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "According%20to%20legend%2C%20the%20ancient%20Greeks%20constructed%20a%20huge%20wooden%20model%20of%20which%20animal%20to%20gain%20entrance%20to%20Troy%3F",
+        "correct_answer": "Horse",
+        "incorrect_answers": [
+          "Goat",
+          "Elephant",
+          "Wolf"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20was%20the%20last%20emperor%20of%20Mexico%3F",
+        "correct_answer": "Ferdinand%20Maximilian",
+        "incorrect_answers": [
+          "Andr%C3%A9s%20Manuel%20L%C3%B3pez%20Obrador",
+          "Napoleon%20III",
+          "Agust%C3%ADn%20de%20Iturbide"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20first%20Legoland%20park%20was%20opened%20in%201968%20in%20which%20of%20these%20cities%3F",
+        "correct_answer": "Billund%2C%20Denmark",
+        "incorrect_answers": [
+          "Carlsbad%2C%20California",
+          "Winter%20Haven%2C%20Florida",
+          "Nagoya%2C%20Japan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20African-American%20cultural%20explosion%20centered%20in%20upper%20Manhattan%20during%20the%201920s%20and%201930s%3F",
+        "correct_answer": "Harlem%20Renaissance",
+        "incorrect_answers": [
+          "Inwood%20Renaissance",
+          "Bed-Stuy%20Renaissance",
+          "Upper%20East%20Renaissance"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20years%20is%20commonly%20referred%20to%20as%20the%20%22Year%20Without%20a%20Summer%22%3F",
+        "correct_answer": "1816",
+        "incorrect_answers": [
+          "1823",
+          "1813",
+          "1808"
+        ]
+      }
+    ]
+  }
+}

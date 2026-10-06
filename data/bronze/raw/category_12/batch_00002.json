@@ -1,0 +1,600 @@
+{
+  "category_id": 12,
+  "fetched_at": "2026-10-06T09:58:46.594340+00:00",
+  "request": {
+    "amount": 50,
+    "category": 12,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "To%20become%20a%20%22one-hit%20wonder%22%20artist%20needs%20to%20release%20only%20one%20song%20per%20year.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20Metallica%27s%20debut%20album%2C%20released%20in%201983%3F",
+        "correct_answer": "Kill%20%27Em%20All",
+        "incorrect_answers": [
+          "...And%20Justice%20for%20All",
+          "Master%20of%20Puppets",
+          "Countdown%20to%20Extinction"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20year%20was%20Huun%20Huur%20Tu%27s%20album%20Altai%20Sayan%20Tandy-Uula%20released%3F%20",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "1993",
+          "2006",
+          "2010"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20Fergie%27s%20debut%20album%20called%3F",
+        "correct_answer": "The%20Dutchess",
+        "incorrect_answers": [
+          "Fergalicious%20",
+          "The%20Sweet%20Escape",
+          "Loose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20bands%20was%20a%20featuring%20artist%20in%20Compton%20rapper%20Kendrick%20Lamar%27s%202017%20album%2C%20%22DAMN.%22%3F",
+        "correct_answer": "U2",
+        "incorrect_answers": [
+          "Radiohead",
+          "Coldplay",
+          "Bon%20Jovi"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Michael%20Jackson%20wrote%20The%20Simpsons%20song%20%22Do%20the%20Bartman%22.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20first%20white%20band%20to%20play%20the%20Apollo%20Theater%3F",
+        "correct_answer": "Buddy%20Holly%20and%20The%20Crickets",
+        "incorrect_answers": [
+          "Chuck%20Berry",
+          "The%20Beatles",
+          "Elvis"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20Justin%20Bieber%27s%20debut%20Album%3F",
+        "correct_answer": "My%20World%202.0",
+        "incorrect_answers": [
+          "U%20Smile",
+          "Baby",
+          "Purpose"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Swedish%20DJ%20Tim%20Bergling%2C%20who%20produced%20songs%20such%20as%20%22Levels%22%20and%20%22Wake%20Me%20Up%22%2C%20is%20better%20known%20under%20what%20alias%3F",
+        "correct_answer": "Avicii",
+        "incorrect_answers": [
+          "deadmau5",
+          "Alesso",
+          "Skrillex"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20song%20on%20Daft%20Punk%27s%20%22Random%20Access%20Memories%22%20features%20Pharrell%20Williams%3F",
+        "correct_answer": "Get%20Lucky",
+        "incorrect_answers": [
+          "Doin%27%20It%20Right",
+          "Instant%20Crush",
+          "The%20Game%20of%20Love"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20The%20Velvet%20Underground%27s%20first%20album%20called%3F",
+        "correct_answer": "The%20Velvet%20Underground%20%26%20Nico",
+        "incorrect_answers": [
+          "Loaded",
+          "The%20Velvet%20Underground",
+          "White%20Light%20%2F%20White%20Heat"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Radiohead%27s%20first%20album%3F",
+        "correct_answer": "Pablo%20Honey",
+        "incorrect_answers": [
+          "The%20Bends",
+          "Kid%20A",
+          "A%20Moon%20Shaped%20Pool"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20songs%20did%20Jimi%20Hendrix%20cover%3F",
+        "correct_answer": "All%20of%20these%20songs",
+        "incorrect_answers": [
+          "Sgt.%20Pepper%27s%20Lonely%20Hearts%20Club%20Band",
+          "All%20Along%20the%20Watchtower",
+          "House%20of%20the%20Rising%20Sun"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Norwegian%20producer%20Kygo%20released%20a%20remix%20of%20the%20song%20%22Sexual%20Healing%22%20by%20Marvin%20Gaye.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Stevie%20Wonder%27s%20real%20name%20is%20Stevland%20Hardaway%20Morris.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20aliases%20has%20NOT%20been%20used%20by%20electronic%20musician%20Aphex%20Twin%3F",
+        "correct_answer": "Burial",
+        "incorrect_answers": [
+          "Caustic%20Window",
+          "Bradley%20Strider",
+          "GAK"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20frontman%27s%20name%20of%20the%20metal%20band%20Megadeth%3F",
+        "correct_answer": "Dave%20Mustaine",
+        "incorrect_answers": [
+          "Rob%20Halford",
+          "Vince%20Neil",
+          "James%20Hetfield"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Pete%20Townshend%20was%20the%20first%20musician%20to%20destroy%20their%20intrument%20live%20on%20stage.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20Led%20Zeppelin%20album%20contains%20%22Stairway%20to%20Heaven%22%3F",
+        "correct_answer": "Led%20Zeppelin%20IV",
+        "incorrect_answers": [
+          "Houses%20of%20the%20Holy",
+          "Physical%20Graffiti",
+          "Led%20Zeppelin%20III"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "When%20was%20the%20Prince%20album%20%22Purple%20Rain%22%20released%3F",
+        "correct_answer": "1984",
+        "incorrect_answers": [
+          "1979",
+          "1983",
+          "1981"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20was%20Daft%20Punk%27s%20first%20studio%20album%3F",
+        "correct_answer": "Homework",
+        "incorrect_answers": [
+          "Discovery",
+          "Random%20Access%20Memories",
+          "Human%20After%20All"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "La%20Fenice%20opera%20house%20is%20in%20which%20Italian%20city%3F",
+        "correct_answer": "Venice",
+        "incorrect_answers": [
+          "Milan",
+          "Rome",
+          "Pompeii"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20lead%20singer%20of%20Silverchair%3F",
+        "correct_answer": "Daniel%20Johns",
+        "incorrect_answers": [
+          "Ben%20Gillies",
+          "Chris%20Joannou",
+          "George%20Costanza"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20had%20hits%20in%20the%2070s%20with%20the%20songs%20%22Lonely%20Boy%22%20and%20%22Never%20Let%20Her%20Slip%20Away%22%3F",
+        "correct_answer": "Andrew%20Gold",
+        "incorrect_answers": [
+          "Elton%20John",
+          "Leo%20Sayer",
+          "Barry%20White%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20Beatles%20band%20members%20is%20barefoot%20on%20the%20front%20cover%20of%20the%20%27Abbey%20Road%27%20album%3F",
+        "correct_answer": "Paul%20McCartney",
+        "incorrect_answers": [
+          "Ringo%20Starr",
+          "George%20Harrison",
+          "John%20Lennon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20released%20the%201991%20album%20%22Out%20of%20Time%22%3F",
+        "correct_answer": "R.E.M.",
+        "incorrect_answers": [
+          "U2",
+          "Coldplay",
+          "The%20Rolling%20Stones"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20English%20title%20of%20the%20vaporwave%20track%20%22%E3%83%AA%E3%82%B5%E3%83%95%E3%83%A9%E3%83%B3%E3%82%AF420%20%2F%20%E7%8F%BE%E4%BB%A3%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%22%20by%20Macintosh%20Plus%20%28Vektroid%29%3F",
+        "correct_answer": "Lisa%20Frank%20420%20%2F%20Modern%20Computing",
+        "incorrect_answers": [
+          "Smoke%20Weed%20420%20%2F%20Everyday",
+          "Make%20Your%20Move%20420%20%2F%20My%20Mind",
+          "It%27s%20All%20In%20Your%20Head%20420%20%2F%20Understand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "According%20to%20their%201974%20hit%2C%20what%20were%20Brownsville%20Station%20doing%20%22In%20The%20Boys%27%20Room%22%3F",
+        "correct_answer": "Smokin%27",
+        "incorrect_answers": [
+          "Hangin%27",
+          "Lovin%27",
+          "Peein%27"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20these%20is%20NOT%20a%20name%20of%20an%20album%20released%20by%20American%20rapper%20Pitbull%3F",
+        "correct_answer": "Welcome%20to%20Miami",
+        "incorrect_answers": [
+          "Dale",
+          "Global%20Warming",
+          "Armando"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20released%20the%20song%20%22Photograph%22%20in%202005%3F",
+        "correct_answer": "Nickelback",
+        "incorrect_answers": [
+          "Fall%20Out%20Boy",
+          "Coldplay",
+          "Green%20Day"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20real%20name%20of%20American%20rapper%20Pitbull%3F",
+        "correct_answer": "Armando%20Christian%20P%C3%A9rez",
+        "incorrect_answers": [
+          "Ram%C3%B3n%20Luis%20Ayala%20Rodr%C3%ADguez",
+          "Benito%20Antonio%20Martinez%20Ocasio",
+          "Belcalis%20Marlenis%20Alm%C3%A1nzar"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "EDM%20label%20Monstercat%20signs%20tracks%20instead%20of%20artists.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20is%20the%20bassist%20of%20the%20British%20rock%20band%20Queen%3F",
+        "correct_answer": "John%20Deacon",
+        "incorrect_answers": [
+          "John%20Major",
+          "John%20Barrowman",
+          "John%20Mayer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "This%20album%2C%20now%20considered%20to%20be%20one%20of%20the%20greatest%20of%20all%20time%2C%20was%20a%20commercial%20failure%20when%20it%20was%20released.",
+        "correct_answer": "The%20Velvet%20Underground%20and%20Nico",
+        "incorrect_answers": [
+          "Abbey%20Road",
+          "Led%20Zeppelin%20IV",
+          "Pet%20Sounds"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20first%20Studio%20Album%20to%20be%20released%20on%20the%20Internet%20with%20a%20%22Pay-What-You-Want%22%20price%3F",
+        "correct_answer": "In%20Rainbows",
+        "incorrect_answers": [
+          "The%20Help%20Album",
+          "Skrillex%20and%20Diplo%20Present%20Jack%20%C3%9C",
+          "Blackstar"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20music%20theory%2C%20how%20many%20notes%20are%20in%20a%20seventh%20chord%3F",
+        "correct_answer": "4",
+        "incorrect_answers": [
+          "3",
+          "7",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20wrote%20the%20song%20%22You%20Know%20You%20Like%20It%22%3F",
+        "correct_answer": "AlunaGeorge",
+        "incorrect_answers": [
+          "DJ%20Snake",
+          "Steve%20Aoki",
+          "Major%20Lazer"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "On%20the%20cover%20of%20%27Abbey%20Road%2C%27%20which%20of%20the%20Beatles%20is%20not%20wearing%20shoes%3F",
+        "correct_answer": "Paul%20McCartney",
+        "incorrect_answers": [
+          "Ringo%20Starr",
+          "John%20Lennon",
+          "George%20Harrison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "In%20the%20%20Rossini%20opera%2C%20what%20was%20the%20name%20of%20%27The%20Barber%20of%20Seville%27%3F",
+        "correct_answer": "Figaro",
+        "incorrect_answers": [
+          "Angelo",
+          "Fernando",
+          "Dave"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20not%20a%20wind%20instrument%3F",
+        "correct_answer": "Viola",
+        "incorrect_answers": [
+          "Oboe",
+          "Trombone",
+          "Duduk"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "According%20to%20the%20RIAA%3A%20Which%20artist%20has%20sold%20the%20most%20albums%20by%20the%20million%3F",
+        "correct_answer": "The%20Beatles",
+        "incorrect_answers": [
+          "Elvis%20Presley",
+          "Michael%20Jackson",
+          "Pink%20Floyd"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Arcade%20Fire%27s%20%27The%20Suburbs%27%20won%20the%20Album%20of%20the%20Year%20award%20in%20the%202011%20Grammys.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Who%20was%20the%20guitarist%20in%20the%20band%20%22The%20Doors%22%3F",
+        "correct_answer": "Robby%20Krieger",
+        "incorrect_answers": [
+          "Eric%20Clapton",
+          "John%20Densmore",
+          "Jimi%20Hendrix"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20French%20duo%20had%20UK%20hits%20in%201998%20with%20the%20songs%20%27Sexy%20Boy%27%2C%20%27Kelly%20Watch%20The%20Stars%27%20%26%20%27All%20I%20Need%27%3F",
+        "correct_answer": "Air",
+        "incorrect_answers": [
+          "Fire",
+          "Earth",
+          "Water"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20date%20is%20referenced%20in%20the%201971%20song%20%22September%22%20by%20Earth%2C%20Wind%20%26%20Fire%3F",
+        "correct_answer": "21st%20of%20September",
+        "incorrect_answers": [
+          "26th%20of%20September",
+          "23rd%20of%20September",
+          "24th%20of%20September"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20rap%20group%20released%20the%20album%20%22Straight%20Outta%20Compton%22%3F",
+        "correct_answer": "N.W.A",
+        "incorrect_answers": [
+          "Wu-Tang%20Clan",
+          "Run-D.M.C.",
+          "Beastie%20Boys"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "How%20many%20albums%20did%20King%20Gizzard%20%26%20the%20Lizard%20Wizard%20release%20in%202017%3F",
+        "correct_answer": "5",
+        "incorrect_answers": [
+          "3",
+          "6",
+          "2"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Music",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20real%20song%20from%20the%20band%20Thousand%20Foot%20Krutch%3F",
+        "correct_answer": "Limitless%20Fury",
+        "incorrect_answers": [
+          "Let%20The%20Sparks%20Fly",
+          "Down",
+          "Give%20Up%20The%20Ghost"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Music",
+        "question": "Prior%20to%20going%20solo%20in%201982%2C%20Lionel%20Richie%20was%20a%20member%20of%20which%20Motown%20group%3F",
+        "correct_answer": "The%20Commodores",
+        "incorrect_answers": [
+          "The%20Temptations",
+          "The%20Miracles",
+          "The%20Supremes"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Music",
+        "question": "What%20is%20the%20name%20of%20the%20album%20released%20in%202014%20by%20American%20band%20Maroon%205%3F",
+        "correct_answer": "V",
+        "incorrect_answers": [
+          "X",
+          "III",
+          "IV"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "category_id": 16,
+  "fetched_at": "2026-10-06T10:02:41.429656+00:00",
+  "request": {
+    "amount": 28,
+    "category": 16,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Wooden%20molding%20scraps%20were%20used%20to%20make%20the%20original%20Monopoly%20houses%20and%20hotels.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20these%20games%20includes%20the%20phrase%20%22Do%20not%20pass%20Go%2C%20do%20not%20collect%20%24200%22%3F",
+        "correct_answer": "Monopoly",
+        "incorrect_answers": [
+          "Pay%20Day",
+          "Cluedo",
+          "Coppit"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Magic%3A%20The%20Gathering%2C%20what%20was%20a%20tribute%20card%20to%20Jamie%20Wakefield%27s%20late%20wife%20Marilyn%2C%20who%20loved%20horses%3F",
+        "correct_answer": "Timbermare",
+        "incorrect_answers": [
+          "Loyal%20Pegasus",
+          "Vryn%20Wingmare",
+          "Sungrace%20Pegasus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20is%20the%20world%27s%20oldest%20board%20game%3F",
+        "correct_answer": "Senet",
+        "incorrect_answers": [
+          "Chess",
+          "Checkers",
+          "Go"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Europa%20Universalis%20is%20a%20strategy%20video%20game%20based%20on%20which%20French%20board%20game%3F",
+        "correct_answer": "Europa%20Universalis",
+        "incorrect_answers": [
+          "Europe%20and%20the%20Universe",
+          "Europa%21",
+          "Power%20in%20Europe"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20is%20the%20sum%20of%20all%20the%20tiles%20in%20a%20standard%20box%20of%20Scrabble%3F",
+        "correct_answer": "187",
+        "incorrect_answers": [
+          "207",
+          "197",
+          "177"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "How%20many%20dots%20are%20on%20a%20single%20die%3F",
+        "correct_answer": "21",
+        "incorrect_answers": [
+          "24",
+          "15",
+          "18"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20was%20the%20development%20code%20name%20for%20the%20%22Urza%27s%20Destiny%22%20expansion%20for%20%22Magic%3A%20The%20Gathering%22%2C%20released%20in%201999%3F",
+        "correct_answer": "Chimichanga",
+        "incorrect_answers": [
+          "Burrito",
+          "Taquito",
+          "Enchilada"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "How%20many%20rooms%20are%20there%2C%20not%20including%20the%20hallways%20and%20the%20set%20of%20stairs%2C%20in%20the%20board%20game%20%22Clue%22%3F",
+        "correct_answer": "9",
+        "incorrect_answers": [
+          "1",
+          "6",
+          "10"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Yu-Gi-Oh%2C%20how%20does%20a%20player%20perform%20an%20Xyz%20Summon%3F",
+        "correct_answer": "Overlay%20at%20least%202%20Monsters%20of%20the%20Same%20Level",
+        "incorrect_answers": [
+          "Activate%20a%20Spell%20and%20Send%20Monsters%20to%20the%20Graveyard",
+          "Add%20the%20Monsters%27%20Levels%20Together%20to%20Match%20the%20Xyz%20Monster",
+          "Banish%20A%20Number%20of%20Monsters%20From%20Your%20Hand%20And%20Deck"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20a%20standard%20game%20of%20Monopoly%2C%20what%20colour%20are%20the%20two%20cheapest%20properties%3F",
+        "correct_answer": "Brown",
+        "incorrect_answers": [
+          "Green",
+          "Yellow",
+          "Blue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20the%20following%20characters%20is%20not%20in%20the%20board%20game%20Clue%3F",
+        "correct_answer": "Mister%20Indigo",
+        "incorrect_answers": [
+          "Colonel%20Mustard",
+          "Reverend%20Green",
+          "Miss%20Scarlet"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20do%20you%20declare%20in%20R%C4%ABchi%20Mahjong%20when%20you%27ve%20drawn%20your%20winning%20tile%3F",
+        "correct_answer": "Tsumo",
+        "incorrect_answers": [
+          "Ron",
+          "R%C4%ABchi",
+          "Kan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "When%20Magic%3A%20The%20Gathering%20was%20first%20solicited%2C%20which%20of%20the%20following%20was%20it%20originally%20titled%3F",
+        "correct_answer": "Mana%20Clash",
+        "incorrect_answers": [
+          "Magic",
+          "Magic%20Clash",
+          "Mana%20Duels"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Magic%3A%20The%20Gathering%2C%20what%20term%20for%20blocking%20was%20established%20in%20the%20Portal%20set%3F",
+        "correct_answer": "Intercepting",
+        "incorrect_answers": [
+          "Blocking",
+          "Resisting",
+          "Shielding"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20ability%20from%20the%20%22Magic%3A%20The%20Gathering%22%20Scars%20of%20Mirrodin%20expansion%20involves%20having%20at%20least%20three%20artifacts%20in%20play%3F",
+        "correct_answer": "Metalcraft",
+        "incorrect_answers": [
+          "Affinity",
+          "Imprint",
+          "Living%20Weapon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20the%20following%20is%20NOT%20a%20class%20in%20Dungeons%20and%20Dragons%205e%3F",
+        "correct_answer": "Engineer%20",
+        "incorrect_answers": [
+          "Fighter%20",
+          "Paladin%20",
+          "Bard"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20is%20the%20maximum%20level%20you%20can%20have%20in%20a%20single%20class%20in%20Dungeons%20and%20Dragons%20%285e%29%3F",
+        "correct_answer": "20",
+        "incorrect_answers": [
+          "30",
+          "15",
+          "25"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "About%20how%20many%20Slinkys%20were%20sold%20in%20their%20first%2060%20years%20%28from%201945%20to%202005%29%3F",
+        "correct_answer": "300%20Million",
+        "incorrect_answers": [
+          "100%20Million",
+          "450%20Million",
+          "1%20Billion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20is%20the%20most%20challenging%20monster%20in%20the%20Dungeons%20%26%20Dragons%205th%20Edition%20Monster%20Manual%3F",
+        "correct_answer": "Tarrasque",
+        "incorrect_answers": [
+          "Beholder",
+          "Displacer%20Beast",
+          "Lich"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20the%20following%20is%20not%20a%20color%20of%20mana%20in%20Magic%3A%20The%20Gathering%3F",
+        "correct_answer": "Yellow",
+        "incorrect_answers": [
+          "White",
+          "Green",
+          "Blue"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "How%20many%20dice%20are%20used%20in%20the%20game%20of%20Yahtzee%3F",
+        "correct_answer": "Five",
+        "incorrect_answers": [
+          "Four",
+          "Six",
+          "Eight"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "%22Rich%20Uncle%20Pennybags%22%20from%20the%20board%20game%20%22Monopoly%22%20wears%20a%20monocle.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "In%20Chess%2C%20the%20Queen%20has%20the%20combined%20movement%20of%20which%20two%20pieces%3F",
+        "correct_answer": "Bishop%20and%20Rook",
+        "incorrect_answers": [
+          "Rook%20and%20King",
+          "Knight%20and%20Bishop",
+          "King%20and%20Knight"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20board%20game%20was%20first%20released%20on%20February%206th%2C%201935%3F",
+        "correct_answer": "Monopoly",
+        "incorrect_answers": [
+          "Risk",
+          "Clue",
+          "Candy%20Land"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "What%20happens%20when%20you%20roll%203%20doubles%20in%20a%20row%20in%20Monopoly%3F",
+        "correct_answer": "Go%20to%20jail",
+        "incorrect_answers": [
+          "Get%20paid%20%24200",
+          "Pay%20%24200",
+          "Move%20to%20Free%20Parking"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20card%20is%20on%20the%20cover%20of%20the%20Beta%20rulebook%20of%20%22Magic%3A%20The%20Gathering%22%3F",
+        "correct_answer": "Bog%20Wraith",
+        "incorrect_answers": [
+          "Island",
+          "Rock%20Hydra",
+          "Elvish%20Archers"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Entertainment%3A%20Board%20Games",
+        "question": "Which%20of%20the%20following%20tabletop%20games%20is%20the%20oldest%3F",
+        "correct_answer": "Go",
+        "incorrect_answers": [
+          "Chess",
+          "Mahjong",
+          "Shogi"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "category_id": 20,
+  "fetched_at": "2026-10-06T10:04:42.321359+00:00",
+  "request": {
+    "amount": 21,
+    "category": 20,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "The%20ancient%20Roman%20god%20of%20war%20was%20commonly%20known%20as%20which%20of%20the%20following%3F",
+        "correct_answer": "Mars",
+        "incorrect_answers": [
+          "Jupiter",
+          "Juno",
+          "Ares"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In%20Norse%20mythology%2C%20Thor%20once%20dressed%20as%20a%20woman.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Which%20of%20these%20Roman%20gods%20doesn%27t%20have%20a%20counterpart%20in%20Greek%20mythology%3F",
+        "correct_answer": "Janus",
+        "incorrect_answers": [
+          "Vulcan",
+          "Juno",
+          "Mars"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "What%20immense%20structure%20is%20referred%20to%20in%20Norse%20Mythology%20as%20the%20Yggdrasil.",
+        "correct_answer": "Tree",
+        "incorrect_answers": [
+          "Mountain",
+          "Temple",
+          "Castle"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "The%20greek%20god%20Poseidon%20was%20the%20god%20of%20what%3F",
+        "correct_answer": "The%20Sea",
+        "incorrect_answers": [
+          "War",
+          "Sun",
+          "Fire"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The%20Japanese%20god%20Izanagi%20successfully%20returned%20his%20wife%20Izanami%20from%20the%20Underworld.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In%20Greek%20Mythology%2C%20who%20killed%20Achilles%3F",
+        "correct_answer": "Paris",
+        "incorrect_answers": [
+          "Hector",
+          "Helen",
+          "Pericles"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In%20most%20traditions%2C%20who%20was%20the%20wife%20of%20Zeus%3F",
+        "correct_answer": "Hera",
+        "incorrect_answers": [
+          "Aphrodite",
+          "Athena",
+          "Hestia"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What%20is%20the%20name%20of%20the%20Greek%20god%20of%20blacksmiths%3F",
+        "correct_answer": "Hephaestus",
+        "incorrect_answers": [
+          "Dyntos",
+          "Vulcan",
+          "Artagatus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "The%20Hippogriff%2C%20not%20to%20be%20confused%20with%20the%20Griffon%2C%20is%20a%20magical%20creature%20with%20the%20front%20half%20of%20an%20eagle%2C%20and%20the%20back%20half%20of%20what%3F",
+        "correct_answer": "A%20Horse",
+        "incorrect_answers": [
+          "A%20Dragon",
+          "A%20Tiger",
+          "A%20Lion"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Which%20Greek%20%26%20Roman%20god%20was%20known%20as%20the%20god%20of%20music%2C%20truth%20and%20prophecy%2C%20healing%2C%20the%20sun%20and%20light%2C%20plague%2C%20poetry%2C%20and%20more%3F",
+        "correct_answer": "Apollo",
+        "incorrect_answers": [
+          "Aphrodite",
+          "Artemis",
+          "Athena"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "How%20many%20heads%20does%20Cerberus%20have%3F",
+        "correct_answer": "3",
+        "incorrect_answers": [
+          "2",
+          "1",
+          "5"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In%20Greek%20mythology%2C%20who%20is%20the%20god%20of%20wine%3F",
+        "correct_answer": "Dionysus",
+        "incorrect_answers": [
+          "Hephaestus",
+          "Demeter",
+          "Apollo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Janus%20was%20the%20Roman%20god%20of%20doorways%20and%20passageways.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Who%20is%20the%20God%20Loki%27s%20son%3F%20",
+        "correct_answer": "Fenrir%20",
+        "incorrect_answers": [
+          "Odin",
+          "Hel",
+          "Sigyn"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What%20is%20the%20name%20of%20the%20first%20human%20being%20in%20Norse%20mythology%3F",
+        "correct_answer": "Ask",
+        "incorrect_answers": [
+          "Asmund",
+          "Ake",
+          "Asger"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "A%20wyvern%20is%20the%20same%20as%20a%20dragon.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "Which%20of%20these%20mythological%20creatures%20is%20said%20to%20be%20half-man%20and%20half-horse%3F",
+        "correct_answer": "Centaur",
+        "incorrect_answers": [
+          "Minotaur",
+          "Pegasus",
+          "Gorgon"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Talos%2C%20the%20mythical%20giant%20bronze%20man%2C%20was%20the%20protector%20of%20which%20island%3F",
+        "correct_answer": "Crete",
+        "incorrect_answers": [
+          "Sardinia",
+          "Sicily",
+          "Cyprus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "This%20Greek%20mythological%20figure%20is%20the%20god%2Fgoddess%20of%20battle%20strategy%20%28among%20other%20things%29.",
+        "correct_answer": "Athena",
+        "incorrect_answers": [
+          "Ares",
+          "Artemis",
+          "Apollo"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In%20the%20Greek%20Mythology%2C%20the%20god%20of%20war%20is%20called%20Mars.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      }
+    ]
+  }
+}

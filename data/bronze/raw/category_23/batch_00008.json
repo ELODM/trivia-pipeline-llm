@@ -1,0 +1,596 @@
+{
+  "category_id": 23,
+  "fetched_at": "2026-10-06T10:06:57.773437+00:00",
+  "request": {
+    "amount": 50,
+    "category": 23,
+    "encode": "url3986"
+  },
+  "response": {
+    "response_code": 0,
+    "results": [
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20M41%20Walker%20Bulldog%20remains%20in%20service%20in%20some%20countries%20to%20this%20day.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20year%20did%20the%20Titanic%20sink%3F",
+        "correct_answer": "1912",
+        "incorrect_answers": [
+          "1930",
+          "1917",
+          "1941"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20did%20Lithuania%20declare%20independence%20from%20the%20Soviet%20Union%3F",
+        "correct_answer": "March%2011th%2C%201990",
+        "incorrect_answers": [
+          "December%2025th%2C%201991",
+          "December%205th%2C%201991",
+          "April%2020th%2C%201989"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20only%20US%20President%20to%20be%20elected%20four%20times%3F",
+        "correct_answer": "Franklin%20Roosevelt",
+        "incorrect_answers": [
+          "Theodore%20Roosevelt",
+          "George%20Washington",
+          "Abraham%20Lincoln"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "During%20the%20Mongolian%20invasions%20of%20Japan%2C%20what%20were%20the%20Mongol%20boats%20mostly%20stopped%20by%3F",
+        "correct_answer": "Typhoons",
+        "incorrect_answers": [
+          "Tornados",
+          "Economic%20depression",
+          "Samurai"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20Enlightenment%20was%20an%20era%20of%20philosophies%2C%20advancements%2C%20and%20scientific%20theories%20to%20improve%20society.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20did%20Skoal%2C%20a%20smokeless%20Tobacco%20company%2C%20release%20their%20first%20line%20of%20Pouches%2C%20known%20as%20%22Skoal%20Bandits%22%3F",
+        "correct_answer": "1983",
+        "incorrect_answers": [
+          "1934",
+          "1984",
+          "1822"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "On%20which%20day%20did%20construction%20start%20on%20%22The%20Pentagon%22%2C%20the%20headquarters%20for%20the%20United%20States%20Department%20of%20Defense%3F",
+        "correct_answer": "September%2011%2C%201941",
+        "incorrect_answers": [
+          "June%2015%2C%201947",
+          "January%2015%2C%201943",
+          "September%202%2C%201962"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20these%20founding%20fathers%20of%20the%20United%20States%20of%20America%20later%20became%20president%3F",
+        "correct_answer": "James%20Monroe",
+        "incorrect_answers": [
+          "Alexander%20Hamilton",
+          "Samuel%20Adams",
+          "Roger%20Sherman"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20main%20developer%20of%20the%20Suez%20Canal%3F",
+        "correct_answer": "Ferdinand%20de%20Lesseps",
+        "incorrect_answers": [
+          "Louis-Eug%C3%A8ne%20Cavaignac",
+          "John%20Milton",
+          "Johann%20Lukas%20von%20Hildebrandt"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "If%20you%20grab%20the%20bladed%20end%20of%20a%20longsword%20in%20a%20specific%20way%2C%20you%20will%20not%20cut%20yourself.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20crown%20of%20the%20Empire%20State%20Building%20was%20originally%20built%20for%20what%20purpose%3F",
+        "correct_answer": "Airship%20Dock",
+        "incorrect_answers": [
+          "Lightning%20Rod",
+          "Antennae",
+          "Flag%20Pole"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "A%20collection%20of%20Sanskrit%20hymns%20and%20verses%20known%20as%20the%20Vedas%20are%20sacred%20texts%20in%20what%20religion%3F",
+        "correct_answer": "Hinduism",
+        "incorrect_answers": [
+          "Judaism",
+          "Islam",
+          "Buddhism"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20nuclear%20power%20plant%20in%20Chernobyl%20melt%20down%3F",
+        "correct_answer": "1986",
+        "incorrect_answers": [
+          "1991",
+          "1975",
+          "1998"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20U.S.%20President%20was%20in%20office%20when%20the%20Gulf%20War%20began%3F",
+        "correct_answer": "George%20H.%20W.%20Bush",
+        "incorrect_answers": [
+          "Richard%20Nixon",
+          "George%20W.%20Bush%20",
+          "Ronald%20Regan"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20was%20the%20name%20of%20the%20chemical%20that%20was%20dropped%20on%20Vietnam%20during%20the%20Vietnam%20war%3F",
+        "correct_answer": "Agent%20Orange",
+        "incorrect_answers": [
+          "Phosgene",
+          "Mustard%20Gas",
+          "Hydrogen%20Cyanide"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "The%20Korean%20War%20ended%20in%201953%20without%20any%20ceasefire.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Abraham%20Lincoln%20was%20the%20first%20U.S.%20President%20to%20be%20born%20outside%20the%20borders%20of%20the%20thirteen%20original%20states.%20",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20was%20found%20in%201946%20by%20two%20young%20shepards%20near%20a%20cave%3F",
+        "correct_answer": "Dead%20Sea%20Scrolls",
+        "incorrect_answers": [
+          "The%20Blackbeard%20Chest",
+          "Sheep",
+          "The%20First%20Oaxaca%20Cave%20Sleeper"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During%20the%20Wars%20of%20the%20Roses%20%281455%20-%201487%29%20which%20Englishman%20was%20dubbed%20%22the%20Kingmaker%22%3F",
+        "correct_answer": "Richard%20Neville",
+        "incorrect_answers": [
+          "Richard%20III",
+          "Henry%20V",
+          "Thomas%20Warwick"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20United%20States%20of%20America%20declared%20their%20independence%20from%20the%20British%20Empire%20on%20July%204th%2C%201776.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20year%20did%20the%20Boxing%20Day%20earthquake%20%26%20tsunami%20occur%20in%20the%20Indian%20Ocean%3F",
+        "correct_answer": "2004",
+        "incorrect_answers": [
+          "2006",
+          "2008",
+          "2002"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Spain%20was%20formed%20in%201469%20with%20the%20marriage%20of%20Isabella%20I%20of%20Castile%20and%20Ferdinand%20II%20of%20what%20other%20Iberian%20kingdom%3F",
+        "correct_answer": "Aragon",
+        "incorrect_answers": [
+          "Galicia",
+          "Le%C3%B3n",
+          "Navarre"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20which%20year%20was%20Constantinople%20conquered%20by%20the%20Turks%3F",
+        "correct_answer": "1453",
+        "incorrect_answers": [
+          "1435",
+          "1454",
+          "1440"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "What%20year%20did%20World%20War%20I%20begin%3F",
+        "correct_answer": "1914",
+        "incorrect_answers": [
+          "1905",
+          "1919",
+          "1925"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20country%20was%20an%20allied%20power%20in%20World%20War%20II%3F",
+        "correct_answer": "Soviet%20Union",
+        "incorrect_answers": [
+          "Italy",
+          "Germany",
+          "Japan"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Sir%20Issac%20Newton%20served%20as%20a%20Member%20of%20Parliament%2C%20but%20the%20only%20recorded%20time%20he%20spoke%20was%20to%20complain%20about%20a%20draft%20in%20the%20chambers.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "When%20did%20the%20French%20Revolution%20begin%3F",
+        "correct_answer": "1789",
+        "incorrect_answers": [
+          "1823",
+          "1756",
+          "1799"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20did%20Vesuvius%20destroy%20the%20city%20of%20Pompeii%3F%20",
+        "correct_answer": "79%20AD",
+        "incorrect_answers": [
+          "62%20AD",
+          "31%20BC",
+          "54%20BC"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "What%20did%20the%20first%20vending%20machines%20in%20the%20early%201880%27s%20dispense%3F",
+        "correct_answer": "Post%20cards",
+        "incorrect_answers": [
+          "Alcohol",
+          "Cigarettes",
+          "Sodas%20"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20is%20believed%20to%20have%20been%20the%20first%20European%20to%20%27discover%27%20the%20land%20of%20New%20Zealand%3F",
+        "correct_answer": "Abel%20Tasman",
+        "incorrect_answers": [
+          "Christopher%20Columbus",
+          "Jeanne%20Bar%C3%A9",
+          "John%20Cabot%20"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "During%20the%20Winter%20War%2C%20the%20amount%20of%20Soviet%20Union%20soliders%20that%20died%20or%20went%20missing%20was%20five%20times%20more%20than%20Finland%27s.",
+        "correct_answer": "True",
+        "incorrect_answers": [
+          "False"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "In%20what%20year%20did%20the%20Berlin%20Wall%20fall%3F",
+        "correct_answer": "1989",
+        "incorrect_answers": [
+          "1987",
+          "1991",
+          "1993"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "How%20old%20was%20Adolf%20Hitler%20when%20he%20died%3F",
+        "correct_answer": "56",
+        "incorrect_answers": [
+          "43",
+          "65",
+          "47"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "After%20his%20loss%20at%20the%20Battle%20of%20Waterloo%2C%20Napoleon%20Bonaparte%20was%20exiled%20to%20which%20island%3F",
+        "correct_answer": "St.%20Helena",
+        "incorrect_answers": [
+          "Elba",
+          "Corsica",
+          "Canary"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "How%20many%20years%20did%20the%20Hundred%20Years%27%20War%20last%3F",
+        "correct_answer": "116",
+        "incorrect_answers": [
+          "100",
+          "90",
+          "101"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Which%20country%20were%20potatoes%20originally%20grown%3F",
+        "correct_answer": "Peru",
+        "incorrect_answers": [
+          "United%20States%20",
+          "Ireland",
+          "New%20Zealand"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "One%20of%20the%20deadliest%20pandemics%2C%20the%20%22Spanish%20Flu%22%2C%20killed%20off%20what%20percentage%20of%20the%20human%20world%20population%20at%20the%20time%3F",
+        "correct_answer": "3%20to%206%20percent",
+        "incorrect_answers": [
+          "6%20to%2010%20percent",
+          "1%20to%203%20percent",
+          "less%20than%201%20percent"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20nationality%20was%20sultan%20Saladin%3F",
+        "correct_answer": "Kurdish",
+        "incorrect_answers": [
+          "Arab",
+          "Egyptian",
+          "Syrian"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "The%20pantheon%20in%20Rome%20was%20used%20to%20worship%20what%20god%3F",
+        "correct_answer": "Any%20god%20they%20wanted",
+        "incorrect_answers": [
+          "Athena",
+          "Zeus",
+          "Both%20Athena%20and%20Zeus"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20man%20to%20travel%20into%20outer%20space%3F",
+        "correct_answer": "Yuri%20Gagarin",
+        "incorrect_answers": [
+          "Virgil%20Ivan%20%22Gus%22%20Grissom",
+          "Neil%20Armstrong",
+          "Buzz%20Aldrin"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "History",
+        "question": "Before%20the%20American%20colonies%20switched%20to%20the%20Gregorian%20calendar%20in%201752%2C%20on%20what%20date%20did%20their%20new%20year%20start%3F",
+        "correct_answer": "March%2025th",
+        "incorrect_answers": [
+          "June%201st",
+          "September%2025th",
+          "December%201st"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "In%201720%2C%20England%20was%20in%20massive%20debt%20and%20became%20involved%20in%20the%20South%20Sea%20Bubble.%20Who%20was%20the%20main%20mastermind%20behind%20it%3F",
+        "correct_answer": "John%20Blunt",
+        "incorrect_answers": [
+          "Daniel%20Defoe",
+          "Robert%20Harley",
+          "John%20Churchill"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "Who%20was%20the%20first%20prime%20minister%20of%20Canada%3F",
+        "correct_answer": "John%20Macdonald",
+        "incorrect_answers": [
+          "John%20Abbott",
+          "Alexander%20Mackenzie",
+          "Robert%20Borden"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Who%20was%20the%20last%20Roman%20emperor%20in%20the%20Year%20of%20Four%20Emperors%20%2869%20AD%29%3F",
+        "correct_answer": "Vespasian",
+        "incorrect_answers": [
+          "Vitellius",
+          "Otho",
+          "Galba"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "When%20Christopher%20Columbus%20sailed%20to%20America%2C%20what%20was%20the%20first%20region%20he%20arrived%20in%3F",
+        "correct_answer": "The%20Bahamas%20Archipelago",
+        "incorrect_answers": [
+          "Florida",
+          "Isthmus%20of%20Panama",
+          "Nicaragua"
+        ]
+      },
+      {
+        "type": "boolean",
+        "difficulty": "easy",
+        "category": "History",
+        "question": "The%20Cold%20War%20ended%20with%20Joseph%20Stalin%27s%20death.",
+        "correct_answer": "False",
+        "incorrect_answers": [
+          "True"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20king%20was%20killed%20at%20the%20Battle%20of%20Bosworth%20Field%20in%201485%3F%20",
+        "correct_answer": "Richard%20III",
+        "incorrect_answers": [
+          "Edward%20V",
+          "Henry%20VII",
+          "James%20I"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "Which%20of%20the%20following%20snipers%20has%20the%20highest%20amount%20of%20confirmed%20kills%3F",
+        "correct_answer": "Simo%20H%C3%A4yh%C3%A4",
+        "incorrect_answers": [
+          "Chris%20Kyle",
+          "Vasily%20Zaytsev",
+          "Craig%20Harrison"
+        ]
+      },
+      {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "History",
+        "question": "What%20disease%20crippled%20President%20Franklin%20D.%20Roosevelt%20and%20led%20him%20to%20help%20the%20nation%20find%20a%20cure%3F%20",
+        "correct_answer": "Polio",
+        "incorrect_answers": [
+          "Cancer",
+          "Meningitis",
+          "HIV"
+        ]
+      }
+    ]
+  }
+}
