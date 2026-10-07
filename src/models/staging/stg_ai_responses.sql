@@ -3,6 +3,7 @@ SELECT
     question_id,
     model,
     prompt_version,
+    choices,
     raw_response,
     ai_answer,
     ai_correct,
