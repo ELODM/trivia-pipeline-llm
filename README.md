@@ -153,7 +153,7 @@ Les données sont versionnées : le dashboard peut être lancé directement, san
 ## Binôme
 
 | Membre | 
-|---|---|
+
 | Salma EL-ODMI | 
 | Yara Elmawla | 
 
