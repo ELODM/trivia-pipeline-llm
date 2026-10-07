@@ -1,0 +1,17 @@
+{
+  "cleaned_at": "2026-10-06T13:47:49.427487+00:00",
+  "bronze_rows": 5298,
+  "clean_rows": 5298,
+  "rejected_rows": 0,
+  "rejection_reasons": {},
+  "by_type": {
+    "multiple": 4509,
+    "boolean": 789
+  },
+  "by_difficulty": {
+    "medium": 2424,
+    "easy": 1769,
+    "hard": 1105
+  },
+  "categories": 24
+}
