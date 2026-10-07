@@ -1,0 +1,17 @@
+name: 'projet_trivia'
+version: '1.0.0'
+profile: 'trivia_tp'
+
+model-paths: ['src/models']
+
+models:
+  projet_trivia:
+    staging:
+      +materialized: view
+
+    intermediate:
+      +materialized: table
+
+    marts:
+      +materialized: table
+      +schema: gold

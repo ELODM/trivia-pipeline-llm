@@ -1,0 +1,7 @@
+trivia_tp:
+  target: dev
+
+  outputs:
+    dev:
+      type: duckdb
+      path: warehouse/trivia.duckdb
